@@ -1,4 +1,4 @@
-# `jekyll-theme-minimal` gem
+# `jekyll-theme-minimal`
 
 Minimal is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
