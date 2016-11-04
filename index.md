@@ -10,10 +10,8 @@ There should be whitespace between paragraphs. There should be whitespace betwee
 
 There should be whitespace between paragraphs.
 
-Here comes a quote by Thomas Fuchs.
+> When something is important enough, you do it even if the odds are not in your favor.
 
-> Two CSS properties walk into a bar.  
-> A barstool in a completely different bar falls over.
 
 # [](#header-1)Header 1
 
@@ -97,11 +95,11 @@ end
 
 ### Small image
 
-![](https://unsplash.it/300/200)
+![](https://pages-themes.github.io/preview-images/smallish.jpg)
 
 ### Large image
 
-![](https://unsplash.it/1200/800)
+![](https://pages-themes.github.io/preview-images/biggish.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
