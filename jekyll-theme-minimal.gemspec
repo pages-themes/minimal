@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-minimal"
   s.version       = "0.0.1"
   s.authors       = ["Please come forward"]
-  s.email         = ["support@github.com"]
+  s.email         = ["opensource+jekyll-theme-minimal@github.com"]
   s.homepage      = "https://github.com/pages-themes/minimal"
   s.summary       = "Minimal is a theme for GitHub Pages"
 
