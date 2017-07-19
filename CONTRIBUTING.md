@@ -16,8 +16,8 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
+- If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
 - Follow the [style guide][style].
-- Write tests.
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
 - Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
@@ -27,7 +27,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
 - [GitHub Help](https://help.github.com)
 
-[fork]: https://github.com/pages-themes/minimal/fork
-[pr]: https://github.com/pages-themes/minimal/compare
+[fork]: https://github.com/github/REPO/fork
+[pr]: https://github.com/github/REPO/compare
 [style]: http://ben.balter.com/jekyll-style-guide/
 [code-of-conduct]: CODE_OF_CONDUCT.md
