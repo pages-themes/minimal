@@ -112,7 +112,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
+header #download {
   list-style:none;
   height:40px;
   padding:0;
@@ -122,22 +122,22 @@ header ul {
   width:270px;
 }
 
-header li {
+header #download li {
   width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
 
-header li:first-child a {
+header #download li:first-child a {
   border-radius:5px 0 0 5px;
 }
 
-header li:last-child a {
+header #download li:last-child a {
   border-radius:0 5px 5px 0;
 }
 
-header ul a {
+header #download a {
   line-height:1;
   font-size:11px;
   color:#676767;
@@ -147,12 +147,12 @@ header ul a {
   height:34px;
 }
 
-header ul a:hover, header ul a:focus {
+header #download a:hover, header ul a:focus {
   color:#675C5C;
   font-weight:bold;
 }
 
-header ul a:active {
+header #download a:active {
   background-color:#f0f0f0;
 }
 
@@ -161,12 +161,12 @@ strong {
   font-weight:700;
 }
 
-header ul li + li + li {
+header #download ul li + li + li {
   border-right:none;
   width:89px;
 }
 
-header ul a strong {
+header #download a strong {
   font-size:14px;
   display:block;
   color:#222;
