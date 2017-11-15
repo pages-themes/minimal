@@ -255,11 +255,11 @@ footer {
     padding:15px;
   }
 
-  header ul {
+  header #download {
     width:99%;
   }
 
-  header li, header ul li + li + li {
+  header #download li, header #download ul li + li + li {
     width:33%;
   }
 }
