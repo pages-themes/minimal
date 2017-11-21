@@ -7,12 +7,9 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% if page.favicon %}
-      <link rel="shortcut icon" href="{{ site.baseurl }}{{ page.favicon }}">
-        {% else %}
-          {% if site.favicon %}
-            <link rel="shortcut icon" href="{{ site.baseurl }}{{ site.favicon }}">
-          {% endif %}
+    {% assign favicon = page.favicon | default: site.favicon %}
+    {% if favicon %}
+      <link rel="shortcut icon" href="{{ page.favicon }}">
     {% endif %}
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
