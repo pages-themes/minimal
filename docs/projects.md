@@ -38,18 +38,18 @@ permalink: /projects
           <li>Immune system diseases</li>
           <li>Infectious diseases</li>
           <li>Inflammatory bowel disease</li>
-        </ul>
-        <br />
+</ul>
+<br />
         
 <h3 id="Acute kidney injury"><a href="projects/acutekidneyinjury">Acute kidney injury</a></h3>
-          <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
-          <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
-        <br />
+<i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
+<i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
+<br />
         
 <h3 id="Adult neurogenesis"><a href="projects/neurogenesis">Adult neurogenesis</a></h3>
-          <i>Resource:</i> The Cognitive Resilience Map<br />
-          <i>Contact:</i> Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
-        <br />
+<i>Resource:</i> The Cognitive Resilience Map<br />
+<i>Contact:</i> Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
+<br />
         
 <h3 id="Anaphylaxis"><a href="projects/anaphylaxis">Anaphylaxis</a></h3>
           <i>Resource:</i> Anaphylaxis Map<br />
