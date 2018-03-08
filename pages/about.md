@@ -15,6 +15,10 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 <td style="width: 100px;"><img src="../images/team/CharlesAuffray.jpg" alt="Charles Auffray" /></td>
 <td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, Lyon, France</strong><br \>Research Director at CNRS, Founding Director of the EISBM</td>
 </tr>
+<!--<tr>
+<td style="width: 100px;"><img src="../images/team/RudiBalling.jpg" alt="Rudi Balling" /></td>
+<td><strong>Rudi Balling, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />Director of the Luxembourg Centre for Systems Biomedicine</td>
+</tr>-->
 <tr>
 <td style="width: 100px;"><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br \><strong>University of Luxembourg, Luxembourg
