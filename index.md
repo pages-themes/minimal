@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="http://www.disease-maps.org/favicon.ico?v=2"/>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
