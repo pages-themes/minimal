@@ -86,10 +86,8 @@ permalink: /projects
 <h3 id="Parkison's disease"><a href="projects/parkinsons">Parkinson's disease</a></h3>
 <i>Resource:</i> Parkinson's Disease Map<br />
 <i>Contact:</i> Stephan Gebel, University of Luxembourg, Belval, Luxembourg<br />
-<br />
         
 <h3 id="Rheumatoid arthritis"><a href="projects/rheumatoidarthritis">Rheumatoid arthritis</a></h3>
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
-<br />
           
