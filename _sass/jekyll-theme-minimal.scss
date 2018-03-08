@@ -107,13 +107,7 @@ img {
   max-width:100%;
 }
 
-
-
-
-
 header {
-  margin: 20px 0 0 ;
-  padding: 10px 0;
   width:270px;
   float:left;
   position:fixed;
@@ -122,9 +116,9 @@ header {
 
 header ul {
   list-style:none;
-  margin: 0 2px;
+  height:40px;
   padding:0;
-  background:#f4f4f4;
+  background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
@@ -135,7 +129,6 @@ header li {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
-  padding: 5px 5px;
 }
 
 header li:first-child a {
@@ -152,7 +145,7 @@ header ul a {
   color:#676767;
   display:block;
   text-align:center;
-  padding: 10px 5px;
+  padding-top:6px;
   height:34px;
 }
 
