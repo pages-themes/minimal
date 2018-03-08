@@ -39,7 +39,6 @@ permalink: /projects
           <li>Infectious diseases</li>
           <li>Inflammatory bowel disease</li>
 </ul>
-<br />
         
 <h3 id="Acute kidney injury"><a href="projects/acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
@@ -52,57 +51,57 @@ permalink: /projects
 <br />
         
 <h3 id="Anaphylaxis"><a href="projects/anaphylaxis">Anaphylaxis</a></h3>
-          <i>Resource:</i> Anaphylaxis Map<br />
-          <i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
-        <br />
+<i>Resource:</i> Anaphylaxis Map<br />
+<i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
+<br />
         
 <h3 id="Asthma"><a href="projects/asthma">Asthma</a></h3>
-          <i>Resource:</i> AsthmaMap<br />
-          <i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
-        <br />
+<i>Resource:</i> AsthmaMap<br />
+<i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
+<br />
         
 <h3 id="Atherosclerosis"><a href="projects/atherosclerosis">Atherosclerosis</a></h3>
-          <i>Resource:</i> Atherosclerosis Map<br />
-          <i>Contact:</i> Steven Watterson, University of Ulster, Coleraine, UK<br />
-        <br />
+<i>Resource:</i> Atherosclerosis Map<br />
+<i>Contact:</i> Steven Watterson, University of Ulster, Coleraine, UK<br />
+<br />
         
 <h3 id="Cancer"><a href="projects/cancer">Cancer</a></h3>
-          <i>Resource:</i> Atlas of Cancer Signalling Network<br />
-          <i>Contact:</i> Inna Kuperstein, Institut Curie, Paris, France<br />
-        <br />
+<i>Resource:</i> Atlas of Cancer Signalling Network<br />
+<i>Contact:</i> Inna Kuperstein, Institut Curie, Paris, France<br />
+<br />
         
 <h3 id="Coronary artery disease"><a href="projects/coronaryarterydisease">Coronary artery disease</a></h3>
-          <i>Resource:</i> Coronary Artery Disease Map<br />
-          <i>Contact:</i> Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany<br />
-        <br />
+<i>Resource:</i> Coronary Artery Disease Map<br />
+<i>Contact:</i> Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany<br />
+<br />
         
 <h3 id="Cystic fibrosis"><a href="projects/cysticfibrosis">Cystic fibrosis</a></h3>
-          <i>Resource:</i> CF-MAP<br />
-          <i>Contact:</i> André Falcão, University of Lisbon, Lisbon, Portugal<br />
-        <br />
+<i>Resource:</i> CF-MAP<br />
+<i>Contact:</i> André Falcão, University of Lisbon, Lisbon, Portugal<br />
+<br />
         
 <h3 id="Duchenne muscular dystrophy"><a href="projects/duchenne">Duchenne muscular dystrophy</a></h3>
-          <i>Resource:</i> DMD-map<br />
-          <i>Contact:</i> Cecilia Jimenez-Mallebrera, PhD Hospital Sant Joan de Déu, Barcelona, Spain<br />
-        <br />
+<i>Resource:</i> DMD-map<br />
+<i>Contact:</i> Cecilia Jimenez-Mallebrera, PhD Hospital Sant Joan de Déu, Barcelona, Spain<br />
+<br />
         
 <h3 id="Lung cancer"><a href="projects/lungcancer">Lung cancer</a></h3>
-          <i>Resource:</i> Lung Cancer Disease Map<br />
-          <i>Contact:</i> Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
-        <br />
+<i>Resource:</i> Lung Cancer Disease Map<br />
+<i>Contact:</i> Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
+<br />
         
 <h3 id="Multiple sclerosis"><a href="projects/multiplesclerosis">Multiple sclerosis</a></h3>
-          <i>Resource:</i> Multiple Sclerosis Pathways Map<br />
-          <i>Contact:</i> Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany<br />
-        <br />
+<i>Resource:</i> Multiple Sclerosis Pathways Map<br />
+<i>Contact:</i> Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany<br />
+<br />
         
 <h3 id="Parkison's disease"><a href="projects/parkinsons">Parkinson's disease</a></h3>
-          <i>Resource:</i> Parkinson's Disease Map<br />
-          <i>Contact:</i> Stephan Gebel, University of Luxembourg, Belval, Luxembourg<br />
-        <br />
+<i>Resource:</i> Parkinson's Disease Map<br />
+<i>Contact:</i> Stephan Gebel, University of Luxembourg, Belval, Luxembourg<br />
+<br />
         
 <h3 id="Rheumatoid arthritis"><a href="projects/rheumatoidarthritis">Rheumatoid arthritis</a></h3>
-          <i>Resource:</i> Rheumatoid Arthritis Map<br />
-          <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
-        <br />
+<i>Resource:</i> Rheumatoid Arthritis Map<br />
+<i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
+<br />
           
