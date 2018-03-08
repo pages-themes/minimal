@@ -1,16 +1,42 @@
-@import "fonts";
-@import "rouge-github";
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot');
+  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),
+       local('Noto Sans'),
+       local('Noto-Sans-regular'),
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2'),
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf') format('truetype'),
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot');
+  src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),
+       local('Noto Sans Bold'),
+       local('Noto-Sans-700'),
+       url('../fonts/Noto-Sans-700/Noto-Sans-700.woff2') format('woff2'),
+       url('../fonts/Noto-Sans-700/Noto-Sans-700.woff') format('woff'),
+       url('../fonts/Noto-Sans-700/Noto-Sans-700.ttf') format('truetype'),
+       url('../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans') format('svg');
+}
+
 
 body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#424242;
+  color:#525252;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#494949;
   margin:0 0 20px;
 }
 
@@ -27,7 +53,7 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#494949;
 }
 
 h3, h4, h5, h6 {
@@ -35,11 +61,11 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#42639b;
+  color:#5e749f;
   text-decoration:none;
 }
 
-a:hover, a:focus {
+a:hover {
   color:#9CB1C7;
 }
 
@@ -53,10 +79,6 @@ a small {
 a:hover small {
   color:#777;
 }
-
-
-
-
 
 .wrapper {
   width:960px;
@@ -73,6 +95,7 @@ blockquote {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
+  font-size:12px;
 }
 
 pre {
@@ -125,7 +148,6 @@ header ul {
 }
 
 header li {
-  margin-top:10px;
   width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
@@ -146,6 +168,7 @@ header ul a {
   color:#999;
   display:block;
   text-align:center;
+  padding-top:6px;
   height:34px;
 }
 
@@ -166,22 +189,6 @@ header ul li + li + li {
   border-right:none;
   width:89px;
 }
-
-header ul a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
-
-strong {
-  color:#222;
-  font-weight:700;
-}
-
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}√
 
 header ul a strong {
   font-size:14px;
