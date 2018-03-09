@@ -130,7 +130,7 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5182.109627058577!2d5.943556023639901!3d49.50235888057512!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd5ce92bbd6c6f20a!2sUniversity+of+Luxembourg!5e0!3m2!1sen!2sfr!4v1493463320703" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br />
-<p>More information is available <a href="http://wwwen.uni.lu/kontakt/campus_belval" target="_blank">here</a>.
+<p>More information is available <a href="http://wwwen.uni.lu/kontakt/campus_belval" target="_blank">here</a>.</p>
 
 ## Travel
 
