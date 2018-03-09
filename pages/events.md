@@ -6,7 +6,6 @@ permalink: /events
 
 # Events
 
-<br>
 <table>
 <tr>
 <td style="width: 105px;" valign="top"><a href="/events/3rdCommunityMeeting"><img src="../images/places/Paris.png" alt="Paris"/></a></td>
