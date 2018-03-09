@@ -4,7 +4,7 @@ layout: default
 permalink: /DMCM2017_2nd
 ---
 
-<h1>2nd Disease Maps Community Meeting</h1>
+# 2nd Disease Maps Community Meeting
 
 <p>Dates: 2-3 October 2017
 <br />Location: Belval, Luxembourg</p>
@@ -18,13 +18,13 @@ permalink: /DMCM2017_2nd
 
 <p>The second day starts with a session on mathematical modelling with invited field experts. In the afternoon we have a mini-symposium <a href="https://bigdata.uni.lu/mini-symposium/" target="_blank">"Disease maps – a key element of health data integration and visualization"</a> which is a part of the <a href="https://bigdata.uni.lu/" target="_blank">BIGDATA conference</a>.</p>
 
-<h2>Attendees</h2>
+## Attendees
 
 <p>The list of the attendees is available <a href="/DMCM2017_2nd_attendees">here</a>.</p>
 
-<h2>Agenda</h2>
+## Agenda
 
-<h3>2 October 2017</h3>
+### 2 October 2017
 
 <p><strong>08:30 - 12:00  Session 1. A review of the current activities, introducing partners and new projects</strong></p>
 
@@ -82,7 +82,7 @@ Joaquin Dopazo, Clinical Bioinformatics Area, Fundacion Progreso y Salud, Sevill
 </td></tr>
 </table>
 
-<h3>3 October 2017</h3>
+### 3 October 2017
 
 <p><strong>08:30 - 12:00  Session 3. Mathematical modelling</strong></p>
 
@@ -111,15 +111,15 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <p><strong>12:00 - 13:00  Lunch</strong></p>
 <p><strong>13:00 - 17:00  Mini-symposium <a href="https://bigdata.uni.lu/mini-symposium/" target="_blank">"Disease maps – a key element of health data integration and visualization"</a> within the <a href="https://bigdata.uni.lu/" target="_blank">BIGDATA conference</a>.</strong></p>
 
-<h2>Abstract submission</h2>
+## Abstract submission
 
 <p>Abstract submission is now closed.</p>
 
-<h2>Registration</h2>
+## Registration
 
 <p>Registration is now closed.</p>
 
-<h2>Location</h2>
+## Location
 
 <p>Address:
 <br />Maison du Savoir
@@ -133,11 +133,11 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <p>More information is available <a href="http://wwwen.uni.lu/kontakt/campus_belval" target="_blank">here</a>.
 <br />
 
-<h2>Travel</h2>
+## Travel
 
 <p>From Luxembourg Airport you can take a bus to Luxembourg Central Station and then a train to Belval-Universite which takes about one hour in total. See also <a href="http://disease-maps.org/events/Travel.pdf" target="_blank">here</a>.</p>
 
-<h2>Accommodation</h2>
+## Accommodation
 
 <p>Recommended hotels:</p>
 
@@ -153,7 +153,7 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <br />107 Rue de l'Alzette, L-4011 Esch-sur-Alzette, Luxembourg
 <br />Distance to the conference venue: 17 min by bus.</p>
 
-<h2>Organisers</h2>
+## Organisers
 
 <p><a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>:
 <br /><a href="mailto:stephan.gebel@uni.lu">Stephan Gebel</a>
@@ -163,17 +163,18 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
 </p>
 
-<p>Disease Maps Project coordinators:
+## Disease Maps Project Coordinators
+
 <br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
-<br /><a href="mailto:inna.kuperstein@curie.fr ">Inna Kuperstein</a>
-<br /><a href="mailto:andrei.zinovyev@curie.fr ">Andrei Zinoviev</a>
+<br /><a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>
+<br /><a href="mailto:andrei.zinovyev@curie.fr">Andrei Zinoviev</a>
 <br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
 <br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
 <br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
 </p>
 
-<h2>Funding acknowledgements</h2>
+## Funding acknowledgements
 
 <p><a href="http://www.oeuvre.lu/" target="_blank">L’Œuvre Nationale de Secours Grande-Duchesse Charlotte</a></p>
 
