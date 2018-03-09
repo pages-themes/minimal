@@ -135,7 +135,7 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 
 ## Travel
 
-<p>From Luxembourg Airport you can take a bus to Luxembourg Central Station and then a train to Belval-Universite which takes about one hour in total. See also <a href="http://disease-maps.org/events/Travel.pdf" target="_blank">here</a>.</p>
+From Luxembourg Airport you can take a bus to Luxembourg Central Station and then a train to Belval-Universite which takes about one hour in total. See also <a href="http://disease-maps.org/events/Travel.pdf" target="_blank">here</a>.
 
 ## Accommodation
 
@@ -155,13 +155,12 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 
 ## Organisers
 
-<p><a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>:
+<a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>:
 <br /><a href="mailto:stephan.gebel@uni.lu">Stephan Gebel</a>
 <br /><a href="mailto:marie-laure.magnani@uni.lu">Marie-Laure Magnani</a>
 <br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
 <br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
 <br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
-</p>
 
 ## Disease Maps Project Coordinators
 
@@ -172,9 +171,8 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
 <br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
 <br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
-</p>
 
 ## Funding acknowledgements
 
-<p><a href="http://www.oeuvre.lu/" target="_blank">L’Œuvre Nationale de Secours Grande-Duchesse Charlotte</a></p>
+<a href="http://www.oeuvre.lu/" target="_blank">L’Œuvre Nationale de Secours Grande-Duchesse Charlotte</a>
 
