@@ -13,7 +13,7 @@ permalink: /DMCM2017_1st
 
 <h2>Attendees</h2>
 
-<p>The list of the attendees is available <a href="/events/DMCM2017_1st_attendees">here</a>.</p>
+<p>The list of the attendees is available <a href="/DMCM2017_1st_attendees">here</a>.</p>
 
 <h2>Agenda</h2>
 
