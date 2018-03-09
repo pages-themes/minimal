@@ -4,7 +4,7 @@ layout: default
 permalink: /guidelines
 ---
 
-<h1>Guidelines</h1>
+# Guidelines
 
 <p>In each case, a disease map is designed while taking into account the goals and objectives of a particular project, 
 specifics of disease conditions and disease subtypes. Here we propose a set of guidelines for a disease map construction 
