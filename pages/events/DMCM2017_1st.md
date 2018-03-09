@@ -72,22 +72,21 @@ permalink: /DMCM2017_1st
 
 ## Organisers
 
-<p><a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a>:
+<a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a>:
 <br /><a href="mailto:obrasier@eisbm.org">Odile Brasier</a>
 <br /><a href="mailto:jpellet@eisbm.org">Johann Pellet</a>
 <br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
+  
+## Disease Maps Project Coordinators
 
-## Disease Maps Project coordinators
-
-<br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
-<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
-<br /><a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>
-<br /><a href="mailto:andrei.zinovyev@curie.fr">Andrei Zinoviev</a>
-<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
-<br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
-</p>
+<a href="mailto:amazein@eisbm.org">Alexander Mazein</a>  
+<a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
+<a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>  
+<a href="mailto:andrei.zinovyev@curie.fr">Andrei Zinoviev</a>  
+<a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>  
+<a href="mailto:cauffray@eisbm.org">Charles Auffray</a>  
 
 ## Funding acknowledgements
 
-<p>eTRIKS (European Translational Information and Knowledge Management Services): IMI eTRIKS n°115446.</p>
+eTRIKS (European Translational Information and Knowledge Management Services): IMI eTRIKS n°115446.
