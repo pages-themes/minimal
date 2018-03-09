@@ -22,26 +22,24 @@ permalink: /SBGNinCellDesigner
 
 <p>Below are provided examples with CellDesigner's notation on the left side and suggested replacement on the right side.</p>
 
-<h3>Entity pool nodes</h3>
+### Entity pool nodes
 
 <img src="/images/tools/fig1.png" style="width:500px;"/>
 <br />
-<br />
 
-<h3>Processes</h3>
+### Processes
 
 <p>For processes, it is better to use the generic "Process" glyph and avoid using "Transcription", "Translation", "Transport", "Heteromer Association", "Dissociation" and "Trancation" glyphs.</p>
 
-<h3>Logical operators</h3>
+### Logical operators
 
 <p>All the boolean logic gates of CellDesigner could be used. The glyphs do not look exactly as in the SBGN set (for example, "&" in CellDesinger vs. "AND" in SBGN, or "|" in CellDesigner vs. "OR" in SBGN) but this could be considered a minor difference.</p>
 
-<h3>Reduced Notation</h3>
+### Reduced Notation
 
 <p>The Reduced Notation (View > Change Toolbar Visible > Reduced Notation) is often used by advanced users of CellDesigner. The symbols of the reduced notation are included in the <a href="http://www.celldesigner.org/help/images/components42.png">graphical notation of CellDesigner</a> (the top-right corner). We suggest not to use the Reduced Notation together with the default set of symbols. The Reduced Notation resembles the Activity Flow language of the SBGN standard. Directly mixing Process Description and Activity Flow symbols is not allowed.</p>
 
 <p>Clean Reduced Notation can be used for building Activity Flow type of diagrams. This diagrams later can be translated into the SBGN Activity Flow standard format.</p>
 
-<br />
-
-<p>If you have any questions please <a href="/contact">contact us</a>.</p>
+-----
+<p>If you have any questions or suggestions regarding this tutorial please <a href="/contact">contact us</a>.</p>
