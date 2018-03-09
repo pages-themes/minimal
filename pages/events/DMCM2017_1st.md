@@ -1,7 +1,7 @@
 ---
 title: 1st Community Meeting
 layout: default
-permalink: /events/DMCM2017_1st
+permalink: /DMCM2017_1st
 ---
 
 <h1>1st Disease Maps Community Meeting</h1>
