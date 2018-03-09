@@ -6,9 +6,9 @@ permalink: /projects
 
 # Projects
         
-<p>The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.</p>
+The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
 
-The growing number of active projects within the Disease Maps Community are led by reasearch groups in France, Germany, Luxembourg, Portugal, Spain and the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts for each disease map.
+The growing number of active projects within the Disease Maps Community are led by reasearch groups in France, Germany, Luxembourg, Portugal, Spain and the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts for each disease map.  
         
 <h3 id="Acute kidney injury"><a href="projects/acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
