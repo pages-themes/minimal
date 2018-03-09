@@ -22,10 +22,10 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Resource:</i> Anaphylaxis Map<br />
 <i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         
-### <a href="projects/asthma">Asthma</a>
+
 ### [Asthma](/projects/asthma)
-<i>Resource:</i> AsthmaMap<br />
-<i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
+*Resource:* AsthmaMap  
+*Contact:* Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
         
 <h3 id="Atherosclerosis"><a href="projects/atherosclerosis">Atherosclerosis</a></h3>
 <i>Resource:</i> Atherosclerosis Map<br />
