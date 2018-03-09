@@ -12,7 +12,7 @@ layout: default
         
 ### What are the disease maps for?  
 
-<p>In translational medicine projects disease maps are used for advanced ‘omics data interpretation and hypothesis generation, as the basis for mathematical models, for predictive analysis and for building clinical decision support systems (CDSS). The maps can be used for educational purposes as teaching aids.</p>
+<p>In translational medicine projects disease maps are used for advanced ‘omics data interpretation and hypothesis generation, as the basis for mathematical models, for predictive analysis and for building clinical decision support systems. The maps can be used for educational purposes as teaching aids.</p>
         
 ### The community     
 
