@@ -7,7 +7,7 @@ permalink: /related_efforts
 
 # Related efforts
 
-<p>The following projects are strategically important for the future advances of the Disease Maps. We initiated discussions and in each case identified overlapping and complementary activities and shared objectives. We aim to work together as partners, integreate resources and avoid duplicated efforts.</p>
+The following projects are strategically important for the future advances of the Disease Maps. We initiated discussions with the leaders of the project and in each case identified overlapping and complementary activities and shared objectives. We aim to work together as partners, integreate resources and avoid duplicated efforts.  
 
 <h3><a href="wikipathways">WikiPathways</a></h3>
 <p>
