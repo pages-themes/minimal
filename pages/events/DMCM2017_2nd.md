@@ -131,11 +131,10 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 
 <br />
 <p>More information is available <a href="http://wwwen.uni.lu/kontakt/campus_belval" target="_blank">here</a>.
-<br />
 
 ## Travel
 
-From Luxembourg Airport you can take a bus to Luxembourg Central Station and then a train to Belval-Universite which takes about one hour in total. See also <a href="http://disease-maps.org/events/Travel.pdf" target="_blank">here</a>.
+<p>From Luxembourg Airport you can take a bus to Luxembourg Central Station and then a train to Belval-Universite which takes about one hour in total. See also <a href="http://disease-maps.org/events/Travel.pdf" target="_blank">here</a>.</p>
 
 ## Accommodation
 
@@ -162,7 +161,7 @@ From Luxembourg Airport you can take a bus to Luxembourg Central Station and the
 <br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
 <br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
 
-## Disease Maps Project Coordinators
+## Disease Maps Project coordinators
 
 <br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
