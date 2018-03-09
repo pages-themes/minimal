@@ -1,5 +1,5 @@
 ---
 title: 1st Community Meeting
 layout: default
-permalink: /events/1stDMCM2017
+permalink: /events/DMCM2017_1st
 ---
