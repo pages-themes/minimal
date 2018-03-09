@@ -22,7 +22,8 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Resource:</i> Anaphylaxis Map<br />
 <i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         
-<h3 id="Asthma"><a href="projects/asthma">Asthma</a></h3>
+### <a href="projects/asthma">Asthma</a>
+
 <i>Resource:</i> AsthmaMap<br />
 <i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
         
