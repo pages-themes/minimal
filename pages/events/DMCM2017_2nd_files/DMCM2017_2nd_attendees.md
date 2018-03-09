@@ -1,7 +1,7 @@
 ---
 title: Attendees 2nd Community Meeting
 layout: default
-permalink: /events/DMCM2017_2nd_attendees
+permalink: /DMCM2017_2nd_attendees
 ---
 
 <h1>2nd Disease Maps Community Meeting</h1>
