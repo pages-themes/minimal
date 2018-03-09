@@ -33,7 +33,7 @@ The second community meeting is a satellite event before the <a href="https://bi
 <tr>
 <td style="width: 105px;" valign="top"><a href="/DMCM2017_1st"><img src="../images/places/Lyon.png" alt="Lyon"/></a></td>
 <td valign="top">
-<strong><a href="/events/DMCM2017_1st">1st Disease Maps Community Meeting</a></strong><br />
+<strong><a href="/DMCM2017_1st">1st Disease Maps Community Meeting</a></strong><br />
 15-17 February 2017, Lyon, France<br />
 The first face-to-face community meeting, with 10 groups from 6 countries participating. The topics include best practices, guidelines for developing high-quality maps and applications for translational medicine projects.
 </td>
