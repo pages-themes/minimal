@@ -8,7 +8,7 @@ permalink: /acutekidneyinjury
 ## The regulatory network of systemic and renal hemodynamics
 
 
-<h3 id="description">Description</h3>
+### Description
 
 <p><a href="https://trecard.com/akiprev-project/" target="_blank">AKIPREV</a> aims at developing a computerized clinical decision support system (CDSS) that will help physicians to stratify patients, and optimize antihypertensive and analgesic drug treatments. AKIPREV-CDSS works on a conceptually innovative approach that evaluates the individual’s functional phenotype, based on a multiparametric computation of selected analytical parameters and personal data. Objectives of this project are:</p>
 <ol>
@@ -33,7 +33,7 @@ permalink: /acutekidneyinjury
 <li>Focus on a complex disease, hypertension, with high prevalence and economic impact.</li>
 </ol>
 
-<h3 id="developersteam">Development Team</h3>
+### Development Team
 
 <table>
 <tr>
@@ -60,7 +60,7 @@ Professor of Applied Mathematics at the University of Waterloo, Waterloo, Canada
 </tr>
 </table>
 
-<h3 id="editorscommittee">Editorial Panel (Domain Experts)</h3>
+### Editorial Panel (Domain Experts)
 
 <table>
 <tr>
