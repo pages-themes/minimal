@@ -8,37 +8,6 @@ permalink: /projects
         
 <p>The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.</p>
         
-<ul style="list-style-type:none; font-size:100%;">
-          <li><a href="projects/acutekidneyinjury">Acute kidney injury</a></li>
-          <li><a href="projects/neurogenesis">Adult neurogenesis</a></li>
-          <li><a href="projects/anaphylaxis">Anaphylaxis</a></li>
-          <li><a href="projects/asthma">Asthma</a></li>
-          <li><a href="projects/atherosclerosis">Atherosclerosis</a></li>
-          <li><a href="projects/cancer">Cancer</a></li>
-          <li><a href="projects/coronaryarterydisease">Coronary artery disease</a></li>
-          <li><a href="projects/cysticfibrosis">Cystic fibrosis</a></li>
-          <li><a href="projects/duchenne">Duchenne muscular dystrophy</a></li>
-          <li><a href="projects/lungcancer">Lung cancer</a></li>
-          <li><a href="projects/multiplesclerosis">Multiple sclerosis</a></li>
-          <li><a href="projects/parkinsons">Parkinson's disease</a></li>
-          <li><a href="projects/rheumatoidarthritis">Rheumatoid arthritis</a></li>
-        </ul>
-        
-<p>New projects being discussed:</p>
-        
-<ul style="list-style-type:none">
-          <li>Allergic rhinitis</li>
-          <li>Atopic dermatitis</li>
-          <li>Autoimmune thrombotic thrombocytopenic purpura</li>
-          <li>Chronic liver disease</li>
-          <li>Chronic lymphocytic leukaemia</li>
-          <li>Chronic obstructive pulmonary disease</li>
-          <li>Diabetes mellitus type 2</li>
-          <li>Immune system diseases</li>
-          <li>Infectious diseases</li>
-          <li>Inflammatory bowel disease</li>
-</ul>
-        
 <h3 id="Acute kidney injury"><a href="projects/acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
 <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
@@ -91,3 +60,19 @@ permalink: /projects
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
           
+<br />
+          
+<p>New projects being discussed:</p>
+        
+<ul style="list-style-type:none">
+          <li>Allergic rhinitis</li>
+          <li>Atopic dermatitis</li>
+          <li>Autoimmune thrombotic thrombocytopenic purpura</li>
+          <li>Chronic liver disease</li>
+          <li>Chronic lymphocytic leukaemia</li>
+          <li>Chronic obstructive pulmonary disease</li>
+          <li>Diabetes mellitus type 2</li>
+          <li>Immune system diseases</li>
+          <li>Infectious diseases</li>
+          <li>Inflammatory bowel disease</li>
+</ul>
