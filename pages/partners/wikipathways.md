@@ -4,7 +4,7 @@ layout: default
 permalink: /wikipathways
 ---
 
-<h1>WikiPathways</h1>
+# WikiPathways
 
 <p><a href="http://www.wikipathways.org" target="_blank">WikiPathways</a> is an open collaborative platform dedicated to the curation of biological pathways. WikiPathways presents a new model for pathway databases that enhances and complements ongoing efforts, such as <a href="http://www.pathwaycommons.org/pc/" target="_blank">Pathway Commons</a>, <a href="http://reactome.org/" target="_blank">Reactome</a> and <a href="http://www.genome.jp/kegg/" target="_blank">KEGG</a>.</p>
 
