@@ -23,7 +23,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         
 ### <a href="projects/asthma">Asthma</a>
-
+### [Asthma](/projects/asthma)
 <i>Resource:</i> AsthmaMap<br />
 <i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
         
