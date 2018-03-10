@@ -10,12 +10,6 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, Egypt, the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts.  
 
-Disease | Lead | Comment
----|---|---
-[Acute kidney injury](/acutekidneyinjury) | University of Salamanca, Salamanca, Spain |    
-[Adult neurogenesis](/neurogenesis) | German Center for Neurodegenerative Diseases, Dresden, Germany | NEW: joined in January 2018
-
-
 <table>
   <tr>
     <th style="width: 150px;">Disease</th>
@@ -32,41 +26,25 @@ Disease | Lead | Comment
     <td>German Center for Neurodegenerative Diseases, Dresden, Germany</td> 
     <td>NEW: joined in January 2018</td>
   </tr>
+  <tr>
+    <td><a href="anaphylaxis">Anaphylaxis</a></td>
+    <td>German Luxembourg Institute of Health, Luxembourg, Luxembourg</td> 
+    <td>&emsp;</td>
+  </tr>
 </table>
-
-
-
-
-
-
-
-<p style="line-height:4px;">&emsp; &emsp;<a href="/acutekidneyinjury">Acute kidney injury</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/neurogenesis">Adult neurogenesis</a> &emsp; NEW: joined in January 2018</p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/anaphylaxis">Anaphylaxis</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/asthma">Asthma</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/atherosclerosis">Atherosclerosis</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/cancer">Cancer</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/coronaryarterydisease">Coronary artery disease</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/cysticfibrosis">Cystic fibrosis</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/duchenne">Duchenne muscular dystrophy</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/lungcancer">Lung cancer</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/multiplesclerosis">Multiple sclerosis</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/parkinsons">Parkinson's disease</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/rheumatoidarthritis">Rheumatoid arthritis</a></p>
-<p style="line-height:8px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury</a>&emsp; NEW: joined in March 2018</p>
         
 <p>New projects being discussed:</p>
-        
-<p style="line-height:4px;">&emsp; &emsp;Allergic rhinitis</p>
-<p style="line-height:4px;">&emsp; &emsp;Atopic dermatitis</p>
-<p style="line-height:4px;">&emsp; &emsp;Autoimmune thrombotic thrombocytopenic purpura</p>
-<p style="line-height:4px;">&emsp; &emsp;Chronic liver disease</p>
-<p style="line-height:4px;">&emsp; &emsp;Chronic lymphocytic leukaemia</p>
-<p style="line-height:4px;">&emsp; &emsp;Chronic obstructive pulmonary disease</p>
-<p style="line-height:4px;">&emsp; &emsp;Diabetes mellitus type 2</p>
-<p style="line-height:4px;">&emsp; &emsp;Immune system diseases</p>
-<p style="line-height:4px;">&emsp; &emsp;Infectious diseases</p>
-<p style="line-height:8px;">&emsp; &emsp;Inflammatory bowel disease</p>
+
+| Allergic rhinitis |
+| Atopic dermatitis |
+| Autoimmune thrombotic thrombocytopenic purpura |
+| Chronic liver disease |
+| Chronic lymphocytic leukaemia |
+| Chronic obstructive pulmonary disease |
+| Diabetes mellitus type 2 |
+| Immune system diseases |
+| Infectious diseases |
+| Inflammatory bowel disease |
         
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
