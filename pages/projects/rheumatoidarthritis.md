@@ -2,7 +2,7 @@
 title: Rheumatoid arthritis
 layout: default
 permalink: /rheumatoidarthritis
-
+---
 
 
 <h1>Rheumatoid arthritis</h1>
