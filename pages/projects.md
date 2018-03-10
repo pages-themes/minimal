@@ -29,16 +29,19 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <p>New projects being discussed:</p>
 
-* Allergic rhinitis
-* Atopic dermatitis
-* Autoimmune thrombotic thrombocytopenic purpura
-* Chronic liver disease
-* Chronic lymphocytic leukaemia
-* Chronic obstructive pulmonary disease
-* Diabetes mellitus type 2
-* Immune system diseases
-* Infectious diseases
-* Inflammatory bowel disease
+<ul style="list-style-type:none; line-height:80%;">
+<li>Allergic rhinitis</li>
+<li>Alzheimer's disease</li>
+<li>Atopic dermatitis</li>
+<li>Autoimmune thrombotic thrombocytopenic purpura</li>
+<li>Chronic liver disease</li>
+<li>Chronic lymphocytic leukaemia</li>
+<li>Chronic obstructive pulmonary disease</li>
+<li>Diabetes mellitus type 2</li>
+<li>Immune system diseases</li>
+<li>Infectious diseases</li>
+<li>Inflammatory bowel disease</li>
+</ul>
 
 <br />
 
