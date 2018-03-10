@@ -130,7 +130,7 @@ Researcher</td>
 </tr>
 <tr>
 <td><img src="../images/team/CharlesAuffray.jpg" alt="Charles Auffray" /></td>
-<td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br \>Research Director at CNRS, Founding Director of the EISBM</td>
+<td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Research Director at CNRS, Founding Director of the EISBM</td>
 </tr>
 </table>
 
