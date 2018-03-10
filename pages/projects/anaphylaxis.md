@@ -59,6 +59,6 @@ permalink: /anaphylaxis
 </tr>
 </table>
 
-<h3 id="funding">Funding</h3>
+### Funding
 
-<p>MESR and FNR, Luxembourg<p>
+[MESR](http://www.mesr.public.lu) and [FNR](www.fnr.lu), Luxembourg
