@@ -11,19 +11,19 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in France, Germany, Luxembourg, Portugal, Spain, the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts.  
 
 <ul style="list-style-type:none; line-height:175%;">
-<li><a href="acutekidneyinjury">Acute kidney injury</a></li>
-<li><a href="neurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
-<li><a href="anaphylaxis">Anaphylaxis</a></li>
-<li><a href="asthma">Asthma</a></li>
-<li><a href="atherosclerosis">Atherosclerosis</a></li>
-<li><a href="cancer">Cancer</a></li>
-<li><a href="coronaryarterydisease">Coronary artery disease</a></li>
-<li><a href="cysticfibrosis">Cystic fibrosis</a></li>
-<li><a href="duchenne">Duchenne muscular dystrophy</a></li>
-<li><a href="lungcancer">Lung cancer</a></li>
-<li><a href="multiplesclerosis">Multiple sclerosis</a></li>
-<li><a href="parkinsons">Parkinson's disease</a></li>
-<li><a href="rheumatoidarthritis">Rheumatoid arthritis</a></li>
+<li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
+<li><a href="/neurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
+<li><a href="/anaphylaxis">Anaphylaxis</a></li>
+<li><a href="/asthma">Asthma</a></li>
+<li><a href="/atherosclerosis">Atherosclerosis</a></li>
+<li><a href="/cancer">Cancer</a></li>
+<li><a href="/coronaryarterydisease">Coronary artery disease</a></li>
+<li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
+<li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
+<li><a href="/lungcancer">Lung cancer</a></li>
+<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
+<li><a href="/parkinsons">Parkinson's disease</a></li>
+<li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
 <li>Spinal cord injury &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
 </ul>
 
