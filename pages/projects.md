@@ -29,7 +29,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <p>New projects being discussed:</p>
 
-<ul style="list-style-type:none; line-height:200%;">
+<ul style="list-style-type:none; line-height:180%;">
 <li>Allergic rhinitis</li>
 <li>Alzheimer's disease</li>
 <li>Atopic dermatitis</li>
