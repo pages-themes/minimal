@@ -33,13 +33,6 @@ The project was initiated by the [University of Lisbon](https://www.ulisboa.pt/e
 
 We welcome collaboration and would be happy to join efforts with similar projects.
 
-### Contact
-
-To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)  
-
-Project Leader:  
-Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
-
 ### CF-MAP Development Team
 
 <table>
@@ -80,6 +73,13 @@ The list of domain experts is being confirmed.
 <br />European Cystic Fibrosis Society (ECFS) Board member</td>
 </tr>
 </table>-->
+
+### Contact
+
+To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)  
+
+Project Leader:  
+Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
 
 ### Funding
 
