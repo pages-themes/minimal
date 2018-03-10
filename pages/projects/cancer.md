@@ -9,6 +9,10 @@ permalink: /cancer
 
 ## Atlas of Cancer Signalling Network
 
+<h1>Cancer</h1>
+
+<h2>Atlas of Cancer Signalling Network</h2>
+
 <h3 id="ACSN purpose">ACSN purpose</h3>
 
 <p>There are numerous dysregulated cell signalling mechanisms in cancer. To understand involvement of and crosstalk between 
@@ -93,47 +97,47 @@ PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_bla
 <table>
 <tr>
 <td><img src="../images/team/InnaKuperstein.jpg" alt="Inna Kuperstein" /></td>
-<td><strong>Inna Kuperstein, PhD</strong><br \><strong>Institut Curie, Paris, France</strong><br \>ACSN Project Coordinator<br \></td>
+<td><strong>Inna Kuperstein, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />ACSN Project Coordinator<br /></td>
 </tr>
 <tr>
 <td><img src="../images/team/EricViara.jpg" alt="Eric Viara" /></td>
-<td><strong>Eric Viara, PhD</strong><br \><strong>SYSRA, Paris, France and Institut Curie, Paris, France</strong><br \>Software Developer<br \></td>
+<td><strong>Eric Viara, PhD</strong><br /><strong>SYSRA, Paris, France and Institut Curie, Paris, France</strong><br />Software Developer<br /></td>
 </tr>
 <tr>
 <td><img src="../images/team/MariaKondratova.jpg" alt="Maria Kondratova" /></td>
-<td><strong>Maria Kondratova, PhD</strong><br \><strong>Institut Curie, Paris, France</strong><br \>Researcher</td>
+<td><strong>Maria Kondratova, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Researcher</td>
 </tr>
 <tr>
 <td><img src="../images/team/LaurenceCalzone.jpg" alt="Laurence Calzone" /></td>
-<td><strong>Laurence Calzone, PhD</strong><br \><strong>Institut Curie, Paris, France</strong><br \>Senior Researcher</td>
+<td><strong>Laurence Calzone, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Senior Researcher</td>
 </tr>
 <tr>
 <td><img src="../images/team/LoredanaMartignetti.jpg" alt="Loredana Martignetti" /></td>
-<td><strong>Loredana Martignetti, PhD</strong><br \><strong>Institut Curie, Paris, France</strong><br \>Senior Researcher</td>
+<td><strong>Loredana Martignetti, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Senior Researcher</td>
 </tr>
 <tr>
 <td><img src="../images/team/UrszulaCzerwinska.jpg" alt="Urszula Czerwinska" /></td>
-<td><strong>Urszula Czerwinska, MSc</strong><br \><strong>Institut Curie, Paris, France</strong><br \>PhD Student</td>
+<td><strong>Urszula Czerwinska, MSc</strong><br /><strong>Institut Curie, Paris, France</strong><br />PhD Student</td>
 </tr>
 <tr>
 <td><img src="../images/team/JeanMarieRavel.jpg" alt="Jean-Marie Ravel" /></td>
-<td><strong>Jean-Marie Ravel, MSc, MD</strong><br \><strong>University of Pierre and Marie Curie (UPMC-Paris VI), Paris, France</strong><br \>Intern</td>
+<td><strong>Jean-Marie Ravel, MSc, MD</strong><br /><strong>University of Pierre and Marie Curie (UPMC-Paris VI), Paris, France</strong><br />Intern</td>
 </tr>
 <tr>
 <td><img src="../images/team/noprofile.jpg" alt="Fatou Ndao" /></td>
-<td><strong>Fatou Ndao, BSc</strong><br \><strong>University of Bordeaux, Bordeaux, France</strong><br \>Intern</td>
+<td><strong>Fatou Ndao, BSc</strong><br /><strong>University of Bordeaux, Bordeaux, France</strong><br />Intern</td>
 </tr>
 <tr>
 <td><img src="../images/team/noprofile.jpg" alt="Alexandre Klinge" /></td>
-<td><strong>Alexandre Klinge, PhD</strong><br \><strong>Institut Curie, Paris, France</strong><br \>Scientific Coordinator of Computational Systems Biology of Cancer group</td>
+<td><strong>Alexandre Klinge, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Scientific Coordinator of Computational Systems Biology of Cancer group</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreiZinovyev.jpg" alt="Andrei Zinovyev" /></td>
-<td><strong>Andrei Zinovyev, PhD</strong><br \><strong>University of Bordeaux, Bordeaux, France</strong><br \>Scientific Coordinator of Computational Systems Biology of Cancer group</td>
+<td><strong>Andrei Zinovyev, PhD</strong><br /><strong>University of Bordeaux, Bordeaux, France</strong><br />Scientific Coordinator of Computational Systems Biology of Cancer group</td>
 </tr>
 <tr>
 <td><img src="../images/team/EmmanuelBarillot.jpg" alt="Emmanuel Barillot" /></td>
-<td><strong>Emmanuel Barillot, PhD</strong><br \><strong>Institut Curie, Paris, France</strong><br \>Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech</td>
+<td><strong>Emmanuel Barillot, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech</td>
 </tr>
 </table>
 
