@@ -7,10 +7,6 @@ permalink: /lungcancer
 <h1 id="projects">Lung cancer</h1>
 <h2>Lung Cancer Disease Map (LCDMap)</h2>
 
-<h3 id="description">Description</h3>
-
-<p></p>
-
 <p>Chronic diseases (e.g. chronic obstructive pulmonary disease, or COPD) affect half of the population over 50 in Western Europe 
 (WHO Global Report, 2005). The accumulation of chronic diseases across life shapes health trajectories, influenced and curbed by heterogeneous 
 environmental, social or lifestyle factors. The unfortunate outcome of the trajectories can lead to cancer events (e.g. non-small cell 
@@ -63,16 +59,16 @@ PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618" target
 <strong>Institute for Advanced Biosciences, France</strong><br />Systems Biology Research Associate</td>
 </tr>
 <tr>
-<td><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Senior Researcher</td>
-</tr>
-<tr>
 <td><img src="../images/team/WeiYan.jpg" alt="Wei Yan" /></td>
 <td><strong>Wei Yan, PhD</strong><br /><strong>Shanghai Center for Systems Biomedicine, China</strong><br />Professor of Proteomics, Shanghai Jiao Tong University</td>
 </tr>
+<tr>
+<td><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
+<td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Senior Researcher</td>
+</tr>
 </table>
 
-<h3 id="editorscommittee">Editorial Panel (Domain Experts)</h3>
+<h3 id="editorscommittee">Editorial Panel</h3>
 
 <table>
 <tr>
