@@ -25,7 +25,7 @@ Disease | Lead | Country | Comment
   <tr>
     <td><a href="/acutekidneyinjury">Acute kidney injury</a></td>
     <td>University of Salamanca, Salamanca, Spain</td> 
-    <td> </td>
+    <td>&emsp;</td>
   </tr>
   <tr>
     <td><a href="/neurogenesis">Adult neurogenesis</a></td>
