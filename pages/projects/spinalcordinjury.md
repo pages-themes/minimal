@@ -16,8 +16,6 @@ The format of the project and resources dedicated
 
 ### Development Team
 
-<img src="/images/team/IrinaBalaur.jpg" width="130"/>
-
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/noprofile.jpg" alt="Ahmed AlBayar" width="100"/></td>
