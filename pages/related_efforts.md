@@ -9,18 +9,18 @@ permalink: /related_efforts
 
 The following projects are strategically important for the future advances of the Disease Maps. We initiated discussions with the leaders of the project and in each case identified overlapping and complementary activities and shared objectives. We aim to work together as partners, integreate resources and avoid duplicated efforts.  
 
+<h3><a href="pathwaycommons">Pathway Commons</a></h3>
+<p>
+<i>Description: </i>Pathway Commons aims to collect and disseminate biological pathway and interaction data. Data is collected from partner databases and is represented in the <a href="http://biopax.org/" target="_blank">BioPAX</a> standard.<br />
+<i>Contact: </i>Gary Bader, University of Toronto, Toronto, Canada<br />
+<i>Homepage: </i><a href="http://www.pathwaycommons.org/" target="_blank">http://www.pathwaycommons.org/</a><br />
+
 <h3><a href="wikipathways">WikiPathways</a></h3>
 <p>
 <i>Description: </i>WikiPathways is a database of biological pathways maintained by and for the scientific community.<br />
 <i>Contact: </i>Alexander Pico, Gladstone Institutes, University of California, San Francisco, United States<br />
 <i>Homepage: </i><a href="http://www.wikipathways.org/" target="_blank">http://www.wikipathways.org/</a><br />
 <!-- <a href="partners/wikipathways">More information...</a></p> -->
-
-<h3><a href="pathwaycommons">Pathway Commons</a></h3>
-<p>
-<i>Description: </i>Pathway Commons aims to collect and disseminate biological pathway and interaction data. Data is collected from partner databases and is represented in the <a href="http://biopax.org/" target="_blank">BioPAX</a> standard.<br />
-<i>Contact: </i>Gary Bader, University of Toronto, Toronto, Canada<br />
-<i>Homepage: </i><a href="http://www.pathwaycommons.org/" target="_blank">http://www.pathwaycommons.org/</a><br />
 
 <h3><a href="physiome">Physiome Project</a></h3>
 <p>
