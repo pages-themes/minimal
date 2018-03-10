@@ -9,10 +9,6 @@ permalink: /cancer
 
 ## Atlas of Cancer Signalling Network
 
-<h1>Cancer</h1>
-
-<h2>Atlas of Cancer Signalling Network</h2>
-
 <h3 id="ACSN purpose">ACSN purpose</h3>
 
 <p>There are numerous dysregulated cell signalling mechanisms in cancer. To understand involvement of and crosstalk between 
