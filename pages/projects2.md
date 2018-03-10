@@ -83,8 +83,6 @@ The growing number of active projects within the Disease Maps Community are led 
   </tr>
 </table>
 
-<br />
-
 <p>New projects being discussed:</p>
 
 * Allergic rhinitis
@@ -97,7 +95,9 @@ The growing number of active projects within the Disease Maps Community are led 
 * Immune system diseases
 * Infectious diseases
 * Inflammatory bowel disease
-        
+
+<br />
+
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
 <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
