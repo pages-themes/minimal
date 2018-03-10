@@ -1,12 +1,13 @@
 ---
 title: Atherosclerosis
-layout: dafault
+layout: default
 permalink: /atherosclerosis
 ---
 
 
-<h1 id="projects">Atherosclerosis</h1>
-<h2>Atherosclerosis Map</h2>
+# Atherosclerosis
+
+## Atherosclerosis Map
 
 <p>Cardiovascular disease (CVD) is the primary cause of death globally and contributes to morbidity and mortality more than any other disorder in the western world. In 2012, CVD was responsible for 31% of deaths worldwide, 47% of all deaths within Europe and 40% of all deaths within the European Union. CVD covers a collection of disorders that can be split into atherosclerotic and non-atherosclerotic categories. Atherosclerotic CVD is responsible for the majority of instances of CVD with a 2012 estimate attributing 71% of all CVD to atherosclerotic forms.</p>
 <p>Despite the growing importance of atherosclerosis and its implications for public health, the pathogenesis of atherosclerosis is not fully understood. Traditionally, atherosclerosis was viewed as a build-up of lipids (including cholesterol) within the innermost layer of the artery wall.  However, our understanding has since developed and atherosclerotic CVD is now predominantly viewed as a chronic inflammatory condition, advanced by lipid build-up and triggered by innate immune responses.</p>
