@@ -16,9 +16,9 @@ Disease | Lead | Comment
 [Adult neurogenesis](/neurogenesis) | German Center for Neurodegenerative Diseases, Dresden, Germany | NEW: joined in January 2018
 
 
-<table style="width:100%">
+<table>
   <tr>
-    <td style="width: 240px;">Disease</th>
+    <th style="width: 240px;">Disease</th>
     <th>Lead</th> 
     <th>Joined</th>
   </tr>
