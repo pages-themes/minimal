@@ -24,7 +24,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="parkinsons">Parkinson's disease</a></li>
 <li><a href="rheumatoidarthritis">Rheumatoid arthritis</a></li>
-<li><a href="spinalcordinjury">Spinal cord injury</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
+<li>Spinal cord injury &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
 </ul>
 
 <p>New projects are discussed:</p>
@@ -95,3 +95,10 @@ The growing number of active projects within the Disease Maps Community are led 
 <h3 id="Rheumatoid arthritis"><a href="rheumatoidarthritis">Rheumatoid arthritis</a></h3>
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
+
+<h3 id="Spinal cord injury">Spinal cord injury</h3>
+<i>Resource:</i> Spinal Cord Injury Map<br />
+<i>Contact:</i> Mansoura University, Al Manşūrah, Egypt<br />
+
+
+
