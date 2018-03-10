@@ -23,7 +23,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <p style="line-height:4px;">&emsp; &emsp;<a href="/multiplesclerosis">Multiple sclerosis</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/parkinsons">Parkinson's disease</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/rheumatoidarthritis">Rheumatoid arthritis</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury</a>&emsp; NEW: joined in March 2018</p>
+<p style="line-height:8px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury</a>&emsp; NEW: joined in March 2018</p>
         
 <p>New projects being discussed:</p>
         
@@ -36,7 +36,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <p style="line-height:4px;">&emsp; &emsp;Diabetes mellitus type 2</p>
 <p style="line-height:4px;">&emsp; &emsp;Immune system diseases</p>
 <p style="line-height:4px;">&emsp; &emsp;Infectious diseases</p>
-<p style="line-height:4px;">&emsp; &emsp;Inflammatory bowel disease</p>
+<p style="line-height:8px;">&emsp; &emsp;Inflammatory bowel disease</p>
         
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
