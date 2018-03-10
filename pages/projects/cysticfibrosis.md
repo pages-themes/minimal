@@ -11,11 +11,11 @@ permalink: /cysticfibrosis
 
 The Cystic Fibrosis Map project (CF-MAP) is an effort focused on high-quality description of cystic fibrosis mechanisms and building a predictive computational model based on this description.
 
-### Map of cystic fibrosis mechanisms
+### The map of cystic fibrosis mechanisms
 
 The following approach is used to develop a map of the cystic fibrosis mechanisms. Information from literature is integrated into a large-scale Activity Flow diagram. Particular focus is on various types of mutations of CFTR gene. Information from pathway databases, for example Reactome and PANTHER, is reused when possible, and contextualised. The network is presented in the Systems Biology Graphical Notation (SBGN) standard. A community of domain experts is involved to ensure that the disease mechanisms are adequately represented.  
 
-### Model of cystic fibrosis
+### The model of cystic fibrosis
 
 The goal of the project is to develop a computational model of molecular mechanisms which are affected in cystic fibrosis and to quantitatively elucidate the underlying molecular and cellular events. A computational model of cystic fibrosis is based on the CF-MAP reconstruction. Hypothesis and assumptions are added on the top of the known described mechanisms.  
 
