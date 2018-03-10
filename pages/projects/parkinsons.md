@@ -6,7 +6,7 @@ permalink: /parkinsons
 
 # Parkinson’s disease
 
-## Parkinson’s Disease Map
+## [Parkinson’s Disease Map](https://pdmap.uni.lu/MapViewer/)
 
 <p>Parkinson’s disease (PD) is the second most prevalent neurodegenerative disease in the world. Although many genetic and 
 environmental factors contributing to the risk of PD have been identified, no unique causal mechanism is defined. 
