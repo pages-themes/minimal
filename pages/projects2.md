@@ -18,7 +18,7 @@ Disease | Lead | Comment
 
 <table>
   <tr>
-    <th style="width: 180px;">Disease</th>
+    <th style="width: 160px;">Disease</th>
     <th>Lead</th> 
     <th>Joined</th>
   </tr>
