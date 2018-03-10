@@ -59,7 +59,7 @@ The growing number of active projects within the Disease Maps Community are led 
   <tr>
     <td><a href="duchenne">Duchenne muscular dystrophy</a></td>
     <td>Hospital Sant Joan de Déu, Barcelona, Spain</td> 
-    <td>&emsp;</td>
+    <td>NEW: joined in December 2017</td>
   </tr>
   <tr>
     <td><a href="lungcancer">Lung cancer</a></td>
