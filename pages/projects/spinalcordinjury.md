@@ -21,15 +21,15 @@ The format of the project and resources dedicated
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AhmedAlBayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
-<td><strong>Ahmed AlBayar</strong><br />
-<strong>Mansoura University, Al Manşūrah, Egypt</strong><br />
-  Professor</td>
+<td><strong>Ahmed AlBayar, MD</strong><br />
+<strong>University of Pennsylvania</strong><br />
+  Research Associate at Perelman School of Medicine, University of Pennsylvania</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/AhmedAlBayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
-<td><strong>Ahmed AlBayar</strong><br />
-<strong>Mansoura University, Al Manşūrah, Egypt</strong><br />
-  Professor</td>
+<td style="width: 105px;"><img src="../images/team/BasemAwad.jpg" alt="Basem Awad" width="100"/></td>
+<td><strong>Basem I. Awad, MD, MSc, PhD</strong><br />
+<strong>Mansoura University, Mansoura, Egypt</strong><br />
+  Lecturer of Neurosurgery at Mansoura University Hospital</td>
 </tr>
 </table>
 
