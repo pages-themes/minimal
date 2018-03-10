@@ -12,7 +12,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <ul style="list-style-type:none; font-size:100%;">
 <li><a href="acutekidneyinjury">Acute kidney injury</a></li>
-<li><a href="neurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
+<li><a href="neurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
 <li><a href="anaphylaxis">Anaphylaxis</a></li>
 <li><a href="asthma">Asthma</a></li>
 <li><a href="atherosclerosis">Atherosclerosis</a></li>
@@ -24,7 +24,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="parkinsons">Parkinson's disease</a></li>
 <li><a href="rheumatoidarthritis">Rheumatoid arthritis</a></li>
-<li><a href="spinalcordinjury">Spinal cord injury</a> &ensp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
+<li><a href="spinalcordinjury">Spinal cord injury</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
 </ul>
 
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
