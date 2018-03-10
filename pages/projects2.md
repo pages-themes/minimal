@@ -10,9 +10,9 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, Egypt, the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts.  
 
-&emsp; [Acute kidney injury](/acutekidneyinjury)
-&emsp; [Adult neurogenesis](/neurogenesis) (NEW: Joined in January 2018)
-&emsp; [Anaphylaxis](/anaphylaxis)
+&emsp; [Acute kidney injury](/acutekidneyinjury)  
+&emsp; [Adult neurogenesis](/neurogenesis) (NEW: Joined in January 2018)  
+&emsp; [Anaphylaxis](/anaphylaxis)  
 
 <ul style="list-style-type:none; font-size:100%;">
 <li><a href="projects/acutekidneyinjury">Acute kidney injury</a></li>
