@@ -63,9 +63,9 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Contact:</i> Steven Watterson, University of Ulster, Coleraine, UK<br />
         
 <h3 id="Cancer"><a href="cancer">Cancer</a></h3>
-<i>Resource:</i> Atlas of Cancer Signalling Network<br />
+<i>Resource:</i> <a href="https://acsn.curie.fr/navicell/maps/acsn/master/index.html">Atlas of Cancer Signalling Network</a><br />
 <i>Contact:</i> Inna Kuperstein, Institut Curie, Paris, France<br />
-        
+
 <h3 id="Coronary artery disease"><a href="coronaryarterydisease">Coronary artery disease</a></h3>
 <i>Resource:</i> Coronary Artery Disease Map<br />
 <i>Contact:</i> Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany<br />
@@ -87,7 +87,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Contact:</i> Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany<br />
         
 <h3 id="Parkison's disease"><a href="parkinsons">Parkinson's disease</a></h3>
-<i>Resource:</i> Parkinson's Disease Map<br />
+<i>Resource:</i> <a href="https://pdmap.uni.lu/MapViewer/">Parkinson's Disease Map</a><br />
 <i>Contact:</i> Stephan Gebel, University of Luxembourg, Belval, Luxembourg<br />
         
 <h3 id="Rheumatoid arthritis"><a href="rheumatoidarthritis">Rheumatoid arthritis</a></h3>
