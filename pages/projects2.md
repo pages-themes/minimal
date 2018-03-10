@@ -36,12 +36,57 @@ The growing number of active projects within the Disease Maps Community are led 
     <td>European Institute for Systems Biology and Medicine, Lyon, France</td> 
     <td>&emsp;</td>
   </tr>
+  <tr>
+    <td><a href="atherosclerosis">Atherosclerosis</a></td>
+    <td>University of Ulster, Coleraine, UK</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="cancer">Cancer</a></td>
+    <td>Institut Curie, Paris, France</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="coronaryarterydisease">Coronary artery disease</a></td>
+    <td>University Medical Center Hamburg-Eppendorf, Hamburg, Germany</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="cysticfibrosis">Cystic fibrosis</a></td>
+    <td>University of Lisbon, Lisbon, Portugal</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="duchenne">Duchenne muscular dystrophy</a></td>
+    <td>Hospital Sant Joan de Déu, Barcelona, Spain</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="lungcancer">Lung cancer</a></td>
+    <td>Institute for Advanced Biosciences, Grenoble, France</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="multiplesclerosis">Multiple sclerosis</a></td>
+    <td>RWTH-Aachen University Hospital, Aachen, Germany</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="parkinsons">Parkinson's disease</a></td>
+    <td>University of Luxembourg, Belval, Luxembourg</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="rheumatoidarthritis">Rheumatoid arthritis</a></td>
+    <td>University of Evry Val d’Essonne, Evry, France</td> 
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td><a href="spinalcordinjury">Spinal cord injury</a></td>
+    <td>Mansoura University, Al Manşūrah, Egypt</td> 
+    <td>NEW: joined in March 2018</td>
+  </tr>
 </table>
-
-
-
-
-
 
 <p>New projects being discussed:</p>
 
@@ -92,7 +137,7 @@ The growing number of active projects within the Disease Maps Community are led 
         
 <h3 id="Duchenne muscular dystrophy"><a href="duchenne">Duchenne muscular dystrophy</a></h3>
 <i>Resource:</i> DMD-map<br />
-<i>Contact:</i> Cecilia Jimenez-Mallebrera, PhD Hospital Sant Joan de Déu, Barcelona, Spain<br />
+<i>Contact:</i> Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
         
 <h3 id="Lung cancer"><a href="lungcancer">Lung cancer</a></h3>
 <i>Resource:</i> Lung Cancer Disease Map<br />
