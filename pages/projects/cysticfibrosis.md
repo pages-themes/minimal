@@ -31,7 +31,7 @@ The objectives are:
 
 The project was initiated by the [University of Lisbon](https://www.ulisboa.pt/en) and is designed as a joint effort of experts in cystic fibrosis and computational biology research groups. It progresses in the format of a PhD project and is led by Catarina Pereira, a PhD student at the University of Lisbon.  
 
-We very much welcome collaboration and would be happy to join efforts with similar projects.
+We welcome collaboration and would be happy to join efforts with similar projects.
 
 ### Contact
 
