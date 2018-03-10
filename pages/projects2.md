@@ -27,18 +27,16 @@ The growing number of active projects within the Disease Maps Community are led 
         
 <p>New projects being discussed:</p>
         
-<ul style="list-style-type:none">
-<li>Allergic rhinitis</li>
-<li>Atopic dermatitis</li>
-<li>Autoimmune thrombotic thrombocytopenic purpura</li>
-<li>Chronic liver disease</li>
-<li>Chronic lymphocytic leukaemia</li>
-<li>Chronic obstructive pulmonary disease</li>
-<li>Diabetes mellitus type 2</li>
-<li>Immune system diseases</li>
-<li>Infectious diseases</li>
-<li>Inflammatory bowel disease</li>
-</ul>
+<p style="line-height:4px;">&emsp; &emsp;Allergic rhinitis</p>
+<p style="line-height:4px;">&emsp; &emsp;Atopic dermatitis</p>
+<p style="line-height:4px;">&emsp; &emsp;Autoimmune thrombotic thrombocytopenic purpura</p>
+<p style="line-height:4px;">&emsp; &emsp;Chronic liver disease</p>
+<p style="line-height:4px;">&emsp; &emsp;Chronic lymphocytic leukaemia</p>
+<p style="line-height:4px;">&emsp; &emsp;Chronic obstructive pulmonary disease</p>
+<p style="line-height:4px;">&emsp; &emsp;Diabetes mellitus type 2</p>
+<p style="line-height:4px;">&emsp; &emsp;Immune system diseases</p>
+<p style="line-height:4px;">&emsp; &emsp;Infectious diseases</p>
+<p style="line-height:4px;">&emsp; &emsp;Inflammatory bowel disease</p>
         
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
