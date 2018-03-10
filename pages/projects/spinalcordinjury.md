@@ -16,7 +16,22 @@ The format of the project and resources dedicated
 
 ### Development Team
 
-Text
+<img src="/images/team/IrinaBalaur.jpg" width="130"/>
+
+<table>
+<tr>
+<td style="width: 105px;"><img src="../images/team/AhmedAlBayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
+<td><strong>Ahmed AlBayar</strong><br />
+<strong>Mansoura University, Al Manşūrah, Egypt</strong><br />
+  Professor</td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/AhmedAlBayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
+<td><strong>Ahmed AlBayar</strong><br />
+<strong>Mansoura University, Al Manşūrah, Egypt</strong><br />
+  Professor</td>
+</tr>
+</table>
 
 ### Editorial Panel
 
