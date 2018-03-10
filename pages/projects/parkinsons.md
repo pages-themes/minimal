@@ -27,10 +27,11 @@ mitochondrial dysfunction, impaired protein degradation, neuropathobiology of ag
 to diverse research-facilitating functionalities: relevant annotation and links to scientific databases, overlay of experimental 
 data, or identification of drug targets and chemical interactions by dedicated interfaces.</p>
 
-<h3 id="Access">Access</h3>
-<a href="http://pdmap.uni.lu" target="_blank">http://pdmap.uni.lu</a><p>
+### Access
 
-<h3 id="Publications">Publications</h3>
+<a href="http://pdmap.uni.lu" target="_blank">http://pdmap.uni.lu</a>
+
+### Publications
 
 <ul>
 <li>Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, 
@@ -44,7 +45,7 @@ doi: <a href="https://dx.doi.org/10.1089/big.2015.0057" target="_blank">10.1089/
 PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=27441714" target="_blank">27441714</a>.</li>
 </ul>
 
-<h3 id="Developers team">Development Team</h3>
+### Development Team
 
 <table>
 <tr>
@@ -75,11 +76,11 @@ Project Manager, the Parkinson's disease map project<br /></td>
 </tr>
 </table>
 
-<h3 id="Community curation">Community curation (domain experts: clinicians, biologists)</h3>
+### Community curation (domain experts: clinicians, biologists)
 
 <p>We encourage the PD community to join forces and support this project by integrating their expertise to continuously refine and expand the knowledge within the PD map. To support that, feedback functions are integrated into the PD map and hands-on workshops with domain experts are regularly organized. </p>
 
-<h3 id="Events">Events</h3>
+### Events
 
 <ul>
 <li>“Systematic curation of Parkinson's disease pathways” Satellite workshop at the XX World Congress on Parkinson’s disease and related disorders, 8th December 2013</li>
@@ -87,7 +88,7 @@ Project Manager, the Parkinson's disease map project<br /></td>
 <li>“Application and curation of the Parkinson’s disease map”. Two satellite workshops at the Annual meeting of the GEoPD Consortium and the International Parkinson’s Disease Symposium, Belval, Luxembourg 5th and 8th October 2016</li>
 </ul>
 
-<h3 id="Funding">Funding</h3>
+### Funding
 
 <ul>
 <li><a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a> (LCSB): Institutional Funds</li>
