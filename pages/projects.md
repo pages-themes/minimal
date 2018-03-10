@@ -98,7 +98,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <h3 id="Spinal cord injury">Spinal cord injury</h3>
 <i>Resource:</i> Spinal Cord Injury Map<br />
-<i>Contact:</i> Mansoura University, Al Manşūrah, Egypt<br />
+<i>Contact:</i> Ahmed AlBayar, Mansoura University, Al Manşūrah, Egypt<br />
 
 
 
