@@ -19,7 +19,7 @@ permalink: /duchenne
 <p>Our team is currently working on engaging other experts in the field and identifying key molecular pathways that will become building blocks which may be shared by other disease maps. We are actively seeking for financial support for this initiative as well as promoting the DMD-map as a novel resource for translational research into muscular dystrophies.
 </p>
 
-<h3 id="developersteam">DMD-map Development Team</h3>
+### DMD-map Development Team
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ permalink: /duchenne
 </tr>
 </table>
 
-<h3 id="editorscommittee">DMD-map Editorial Panel (Domain Experts)</h3>
+### DMD-map Editorial Panel
 
 <table>
 <tr>
