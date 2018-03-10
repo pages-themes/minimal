@@ -76,10 +76,10 @@ The list of domain experts is being confirmed.
 
 ### Contact
 
-To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)  
+To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](mailto:cysticfibrosismap@googlegroups.com)  
 
 Project Leader:  
-Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
+Catarina Pereira [cpereira@lasige.di.fc.ul.pt](mailto:cpereira@lasige.di.fc.ul.pt)  
 
 ### Funding
 
