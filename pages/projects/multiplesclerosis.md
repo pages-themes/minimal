@@ -7,8 +7,6 @@ permalink: /multiplesclerosis
 <h1 id="projects">Multiple sclerosis</h1>
 <h2 id="projects">Multiple Sclerosis Pathways Map</h2>
 
-<h3 id="description">Description</h3>
-
 <p>The pathogenesis of multiple sclerosis (MS) involves alterations to multiple pathways and processes, which represent a significant challenge for developing more-effective therapies. Systems biology approaches that study pathway dysregulation should offer benefits by integrating molecular networks and dynamic models with current biological knowledge for understanding disease heterogeneity and response to therapy.</p>
 
 <p>In MS, abnormalities have been identified in several cytokine-signaling pathways, as well as those of other immune receptors. Among the downstream molecules implicated are Jak/Stat, NF-Kb, ERK1/3, p38 or Jun/Fos. MS is likely to be associated with abnormalities in apoptosis/cell death, microglia activation, blood-brain barrier functioning, immune responses, cytokine production, and/or oxidative stress, although which pathways contribute to the cascade of damage and can be modulated remains an open question. While current MS drugs target some of these pathways, others remain untouched, revealing open questions to be studied by applying systems biology approach. Therefore, MS Pathways Map project aims to the development of a comprehensive MS pathways collection, that would represent disease pathogenesis on the different biological levels and would allow researchers to analyze MS data taking into account the information integrated by the domain experts.</p>
