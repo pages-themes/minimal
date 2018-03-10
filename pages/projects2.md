@@ -16,6 +16,29 @@ Disease | Lead | Country | Comment
 [Adult neurogenesis](/neurogenesis) | GCND | Germany | NEW: joined in January 2018
 
 
+<table style="width:100%">
+  <tr>
+    <td style="width: 240px;">Disease</th>
+    <th>Lead</th> 
+    <th>Joined</th>
+  </tr>
+  <tr>
+    <td><a href="/acutekidneyinjury">Acute kidney injury</a></td>
+    <td>University of Salamanca, Salamanca, Spain</td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="/neurogenesis">Adult neurogenesis</a></td>
+    <td>German Center for Neurodegenerative Diseases, Dresden, Germany</td> 
+    <td>NEW: joined in January 2018</td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 <p style="line-height:4px;">&emsp; &emsp;<a href="/acutekidneyinjury">Acute kidney injury</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/neurogenesis">Adult neurogenesis</a> &emsp; NEW: joined in January 2018</p>
