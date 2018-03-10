@@ -44,8 +44,8 @@ permalink: /multiplesclerosis
 Professor of Computational Biomedicine at the Faculty of Medicine; Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/EkatrinaKotelnikova.jpg" alt="Ekatrina Kotelnikova" /></td>
-<td><strong>Ekatrina Kotelnikova, PhD</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />Head of Immune Systems Biology Group; Founder and Scientific Advisor at Personal Biomedicine, Inc.</td>
+<td style="width: 100px;"><img src="../images/team/EkatrinaKotelnikova.jpg" alt="Ekaterina Kotelnikova" /></td>
+<td><strong>Ekaterina Kotelnikova, PhD</strong><br /><strong>August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain</strong><br />Head of Immune Systems Biology Group; Founder and Scientific Advisor at Personal Biomedicine, Inc.</td>
 </tr>
 <tr>
 <td><img src="../images/team/MelanieRinas.jpg" alt="Melanie Rinas" /></td>
