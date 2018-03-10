@@ -14,21 +14,23 @@ The growing number of active projects within the Disease Maps Community are led 
 &emsp; [Adult neurogenesis](/neurogenesis) (NEW: Joined in January 2018)  
 &emsp; [Anaphylaxis](/anaphylaxis)  
 
-<ul style="list-style-type:none; font-size:100%;">
-<li><a href="projects/acutekidneyinjury">Acute kidney injury</a></li>
-<li><a href="projects/neurogenesis">Adult neurogenesis</a></li>
-<li><a href="projects/anaphylaxis">Anaphylaxis</a></li>
-<li><a href="projects/asthma">Asthma</a></li>
-<li><a href="projects/atherosclerosis">Atherosclerosis</a></li>
-<li><a href="projects/cancer">Cancer</a></li>
-<li><a href="projects/coronaryarterydisease">Coronary artery disease</a></li>
-<li><a href="projects/cysticfibrosis">Cystic fibrosis</a></li>
-<li><a href="projects/duchenne">Duchenne muscular dystrophy</a></li>
-<li><a href="projects/lungcancer">Lung cancer</a></li>
-<li><a href="projects/multiplesclerosis">Multiple sclerosis</a></li>
-<li><a href="projects/parkinsons">Parkinson's disease</a></li>
-<li><a href="projects/rheumatoidarthritis">Rheumatoid arthritis</a></li>
-</ul>
+
+<p style="line-height:6px;">&emsp; </p>
+        
+
+<p style="line-height:6px;">&emsp;<a href="/acutekidneyinjury">Acute kidney injury</a></p>
+<p style="line-height:6px;">&emsp;<a href="/neurogenesis">Adult neurogenesis</a></p>
+<p style="line-height:6px;">&emsp;<a href="/anaphylaxis">Anaphylaxis</a></p>
+<p style="line-height:6px;">&emsp;<a href="/asthma">Asthma</a></p>
+<p style="line-height:6px;">&emsp;<a href="/atherosclerosis">Atherosclerosis</a></p>
+<p style="line-height:6px;">&emsp;<a href="/cancer">Cancer</a></p>
+<p style="line-height:6px;">&emsp;<a href="/coronaryarterydisease">Coronary artery disease</a></p>
+<p style="line-height:6px;">&emsp;<a href="/cysticfibrosis">Cystic fibrosis</a></p>
+<p style="line-height:6px;">&emsp;<a href="/duchenne">Duchenne muscular dystrophy</a></p>
+<p style="line-height:6px;">&emsp;<a href="/lungcancer">Lung cancer</a></p>
+<p style="line-height:6px;">&emsp;<a href="/multiplesclerosis">Multiple sclerosis</a></p>
+<p style="line-height:6px;">&emsp;<a href="/parkinsons">Parkinson's disease</a></p>
+<p style="line-height:6px;">&emsp;<a href="/rheumatoidarthritis">Rheumatoid arthritis</a></p>
         
 <p>New projects being discussed:</p>
         
