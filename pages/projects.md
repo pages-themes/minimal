@@ -10,7 +10,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in France, Germany, Luxembourg, Portugal, Spain, the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts.  
 
-<ul style="list-style-type:none; line-height:170%;">
+<ul style="list-style-type:none; line-height:175%;">
 <li><a href="acutekidneyinjury">Acute kidney injury</a></li>
 <li><a href="neurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
 <li><a href="anaphylaxis">Anaphylaxis</a></li>
@@ -29,7 +29,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <p>New projects are discussed:</p>
 
-<ul style="list-style-type:none; line-height:170%;">
+<ul style="list-style-type:none; line-height:175%;">
 <li>Allergic rhinitis</li>
 <li>Atopic dermatitis</li>
 <li>Autoimmune thrombotic thrombocytopenic purpura</li>
@@ -41,8 +41,6 @@ The growing number of active projects within the Disease Maps Community are led 
 <li>Infectious diseases</li>
 <li>Inflammatory bowel disease</li>
 </ul>
-
-<br />
 
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
@@ -99,6 +97,4 @@ The growing number of active projects within the Disease Maps Community are led 
 <h3 id="Spinal cord injury">Spinal cord injury</h3>
 <i>Resource:</i> Spinal Cord Injury Map<br />
 <i>Contact:</i> Ahmed AlBayar, Mansoura University, Al Manşūrah, Egypt<br />
-
-
 
