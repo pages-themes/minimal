@@ -61,8 +61,8 @@ The growing number of active projects within the Disease Maps Community are led 
 <h3 id="Rheumatoid arthritis"><a href="rheumatoidarthritis">Rheumatoid arthritis</a></h3>
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
-          
-  
+
+-----
 <p>New projects being discussed:</p>
         
 <ul style="list-style-type:none">
