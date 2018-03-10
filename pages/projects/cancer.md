@@ -83,7 +83,7 @@ PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_bla
 
 <ul>
 <li><a href="http://www.garuda-alliance.org" target="_blank">http://www.garuda-alliance.org</a></li>
-<li><a href="https://github.com/sysbio-curie/Garuda" target="_blank">https://github.com/sysbio-curie/Garuda</a>
+<li><a href="https://github.com/sysbio-curie/Garuda" target="_blank">https://github.com/sysbio-curie/Garuda</a></li>
 </ul>
 
 <h3 id="Developers team">Development Team</h3>
@@ -92,7 +92,7 @@ PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_bla
 
 <table>
 <tr>
-<td><img src="../images/team/InnaKuperstein.jpg" alt="Inna Kuperstein" /></td>
+<td width="105"><img src="../images/team/InnaKuperstein.jpg" alt="Inna Kuperstein" /></td>
 <td><strong>Inna Kuperstein, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />ACSN Project Coordinator<br /></td>
 </tr>
 <tr>
