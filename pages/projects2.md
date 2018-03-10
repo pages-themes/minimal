@@ -12,67 +12,6 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <table>
   <tr>
-    <td width="240"><a href="/acutekidneyinjury">Acute kidney injury</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="/neurogenesis">Adult neurogenesis</a></td>
-    <td>NEW: joined in January 2018</td>
-  </tr>
-  <tr>
-    <td><a href="anaphylaxis">Anaphylaxis</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="asthma">Asthma</a></td> 
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="atherosclerosis">Atherosclerosis</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="cancer">Cancer</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="coronaryarterydisease">Coronary artery disease</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="cysticfibrosis">Cystic fibrosis</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="duchenne">Duchenne muscular dystrophy</a></td>
-    <td>NEW: joined in December 2017</td>
-  </tr>
-  <tr>
-    <td><a href="lungcancer">Lung cancer</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="multiplesclerosis">Multiple sclerosis</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="parkinsons">Parkinson's disease</a></td> 
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="rheumatoidarthritis">Rheumatoid arthritis</a></td>
-    <td>&emsp;</td>
-  </tr>
-  <tr>
-    <td><a href="spinalcordinjury">Spinal cord injury</a></td>
-    <td>NEW: joined in March 2018</td>
-  </tr>
-</table>
-
-<br />
-
-<table>
-  <tr>
     <td width="160"><a href="/acutekidneyinjury">Acute kidney injury</a></td>
     <td>University of Salamanca, Salamanca, Spain</td> 
     <td>&emsp;</td>
