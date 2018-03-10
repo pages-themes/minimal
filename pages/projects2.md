@@ -17,12 +17,12 @@ The growing number of active projects within the Disease Maps Community are led 
     <th>Joined</th>
   </tr>-->
   <tr>
-    <td width="150">Disease</td>
+    <td width="160">Disease</td>
     <td>Lead</td> 
     <td>Joined</td>
   </tr>
   <tr>
-    <td width="150"><a href="/acutekidneyinjury">Acute kidney injury</a></td>
+    <td width="160"><a href="/acutekidneyinjury">Acute kidney injury</a></td>
     <td>University of Salamanca, Salamanca, Spain</td> 
     <td>&emsp;</td>
   </tr>
