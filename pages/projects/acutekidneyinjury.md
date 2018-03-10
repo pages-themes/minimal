@@ -1,5 +1,5 @@
 --- 
-title: Acute Kidney Injury 
+title: Acute kidney injury 
 layout: default 
 permalink: /acutekidneyinjury 
 --- 
