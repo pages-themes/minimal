@@ -31,10 +31,6 @@ The objectives are:
 
 The project was initiated by the [University of Lisbon](https://www.ulisboa.pt/en) and is designed as a joint effort of experts in cystic fibrosis and computational biology research groups. It progresses in the format of a PhD project and is led by Catarina Pereira, a PhD student at the University of Lisbon.  
 
-### Contact
-
-To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)  
-
 ### CF-MAP Development Team
 
 <table>
@@ -42,7 +38,7 @@ To contribute and discuss the project please use this email address: [cysticfibr
 <!-- <td><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira" /></td> -->
 <td style="width: 110px;"><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira" /></td>
 <td><strong>Catarina Pereira, MSc</strong><br />
-<strong>University of Lisbon, Portugal</strong><br />PhD Student</td>
+<strong>University of Lisbon, Portugal</strong><br />PhD Student, Leader of the CF-MAP project</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreFalcao.jpg" alt="André Falcão" /></td>
@@ -75,3 +71,14 @@ The list of domain experts is being confirmed.
 <br />European Cystic Fibrosis Society (ECFS) Board member</td>
 </tr>
 </table>-->
+
+### Contact
+
+To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)  
+
+Project Leader:  
+Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
+
+### Funding
+
+This work is supported by the [Fundação para a Ciência e a Tecnologia](https://www.fct.mctes.pt/) through the PhD Grant ref. PD/BD/131405/2017.  
