@@ -33,19 +33,6 @@ The growing number of active projects within the Disease Maps Community are led 
   </tr>
 </table>
         
-<p>New projects being discussed:</p>
-
-* Allergic rhinitis
-* Atopic dermatitis
-* Autoimmune thrombotic thrombocytopenic purpura
-* Chronic liver disease
-* Chronic lymphocytic leukaemia
-* Chronic obstructive pulmonary disease
-* Diabetes mellitus type 2
-* Immune system diseases
-* Infectious diseases
-* Inflammatory bowel disease
-        
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
 <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
@@ -97,3 +84,18 @@ The growing number of active projects within the Disease Maps Community are led 
 <h3 id="Rheumatoid arthritis"><a href="rheumatoidarthritis">Rheumatoid arthritis</a></h3>
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
+
+-----
+
+<p>New projects being discussed:</p>
+
+* Allergic rhinitis
+* Atopic dermatitis
+* Autoimmune thrombotic thrombocytopenic purpura
+* Chronic liver disease
+* Chronic lymphocytic leukaemia
+* Chronic obstructive pulmonary disease
+* Diabetes mellitus type 2
+* Immune system diseases
+* Infectious diseases
+* Inflammatory bowel disease
