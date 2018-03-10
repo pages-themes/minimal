@@ -2,7 +2,7 @@
 title: Anaphylaxis
 lyout: default
 permalink: /anaphylaxis
-
+---
 
 # Anaphylaxis
 
