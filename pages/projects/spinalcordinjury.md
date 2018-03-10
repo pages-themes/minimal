@@ -1,6 +1,6 @@
 ---
 title: Spinal cord injury
-layout: defaul
+layout: default
 permalink: /spinalcordinjury
 ---
 
