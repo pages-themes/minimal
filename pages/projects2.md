@@ -16,7 +16,7 @@ The growing number of active projects within the Disease Maps Community are led 
     <th>Lead</th> 
     <th>Joined</th>
   </tr>
-  <tr height="50">
+  <tr>
     <td><a href="/acutekidneyinjury">Acute kidney injury</a></td>
     <td>University of Salamanca, Salamanca, Spain</td> 
     <td>&emsp;</td>
@@ -35,16 +35,16 @@ The growing number of active projects within the Disease Maps Community are led 
         
 <p>New projects being discussed:</p>
 
-| Allergic rhinitis |
-| Atopic dermatitis |
-| Autoimmune thrombotic thrombocytopenic purpura |
-| Chronic liver disease |
-| Chronic lymphocytic leukaemia |
-| Chronic obstructive pulmonary disease |
-| Diabetes mellitus type 2 |
-| Immune system diseases |
-| Infectious diseases |
-| Inflammatory bowel disease |
+* Allergic rhinitis
+* Atopic dermatitis
+* Autoimmune thrombotic thrombocytopenic purpura
+* Chronic liver disease
+* Chronic lymphocytic leukaemia
+* Chronic obstructive pulmonary disease
+* Diabetes mellitus type 2
+* Immune system diseases
+* Infectious diseases
+* Inflammatory bowel disease
         
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
