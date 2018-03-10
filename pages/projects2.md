@@ -31,7 +31,32 @@ The growing number of active projects within the Disease Maps Community are led 
     <td>German Luxembourg Institute of Health, Luxembourg, Luxembourg</td> 
     <td>&emsp;</td>
   </tr>
+  <tr>
+    <td><a href="asthma">Asthma</a></td>
+    <td>European Institute for Systems Biology and Medicine, Lyon, France</td> 
+    <td>&emsp;</td>
+  </tr>
 </table>
+
+
+
+
+
+
+<p>New projects being discussed:</p>
+
+* Allergic rhinitis
+* Atopic dermatitis
+* Autoimmune thrombotic thrombocytopenic purpura
+* Chronic liver disease
+* Chronic lymphocytic leukaemia
+* Chronic obstructive pulmonary disease
+* Diabetes mellitus type 2
+* Immune system diseases
+* Infectious diseases
+* Inflammatory bowel disease
+
+-----
         
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
@@ -45,9 +70,9 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Resource:</i> Anaphylaxis Map<br />
 <i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
 
-### [Asthma](/asthma)
-*Resource:* AsthmaMap  
-*Contact:* Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
+<h3 id="Asthma"><a href="asthma">Asthma</a></h3>
+<i>Resource:</i> AsthmaMap<br />
+<i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
         
 <h3 id="Atherosclerosis"><a href="atherosclerosis">Atherosclerosis</a></h3>
 <i>Resource:</i> Atherosclerosis Map<br />
@@ -85,17 +110,3 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
 
------
-
-<p>New projects being discussed:</p>
-
-* Allergic rhinitis
-* Atopic dermatitis
-* Autoimmune thrombotic thrombocytopenic purpura
-* Chronic liver disease
-* Chronic lymphocytic leukaemia
-* Chronic obstructive pulmonary disease
-* Diabetes mellitus type 2
-* Immune system diseases
-* Infectious diseases
-* Inflammatory bowel disease
