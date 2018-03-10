@@ -20,7 +20,7 @@ The format of the project and resources dedicated
 <tr>
 <td style="width: 105px;"><img src="../images/team/AhmedAlBayar.jpg" alt="Ahmed AlBayar" width="100"/></td>
 <td><strong>Ahmed AlBayar, MD</strong><br />
-<strong>University of Pennsylvania</strong><br />
+<strong>University of Pennsylvania, Philadelphia, USA</strong><br />
   Research Associate at Perelman School of Medicine, University of Pennsylvania</td>
 </tr>
 <tr>
