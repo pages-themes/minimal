@@ -22,21 +22,21 @@ permalink: /anaphylaxis
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/FengHe.jpg" alt="Feng He" /></td>
-<td><strong>Feng He, PhD</strong><br \>
-<strong>Luxembourg Institute of Health, Luxembourg</strong><br \>Head of Immune Systems Biology Group, Department of Infection and Immunity</td>
+<td><strong>Feng He, PhD</strong><br />
+<strong>Luxembourg Institute of Health, Luxembourg</strong><br />Head of Immune Systems Biology Group, Department of Infection and Immunity</td>
 </tr>
 <tr>
 <td><img src="../images/team/LingXiao.jpg" alt="Ling Xiao" /></td>
-<td><strong>Ling Xiao, MS</strong><br \>
-<strong>Luxembourg Institute of Health, Luxembourg</strong><br \>Intern, Department of Infection and Immunity</td>
+<td><strong>Ling Xiao, MS</strong><br />
+<strong>Luxembourg Institute of Health, Luxembourg</strong><br />Intern, Department of Infection and Immunity</td>
 </tr>
 <tr>
 <td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
-<td><strong>Marek Ostaszewski, PhD</strong><br \><strong>University of Luxembourg, Luxembourg</strong><br \>Researcher, Luxembourg Centre for Systems Biomedicine</td>
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
-<td><strong>Reinhard Schneider, PhD</strong><br \><strong>University of Luxembourg, Luxembourg</strong><br \>Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine</td>
+<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 </table>
 
@@ -45,17 +45,17 @@ permalink: /anaphylaxis
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/MarkusOllert.jpg" alt="Markus Ollert" /></td>
-<td><strong>Markus Ollert, MD</strong><br \>
-<strong>Luxembourg Institute of Health, Luxembourg</strong><br \>Professor of Molecular Dermatology and Immunology
-<br \>Director, Department of Infection and Immunity</td>
+<td><strong>Markus Ollert, MD</strong><br />
+<strong>Luxembourg Institute of Health, Luxembourg</strong><br />Professor of Molecular Dermatology and Immunology
+<br />Director, Department of Infection and Immunity</td>
 </tr>
 <tr>
 <td><img src="../images/team/CarstenBindslev-Jensen.jpg" alt="Carsten Bindslev-Jensen" /></td>
-<td><strong>Carsten Bindslev-Jensen, MD</strong><br \><strong>Odense Research Centre for Anaphylaxis, Odense, Denmark</strong><br \>Head of Department, Chief Physician</td>
+<td><strong>Carsten Bindslev-Jensen, MD</strong><br /><strong>Odense Research Centre for Anaphylaxis, Odense, Denmark</strong><br />Head of Department, Chief Physician</td>
 </tr>
 <tr>
 <td><img src="../images/team/SebastianBode.jpg" alt="Sebastian Bode" /></td>
-<td><strong>Sebastian Bode, MD</strong><br \><strong>Luxembourg Institute of Health, Luxembourg</strong><br \>Pediatrician, Clinician Scientist, Department of Infection and Immunity</td>
+<td><strong>Sebastian Bode, MD</strong><br /><strong>Luxembourg Institute of Health, Luxembourg</strong><br />Pediatrician, Clinician Scientist, Department of Infection and Immunity</td>
 </tr>
 </table>
 
