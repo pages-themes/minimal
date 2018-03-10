@@ -144,6 +144,8 @@ The growing number of active projects within the Disease Maps Community are led 
   </tr>
 </table>
 
+<br />
+
 <p>New projects being discussed:</p>
 
 * Allergic rhinitis
