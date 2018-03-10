@@ -12,7 +12,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <ul style="list-style-type:none; line-height:175%;">
 <li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
-<li><a href="/neurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
+<li><a href="/adultneurogenesis">Adult neurogenesis</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in January 2018</li>
 <li><a href="/anaphylaxis">Anaphylaxis</a></li>
 <li><a href="/asthma">Asthma</a></li>
 <li><a href="/atherosclerosis">Atherosclerosis</a></li>
@@ -46,7 +46,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
 <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
         
-<h3 id="Adult neurogenesis"><a href="neurogenesis">Adult neurogenesis</a></h3>
+<h3 id="Adult neurogenesis"><a href="adultneurogenesis">Adult neurogenesis</a></h3>
 <i>Resource:</i> The Cognitive Resilience Map<br />
 <i>Contact:</i> Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
         
