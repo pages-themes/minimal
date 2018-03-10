@@ -9,7 +9,24 @@ permalink: /projects
 The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in France, Germany, Luxembourg, Portugal, Spain, the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts.  
-        
+
+<ul style="list-style-type:none; font-size:100%;">
+<li><a href="acutekidneyinjury">Acute kidney injury</a></li>
+<li><a href="neurogenesis">Adult neurogenesis</a> &emsp; &emsp; NEW: joined in January 2018</li>
+<li><a href="anaphylaxis">Anaphylaxis</a></li>
+<li><a href="asthma">Asthma</a></li>
+<li><a href="atherosclerosis">Atherosclerosis</a></li>
+<li><a href="cancer">Cancer</a></li>
+<li><a href="coronaryarterydisease">Coronary artery disease</a></li>
+<li><a href="cysticfibrosis">Cystic fibrosis</a></li>
+<li><a href="duchenne">Duchenne muscular dystrophy</a></li>
+<li><a href="lungcancer">Lung cancer</a></li>
+<li><a href="multiplesclerosis">Multiple sclerosis</a></li>
+<li><a href="parkinsons">Parkinson's disease</a></li>
+<li><a href="rheumatoidarthritis">Rheumatoid arthritis</a></li>
+<li><a href="spinalcordinjury">Spinal cord injury</a> &emsp; &emsp; NEW: joined in March 2018</li>
+</ul>
+
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
 <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
@@ -22,9 +39,9 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Resource:</i> Anaphylaxis Map<br />
 <i>Contact:</i> Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
 
-### [Asthma](/asthma)
-*Resource:* AsthmaMap  
-*Contact:* Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
+<h3 id="Asthma"><a href="asthma">Asthma</a></h3>
+<i>Resource:</i> AsthmaMap<br />
+<i>Contact:</i> Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France<br />
         
 <h3 id="Atherosclerosis"><a href="atherosclerosis">Atherosclerosis</a></h3>
 <i>Resource:</i> Atherosclerosis Map<br />
