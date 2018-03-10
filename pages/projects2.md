@@ -19,7 +19,7 @@ The growing number of active projects within the Disease Maps Community are led 
         
 
 <p style="line-height:4px;">&emsp; &emsp;<a href="/acutekidneyinjury">Acute kidney injury</a></p>
-<p style="line-height:4px;">&emsp; &emsp;<a href="/neurogenesis">Adult neurogenesis</a> (NEW: Joined in January 2018)</p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/neurogenesis">Adult neurogenesis</a> &emsp; NEW: joined in January 2018</p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/anaphylaxis">Anaphylaxis</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/asthma">Asthma</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/atherosclerosis">Atherosclerosis</a></p>
@@ -31,7 +31,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <p style="line-height:5px;">&emsp; &emsp;<a href="/multiplesclerosis">Multiple sclerosis</a></p>
 <p style="line-height:5px;">&emsp; &emsp;<a href="/parkinsons">Parkinson's disease</a></p>
 <p style="line-height:5px;">&emsp; &emsp;<a href="/rheumatoidarthritis">Rheumatoid arthritis</a></p>
-<p style="line-height:5px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury (NEW: Joined in March 2018)</a></p>
+<p style="line-height:5px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury</a>&emsp; NEW: joined in March 2018</p>
         
 <p>New projects being discussed:</p>
         
