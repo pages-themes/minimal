@@ -84,7 +84,7 @@ The growing number of active projects within the Disease Maps Community are led 
         
 <h3 id="Multiple sclerosis"><a href="multiplesclerosis">Multiple sclerosis</a></h3>
 <i>Resource:</i> Multiple Sclerosis Pathways Map<br />
-<i>Contact:</i> Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany; Ekaterina Kotelnikova, PhD August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Spain<br />
+<i>Contact:</i> Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany<br />
         
 <h3 id="Parkison's disease"><a href="parkinsons">Parkinson's disease</a></h3>
 <i>Resource:</i> Parkinson's Disease Map<br />
