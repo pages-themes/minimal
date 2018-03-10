@@ -27,6 +27,21 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="spinalcordinjury">Spinal cord injury</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
 </ul>
 
+<p>New projects being discussed:</p>
+
+* Allergic rhinitis
+* Atopic dermatitis
+* Autoimmune thrombotic thrombocytopenic purpura
+* Chronic liver disease
+* Chronic lymphocytic leukaemia
+* Chronic obstructive pulmonary disease
+* Diabetes mellitus type 2
+* Immune system diseases
+* Infectious diseases
+* Inflammatory bowel disease
+
+<br />
+
 <h3 id="Acute kidney injury"><a href="acutekidneyinjury">Acute kidney injury</a></h3>
 <i>Resource:</i> The regulatory network of systemic and renal hemodynamics<br />
 <i>Contact:</i> Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain<br />
@@ -78,20 +93,3 @@ The growing number of active projects within the Disease Maps Community are led 
 <h3 id="Rheumatoid arthritis"><a href="rheumatoidarthritis">Rheumatoid arthritis</a></h3>
 <i>Resource:</i> Rheumatoid Arthritis Map<br />
 <i>Contact:</i> Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
-
------
-
-<p>New projects being discussed:</p>
-        
-<ul style="list-style-type:none">
-<li>Allergic rhinitis</li>
-<li>Atopic dermatitis</li>
-<li>Autoimmune thrombotic thrombocytopenic purpura</li>
-<li>Chronic liver disease</li>
-<li>Chronic lymphocytic leukaemia</li>
-<li>Chronic obstructive pulmonary disease</li>
-<li>Diabetes mellitus type 2</li>
-<li>Immune system diseases</li>
-<li>Infectious diseases</li>
-<li>Inflammatory bowel disease</li>
-</ul>
