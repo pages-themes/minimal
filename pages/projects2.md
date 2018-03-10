@@ -10,28 +10,20 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, Egypt, the United Kingdom, with more centers and countries involved via the corresponding networks of domain experts.  
 
-&emsp; [Acute kidney injury](/acutekidneyinjury)  
-&emsp; [Adult neurogenesis](/neurogenesis) (NEW: Joined in January 2018)  
-&emsp; [Anaphylaxis](/anaphylaxis)  
-
-
-<p style="line-height:6px;">&emsp; </p>
-        
-
 <p style="line-height:4px;">&emsp; &emsp;<a href="/acutekidneyinjury">Acute kidney injury</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/neurogenesis">Adult neurogenesis</a> &emsp; NEW: joined in January 2018</p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/anaphylaxis">Anaphylaxis</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/asthma">Asthma</a></p>
 <p style="line-height:4px;">&emsp; &emsp;<a href="/atherosclerosis">Atherosclerosis</a></p>
-<p style="line-height:6px;">&emsp; &emsp;<a href="/cancer">Cancer</a></p>
-<p style="line-height:6px;">&emsp; &emsp;<a href="/coronaryarterydisease">Coronary artery disease</a></p>
-<p style="line-height:6px;">&emsp; &emsp;<a href="/cysticfibrosis">Cystic fibrosis</a></p>
-<p style="line-height:6px;">&emsp; &emsp;<a href="/duchenne">Duchenne muscular dystrophy</a></p>
-<p style="line-height:6px;">&emsp; &emsp;<a href="/lungcancer">Lung cancer</a></p>
-<p style="line-height:5px;">&emsp; &emsp;<a href="/multiplesclerosis">Multiple sclerosis</a></p>
-<p style="line-height:5px;">&emsp; &emsp;<a href="/parkinsons">Parkinson's disease</a></p>
-<p style="line-height:5px;">&emsp; &emsp;<a href="/rheumatoidarthritis">Rheumatoid arthritis</a></p>
-<p style="line-height:5px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury</a>&emsp; NEW: joined in March 2018</p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/cancer">Cancer</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/coronaryarterydisease">Coronary artery disease</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/cysticfibrosis">Cystic fibrosis</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/duchenne">Duchenne muscular dystrophy</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/lungcancer">Lung cancer</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/multiplesclerosis">Multiple sclerosis</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/parkinsons">Parkinson's disease</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/rheumatoidarthritis">Rheumatoid arthritis</a></p>
+<p style="line-height:4px;">&emsp; &emsp;<a href="/spinalcordinjury">Spinal cord injury</a>&emsp; NEW: joined in March 2018</p>
         
 <p>New projects being discussed:</p>
         
