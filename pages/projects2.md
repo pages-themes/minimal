@@ -16,7 +16,7 @@ The growing number of active projects within the Disease Maps Community are led 
     <th>Lead</th> 
     <th>Joined</th>
   </tr>
-  <tr height="20">
+  <tr height="30">
     <td><a href="/acutekidneyinjury">Acute kidney injury</a></td>
     <td>University of Salamanca, Salamanca, Spain</td> 
     <td>&emsp;</td>
