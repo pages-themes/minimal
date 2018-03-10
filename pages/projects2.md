@@ -12,7 +12,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <table>
   <tr>
-    <td width="200"><a href="/acutekidneyinjury">Acute kidney injury</a></td>
+    <td width="240"><a href="/acutekidneyinjury">Acute kidney injury</a></td>
     <td>&emsp;</td>
   </tr>
   <tr>
