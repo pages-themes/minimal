@@ -23,12 +23,12 @@ permalink: /duchenne
 
 <table>
 <tr>
-<td style="width: 110px;"><img src="../images/team/CeciliaJimenezMallebrera.jpg" alt="Cecilia Jimenez-Mallebrera, PhD" /></td>
+<td style="width: 105px;"><img src="../images/team/CeciliaJimenezMallebrera.jpg" alt="Cecilia Jimenez-Mallebrera, PhD" /></td>
 <td><strong>Cecilia Jimenez-Mallebrera, PhD</strong><br />
 <strong>Hospital Sant Joan de Déu, Barcelona, Spain</strong><br />Principal Investigator of the DMD-map project<br />Director, Laboratory for Translational Research into Children's Neuromuscular Diseases</td>
 </tr>
 <tr>
-<td style="width: 110px;"><img src="../images/team/SusanaKalko.jpg" alt="Susana Kalko" /></td>
+<td><img src="../images/team/SusanaKalko.jpg" alt="Susana Kalko" /></td>
 <td><strong>Susana G. Kalko, PhD</strong><br />
 <strong>Moebius Research, United Kingdom</strong><br />Bioinformatics and Systems Biomedicine Consultant</td>
 </tr>
@@ -38,19 +38,19 @@ permalink: /duchenne
 
 <table>
 <tr>
-<td style="width: 110px;"><img src="../images/team/AndresNascimento.jpg" alt="Andres Nascimento" /></td>
+<td style="width: 105px;"><img src="../images/team/AndresNascimento.jpg" alt="Andres Nascimento" /></td>
 <td><strong>Andres Nascimento, MD</strong><br />
 <strong>Hospital Sant Joan de Déu, Barcelona, Spain</strong><br />Consultant in Paediatric, Neurologist, Neuromuscular Unit</td>
 </tr>
 <!--
 <tr>
-<td style="width: 110px;"><img src="../images/team/FrancescPalau.jpg" alt="Francesc Palau" /></td>
+<td><img src="../images/team/FrancescPalau.jpg" alt="Francesc Palau" /></td>
 <td><strong>Francesc Palau, PhD</strong><br />
 <strong>Hospital Sant Joan de Déu, Barcelona, Spain</strong><br />Professor in Clinical Genetics<br />Director, Institute of Research Sant Joan de Déu</td>
 </tr>
 -->
 <tr>
-<td style="width: 110px;"><img src="../images/team/FrancescoMuntoni.jpg" alt="Francesco Muntoni" /></td>
+<td><img src="../images/team/FrancescoMuntoni.jpg" alt="Francesco Muntoni" /></td>
 <td><strong>Francesco Muntoni, MD</strong><br />
 <strong>University College London, United Kingdom</strong><br />Professor of Pediatric Neurology and Honorary Consultant in Pediatric Neurology, Dubowitz Neuromuscular Centre, University College London</td>
 </tr>  
