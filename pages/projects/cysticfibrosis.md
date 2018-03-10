@@ -83,4 +83,4 @@ Catarina Pereira [cpereira@lasige.di.fc.ul.pt](mailto:cpereira@lasige.di.fc.ul.p
 
 ### Funding
 
-This work is supported by the [Fundação para a Ciência e a Tecnologia](https://www.fct.mctes.pt/) through the PhD Grant ref. PD/BD/131405/2017.  
+This work is supported by the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt/) through the PhD Grant ref. PD/BD/131405/2017.  
