@@ -27,7 +27,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="spinalcordinjury">Spinal cord injury</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in March 2018</li>
 </ul>
 
-<p>New projects being discussed:</p>
+<p>New projects are discussed:</p>
 
 <ul style="list-style-type:none; line-height:170%;">
 <li>Allergic rhinitis</li>
