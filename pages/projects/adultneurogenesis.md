@@ -1,7 +1,7 @@
 ---
 title: Adult neurogenesis
 layout: default
-permalink: /neurogenesis
+permalink: /adultneurogenesis
 ---
 
 # Adult neurogenesis
@@ -17,9 +17,9 @@ permalink: /neurogenesis
 <table>
 <tr>
 <td style="width: 110px;"><img src="../images/team/RupertOverall.jpg" alt="Rupert Overall" /></td>
-<td><strong>Rupert Overall, PhD</strong><br \>
+<td><strong>Rupert Overall, PhD</strong><br />
 <strong>German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</strong>
-<br \>Platform Leader, Cognitive Resilience Map</td>
+<br />Platform Leader, Cognitive Resilience Map</td>
 </tr>
 </table>
 
