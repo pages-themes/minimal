@@ -71,7 +71,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Contact:</i> Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany<br />
         
 <h3 id="Cystic fibrosis"><a href="cysticfibrosis">Cystic fibrosis</a></h3>
-<i>Resource:</i> CF-MAP<br />
+<i>Resource:</i> Cystic Fibrosis Map<br />
 <i>Contact:</i> André Falcão, University of Lisbon, Lisbon, Portugal<br />
         
 <h3 id="Duchenne muscular dystrophy"><a href="duchenne">Duchenne muscular dystrophy</a></h3>
