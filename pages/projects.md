@@ -75,7 +75,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <i>Contact:</i> André Falcão, University of Lisbon, Lisbon, Portugal<br />
         
 <h3 id="Duchenne muscular dystrophy"><a href="duchenne">Duchenne muscular dystrophy</a></h3>
-<i>Resource:</i> DMD-map<br />
+<i>Resource:</i> Duchenne Muscular Dystrophy Map<br />
 <i>Contact:</i> Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
         
 <h3 id="Lung cancer"><a href="lungcancer">Lung cancer</a></h3>
