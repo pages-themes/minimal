@@ -1,7 +1,7 @@
 ---
-title: Related Efforts
+title: Related efforts
 layout: default
-permalink: /related_efforts
+permalink: /relatedefforts
 ---
 
 
