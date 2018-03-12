@@ -1,6 +1,7 @@
 ---
 title: Rheumatoid arthritis
 layout: default
+redirect_from: "/projects/rheumatoidarthritis/"
 permalink: /rheumatoidarthritis
 ---
 
