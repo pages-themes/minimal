@@ -80,7 +80,7 @@ _Contact:_ Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hambu
 ### [Cystic fibrosis](cysticfibrosis)
 
 _Resource:_ Cystic Fibrosis Map  
-_Contact:_ André Falcão, University of Lisbon, Lisbon, Portugal  
+_Contact:_ Catarina Pereira, University of Lisbon, Lisbon, Portugal  
 
 ### [Duchenne muscular dystrophy](duchenne)
 
