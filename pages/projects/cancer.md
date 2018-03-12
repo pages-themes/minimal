@@ -1,6 +1,7 @@
 ---
 title: Cancer
 layout: default
+redirect_from: "/projects/cancer/"
 permalink: /cancer
 ---
 
