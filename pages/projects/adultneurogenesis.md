@@ -1,6 +1,7 @@
 ---
 title: Adult neurogenesis
 layout: default
+redirect_from: "/projects/adultneurogenesis/"
 permalink: /adultneurogenesis
 ---
 
