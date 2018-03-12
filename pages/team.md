@@ -30,7 +30,7 @@ Alexander Mazein, Andre Falcao, Andrei Zinovyev, Anna Niarakis, Cecilia Jimenez 
 
 ## Team Members
 
-### Alexander Mazein
+#### Alexander Mazein
 Cofounder of the Disease Maps Project
 Leader of the Disease Maps Project
 Leader of the AsthmaMap development
