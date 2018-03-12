@@ -1,6 +1,7 @@
 --- 
 title: Acute kidney injury 
 layout: default 
+redirect_from: "/projects/acutekidneyinjury/"
 permalink: /acutekidneyinjury 
 --- 
 
