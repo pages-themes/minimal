@@ -1,6 +1,7 @@
 ---
 title: Asthma
 layout: default
+redirect_from: "/projects/asthma/"
 permalink: /asthma
 ---
 
