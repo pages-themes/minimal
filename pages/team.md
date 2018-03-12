@@ -18,11 +18,11 @@ Charles Auffray, Reinhard Schneider, Emmanuel Barillot
 
 ### Project Leaders
 
-Alexander Mazein, Charles Auffray, Marek Ostaszewski
+Alexander Mazein, Marek Ostaszewski, Inna Kuperstein
 
 ### Disease Maps Project Coordinators
 
-Alexander Mazein, Inna Kuperstein, Marek Ostaszewski, Andrei Zinoviev, Reinhard Schneider, Emmanuel Barillot, Rudi Balling, Charles Auffray
+Alexander Mazein, Marek Ostaszewski, Inna Kuperstein, Andrei Zinoviev, Reinhard Schneider, Emmanuel Barillot, Rudi Balling, Charles Auffray
 
 ### Disease Maps Project Board
 
@@ -38,22 +38,35 @@ The list of the Scientific Advisory Board members is being confirmed.
 
 ### Team Members
 
+<table>
+    <tr>
+      <td style="width: 200px;" align="center"><img src="/images/teamhq/AlexanderMazein.jpg" width="130"/></td>
+      <td style="width: 200px;" align="center"><img src="/images/teamhq/MarekOstaszewski.jpg" width="130"/></td>
+      <td style="width: 200px;" align="center"><img src="/images/teamhq/InnaKuperstein.jpg" width="130"/></td>
+      <td style="width: 200px;" align="center"><img src="/images/teamhq/CharlesAuffray.jpg" width="130"/></td>
+    </tr>
+</table>
+<table>
+    <tr>
+      <td style="width: 200px;" align="center"><strong>Alexander Mazein</strong><br />Cofounder of the Disease Maps Project, Leader of the Disease Maps Project, Leader of the AsthmaMap development</td>
+      <td style="width: 200px;" align="center"><strong>Marek Ostaszewski</strong><br />Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Developer of the Parkinson's Disease Map, Coordinator of the MINERVA project</td>
+      <td style="width: 200px;" align="center"><strong>Inna Kuperstein</strong><br />Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Coordinator of the Atlas of Cancer Signalling Networks</td>
+      <td style="width: 200px;" align="center"><strong>Charles Auffray</strong><br />Cofounder of the Disease Maps Project, PI of the Disease Maps Project</td>
+    </tr>
+</table>
+
+
+
+
+
 #### Alexander Mazein
-Cofounder of the Disease Maps Project  
-Leader of the Disease Maps Project  
-Leader of the AsthmaMap development  
-Developer of the community website  
+Cofounder of the Disease Maps Project, Leader of the Disease Maps Project, Leader of the AsthmaMap development, Developer of the community website  
 
 #### Marek Ostaszewski 
-Cofounder of the Disease Maps Project  
-Coleader of the Disease Maps Project  
-Developer of the Parkinson's Disease Map  
-Coordinator of the MINERVA project  
+Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Developer of the Parkinson's Disease Map, Coordinator of the MINERVA project  
 
 #### Inna Kuperstein 
-Cofounder of the Disease Maps Project  
-Coleader of the Disease Maps Project  
-Coordinator of the Atlas of Cancer Signalling Networks  
+Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Coordinator of the Atlas of Cancer Signalling Networks  
 
 
 
