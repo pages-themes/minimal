@@ -8,7 +8,7 @@ permalink: /contact
 
 For suggesting collaboration, contribution to the existing projects or initiation of new disease maps, please use this email address: <a href="mailto:disease-maps-coord@googlegroups.com">disease-maps-coord@googlegroups.com</a>  
 
-### Disease Maps Project coordinators
+### Disease Maps Project Coordinators
 
 Alexander Mazein <a href="mailto:a.mazein@gmail.com">amazein@eisbm.org</a>  
 Marek Ostaszewski <a href="mailto:marek.ostaszewski@uni.lu">marek.ostaszewski@uni.lu</a>  
