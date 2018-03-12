@@ -8,9 +8,9 @@ permalink: /team
 
 This page defines the organisational structure, roles and processes in the  Disease Maps Project, reflects the history of the project development.
 
-## Fouders
+## Founders
 
-Alexander Mazein, Charles Auffray, Marek Ostaszewski, Rudi Balling, Andrei Zinoviev
+Alexander Mazein, Charles Auffray, Marek Ostaszewski, Rudi Balling, Inna Kuperstein, Andrei Zinoviev
 
 ## Principal Inverstigators
 
@@ -36,3 +36,5 @@ Leader of the Disease Maps Project
 Leader of the AsthmaMap development
 Developer of the Disease Maps Community website
 Senior Researcher at the European Institute for Systems Biology and Medicine
+
+
