@@ -32,6 +32,10 @@ Charles Auffray, Rudi Balling, Reinhard Schneider, Emmanuel Barillot, Andrei Zin
 
 Nicolas Le Novère, Jan Hasenauer, Piotr Gawron, Irina Balaur
 
+### Scientific Advisory Board
+
+The list of the Scientific Advisory Board members is being confirmed.
+
 ### Team Members
 
 #### Alexander Mazein
