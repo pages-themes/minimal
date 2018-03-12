@@ -1,6 +1,7 @@
 ---
 title: WikiPathways
 layout: default
+redirect_from: "/partners/wikipathways/"
 permalink: /wikipathways
 ---
 
