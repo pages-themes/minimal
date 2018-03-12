@@ -1,6 +1,7 @@
 ---
 title: Newt Editor
 lyout: default
+redirect_from: "/partners/newt/"
 permalink: /newt
 ---
 
