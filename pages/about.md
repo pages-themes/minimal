@@ -59,4 +59,4 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 ### Funding
 
 The Disease Maps Project is funded in part by [IMI eTRIKS n°115446](http://www.imi.europa.eu/projects-results/project-factsheets/etriks)
-([eTRIKS](https://www.etriks.org/), European Translational Information and Knowledge Management Services).
+([eTRIKS](https://www.etriks.org/), European Translational Information and Knowledge Management Services)
