@@ -1,6 +1,7 @@
 ---
 title: Duchenne muscular dystrophy
 layout: default
+redirect_from: "/projects/duchenne/"
 permalink: /duchenne
 ---
 
