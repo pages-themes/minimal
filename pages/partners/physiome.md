@@ -1,6 +1,7 @@
 ---
 title: Physiome Project
 layout: default
+redirect_from: "/partners/physiome/"
 permalink: /physiome
 ---
 
