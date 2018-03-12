@@ -1,7 +1,6 @@
 ---
 title: Spinal cord injury
 layout: default
-redirect_from: "/projects/spinalcordinjury/"
 permalink: /spinalcordinjury
 ---
 
