@@ -1,7 +1,7 @@
 ---
 title: 2nd Community Meeting
 layout: default
-redirect_from: "/events/2ndCommunityMeeting"
+redirect_from: "/events/2ndCommunityMeeting/"
 permalink: /DMCM2017_2nd
 ---
 
