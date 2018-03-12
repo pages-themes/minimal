@@ -49,7 +49,7 @@ The list of the Scientific Advisory Board members is being confirmed.
 
 
 #### Alexander Mazein
-| ![image](/images/teamhq/AlexanderMazein.jpg =120x) | Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development<br />Developer of the community website |
+| ![image](/images/teamhq/AlexanderMazein.jpg =120x) | Cofounder of the Disease Maps Project  Leader of the Disease Maps Project  Leader of the AsthmaMap development  Developer of the community website |
 
 
 
