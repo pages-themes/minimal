@@ -1,6 +1,7 @@
 ---
 title: Lung cancer
 layout: default
+redirect_from: "/projects/lungcancer/"
 permalink: /lungcancer
 ---
 
