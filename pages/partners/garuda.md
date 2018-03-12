@@ -1,6 +1,7 @@
 ---
 title: Garuda
 layout: default
+redirect_from: "/partners/garuda/"
 permalink: /garuda
 ---
 
