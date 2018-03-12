@@ -34,7 +34,18 @@ Alexander Mazein, Andre Falcao, Andrei Zinovyev, Anna Niarakis, Cecilia Jimenez 
 Cofounder of the Disease Maps Project
 Leader of the Disease Maps Project
 Leader of the AsthmaMap development
-Developer of the Disease Maps Community website
-Senior Researcher at the European Institute for Systems Biology and Medicine
+Developer of the community website
+
+#### Marek Ostaszewski 
+Cofounder of the Disease Maps Project
+Coleader of the Disease Maps Project
+Developer of the Parkinson's Disease Map
+Leader of the MINERVA development
+
+#### Inna Kuperstein 
+Cofounder of the Disease Maps Project
+Coleader of the Disease Maps Project
+Coordinator of the Atlas of Cancer Signalling Networks
+
 
 
