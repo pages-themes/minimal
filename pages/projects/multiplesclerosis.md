@@ -1,6 +1,7 @@
 ---
 title: Multiple sclerosis
 layout: default
+redirect_from: "/projects/multiplesclerosis/"
 permalink: /multiplesclerosis
 ---
 
