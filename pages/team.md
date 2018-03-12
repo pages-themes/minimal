@@ -55,7 +55,7 @@ The list of the Scientific Advisory Board members is being confirmed.
     </tr>
 </table>
 
-<table>
+<table valign="top">
     <tr>
       <td style="width: 260px;" align="center"><img src="/images/teamhq/AlexanderMazein.jpg" width="150"/><br /><strong>Alexander Mazein</strong><br /><font size="1">Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</font></td>
       <td style="width: 260px;" align="center"><img src="/images/teamhq/MarekOstaszewski.jpg" width="150"/><br /><strong>Marek Ostaszewski</strong><br /><font size="1">Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Developer of the Parkinson's Disease Map, Coordinator of the MINERVA project</font></td>
