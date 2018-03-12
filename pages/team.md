@@ -10,7 +10,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Founders
 
-[Alexander Mazein](#Alexander Mazein), Charles Auffray, Marek Ostaszewski, Rudi Balling, Inna Kuperstein, Andrei Zinoviev
+[Alexander Mazein](#### Alexander Mazein), Charles Auffray, Marek Ostaszewski, Rudi Balling, Inna Kuperstein, Andrei Zinoviev
 
 ### Principal Inverstigators
 
@@ -51,7 +51,7 @@ The list of the Scientific Advisory Board members is being confirmed.
 #### Alexander Mazein
 
 <table>
-    <tr>
+    <tr valign="top" align="left">
       <td style="width: 200px;" align="center"><img src="/images/teamhq/AlexanderMazein.jpg" width="120"/></td>
       <td>Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
     </tr>
