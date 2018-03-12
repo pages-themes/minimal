@@ -1,6 +1,7 @@
 ---
 title: Cystic fibrosis
 layout: default
+redirect_from: "/projects/cysticfibrosis/"
 permalink: /cysticfibrosis
 ---
 
