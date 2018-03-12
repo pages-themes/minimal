@@ -1,6 +1,7 @@
 ---
 title: Coronary artery disease
 layout: default
+redirect_from: "/projects/coronaryarterydisease/"
 permalink: /coronaryarterydisease
 ---
 
