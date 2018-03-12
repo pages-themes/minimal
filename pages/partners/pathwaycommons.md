@@ -1,6 +1,7 @@
 ---
 title: Pathway Commons
 layout: default
+redirect_from: "/partners/pathwaycommons/"
 permalink: /pathwaycommons
 ---
 
