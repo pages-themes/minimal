@@ -55,8 +55,18 @@ The list of the Scientific Advisory Board members is being confirmed.
     </tr>
 </table>
 
+<table>
+    <tr>
+      <td style="width: 260px;" align="center"><img src="/images/teamhq/AlexanderMazein.jpg" width="150"/><br /><strong>Alexander Mazein</strong><br />Cofounder of the Disease Maps Project, Leader of the Disease Maps Project, Leader of the AsthmaMap development</td>
+      <td style="width: 260px;" align="center"><img src="/images/teamhq/MarekOstaszewski.jpg" width="150"/><br /><strong>Marek Ostaszewski</strong><br />Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Developer of the Parkinson's Disease Map, Coordinator of the MINERVA project</td>
+      <td style="width: 260px;" align="center"><img src="/images/teamhq/InnaKuperstein.jpg" width="150"/><br /><strong>Inna Kuperstein</strong><br />Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Coordinator of the Atlas of Cancer Signalling Networks</td>
+    </tr>
+</table>
 
 
+
+
+<td style="width: 200px;" align="center"><img src="/images/teamhq/CharlesAuffray.jpg" width="130"/><br /><strong>Charles Auffray</strong><br />Cofounder of the Disease Maps Project, PI of the Disease Maps Project</td></td>
 
 
 #### Alexander Mazein
