@@ -4,9 +4,9 @@ layout: default
 permalink: /team
 ---
 
-# Disease Maps Project Team
+# Team
 
-This page defines the organisational structure, roles and processes in the  Disease Maps Project, reflects the history of the project development.
+This page defines the organisational structure, roles and processes in the  Disease Maps Project, acknowledges contributions and reflects the history of the project development.
 
 ## Founders
 
