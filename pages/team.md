@@ -26,7 +26,11 @@ Alexander Mazein, Inna Kuperstein, Marek Ostaszewski, Andrei Zinoviev, Reinhard 
 
 ### Disease Maps Board
 
-Alexander Mazein, Andre Falcao, Andrei Zinovyev, Anna Niarakis, Cecilia Jimenez Mallebrera, Charles Auffray, Daniela Börnigen, Emmanuel Barillot, Feng He, Francisco J. Lopez Hernandez, Inna Kuperstein, Julio Saez Rodriguez, Marek Ostaszewski, Marek Ostaszewski, Nathanaël Lemonnier, Reinhard Schneider, Rudi Balling, Rupert Overall, Stephan Gebel, Steven Watterson, Susana Kalko, Ugur Dogrusoz
+Alexander Mazein, Inna Kuperstein, Marek Ostaszewski, Charles Auffray, Reinhard Schneider, Andrei Zinoviev, Emmanuel Barillot, Rudi Balling, Ugur Dogrusoz, Stephan Gebel, Andre Falcao, Anna Niarakis, Steven Watterson, Feng He, Francisco J. Lopez Hernandez, Julio Saez Rodriguez, Nathanaël Lemonnier, Daniela Börnigen, Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall
+
+### Active Contributors
+
+Nicolas Le Novère, Jan Hasenauer
 
 ### Team Members
 
