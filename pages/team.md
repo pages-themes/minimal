@@ -44,7 +44,7 @@ Developer of the community website
 Cofounder of the Disease Maps Project  
 Coleader of the Disease Maps Project  
 Developer of the Parkinson's Disease Map  
-Leader of the MINERVA development  
+Coordinator of the MINERVA project  
 
 #### Inna Kuperstein 
 Cofounder of the Disease Maps Project  
