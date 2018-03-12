@@ -79,7 +79,7 @@ permalink: /DMCM2017_1st
 <br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
   
-## Disease Maps Project coordinators
+## Disease Maps Project Coordinators
 
 <a href="mailto:amazein@eisbm.org">Alexander Mazein</a>  
 <a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
