@@ -1,6 +1,7 @@
 ---
 title: Parkinson’s disease
 layout: default
+redirect_from: "/projects/parkinsons/"
 permalink: /parkinsons
 ---
 
