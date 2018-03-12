@@ -30,7 +30,7 @@ Charles Auffray, Rudi Balling, Reinhard Schneider, Emmanuel Barillot, Andrei Zin
 
 ### Active Contributors
 
-Nicolas Le Novère (strategic advice, modelling), Jan Hasenauer (refining approaches, modelling), Piotr Gawron (SBGN support in MINERVA, support of disease maps in MINERVA), Irina Balaur (tools and approaches, integration in Neo4j)
+Nicolas Le Novère, Jan Hasenauer, Piotr Gawron, Irina Balaur
 
 ### Scientific Advisory Board
 
