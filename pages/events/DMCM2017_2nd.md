@@ -162,7 +162,7 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 <br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
 <br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
 
-## Disease Maps Project coordinators
+## Disease Maps Project Coordinators
 
 <br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
