@@ -43,7 +43,7 @@ The list of the Scientific Advisory Board members is being confirmed.
 <table>
     <tr valign="top">
       <td style="width: 105px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="100"/></td>
-      <td>Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
+        <td><h4>Alexander Mazein</h4>Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
     </tr>
 </table>
 
