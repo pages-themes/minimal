@@ -10,7 +10,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Founders
 
-[Alexander Mazein](#AlexanderMazein), [Charles Auffray](#CharlesAuffray), [Marek Ostaszewski](#MarekOstaszewski), [Rudi Balling](#RudiBalling), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinoviev](#AndreiZinoviev)  
+[Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray), [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinoviev](#AndreiZinoviev)  
 
 ### Principal Inverstigators
 
