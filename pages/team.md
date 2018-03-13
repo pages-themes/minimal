@@ -55,7 +55,7 @@ The list of the Scientific Advisory Board members is being confirmed.
     </tr>
 </table>
 
-![image](/images/team/MarekOstaszewski.jpg) | Cofounder of the Disease Maps Project
+![image](/images/team/MarekOstaszewski.jpg) | Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project
 
 
 #### Inna Kuperstein <a id="Inna Kuperstein">
