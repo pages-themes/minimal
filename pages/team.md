@@ -10,7 +10,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Founders
 
-[Alexander Mazein](#AlexanderMazein), Charles Auffray, Marek Ostaszewski, Rudi Balling, Inna Kuperstein, Andrei Zinoviev
+[Alexander Mazein](#Alexander Mazein), Charles Auffray, Marek Ostaszewski, Rudi Balling, Inna Kuperstein, Andrei Zinoviev
 
 ### Principal Inverstigators
 
@@ -48,7 +48,7 @@ The list of the Scientific Advisory Board members is being confirmed.
 </table>
 
 
-#### Alexander Mazein
+#### Alexander Mazein <a id="Alexander Mazein">
 
 <table>
     <tr valign="top">
