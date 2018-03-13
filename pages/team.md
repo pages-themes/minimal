@@ -40,6 +40,8 @@ Nicolas Le Novère, Jan Hasenauer, Piotr Gawron, Irina Balaur
 
 ### Scientific Advisory Board
 
+The Scientific Advisory Board is composed of scientists with expertise in large-scale systems biology and translational medicine projects. The board provides guidance regarding the goals and the roadmap for the Disease Maps Project.  
+
 The list of the Scientific Advisory Board members is being confirmed.  
 
 ### Team Members
