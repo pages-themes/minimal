@@ -44,23 +44,10 @@ The list of the Scientific Advisory Board members is being confirmed.
 
 ### Team Members
 
-<!--
-<table>
-    <tr>
-      <td style="width: 105px;"><img src="/images/team/AlexanderMazein.jpg" width="100"/></td>
-        <td><a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
-    </tr>
-    <tr>
-      <td><img src="/images/team/MarekOstaszewski.jpg" width="100"/></td>
-        <td><a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project</td>
-    </tr>
-</table>
--->
-
-![](/images/team/AlexanderMazein.jpg){:width="100px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development<br />Senior Researcher at the European Institut for Systems Biology and Medicine  
+![](/images/team/AlexanderMazein.jpg){:width="100px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap project<br />Senior Researcher at the European Institut for Systems Biology and Medicine  
 ![](/images/team/MarekOstaszewski.jpg){:width="100px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project  
 ![](/images/team/InnaKuperstein.jpg){:width="100px"} | <a id="InnaKuperstein"><strong>Inna Kuperstein</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Coordinator of the Atlas of Cancer Signalling Networks
-![](/images/team/CharlesAuffray.jpg){:width="100px"} | <a id="CharlesAuffray"><strong>Charles Auffray</strong></a><br />Cofounder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Research Director at CNRS, Founding Director of the EISBM
+![](/images/team/CharlesAuffray.jpg){:width="100px"} | <a id="CharlesAuffray"><strong>Charles Auffray</strong></a><br />Cofounder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Research Director at CNRS<br />Founding Director of the European Institut for Systems Biology and Medicine
 ![](/images/team/RudiBalling.jpg){:width="100px"} | <a id="RudiBalling"><strong>Rudi Balling</strong></a><br />Cofounder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine
 
 
