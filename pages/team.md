@@ -10,7 +10,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Founders
 
-[Alexander Mazein](#Alexander Mazein), Charles Auffray, Marek Ostaszewski, Rudi Balling, Inna Kuperstein, Andrei Zinoviev
+[Alexander Mazein](#AlexanderMazein), Charles Auffray, [Marek Ostaszewski](#MarekOstaszewski), Rudi Balling, [Inna Kuperstein](#Inna Kuperstein), Andrei Zinoviev
 
 ### Principal Inverstigators
 
@@ -38,19 +38,17 @@ The list of the Scientific Advisory Board members is being confirmed.
 
 ### Team Members
 
-#### Alexander Mazein <a id="Alexander Mazein">
-
 <table>
     <tr valign="top">
       <td style="width: 105px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="100"/></td>
-        <td><h4>Alexander Mazein</h4>Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
+        <td><a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
     </tr>
 </table>
 
-#### Marek Ostaszewski 
+#### Marek Ostaszewski <a id="MarekOstaszewski"></a>
 Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Developer of the Parkinson's Disease Map, Coordinator of the MINERVA project  
 
-#### Inna Kuperstein 
+#### Inna Kuperstein <a id="Inna Kuperstein">
 Cofounder of the Disease Maps Project, Coleader of the Disease Maps Project, Coordinator of the Atlas of Cancer Signalling Networks  
 
 
