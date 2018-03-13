@@ -46,18 +46,19 @@ The list of the Scientific Advisory Board members is being confirmed.
 
 <table>
     <tr>
-      <td style="width: 105px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="100"/></td>
+      <td style="width: 105px;"><img src="/images/team/AlexanderMazein.jpg" width="100"/></td>
         <td><a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
     </tr>
     <!--<tr>
-      <td style="width: 105px;" align="center"><img src="/images/team/MarekOstaszewski.jpg" width="100"/></td>
+      <td style="width: 105px;"><img src="/images/team/MarekOstaszewski.jpg" width="100"/></td>
         <td><a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project</td>
     </tr>-->
 </table>
 
 
-![image](/images/team/AlexanderMazein.jpg) | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development<br />Senior Researcher at the European Institut for Systems Biology and Medicine
-![image](/images/team/MarekOstaszewski.jpg) | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project
+![](/images/team/AlexanderMazein.jpg) | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development<br />Senior Researcher at the European Institut for Systems Biology and Medicine
+
+![](/images/team/MarekOstaszewski.jpg) | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project
 
 
 #### Inna Kuperstein <a id="Inna Kuperstein">
