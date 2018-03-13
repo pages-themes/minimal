@@ -51,7 +51,7 @@ The list of the Scientific Advisory Board members is being confirmed.
 ![](/images/team/RudiBalling.jpg){:width="100px"} | <a id="RudiBalling"><strong>Rudi Balling</strong></a><br />Cofounder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine
 ![](/images/team/EmmanuelBarillot.jpg){:width="100px"} | <a id="EmmanuelBarillot"><strong>Emmanuel Barillot</strong></a><br />PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech
 ![](/images/team/ReinhardSchneider.jpg){:width="100px"} | <a id="ReinhardSchneider"><strong>Reinhard Schneider</strong></a><br />PI of the Disease Maps Project<br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine
-![](/images/team/AndreiZinovyev.jpg){:width="100px"} | <a id="AndreiZinovyev"><strong>Andrei Zinovyev</strong></a><br />Cofounder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group at the Institut Curie
+![](/images/team/AndreiZinovyev.jpg){:width="100px"} | <a id="AndreiZinovyev"><strong>Andrei Zinovyev</strong></a><br />Cofounder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group<br />at the Institut Curie
 ![](/images/team/NicolasLeNovere.jpg){:width="100px"} | <a id="NicolasLeNovere"><strong>Nicolas Le Novère</strong></a><br />Senior Group Leader at the Babraham Institute
 ![](/images/team/UgurDogrusoz.jpg){:width="100px"} | <a id="UgurDogrusoz"><strong>Ugur Dogrusoz</strong></a><br />PI of Newt Editor project<br />Professor in Computer Engineering at the Bilkent University<br />Head of i-Vis Research Lab<br />Member of the SBGN Editors Board
 
