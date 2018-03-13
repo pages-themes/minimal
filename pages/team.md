@@ -30,7 +30,7 @@ The Disease Maps Project Coordiators team is the main [contact](/contact) of the
 
 ### Disease Maps Project Board
 
-The Disease Maps Project Board is created for internal discussions and includes leaders of the invovled projects.  
+The Disease Maps Project Board is created for internal discussions and includes PIs and leaders of the invovled projects.  
 
 Charles Auffray, Rudi Balling, Reinhard Schneider, Emmanuel Barillot, Andrei Zinoviev, [Alexander Mazein](#AlexanderMazein), [Inna Kuperstein](#InnaKuperstein), [Marek Ostaszewski](#MarekOstaszewski), Ugur Dogrusoz, Stephan Gebel, Steven Watterson, Catarina Pereira, Andre Falcao, Anna Niarakis, Feng He, Francisco J. Lopez Hernandez, Julio Saez Rodriguez, Nathanaël Lemonnier, Daniela Börnigen, Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall  
 
