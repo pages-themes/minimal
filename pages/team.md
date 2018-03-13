@@ -36,7 +36,7 @@ The Disease Maps Project Board is created for internal discussions and includes 
 
 ### Active Contributors
 
-Nicolas Le Novère, Jan Hasenauer, Piotr Gawron, Irina Balaur  
+[Nicolas Le Novère](#NicolasLeNovere), Jan Hasenauer, Piotr Gawron, Irina Balaur  
 
 ### Scientific Advisory Board
 
