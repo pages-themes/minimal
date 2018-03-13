@@ -49,13 +49,13 @@ The list of the Scientific Advisory Board members is being confirmed.
       <td style="width: 105px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="100"/></td>
         <td><a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Cofounder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Leader of the AsthmaMap development</td>
     </tr>
-    <tr>
+    <!--<tr>
       <td style="width: 105px;" align="center"><img src="/images/team/MarekOstaszewski.jpg" width="100"/></td>
         <td><a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project</td>
-    </tr>
+    </tr>-->
 </table>
 
-![image](/images/team/MarekOstaszewski.jpg) | Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project
+![image](/images/team/MarekOstaszewski.jpg) | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Cofounder of the Disease Maps Project<br />Coleader of the Disease Maps Project<br />Developer of the Parkinson's Disease Map<br />Coordinator of the MINERVA project
 
 
 #### Inna Kuperstein <a id="Inna Kuperstein">
