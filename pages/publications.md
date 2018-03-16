@@ -6,7 +6,7 @@ permalink: /publications
 
 # Publications
 
-### Community meeting proceedings
+### Community papers
 
 Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming R, Le Novere N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. **Community-driven roadmap for integrated disease maps**. Brief Bioinform. 2018. [Preprint doi: 10.17605/OSF.IO/HCUQA](https://doi.org/10.17605/OSF.IO/HCUQA).
 
