@@ -17,8 +17,8 @@
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
 
-	{% if site.title_image %}
-	  <img src="{{site.title_image}}" alt="Title image"></img>
+	{% if site.logo %}
+	  <img src="{{site.logo}}" alt="Logo"></img>
 	{% endif %}
 
 	<p>{{ site.description | default: site.github.project_tagline }}</p>
