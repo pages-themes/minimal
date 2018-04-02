@@ -38,7 +38,7 @@ description: [A short description of your site's purpose]
 Additionally, you may choose to set the following optional variables:
 
 ```yml
-title_image: [Location of the title image]
+logo: [Location of the logo]
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
