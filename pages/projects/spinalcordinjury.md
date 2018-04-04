@@ -59,7 +59,3 @@ The list of domain experts is being confirmed.
 
 Ahmed AlBayar [ahmed.albayar@pennmedicine.upenn.edu](mailto:ahmed.albayar@pennmedicine.upenn.edu)
 Basem I. Awad [basemawad@mans.edu.eg](mailto:basemawad@mans.edu.eg)
-
-### Funding
-
-Text
