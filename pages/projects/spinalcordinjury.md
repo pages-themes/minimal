@@ -38,6 +38,17 @@ The objectives of the project are:
 <td><strong>Venkata Satagopam, PhD</strong><br />
 <strong>University of Luxembourg, Luxembourg</strong><br />Research Scientist at the Luxembourg Centre For Systems Biomedicine, Technical Coordinator of the ELIXIR-Luxembourg Node, Co-founder and CTO at ITTM</td>
 </tr>
+<tr>
+<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br />
+Project Manager, the Parkinson's disease map project<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
 </table>
 
 ### Editorial Panel
