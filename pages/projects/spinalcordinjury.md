@@ -31,13 +31,12 @@ The objectives of the project are:
 <tr>
 <td style="width: 105px;"><img src="/images/team/BasemAwad.jpg" alt="Basem Awad" width="100"/></td>
 <td><strong>Basem I. Awad, MD, MSc, PhD</strong><br />
-<strong>Schoole of Medicine, Mansoura University, Mansoura, Egypt</strong><br />Assistant Professor at the Department of Neurological Surgery, Member of the Office for International Scientific Relations  
-</td>
-<tr>
+<strong>Schoole of Medicine, Mansoura University, Mansoura, Egypt</strong><br />Assistant Professor at the Department of Neurological Surgery, Member of the Office for International Scientific Relations</td>
+</tr>
+<tr> 
 <td style="width: 105px;"><img src="/images/team/VenkataSatagopam.jpg" alt="Venkata Satagopam" width="100"/></td>
 <td><strong>Venkata Satagopam, PhD</strong><br />
-<strong>University of Luxembourg, Luxembourg</strong><br />Research Scientist at the Luxembourg Centre For Systems Biomedicine, Technical Coordinator of the ELIXIR-Luxembourg Node, Co-founder and CTO at ITTM
-</td>
+<strong>University of Luxembourg, Luxembourg</strong><br />Research Scientist at the Luxembourg Centre For Systems Biomedicine, Technical Coordinator of the ELIXIR-Luxembourg Node, Co-founder and CTO at ITTM</td>
 </tr>
 </table>
 
