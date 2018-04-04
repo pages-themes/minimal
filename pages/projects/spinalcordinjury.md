@@ -19,6 +19,10 @@ The objectives of the project are:
 1. Curation of the sub-mechanisms of SCI, supported by text-mining approaches as well as gene expression patterns in the context of SCI.
 1. Providing spatial and temporal tracing of the main events during the development of the SCI, to create an accurate guide through the pathology.
 
+### Contact
+
+Ahmed AlBayar [ahmed.albayar@pennmedicine.upenn.edu](mailto:ahmed.albayar@pennmedicine.upenn.edu)  
+Basem I. Awad [basemawad@mans.edu.eg](mailto:basemawad@mans.edu.eg)
 
 ### Development Team
 
@@ -55,7 +59,3 @@ Project Manager, the Parkinson's disease map project<br /></td>
 
 The list of domain experts is being confirmed.
 
-### Contact
-
-Ahmed AlBayar [ahmed.albayar@pennmedicine.upenn.edu](mailto:ahmed.albayar@pennmedicine.upenn.edu)
-Basem I. Awad [basemawad@mans.edu.eg](mailto:basemawad@mans.edu.eg)
