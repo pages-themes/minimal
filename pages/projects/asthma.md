@@ -135,7 +135,7 @@ Researcher</td>
 Head of the Laboratory for Translational Research and Personalized Medicine</td>
 </tr>
 <tr>
-<td><img src="../images/team/noprofile.jpg" alt="Valeriya Berzhitskaya" /></td>
+<td><img src="../images/team/ValeriyaBerzhitskaya.jpg" alt="Valeriya Berzhitskaya" /></td>
 <td><strong>Valeriya Berzhitskaya, PhD</strong><br /><strong>Moscow Institute of Physics and Technology, Russia</strong><br />
 Researcher</td>
 </tr>
