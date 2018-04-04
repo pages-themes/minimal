@@ -130,6 +130,16 @@ Research Intern</td>
 Researcher</td>
 </tr>
 <tr>
+<td><img src="../images/team/TatianaSerebriyskaya.jpg" alt="Tatiana Serebriyskaya" /></td>
+<td><strong>Tatiana Serebriyskaya, PhD</strong><br /><strong>Moscow Institute of Physics and Technology, Russia</strong><br />
+Head of the Laboratory for Translational Research and Personalized Medicine</td>
+</tr>
+<tr>
+<td><img src="../images/team/noprofile.jpg" alt="Valeriya Berzhitskaya" /></td>
+<td><strong>Valeriya Berzhitskaya, PhD</strong><br /><strong>Moscow Institute of Physics and Technology, Russia</strong><br />
+Researcher</td>
+</tr>
+<tr>
 <td><img src="../images/team/CharlesAuffray.jpg" alt="Charles Auffray" /></td>
 <td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Research Director at CNRS, Founding Director of the EISBM</td>
 </tr>
