@@ -8,7 +8,7 @@ permalink: /asthma
 # Asthma
 ## AsthmaMap
 
-<p>AsthmaMap is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).</p>
+[AsthmaMap (http://asthma-map.org)](http://asthma-map.org/) is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).
 
 <p>The objectives are:</p>
 <ol>
