@@ -87,23 +87,23 @@ Coordinator of the ERANET <a href="https://www.era-learn.eu/network-information/
 <td><strong>Josep Roca, MD</strong><br /><strong>Hospital Clinic of Barcelona, Spain</strong><br />
 Professor of Medicine at the University of Barcelona, Senior Researcher at IDIBAPS, Senior Consultant at the Hospital Clinic of Barcelona</td>
 </tr>
-<tr>
+<!--<tr>
 <td><img src="../images/team/PeterOpenshaw.jpg" alt="Peter Openshaw" /></td>
 <td><strong>Peter Openshaw, MD</strong><br /><strong>Imperial College London, UK</strong><br />
 Professor of Experimental Medicine, Honorary Physician in the Department of Respiratory Medicine, <br />
 President of the British Society for Immunology</td>
-</tr>
+</tr>-->
 <tr>
 <td><img src="../images/team/RatkoDjukanovic.jpg" alt="Ratko Djukanovic" /></td>
 <td><strong>Ratko Djukanovic, MD, DM, FRCP</strong><br /><strong>University of Southampton, UK</strong><br />
 Professor of Medicine, Director of the Southampton NIHR Respiratory Biomedical Research Unit, <br />
 Director of the NIHR Southampton Centre for Biomedical Research</td>
 </tr>
-<tr>
+<!--<tr>
 <td><img src="../images/team/GrahamRoberts.jpg" alt="Graham Roberts" /></td>
 <td><strong>Graham Roberts, DM, MRCPCH, MA, MSc</strong><br /><strong>University of Southampton, UK</strong><br />
 Professor and Honorary Consultant Paediatrician in Paediatric Allergy and Respiratory Medicine</td>
-</tr>
+</tr>-->
 </table>
 
 <h3 id="developersteam">AsthmaMap Development Team</h3>
