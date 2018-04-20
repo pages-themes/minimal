@@ -21,7 +21,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
 <li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
 <li><a href="/lungcancer">Lung cancer</a></li>
-<li><a href="/test">Meniere’s disease</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in April 2018</li>
+<li>Meniere’s disease &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in April 2018</li>
 <li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="/parkinsons">Parkinson's disease</a></li>
 <li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
@@ -92,6 +92,11 @@ _Contact:_ Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Sp
 
 _Resource:_ Lung Cancer Disease Map  
 _Contact:_ Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France  
+
+### Meniere’s disease
+
+_Resource:_ Meniere’s Disease Map  
+_Contact:_ Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain  
 
 ### [Multiple sclerosis](multiplesclerosis)
 
