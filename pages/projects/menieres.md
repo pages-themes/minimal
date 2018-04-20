@@ -29,36 +29,37 @@ Jose Antonio Lopez-Escamez [antonio.lopezescamez@genyo.es](mailto:antonio.lopeze
 
 ### MDmap Development Team 
 
-Jose Antonio Lopez-Escamez, MD, PhD
-Instituto Biosanitario Granada, Spain
-Head Otology and Neurotology Group, Centre for Genomics and Oncology Genyo
+Jose Antonio Lopez-Escamez, MD, PhD  
+Instituto Biosanitario Granada, Spain  
+Head Otology and Neurotology Group, Centre for Genomics and Oncology Genyo  
 
-Stephan Gebel, PhD
-University of Luxembourg, Luxembourg
-Researcher, Luxembourg Centre for System Biomedicine
+Stephan Gebel, PhD  
+University of Luxembourg, Luxembourg  
+Researcher, Luxembourg Centre for System Biomedicine  
 
-Marek Ostaszewski, PhD
-University of Luxembourg, Luxembourg
-Researcher, Luxembourg Centre for System Biomedicine
+Marek Ostaszewski, PhD  
+University of Luxembourg, Luxembourg  
+Researcher, Luxembourg Centre for System Biomedicine  
 
-Lidia Frejo, PhD
-Instituto Biosanitario Granada, Spain
-Postdoctoral Researcher, Centre for Genomics and Oncology Genyo
+Lidia Frejo, PhD  
+Instituto Biosanitario Granada, Spain  
+Postdoctoral Researcher, Centre for Genomics and Oncology Genyo  
 
-Pablo Roman-Naranjo, MSc
-Instituto Biosanitario Granada, Spain
-PhD Student Centre for Genomics and Oncology Genyo
+Pablo Roman-Naranjo, MSc  
+Instituto Biosanitario Granada, Spain  
+PhD Student Centre for Genomics and Oncology Genyo  
 
-Alvaro Gallego-Martinez, MSc
-Instituto Biosanitario Granada, Spain
-PhD Student Centre for Genomics and Oncology Genyo
+Alvaro Gallego-Martinez, MSc  
+Instituto Biosanitario Granada, Spain  
+PhD Student Centre for Genomics and Oncology Genyo  
 
-Marisa Flook, MSc
-Instituto Biosanitario Granada, Spain
-PhD Student Centre for Genomics and Oncology Genyo
+Marisa Flook, MSc  
+Instituto Biosanitario Granada, Spain  
+PhD Student Centre for Genomics and Oncology Genyo  
 
 Reinhard Schneider, PhD
-Head of Bioinfromatics Core, Luxemoburg Centre for System Biomedicine
+University of Luxembourg, Luxembourg  
+Head of Bioinfromatics Core, Luxemoburg Centre for System Biomedicine  
 
 ### MDmap Editorial Panel (domain experts) 
 
