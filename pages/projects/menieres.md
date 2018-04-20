@@ -33,35 +33,12 @@ Jose Antonio Lopez-Escamez, MD, PhD
 Instituto Biosanitario Granada, Spain  
 Head Otology and Neurotology Group, Centre for Genomics and Oncology Genyo  
 
-<!--Stephan Gebel, PhD  
-University of Luxembourg, Luxembourg  
-Researcher, Luxembourg Centre for System Biomedicine-->
-
-<!--Marek Ostaszewski, PhD  
-University of Luxembourg, Luxembourg  
-Researcher, Luxembourg Centre for System Biomedicine-->  
-
-Lidia Frejo, PhD  
-Instituto Biosanitario Granada, Spain  
-Postdoctoral Researcher, Centre for Genomics and Oncology Genyo  
-
-Pablo Roman-Naranjo, MSc  
-Instituto Biosanitario Granada, Spain  
-PhD Student Centre for Genomics and Oncology Genyo  
-
-Alvaro Gallego-Martinez, MSc  
-Instituto Biosanitario Granada, Spain  
-PhD Student Centre for Genomics and Oncology Genyo  
-
-<!--Marisa Flook, MSc  
-Instituto Biosanitario Granada, Spain  
-PhD Student Centre for Genomics and Oncology Genyo-->  
-
-<!--Reinhard Schneider, PhD
-University of Luxembourg, Luxembourg  
-Head of Bioinfromatics Core, Luxemoburg Centre for System Biomedicine-->
-
 <table>
+<tr>
+<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><strong>Jose Antonio Lopez-Escamez, MD, PhD</strong><br /><strong>Instituto Biosanitario Granada, Spain
+</strong><br />Head of the Otology and Neurotology Group, Centre for Genomics and Oncology Genyo<br /></td>
+</tr>
 <tr>
 <td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
 <td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
@@ -72,6 +49,21 @@ Project Manager, the Parkinson's disease map project<br /></td>
 <td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/LidiaFrejo.jpg" alt="Lidia Frejo" /></td>
+<td><strong>Lidia Frejo, PhD</strong><br /><strong>Instituto Biosanitario Granada, Spain
+</strong><br />Postdoctoral Researcher, Centre for Genomics and Oncology Genyo<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/PabloRomanNaranjo.jpg" alt="Pablo Roman-Naranjo" /></td>
+<td><strong>Pablo Roman-Naranjo, MSc</strong><br /><strong>Instituto Biosanitario Granada, Spain
+</strong><br />PhD Student, Centre for Genomics and Oncology Genyo<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/AlvaroGallegoMartinez.jpg" alt="Alvaro Gallego-Martinez" /></td>
+<td><strong>Alvaro Gallego-Martinez, MSc</strong><br /><strong>Instituto Biosanitario Granada, Spain
+</strong><br />PhD Student, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
 <tr>
 <td><img src="../images/team/MarisaFlook.jpg" alt="Marisa Flook" /></td>
