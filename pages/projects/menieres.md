@@ -67,7 +67,7 @@ The list of the Editorial Panel memebers is being confirmed. We aim at brining t
 
 ### Funding
 
-The MDmap is a project initiated as part of MD-CONNECT project funded by FNR INTER/mobility and Andalusian Health Department.
+The MDmap is a project initiated as part of MD-CONNECT project funded by the [FNR INTER Mobility](https://www.fnr.lu/funding-instruments/inter-mobility/) and Andalusian Health Department.
 
 ### Publications
 
