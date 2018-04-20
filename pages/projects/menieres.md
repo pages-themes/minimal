@@ -27,7 +27,7 @@ The MDmap is being developed in close collaboration with the LCSB Parkinson's D
 
 Jose Antonio Lopez-Escamez [antonio.lopezescamez@genyo.es](mailto:antonio.lopezescamez@genyo.es)
 
-### Development Team 
+### MDmap Development Team 
 
 Jose Antonio Lopez-Escamez, MD, PhD
 Instituto Biosanitario Granada, Spain
@@ -60,7 +60,7 @@ PhD Student Centre for Genomics and Oncology Genyo
 Reinhard Schneider, PhD
 Head of Bioinfromatics Core, Luxemoburg Centre for System Biomedicine
 
-### Editorial Panel (domain experts) 
+### MDmap Editorial Panel (domain experts) 
 
 The list of the Editorial Panel memebers is being confirmed. We aim at brining together top experts in the field of the Meniere’s disease research.
 
