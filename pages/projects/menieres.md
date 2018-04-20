@@ -15,9 +15,9 @@ The condition shows a great clinical heterogeneity with large differences in res
 The majority of cases are considered sporadic, although familial aggregation has been recognized and few genes have been described in autosomal dominant families. Detailed phenotyping and cluster analyses have found several clinical predictors for different subgroups of patients, which may indicate different mechanisms, including genetic and immune factors. So far, two mechanisms have been involved in MD: a) a pro-inflammatory immune response mediated by IL-1β TNFα and IL-6, suggesting an autoinflammatory process, and b) an endophenotype found in 18% of patients with autoimmune MD defined by an NFκB-mediated inflammation in the carriers of the single nucleotide variant rs4947296.  
 
 The objectives are:
-1) to develop an integrated molecular network (MDmap) which include different MD mechanisms;
-1) to conduct network-based analysis, interpretation and generation of novel hyphotheses;
-1) to define endophenotypes according to specific mechanisms of the disease.  
+  - Develop an integrated molecular network (MDmap) which include different MD mechanisms.
+  - Conduct network-based analysis, interpretation and generation of novel hyphotheses.
+  - Define endophenotypes according to specific mechanisms of the disease.  
 
 The starting point of the MDmap is the autoimmune MDmap module based on the gene expression datasets obtained from PBMC from patients with MD. An initial version is available at [https://mdmap.lcsb.uni.lu/minerva/](https://mdmap.lcsb.uni.lu/minerva/). 
 
