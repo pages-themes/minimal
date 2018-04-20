@@ -19,7 +19,7 @@ The objectives are:
 * conduct network-based analysis, interpretation and generation of novel hyphotheses;
 * define endophenotypes according to specific mechanisms of the disease.  
 
-The starting point of the MDmap is the autoimmune MDmap module based on the gene expression datasets obtained from PBMC from patients with MD. An initial version is available at [https://mdmap.lcsb.uni.lu/minerva/](https://mdmap.lcsb.uni.lu/minerva/). 
+The starting point of the MDmap is the autoimmune MDmap module based on the gene expression datasets obtained from PBMC from patients with MD. The initial version is available at [https://mdmap.lcsb.uni.lu/minerva/](https://mdmap.lcsb.uni.lu/minerva/). 
 
 The MDmap is being developed in close collaboration with the LCSB Parkinson's Disease Map team. The MINERVA platform is employed for online visualisation and exploration.  
 
