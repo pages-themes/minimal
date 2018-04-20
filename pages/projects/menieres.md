@@ -33,13 +33,13 @@ Jose Antonio Lopez-Escamez, MD, PhD
 Instituto Biosanitario Granada, Spain  
 Head Otology and Neurotology Group, Centre for Genomics and Oncology Genyo  
 
-Stephan Gebel, PhD  
+<!--Stephan Gebel, PhD  
 University of Luxembourg, Luxembourg  
-Researcher, Luxembourg Centre for System Biomedicine  
+Researcher, Luxembourg Centre for System Biomedicine-->
 
-Marek Ostaszewski, PhD  
+<!--Marek Ostaszewski, PhD  
 University of Luxembourg, Luxembourg  
-Researcher, Luxembourg Centre for System Biomedicine  
+Researcher, Luxembourg Centre for System Biomedicine-->  
 
 Lidia Frejo, PhD  
 Instituto Biosanitario Granada, Spain  
@@ -53,13 +53,37 @@ Alvaro Gallego-Martinez, MSc
 Instituto Biosanitario Granada, Spain  
 PhD Student Centre for Genomics and Oncology Genyo  
 
-Marisa Flook, MSc  
+<!--Marisa Flook, MSc  
 Instituto Biosanitario Granada, Spain  
-PhD Student Centre for Genomics and Oncology Genyo  
+PhD Student Centre for Genomics and Oncology Genyo-->  
 
-Reinhard Schneider, PhD
+<!--Reinhard Schneider, PhD
 University of Luxembourg, Luxembourg  
-Head of Bioinfromatics Core, Luxemoburg Centre for System Biomedicine  
+Head of Bioinfromatics Core, Luxemoburg Centre for System Biomedicine-->
+
+<table>
+<tr>
+<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><strong>Stephan Gebel, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br />
+Project Manager, the Parkinson's disease map project<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/MarisaFlook.jpg" alt="Marisa Flook" /></td>
+<td><strong>Marisa Flook, MSc</strong><br /><strong>Instituto Biosanitario Granada, Spain
+</strong><br />PhD Student, Centre for Genomics and Oncology Genyo<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+</table>
 
 ### MDmap Editorial Panel (domain experts) 
 
