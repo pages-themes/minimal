@@ -21,7 +21,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
 <li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
 <li><a href="/lungcancer">Lung cancer</a></li>
-<li>Meniere’s disease &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in April 2018</li>
+<li>Meniere’s disease &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; NEW: joined in April 2018</li>
 <li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="/parkinsons">Parkinson's disease</a></li>
 <li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
