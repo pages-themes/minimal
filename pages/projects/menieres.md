@@ -31,7 +31,7 @@ Jose Antonio Lopez-Escamez [antonio.lopezescamez@genyo.es](mailto:antonio.lopeze
 
 <table>
 <tr>
-<td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
+<td><img src="../images/team/JoseAntonioLopezEscamez.jpg" alt="Jose Antonio Lopez-Escamez" /></td>
 <td><strong>Jose Antonio Lopez-Escamez, MD, PhD</strong><br /><strong>Instituto Biosanitario Granada, Spain
 </strong><br />Head of the Otology and Neurotology Group, Centre for Genomics and Oncology Genyo<br /></td>
 </tr>
