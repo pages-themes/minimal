@@ -29,10 +29,6 @@ Jose Antonio Lopez-Escamez [antonio.lopezescamez@genyo.es](mailto:antonio.lopeze
 
 ### MDmap Development Team 
 
-Jose Antonio Lopez-Escamez, MD, PhD  
-Instituto Biosanitario Granada, Spain  
-Head Otology and Neurotology Group, Centre for Genomics and Oncology Genyo  
-
 <table>
 <tr>
 <td><img src="../images/team/StephanGebel.jpg" alt="Stephan Gebel" /></td>
