@@ -14,14 +14,18 @@ The condition shows a great clinical heterogeneity with large differences in res
 
 The majority of cases are considered sporadic, although familial aggregation has been recognized and few genes have been described in autosomal dominant families. Detailed phenotyping and cluster analyses have found several clinical predictors for different subgroups of patients, which may indicate different mechanisms, including genetic and immune factors. So far, two mechanisms have been involved in MD: a) a pro-inflammatory immune response mediated by IL-1β, TNFα and IL-6, suggesting an autoinflammatory process, and b) an endophenotype found in 18% of patients with autoimmune MD defined by an NFκB-mediated inflammation in the carriers of the single nucleotide variant rs4947296.  
 
+The majority of cases are considered sporadic, although familial aggregation has been recognized and few genes have been described in autosomal dominant families. Detailed phenotyping and cluster analyses have found several clinical predictors for different subgroups of patients, which may indicate different mechanisms, including genetic and immune factors (Flook and Lopez-Escamez, 2018, doi:10.1007/s40136-018-0182-8). So far, two mechanisms have been involved in MD: a) a pro-inflammatory immune response mediated by IL-1β, TNFα and IL-6, suggesting an autoinflammatory process (Frejo et al., 2017, doi:10.1038/s41598-018-23911-4), and b) an endophenotype found in 18% of patients with autoimmune MD defined by an NFκB-mediated inflammation in the carriers of the single nucleotide variant rs4947296 (Frejo et al 2018., doi:10.3389/fimmu.2017.01739).  
+
 The objectives are:
 * develop an integrated molecular network (MDmap) which includes different MD mechanisms;
 * conduct network-based analysis, interpretation and generation of novel hyphotheses;
 * define endophenotypes according to specific mechanisms of the disease.  
 
-<!--The starting point of the MDmap is the autoimmune MDmap module based on the gene expression datasets obtained from PBMC from patients with MD. The initial version is available at [https://mdmap.lcsb.uni.lu/minerva/](https://mdmap.lcsb.uni.lu/minerva/). -->
+The starting point of the MDmap is the autoimmune module which is based on the gene expression datasets obtained from PBMC from patients with MD.
+
+<img src="../images/projects/menieres-introduction.png"/>
  
-The MDmap is being developed in close collaboration with the LCSB Parkinson's Disease Map team. The MINERVA platform is employed for online visualisation and exploration.  
+The MDmap development is led by the Centre for Genomics and Oncology Genyo in close collaboration with the LCSB Parkinson's Disease Map team. The MINERVA platform is employed for online visualisation and exploration.  
 
 ### Contact 
 
