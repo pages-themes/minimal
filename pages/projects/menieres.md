@@ -21,9 +21,7 @@ The objectives are:
 
 The starting point of the MDmap is the autoimmune module which is based on the gene expression datasets obtained from PBMC from patients with MD.
 
-<img src="../images/projects/menieres-introduction.png" width="600"/>
- 
-![introduction](/images/projects/menieres-introduction.png){width:600px;}
+<img src="../images/projects/menieres-introduction.png" width="400"/>
 
 The MDmap development is led by the Centre for Genomics and Oncology Genyo in close collaboration with the LCSB Parkinson's Disease Map team. The MINERVA platform is employed for online visualisation and exploration.  
 
