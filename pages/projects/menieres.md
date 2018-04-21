@@ -82,8 +82,3 @@ The list of the Editorial Panel memebers is being confirmed. We aim at brining t
 ### Funding
 
 The MDmap is a project initiated as part of MD-CONNECT project funded by the [FNR INTER Mobility](https://www.fnr.lu/funding-instruments/inter-mobility/) and the Andalusian Health Department.
-
-### Publications
-
-1. Frejo L, Requena T, Okawa S, Gallego-Martinez A, Martinez-Bueno M, Aran I, et al. Regulation of Fn14 Receptor and NF-κB Underlies Inflammation in Meniere's Disease. Front Immunol. 2017;8:1739.  
-1. Frejo L, Gallego-Martinez A, Requena T, Martin-Sanz E, Amor-Dorado JC, Soto-Varela A, et al. Proinflammatory cytokines and response to molds in mononuclear cells of patients with Meniere disease. Sci Rep. 2018 Apr 13;8(1):1.
