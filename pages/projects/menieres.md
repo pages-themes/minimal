@@ -16,7 +16,7 @@ The majority of cases are considered sporadic, although familial aggregation has
 
 The objectives are:
 * develop an integrated molecular network (MDmap) which includes different MD mechanisms;
-* conduct network-based analysis, interpretation and generation of novel hyphotheses;
+* conduct network-based analysis, interpretation and generation of novel hypotheses;
 * define endophenotypes according to specific mechanisms of the disease.  
 
 The starting point of the MDmap is the autoimmune module which is based on the gene expression datasets obtained for peripheral blood mononuclear cells (PBMC) from patients with MD.
