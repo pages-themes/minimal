@@ -73,7 +73,7 @@ Project Manager, the Parkinson's disease map project<br /></td>
 </tr>
 </table>
 
-### MDmap Editorial Panel (domain experts) 
+### MDmap Editorial Panel 
 
 The list of the Editorial Panel memebers is being confirmed. We aim at brining together top experts in the field of the Meniere’s disease research.
 
