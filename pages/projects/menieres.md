@@ -23,7 +23,7 @@ The starting point of the MDmap is the autoimmune module which is based on the g
 
 <p align="center"><img src="../images/projects/menieres-introduction.png" width="500"/></p>
 
-The MDmap development is led by the Centre for Genomics and Oncology Genyo in close collaboration with the LCSB Parkinson's Disease Map team. The MINERVA platform is employed for online visualisation and exploration.  
+The MDmap development is led by the [Centre for Genomics and Oncology Genyo](http://www.genyo.es/en/content/centre) in close collaboration with the [LCSB Parkinson's Disease Map team](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map). The MINERVA platform is employed for online visualisation and exploration.  
 
 ### Contact 
 
