@@ -23,7 +23,7 @@ The starting point of the MDmap is the autoimmune module which is based on the g
 
 <p align="center"><img src="../images/projects/menieres-introduction-v03.png" width="500"/></p>
 
-<p align="center"><strong>Molecular mechanisms of Meniere’s Disease</strong></p>
+<p align="center"><strong>Molecular mechanisms of Meniere’s disease</strong></p>
 
 The MDmap development is led by the [Centre for Genomics and Oncology Genyo](http://www.genyo.es/en/content/centre) in close collaboration with the [LCSB Parkinson's Disease Map team](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map). The [MINERVA](http://r3lab.uni.lu/web/minerva-website/) platform is employed for online visualisation and exploration.  
 
