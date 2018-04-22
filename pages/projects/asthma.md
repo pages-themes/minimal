@@ -29,7 +29,7 @@ permalink: /asthma
 
 <p>The high-level view includes 22 cell types and is connected to the underlying pathways. It can be used for data interpretation on systems level while keeping the focus on the involvement of different cell types in asthma pathogenesis. <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> data mapping and interpretation are ongoing. After sufficient validation, proposed endotypes can be used for redefining disease subtypes and fine-tuning of diagnosis and treatment.</p>
 
-<p>AsthmaMap is being developed in close collaboration with the <a href="http://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map" target="_blank">LCSB Parkinson's disease map</a> team. <a href="http://r3lab.uni.lu/web/minerva-website/" target="_blank">MINERVA</a> platform is employed for online visualisation.</p>
+<p>AsthmaMap is being developed in close collaboration with the LCSB <a href="http://r3lab.uni.lu/web/minerva-website/" target="_blank">MINERVA</a> team.</p>
 
 <h3 id="press release">Press release</h3>
 
