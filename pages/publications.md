@@ -4,20 +4,23 @@ layout: default
 permalink: /publications
 ---
 
+# How to cite the Disease Maps
+
+Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira M, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C. **Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms.** NPJ Syst Biol Appl. 2018. In press.
+
 # Publications
 
-### Community papers
+## Community papers
 
-Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming R, Le Novere N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. **Community-driven roadmap for integrated disease maps**. Brief Bioinform. 2018. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024).
+Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira M, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C. **Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms.** NPJ Syst Biol Appl. 2018. In press.
 
-### Maps
+Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. **Community-driven roadmap for integrated disease maps**. Brief Bioinform. 2018 Apr 23. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).
+
+## Maps
 
 Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. **Computational systems biology approach for the study of rheumatoid arthritis: from a molecular map to a dynamical model**. Genomics Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050)
 
-### Tools
+## Tools
 
 Gawron P, Ostaszewski M, Satagopam V, Gebel S, Mazein A, Kuzma M, Zorzan S,
-McGee F, Otjacques B, Balling R, Schneider R. **MINERVA - a platform for
-visualization and curation of molecular interaction networks**. NPJ Syst Biol Appl.
-2016 Sep 22;2:16020. [doi: 10.1038/npjsba.2016.20](https://doi.org/10.1038/npjsba.2016.20)
-
+McGee F, Otjacques B, Balling R, Schneider R. **MINERVA-a platform for visualization and curation of molecular interaction networks**. NPJ Syst Biol Appl. 2016 Sep 22;2:16020. [doi: 10.1038/npjsba.2016.20](https://doi.org/10.1038/npjsba.2016.20). eCollection 2016. PubMed [PMID: 28725475](https://www.ncbi.nlm.nih.gov/pubmed/28725475).
