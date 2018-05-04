@@ -103,7 +103,7 @@ Director of the NIHR Southampton Centre for Biomedical Research</td>
 </tr>
 <tr>
 <td><img src="../images/team/GrahamRoberts.jpg" alt="Graham Roberts" /></td>
-<td><strong>Graham Roberts, DM, MRCPCH, MA, MSc</strong><br /><strong>University of Southampton, UK</strong><br />
+<td><strong>Graham Roberts, DM, FRCPCH, MA, MSc</strong><br /><strong>University of Southampton, UK</strong><br />
 Professor and Honorary Consultant Paediatrician in Paediatric Allergy and Respiratory Medicine</td>
 </tr>
 </table>
