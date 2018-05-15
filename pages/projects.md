@@ -60,7 +60,7 @@ _Contact:_ Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg
 
 ### [Asthma](asthma)
 
-_Resource:_ AsthmaMap  
+_Resource:_ [AsthmaMap](http://asthma-map.org/)  
 _Contact:_ Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
 
 ### [Atherosclerosis](atherosclerosis)
