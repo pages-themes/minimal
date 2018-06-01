@@ -13,7 +13,7 @@ Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, D
 Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2018 Apr 23. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
 
 <!--## Community meeting proceedings
-Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. **Community-driven roadmap for integrated disease maps**. Brief Bioinform. 2018 Apr 23. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  -->
+Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. **Community-driven roadmap for integrated disease maps**. Brief Bioinform. 2018 Apr 23. [doi:10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  -->
 
 <!--## Protocols and guidelines  -->
 
@@ -29,3 +29,7 @@ Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenaue
 
 <!--Gawron P, Ostaszewski M, Satagopam V, Gebel S, Mazein A, Kuzma M, Zorzan S,
 McGee F, Otjacques B, Balling R, Schneider R. MINERVA-a platform for visualization and curation of molecular interaction networks. NPJ Syst Biol Appl. 2016 Sep 22;2:16020. [doi: 10.1038/npjsba.2016.20](https://doi.org/10.1038/npjsba.2016.20). eCollection 2016. PubMed [PMID: 28725475](https://www.ncbi.nlm.nih.gov/pubmed/28725475).-->
+
+<!--## Key publications prior the community effort-->
+
+
