@@ -12,21 +12,13 @@ Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, D
 
 Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2018 Apr 23. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
 
-## Community meeting proceedings
-
-Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2018 Apr 23. [doi:10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).
-
-## Protocols and guidelines
-
-Text  
-
-## Maps developed in alliance with the community effort
+<!--## Protocols and guidelines-->
+ 
+## Maps
 
 Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational systems biology approach for the study of rheumatoid arthritis: from a molecular map to a dynamical model. Genomics Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050)
 
-## Modelling and applications
-
-Text  
+<!--## Modelling and applications-->
 
 ## Tools
 
@@ -36,3 +28,4 @@ McGee F, Otjacques B, Balling R, Schneider R. MINERVA-a platform for visualizati
 ## Key publications prior the community effort
 
 Text  
+
