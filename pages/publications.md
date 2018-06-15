@@ -29,6 +29,17 @@ McGee F, Otjacques B, Balling R, Schneider R. MINERVA-a platform for visualizati
 
 ## Maps
 
+Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. [doi:10.1038/oncsis.2015.19](https://doi.org/10.1038/oncsis.2015.19). PubMed [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618).
+
+
+Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y. A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. [doi:10.1186/1752-0509-7-97](https://doi.org/10.1186/1752-0509-7-97). PubMed [PMID: 24088197](https://www.ncbi.nlm.nih.gov/pubmed/24088197).
+
+
+Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi:10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. PubMed [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).
+
+
+Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. [doi:10.1186/1752-0509-6-52](https://doi.org/10.1186/1752-0509-6-52). PubMed [PMID: 22647208](https://www.ncbi.nlm.nih.gov/pubmed/22647208).
+
 
 ## Tools
 
