@@ -33,6 +33,6 @@ McGee F, Otjacques B, Balling R, Schneider R. MINERVA-a platform for visualizati
 ## Tools
 
 
-## Modelling and applications
+## Applications
 
 
