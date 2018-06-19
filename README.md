@@ -57,6 +57,10 @@ If you'd like to add your own custom styles:
     ```
 3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
+### Logo and Favicon
+Copy your logo and favicon.ico to /assets/img. The default file name for your
+logo is logo.png. The logo filename can be changed in `_config.ymp`.
+
 ### Layouts
 
 If you'd like to change the theme's HTML layout:
