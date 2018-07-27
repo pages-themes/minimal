@@ -4,7 +4,7 @@ layout: default
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
         
-<!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2018">3rd Disease Maps Community Meeting</a></strong> (DMCM2018) is scheduled 21-22 June 2018 in Paris and is organised by the <a href="https://sysbio.curie.fr/">Computational Systems Biology of Cancer group, Institut Curie</a>.</p>-->
+<p>UPCOMING EVENT: The <strong><a href="/events">4rd Disease Maps Community Meeting</a></strong> (DMCM2019) is scheduled 2-4 October 2019 in Sevilla, Spain and is organised by the team of the <a href="http://www.clinbioinfosspa.es/">Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio</a>.</p>
         
 ### What is a disease map?
 
