@@ -13,7 +13,7 @@ permalink: /events
 <td valign="top">
 <strong>4th Disease Maps Community Meeting</strong><br />
 2-4 October 2019, Sevilla, Spain<br />
-The 2018 community meeting is hosted by the <a href="http://www.clinbioinfosspa.es/">Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio</a>.
+The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.es/">Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio</a>.
 </td>
 </tr>
 </table> 
