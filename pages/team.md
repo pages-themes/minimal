@@ -34,10 +34,6 @@ The Disease Maps Project Board is created for internal discussions and includes 
 
 [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Alexander Mazein](#AlexanderMazein), [Inna Kuperstein](#InnaKuperstein), [Marek Ostaszewski](#MarekOstaszewski), [Ugur Dogrusoz](#UgurDogrusoz), Stephan Gebel, Steven Watterson, Catarina Pereira, Andre Falcao, Anna Niarakis, Feng He, Francisco J. Lopez Hernandez, Julio Saez Rodriguez, Nathanaël Lemonnier, Daniela Börnigen, Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall, Jose Antonio Lopez-Escamez  
 
-### Active Contributors
-
-[Nicolas Le Novère](#NicolasLeNovere), Jan Hasenauer, Piotr Gawron, Irina Balaur  
-
 ### Scientific Advisory Board
 
 The list of the Scientific Advisory Board members is being confirmed.  
