@@ -10,7 +10,7 @@ For suggesting collaboration, contribution to the existing projects or initiatio
 
 ### Disease Maps Project Coordinators
 
-Alexander Mazein <a href="mailto:a.mazein@gmail.com">amazein@eisbm.org</a>  
+Alexander Mazein <a href="mailto:a.mazein@gmail.com">a.mazein@gmail.com</a>  
 Marek Ostaszewski <a href="mailto:marek.ostaszewski@uni.lu">marek.ostaszewski@uni.lu</a>  
 Inna Kuperstein <a href="mailto:inna.kuperstein@curie.fr">inna.kuperstein@curie.fr</a>  
 Andrei Zinoviev <a href="mailto:andrei.zinovyev@curie.fr">andrei.zinovyev@curie.fr</a>  
