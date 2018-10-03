@@ -30,6 +30,12 @@ permalink: /tools
 
 <p>Since version <a href="https://www.yworks.com/products/yed/download#ReleaseNotes" target="_blank">3.17.1</a> yEd provides a palette section for Systems Biology Graphical Notation glyphs and new arrow styles to support SBGN <i>catalysis</i> and <i>necessary stimulation</i> arcs.</p>
 
+### ySBGN
+
+[ySBGN](https://github.com/sbgn/ySBGN) is a a bidirectional converter between GraphML format of the [yEd Graph Editor](https://www.yworks.com/yed) and the SBGN Process Description or Activity Flow languages. 
+
+Now diagrams can be created in the intuitive general-purpose [yEd Graph Editor](https://www.yworks.com/yed) using the SBGN Palette available since [version 3.17.1](https://www.yworks.com/products/yed/download#ReleaseNotes), and, thanks to the converter, the outcome could be offered in the standard Systems Biology format.
+
 
 ### MINERVA
 
