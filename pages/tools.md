@@ -21,6 +21,9 @@ permalink: /tools
 
 <p>Newt is developed to make it easy to design SBGN diagrams: rich yet minimalistic user-friendly UI; support for developing maps from scratch; automatic layout facilities; full support for complexes, compartments and submaps; state-of-the-art complexity management through hide-show and collapse-expand functionalities; advanced diagramming with grid and alignment support, resizing and styling map objects, and more.</p>
 
+### SBGN-ED
+
+Text
 
 ### yEd Graph Editor
 
