@@ -23,7 +23,9 @@ permalink: /tools
 
 ### SBGN-ED
 
-Text
+[SBGN-ED](http://www.sbgn-ed.org) is an open-source SBGN editor which allows creating, editing and exploring diagrams in all three SBGN languages: Process Description, Activity Flow and Entity Relationship (Czauderna et al., 2010, [doi:/10.1093/bioinformatics/btq407](https://doi.org/10.1093/bioinformatics/btq407)). It allows validation of the syntactical and semantical correctness of created or edited maps. Already existing non-SBGN maps from the KEGG database can be translated into SBGN PD maps including automatic layout. Translation of PD to AF maps and visualisation of SBML models in SBGN PD are also provided. Additionally, the tool allows exporting of SBGN maps into several file and image formats including the SBGN-ML format.  
+
+SBGN-ED is an add-on of the [VANTED framework](http://www.vanted.org). VANTED is an integrative and extendable framework for systems biology applications which aims at the integration, analysis and visual exploration of experimental data in the context of biological networks as well as the modelling, simulation and analysis of molecular biological processes.
 
 ### yEd Graph Editor
 
