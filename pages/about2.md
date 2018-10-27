@@ -30,7 +30,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 </tr>
 </table>
         
-### Disease Maps Scientific Committee
+## Disease Maps Scientific Committee
 
 <table>
 <tr>
