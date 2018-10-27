@@ -10,13 +10,7 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 
 ## Get involved
 
-We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort. 
-
-**Computational biology groups:** We invite to collaborate groups that work on the reconstruction of disease mechanisms. The framework of the community effort is very practical and allows each involved group execute their tasks with better efficiency, save time and resources. Together we optimise analytical methods, 'omics data interpretation approaches, share experience in modelling and improve hypothesis generation pipelines.
-
-**Disease domain experts:** Clinicians and biologists with an extensive expertise in a particular disease are welcome to participate in building reference resources that describe disease mechanisms. The protocols we use allow very efficient communication with domain experts while asking for minimal time to be dedicated to it.
-
-**Pathway domain experts:** If your research is related to metabolic or signalling pathways and you are interested in sharing your expertise via unambiguously drawn machine-readable diagrams, please contact us. We believe that the next-generation high-quality pathway modules should be designed and continuously updated by top experts in the corresponding domains.
+We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort. **Computational biology groups:** we invite to collaborate groups that work on the reconstruction of disease mechanisms. The framework of the community effort is very practical and allows each involved group execute their tasks with better efficiency, save time and resources. Together we optimise analytical methods, 'omics data interpretation approaches, share experience in modelling and improve hypothesis generation pipelines. **Disease domain experts:** clinicians and biologists with an extensive expertise in a particular disease are welcome to participate in building reference resources that describe disease mechanisms. The protocols we use allow very efficient communication with domain experts while asking for minimal time to be dedicated to it.
 
 ## Project Leaders
         
@@ -58,12 +52,11 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 </tr>
 </table>
 
-## Scientific Advisory Board
-
+<!--## Scientific Advisory Board
 Jonathan Karr  
 Gary Bader  
 Henning Hermjakob  
-David Nickerson  
+David Nickerson  -->
 
 ## Acknowledgements
 
