@@ -14,8 +14,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Project Leaders
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.  
-
 [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein)  
 
 ### Disease Maps Scientific Committee
@@ -23,8 +21,6 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 [Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev)  
 
 ### Disease Maps Project Coordinators
-
-The Disease Maps Project Coordiators team is the main [contact](/contact) of the Disease Maps Project.  
 
 [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray)  
 
