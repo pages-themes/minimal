@@ -43,8 +43,8 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 <td><strong>Emmanuel Barillot, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/AndreyZinoviev.jpg" alt="Andrey Zinoviev" /></td>
-<td><strong>Andrey Zinoviev, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Scientific Coordinator of Computational Systems Biology of Cancer group</td>
+<td style="width: 100px;"><img src="../images/team/AndreiZinovyev.jpg" alt="Andrei Zinovyev" /></td>
+<td><strong>Andrei Zinovyev, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Scientific Coordinator of Computational Systems Biology of Cancer group</td>
 </tr>
 </table>
 
