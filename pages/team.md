@@ -12,17 +12,13 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 [Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray), [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Steven Watterson](#StevenWatterson), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev)  
 
-### Project Leaders
+### Project Coordinators
 
 [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein)  
 
 ### Disease Maps Scientific Committee
 
 [Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev)  
-
-### Disease Maps Project Coordinators
-
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray)  
 
 ### Disease Maps Project Team
 
