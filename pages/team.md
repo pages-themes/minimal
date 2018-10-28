@@ -31,7 +31,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 <p>The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.</p>
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
+<td style="width: 100px;"><a id="MarekOstaszewski"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></a></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, Lyon, France</strong><br />Senior Researcher</td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 </table>
 
-![](/images/team/AlexanderMazein.jpg){:width="100px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Co-founder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Senior Researcher at the European Institute for Systems Biology and Medicine  
+![](/images/team/AlexanderMazein.jpg){:width="100px"} | <strong>Alexander Mazein</strong><br />Co-founder of the Disease Maps Project<br />Leader of the Disease Maps Project<br />Senior Researcher at the European Institute for Systems Biology and Medicine  
 ![](/images/team/MarekOstaszewski.jpg){:width="100px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine
 ![](/images/team/InnaKuperstein.jpg){:width="100px"} | <a id="InnaKuperstein"><strong>Inna Kuperstein</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Coordinator of the Atlas of Cancer Signalling Networks<br />Senior Research Scientist at the Institut Curie
 ![](/images/team/CharlesAuffray.jpg){:width="100px"} | <a id="CharlesAuffray"><strong>Charles Auffray</strong></a><br />Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Research Director at CNRS<br />Founding Director of the European Institute for Systems Biology and Medicine
