@@ -153,6 +153,6 @@ Researcher</td>
 
 <h3 id="funding">Funding</h3>
 <ul>
-<li><a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">IMI U-BIOPRED n°115010</a></li>
-<li><a href="https://www.etriks.org/" target="_blank">IMI eTRIKS n°115446</a></li>
+<li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred" target="_blank">IMI U-BIOPRED n°115010</a></li>
+<li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/etriks" target="_blank">IMI eTRIKS n°115446</a></li>
 </ul>
