@@ -116,4 +116,4 @@ _Contact:_ Anna Niarakis, University of Evry Val d’Essonne, Evry, France
 ### [Spinal cord injury](spinalcordinjury)
 
 _Resource:_ Spinal Cord Injury Map  
-_Contact:_ Ahmed AlBayar, Mansoura University, Mansoura, Egypt
+_Contact:_ Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA
