@@ -37,5 +37,10 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/EmmanuelBarillot.jpg){:width="100px"} | <a id="EmmanuelBarillot"><strong>Emmanuel Barillot</strong></a><br />PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech
 ![](/images/team/AndreiZinovyev.jpg){:width="100px"} | <a id="AndreiZinovyev"><strong>Andrei Zinovyev</strong></a><br />Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group<br />at the Institut Curie
 ![](/images/team/StevenWatterson.jpg){:width="100px"} | <a id="StevenWatterson"><strong>Steven Watterson</strong></a><br />Co-founder of the Disease Maps Project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre <br />for Stratified Medicine, University of Ulster, UK  
-![](/images/team/UgurDogrusoz.jpg){:width="100px"} | <a id="UgurDogrusoz"><strong>Ugur Dogrusoz</strong></a><br />PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University<br />Head of i-Vis Research Lab<br />Member of the SBGN Editors Board
+![](/images/team/UgurDogrusoz.jpg){:width="100px"} | <a id="UgurDogrusoz"><strong>Ugur Dogrusoz</strong></a><br />PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University, Turekey  
+![](/images/team/CatarinaPereira.jpg){:width="100px"} | <a id="CatarinaPereira"><strong>Catarina Pereira</strong></a><br />Leader of the Cystic Fibrosis Map project (CF-MAP)<br />PhD Student at the University of Lisbon, Portugal<br />
+
+
+
+
 
