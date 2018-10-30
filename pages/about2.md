@@ -35,7 +35,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/CharlesAuffray.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/ReinhardSchneider.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/EmmanuelBarillot.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/EmmanuelBarillot.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</p></td>
