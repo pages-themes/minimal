@@ -26,7 +26,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), Daniela Börnigen, Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall, Jose Antonio Lopez-Escamez, [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Daniela Börnigen](#DanielaBornigen), Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall, Jose Antonio Lopez-Escamez, [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
 
 ![](/images/team/AlexanderMazein.jpg){:width="105px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Co-founder of the Disease Maps Project<br />Leader of the Disease Maps Project  
 ![](/images/team/MarekOstaszewski.jpg){:width="105px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg
@@ -71,6 +71,10 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 100px;"><a id="NathanaelLemonnier"><img src="../images/team/NathanaelLemonnier.jpg" alt="Nathanael Lemonnier"/></a></td>
 <td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project<br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
+</tr>
+<tr>
+<td style="width: 100px;"><a id="DanielaBornigen"><img src="../images/team/DanielaBornigen.jpg" alt="Daniela Bornigen"/></a></td>
+<td><strong>Daniela Börnigen</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Coronary Artery Disease Map project<br />Senior Researcher, Department of General and Interventional Cardology, University Heart Center Hamburg GmbH (UHZ), University Medical Center Hamburg-Eppendorf, Germany</p></td>
 </tr>
 </table>
 
