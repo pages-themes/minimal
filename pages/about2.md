@@ -19,7 +19,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MarekOstaszewski.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MarekOstaszewski1.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/CharlesAuffray.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/ReinhardSchneider.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/ReinhardSchneider.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/EmmanuelBarillot.jpg" width="120"/></p></td>
 </tr>
 <tr>
