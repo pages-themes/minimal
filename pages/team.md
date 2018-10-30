@@ -35,7 +35,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 <table>
 <tr>
 <td style="width: 110px;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="105" alt="Charles Auffray"/></a></td>
-<td><strong>Charles Auffray</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Founding Director of the European Institute for Systems Biology and Medicine, France</p></td>
+<td><strong>Charles Auffray</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; PI of the Disease Maps Project<br />Founding Director of the European Institute for Systems Biology and Medicine, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="RudiBalling"><img src="../images/team/RudiBalling.jpg" width="105" alt="Rudi Balling"/></a></td>
