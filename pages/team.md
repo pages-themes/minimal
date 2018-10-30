@@ -65,7 +65,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 100px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez Rodriguez"/></a></td>
-<td><strong>Julio Saez Rodriguez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Multiple Sclerosis Pathways Map project<br />Professor of Computational Biomedicine at the Faculty of Medicine, RWTH-Aachen University Hospital, Aachen, Germany<br />Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI, UK</p></td>
+<td><strong>Julio Saez Rodriguez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Multiple Sclerosis Pathways Map project; Professor of Computational Biomedicine at the Faculty of Medicine, RWTH-Aachen University Hospital, Aachen, Germany; Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI, UK</p></td>
 </tr>
 </tr>
 <tr>
