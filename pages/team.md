@@ -38,7 +38,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/AndreiZinovyev.jpg){:width="105px"} | <a id="AndreiZinovyev"><strong>Andrei Zinovyev</strong></a><br />Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group<br />at the Institut Curie, France
 ![](/images/team/StevenWatterson.jpg){:width="105px"} | <a id="StevenWatterson"><strong>Steven Watterson</strong></a><br />Co-founder of the Disease Maps Project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre <br />for Stratified Medicine, University of Ulster, UK  
 ![](/images/team/UgurDogrusoz.jpg){:width="105px"} | <a id="UgurDogrusoz"><strong>Ugur Dogrusoz</strong></a><br />PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University, Turekey  
-![](/images/team/CatarinaPereira.jpg){:width="105px"} | <a id="CatarinaPereira"><strong>Catarina Pereira</strong></a><br />Leader of the Cystic Fibrosis Map project (CF-MAP)<br />PhD Student at the University of Lisbon, Portugal  
 
 <table>
 <tr>
@@ -58,7 +57,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td><strong>Feng He</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Anaphylaxis Map project<br />Head of Immune Systems Biology Group, Department of Infection and Immunity, Luxembourg Institute of Health, Luxembourg</p></td>
 </tr>
 <tr>
-<td style="width: 100px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoJLopezHernandez.jpg" alt="Francisco J. Lopez Hernandez"/></a></td>
+<td style="width: 100px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoLopezHernandez.jpg" alt="Francisco J. Lopez Hernandez"/></a></td>
 <td><strong>Francisco J. Lopez Hernandez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Regulatory Network of Systemic and Renal Hemodynamics project<br />Group Leader, Senior Researcher and Assistant Professor, Salamanca Biomedical Research Institute & University of Salamanca, Spain</p></td>
 </tr>
 </table>
