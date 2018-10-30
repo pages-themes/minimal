@@ -35,9 +35,12 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/RudiBalling.jpg){:width="105px"} | <a id="RudiBalling"><strong>Rudi Balling</strong></a><br />Co-founder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg
 ![](/images/team/ReinhardSchneider.jpg){:width="105px"} | <a id="ReinhardSchneider"><strong>Reinhard Schneider</strong></a><br />PI of the Disease Maps Project<br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Luxembourg
 ![](/images/team/EmmanuelBarillot.jpg){:width="105px"} | <a id="EmmanuelBarillot"><strong>Emmanuel Barillot</strong></a><br />PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France
-![](/images/team/AndreiZinovyev.jpg){:width="105px"} | <a id="AndreiZinovyev"><strong>Andrei Zinovyev</strong></a><br />Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group<br />at the Institut Curie, France
 
 <table>
+<tr>
+<td style="width: 100px;"><a id="AndreiZinovyev"><img src="../images/team/AndreiZinovyev.jpg" alt="Andrei Zinovyev"/></a></td>
+<td><strong>Andrei Zinovyev</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group at the Institut Curie, France</p></td>
+</tr>
 <tr>
 <td style="width: 100px;"><a id="StevenWatterson"><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson"/></a></td>
 <td><strong>Steven Watterson</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Coordinator of the Atherosclerosis Map project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK</p></td>
