@@ -26,7 +26,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), Julio Saez Rodriguez, Nathanaël Lemonnier, Daniela Börnigen, Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall, Jose Antonio Lopez-Escamez, [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), Nathanaël Lemonnier, Daniela Börnigen, Cecilia Jimenez Mallebrera, Susana Kalko, Rupert Overall, Jose Antonio Lopez-Escamez, [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
 
 ![](/images/team/AlexanderMazein.jpg){:width="105px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Co-founder of the Disease Maps Project<br />Leader of the Disease Maps Project  
 ![](/images/team/MarekOstaszewski.jpg){:width="105px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg
@@ -54,11 +54,15 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 100px;"><a id="FengHe"><img src="../images/team/FengHe.jpg" alt="Feng He"/></a></td>
-<td><strong>Feng He</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Anaphylaxis Map project<br />Head of Immune Systems Biology Group, Department of Infection and Immunity, Luxembourg Institute of Health, Luxembourg</p></td>
+<td><strong>Feng He</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Anaphylaxis Map project<br />Head of Immune Systems Biology Group, Department of Infection and Immunity, Luxembourg Institute of Health, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 100px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoLopezHernandez.jpg" alt="Francisco J. Lopez Hernandez"/></a></td>
 <td><strong>Francisco J. Lopez Hernandez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Regulatory Network of Systemic and Renal Hemodynamics project<br />Group Leader, Senior Researcher and Assistant Professor, Salamanca Biomedical Research Institute & University of Salamanca, Spain</p></td>
+</tr>
+<tr>
+<td style="width: 100px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez Rodriguez"/></a></td>
+<td><strong>Julio Saez Rodriguez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Multiple Sclerosis Pathways Map project<br />Professor of Computational Biomedicine at the Faculty of Medicine, RWTH-Aachen University Hospital, Aachen, Germany<br />Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI, UK</p></td>
 </tr>
 </table>
 
