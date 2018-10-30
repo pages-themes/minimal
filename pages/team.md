@@ -47,7 +47,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="RudiBalling"><img src="../images/team/RudiBalling.jpg" width="105" alt="Rudi Balling"/></a></td>
-<td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+<td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="105" alt="Reinhard Schneider"/></a></td>
@@ -55,11 +55,11 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" width="105" alt="Emmanuel Barillot"/></a></td>
-<td><strong>Emmanuel Barillot</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France</p></td>
+<td><strong>Emmanuel Barillot</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project; <br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="AndreiZinovyev"><img src="../images/team/AndreiZinovyev.jpg" width="105" alt="Andrei Zinovyev"/></a></td>
-<td><strong>Andrei Zinovyev</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group at the Institut Curie, France</p></td>
+<td><strong>Andrei Zinovyev</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Scientific Coordinator of the Computational Systems Biology of Cancer group at the Institut Curie, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="StevenWatterson"><img src="../images/team/StevenWatterson.jpg" width="105" alt="Steven Watterson"/></a></td>
@@ -67,23 +67,23 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="105" alt="Ugur Dogrusoz"/></a></td>
-<td><strong>Ugur Dogrusoz</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University, Turekey</p></td>
+<td><strong>Ugur Dogrusoz</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Newt Editor project; <br />Professor in Computer Engineering at the Bilkent University, Turekey</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="CatarinaPereira"><img src="../images/team/CatarinaPereira.jpg" width="105" alt="Catarina Pereira"/></a></td>
-<td><strong>Catarina Pereira</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Cystic Fibrosis Map project (CF-MAP)<br />PhD Student at the University of Lisbon, Portugal</p></td>
+<td><strong>Catarina Pereira</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Cystic Fibrosis Map project (CF-MAP); <br />PhD Student at the University of Lisbon, Portugal</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" width="105" alt="Andre Falcao"/></a></td>
-<td><strong>Andre Falcao</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Cystic Fibrosis Map project (CF-MAP)<br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</p></td>
+<td><strong>Andre Falcao</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Cystic Fibrosis Map project (CF-MAP); <br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" width="105" alt="Anna Niarakis"/></a></td>
-<td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Rheumatoid Arthritis Map project<br />Associate Professor, University of Evry Val d’Essonne, France</p></td>
+<td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Rheumatoid Arthritis Map project; <br />Associate Professor, University of Evry Val d’Essonne, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="FengHe"><img src="../images/team/FengHe.jpg" width="105" alt="Feng He"/></a></td>
-<td><strong>Feng He</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Anaphylaxis Map project<br />Head of Immune Systems Biology Group, Department of Infection and Immunity, Luxembourg Institute of Health, Luxembourg</p></td>
+<td><strong>Feng He</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Anaphylaxis Map project; <br />Head of Immune Systems Biology Group, Department of Infection and Immunity, Luxembourg Institute of Health, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoLopezHernandez.jpg" width="105" alt="Francisco J. Lopez Hernandez"/></a></td>
@@ -95,7 +95,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="NathanaelLemonnier"><img src="../images/team/NathanaelLemonnier.jpg" width="105" alt="Nathanael Lemonnier"/></a></td>
-<td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project<br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
+<td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project; <br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="DanielaBornigen"><img src="../images/team/DanielaBörnigen.jpg" width="105" alt="Daniela Bornigen"/></a></td>
@@ -107,7 +107,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="SusanaKalko"><img src="../images/team/SusanaKalko.jpg" width="105" alt="Susana Kalko"/></a></td>
-<td><strong>Susana Kalko</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Duchenne Muscular Dystrophy Map project<br />Bioinformatics and Systems Biomedicine Consultant, Moebius Research, UK</p></td>
+<td><strong>Susana Kalko</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Duchenne Muscular Dystrophy Map project; <br />Bioinformatics and Systems Biomedicine Consultant, Moebius Research, UK</p></td>
 </tr>
 </table>
 
