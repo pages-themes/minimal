@@ -39,7 +39,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/StevenWatterson.jpg){:width="105px"} | <a id="StevenWatterson"><strong>Steven Watterson</strong></a><br />Co-founder of the Disease Maps Project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre <br />for Stratified Medicine, University of Ulster, UK  
 ![](/images/team/UgurDogrusoz.jpg){:width="105px"} | <a id="UgurDogrusoz"><strong>Ugur Dogrusoz</strong></a><br />PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University, Turekey  
 ![](/images/team/CatarinaPereira.jpg){:width="105px"} | <a id="CatarinaPereira"><strong>Catarina Pereira</strong></a><br />Leader of the Cystic Fibrosis Map project (CF-MAP)<br />PhD Student at the University of Lisbon, Portugal  
-<!--![](/images/team/AndreFalcao.jpg){:width="105px"} | <a id="AndreFalcao"><strong>Andre Falcao</strong></a><br />PI of the Cystic Fibrosis Map project (CF-MAP)<br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal-->
 
 <table>
 <tr>
