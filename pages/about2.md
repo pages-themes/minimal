@@ -23,8 +23,8 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Senior Researcher, European Institute for Systems Biology and Medicine, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Senior Researcher, European Institute for Systems Biology and Medicine, Lyon, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 </table>    
