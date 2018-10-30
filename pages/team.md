@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Project Coordinators
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Rudi Balling](#RudiBalling), [Andrei Zinovyev](#AndreiZinovyev)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray)   
 
 ### Disease Maps Project Team
 
