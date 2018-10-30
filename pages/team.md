@@ -28,11 +28,15 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Daniela Börnigen](#DanielaBornigen), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Susana Kalko](#SusanaKalko), Rupert Overall, Jose Antonio Lopez-Escamez, [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
 
-![](/images/team/AlexanderMazein.jpg){:width="105px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Co-founder of the Disease Maps Project<br />Leader of the Disease Maps Project  
-![](/images/team/MarekOstaszewski.jpg){:width="105px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg
-![](/images/team/InnaKuperstein.jpg){:width="105px"} | <a id="InnaKuperstein"><strong>Inna Kuperstein</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Coordinator of the Atlas of Cancer Signalling Networks<br />Senior Research Scientist at the Institut Curie, France
-
 <table>
+<tr>
+<td style="width: 110px;"><a id="AlexanderMazein"><img src="../images/team/AlexanderMazein.jpg" width="105" alt="Alexander Mazein"/></a></td>
+<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project</p></td>
+</tr>
+<tr>
+<td style="width: 110px;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="105" alt="Marek Ostaszewski"/></a></td>
+<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Co-leader of the Disease Maps Project; <br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+</tr>
 <tr>
 <td style="width: 110px;"><a id="InnaKuperstein"><img src="../images/team/InnaKuperstein.jpg" width="105" alt="Inna Kuperstein"/></a></td>
 <td><strong>Inna Kuperstein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Co-leader of the Disease Maps Project; <br />Coordinator of the Atlas of Cancer Signalling Networks; Senior Research Scientist at the Institut Curie, France</p></td>
