@@ -43,8 +43,8 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
 </tr>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/RudiBalling.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/AndreiZinovyev.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/RudiBalling.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AndreiZinovyev.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
