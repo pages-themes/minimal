@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: How to cite
 layout: default
 permalink: /howtocite
 ---
