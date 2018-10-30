@@ -31,6 +31,10 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
         
 ## Disease Maps Scientific Committee
 
+The repsonsibilities of the Disease Maps Scientific Committee are to help securing funding for the Disease Maps Project and to make sure that the effort progresses in a democratic and transparent manner. 
+
+Principal Investigators of grants that support the Disease Maps developmnet can become members of the scientific committee. Invited members may be leading figures in the field of translational research. Joining of a new member requires uninamious support from current members. 
+
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/CharlesAuffray.jpg" width="120"/></p></td>
