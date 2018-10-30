@@ -32,12 +32,15 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/MarekOstaszewski.jpg){:width="105px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg
 ![](/images/team/InnaKuperstein.jpg){:width="105px"} | <a id="InnaKuperstein"><strong>Inna Kuperstein</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Coordinator of the Atlas of Cancer Signalling Networks<br />Senior Research Scientist at the Institut Curie, France
 ![](/images/team/CharlesAuffray.jpg){:width="105px"} | <a id="CharlesAuffray"><strong>Charles Auffray</strong></a><br />Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Founding Director of the European Institute for Systems Biology and Medicine, <br />France
-![](/images/team/RudiBalling.jpg){:width="105px"} | <a id="RudiBalling"><strong>Rudi Balling</strong></a><br />Co-founder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg
 
 <table>
 <tr>
+<td style="width: 105px;"><a id="RudiBalling"><img src="../images/team/RudiBalling.jpg" width="105" alt="Rudi Balling"/></a></td>
+<td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+</tr>
+<tr>
 <td style="width: 105px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="105" alt="Reinhard Schneider"/></a></td>
-<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project<br />Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 105px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" width="105" alt="Emmanuel Barillot"/></a></td>
