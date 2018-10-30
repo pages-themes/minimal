@@ -12,7 +12,7 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 
 We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort. **Computational biology groups:** we invite to collaborate groups that work on the reconstruction of disease mechanisms. The framework of the community effort is very practical and allows each involved group execute their tasks with better efficiency, save time and resources. Together we optimise analytical methods, 'omics data interpretation approaches, share experience in modelling and improve hypothesis generation pipelines. **Disease domain experts:** clinicians and biologists with an extensive expertise in a particular disease are welcome to participate in building reference resources that describe disease mechanisms. The protocols we use allow very efficient communication with domain experts while asking for minimal time to be dedicated to it.
 
-## Project Coordinators
+## Project Leaders
         
 <p>The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.</p>
 
@@ -23,9 +23,9 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/InnaKuperstein.jpg" width="110"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein, PhD</strong>, <font size="2">Senior Researcher, European Institute for Systems Biology and Medicine, France.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Marek Ostaszewski, PhD</strong>, <font size="2">Researcher, Luxembourg Centre for Systems Biomedicine.</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Inna Kuperstein, PhD</strong>, <font size="2">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France.</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein, PhD</strong>, <font size="2">Senior Researcher, European Institute for Systems Biology and Medicine, France</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Marek Ostaszewski, PhD</strong>, <font size="2">Researcher, Luxembourg Centre for Systems Biomedicine</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Inna Kuperstein, PhD</strong>, <font size="2">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</font></p></td>
 </tr>
 </table>    
         
@@ -33,23 +33,20 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/CharlesAuffray.jpg" alt="Charles Auffray" /></td>
-<td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, Lyon, France</strong><br />Research Director at CNRS, Founding Director of the EISBM</td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/CharlesAuffray.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/ReinhardSchneider.jpg" width="110"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/EmmanuelBarillot.jpg" width="110"/></p></td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
-<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Charles Auffray, PhD</strong>, Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Reinhard Schneider, PhD</strong>, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Emmanuel Barillot, PhD</strong>, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</font></p></td>
 </tr>
-<tr>
-<td style="width: 100px;"><img src="../images/team/EmmanuelBarillot.jpg" alt="Emmanuel Barillot" /></td>
-<td><strong>Emmanuel Barillot, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech</td>
-</tr>
-<tr>
-<td style="width: 100px;"><img src="../images/team/AndreiZinovyev.jpg" alt="Andrei Zinovyev" /></td>
-<td><strong>Andrei Zinovyev, PhD</strong><br /><strong>Institut Curie, Paris, France</strong><br />Scientific Coordinator of Computational Systems Biology of Cancer group</td>
-</tr>
-</table>
+</table>    
+
+
+
+
 
 <!--## Scientific Advisory Board
 Jonathan Karr  
