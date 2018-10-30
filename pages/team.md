@@ -31,9 +31,12 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/AlexanderMazein.jpg){:width="105px"} | <a id="AlexanderMazein"><strong>Alexander Mazein</strong></a><br />Co-founder of the Disease Maps Project<br />Leader of the Disease Maps Project  
 ![](/images/team/MarekOstaszewski.jpg){:width="105px"} | <a id="MarekOstaszewski"><strong>Marek Ostaszewski</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg
 ![](/images/team/InnaKuperstein.jpg){:width="105px"} | <a id="InnaKuperstein"><strong>Inna Kuperstein</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Coordinator of the Atlas of Cancer Signalling Networks<br />Senior Research Scientist at the Institut Curie, France
-![](/images/team/CharlesAuffray.jpg){:width="105px"} | <a id="CharlesAuffray"><strong>Charles Auffray</strong></a><br />Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Founding Director of the European Institute for Systems Biology and Medicine, <br />France
 
 <table>
+<tr>
+<td style="width: 110px;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="105" alt="Charles Auffray"/></a></td>
+<td><strong>Charles Auffray</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Founding Director of the European Institute for Systems Biology and Medicine, France</p></td>
+</tr>
 <tr>
 <td style="width: 110px;"><a id="RudiBalling"><img src="../images/team/RudiBalling.jpg" width="105" alt="Rudi Balling"/></a></td>
 <td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
