@@ -42,8 +42,8 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 <table>
 <tr>
-<td style="width: 100px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" alt="Andre Falcao" /></a></td>
-<td><strong>AndreFalcao, PhD</strong><br /><strong>PI of the Cystic Fibrosis Map project (CF-MAP)<br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</td>
+<td style="width: 105px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" alt="Andre Falcao" /></a></td>
+<td><strong>AndreFalcao, PhD</strong><br />PI of the Cystic Fibrosis Map project (CF-MAP)<br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</td>
 </tr>
 </table>
 
