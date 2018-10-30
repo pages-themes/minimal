@@ -36,13 +36,13 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/ReinhardSchneider.jpg){:width="105px"} | <a id="ReinhardSchneider"><strong>Reinhard Schneider</strong></a><br />PI of the Disease Maps Project<br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Luxembourg
 ![](/images/team/EmmanuelBarillot.jpg){:width="105px"} | <a id="EmmanuelBarillot"><strong>Emmanuel Barillot</strong></a><br />PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France
 ![](/images/team/AndreiZinovyev.jpg){:width="105px"} | <a id="AndreiZinovyev"><strong>Andrei Zinovyev</strong></a><br />Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group<br />at the Institut Curie, France
-![](/images/team/StevenWatterson.jpg){:width="105px"} | <a id="StevenWatterson"><strong>Steven Watterson</strong></a><br />Co-founder of the Disease Maps Project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre <br />for Stratified Medicine, University of Ulster, UK  
+![](/images/team/StevenWatterson.jpg){:width="105px"} | <a id="StevenWatterson"><strong>Steven Watterson</strong></a><br />Co-founder of the Disease Maps Project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK  
 ![](/images/team/UgurDogrusoz.jpg){:width="105px"} | <a id="UgurDogrusoz"><strong>Ugur Dogrusoz</strong></a><br />PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University, Turekey  
 ![](/images/team/CatarinaPereira.jpg){:width="105px"} | <a id="CatarinaPereira"><strong>Catarina Pereira</strong></a><br />Leader of the Cystic Fibrosis Map project (CF-MAP)<br />PhD Student at the University of Lisbon, Portugal  
 
 <table>
 <tr>
-<td style="width: 105px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" alt="Andre Falcao" /></a></td>
+<td style="width: 105px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" alt="Andre Falcao"/></a></td>
 <td><strong>AndreFalcao, PhD</strong><br />PI of the Cystic Fibrosis Map project (CF-MAP)<br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</td>
 </tr>
 </table>
