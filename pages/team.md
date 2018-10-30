@@ -43,7 +43,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 100px;"><a id="StevenWatterson"><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson"/></a></td>
-<td><strong>Steven Watterson</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Coordinator of the Atherosclerosis Map project<br />Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK</p></td>
+<td><strong>Steven Watterson</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Coordinator of the Atherosclerosis Map project; Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK</p></td>
 </tr>
 <tr>
 <td style="width: 100px;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" alt="Ugur Dogrusoz"/></a></td>
