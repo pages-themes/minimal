@@ -31,7 +31,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
         
 ## Disease Maps Scientific Committee
 
-The responsibilities of the Disease Maps Scientific Committee are to help to secure funding for the Disease Maps Project and to make sure that the effort progresses in a democratic and transparent manner. Principal Investigators of grants that support the Disease Maps development are entitled to become members of the scientific committee. Invited members may be leading figures in the field of translational research. Joining of a new member requires unanimous support from current members. 
+The responsibilities of the Disease Maps Scientific Committee are to help to secure funding for the Disease Maps Project and to make sure that the effort progresses in a democratic and transparent manner. Principal Investigators of grants that support the Disease Maps development can become members of the scientific committee. Invited members may be leading figures in the field of translational research. Joining of a new member requires unanimous support from current members. 
 
 <table>
 <tr>
