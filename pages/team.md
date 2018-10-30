@@ -103,7 +103,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="CeciliaJimenezMallebrera"><img src="../images/team/CeciliaJimenezMallebrera.jpg" width="105" alt="Cecilia Jimenez Mallebrera"/></a></td>
-<td><strong>Cecilia Jimenez Mallebrera</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Duchenne Muscular Dystrophy Map project; Director, Laboratory for Translational Research into Children's Neuromuscular Diseases, Hospital Sant Joan de Déu, Barcelona, Spain</p></td>
+<td><strong>Cecilia Jimenez Mallebrera</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Duchenne Muscular Dystrophy Map project; <br />Director, Laboratory for Translational Research into Children's Neuromuscular Diseases, Hospital Sant Joan de Déu, Barcelona, Spain</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="SusanaKalko"><img src="../images/team/SusanaKalko.jpg" width="105" alt="Susana Kalko"/></a></td>
