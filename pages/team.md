@@ -73,7 +73,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 100px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoLopezHernandez.jpg" alt="Francisco J. Lopez Hernandez"/></a></td>
-<td><strong>Francisco J. Lopez Hernandez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Regulatory Network of Systemic and Renal Hemodynamics project<br />Group Leader, Senior Researcher and Assistant Professor, Salamanca Biomedical Research Institute & University of Salamanca, Spain</p></td>
+<td><strong>Francisco J. Lopez Hernandez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Regulatory Network of Systemic and Renal Hemodynamics project; Group Leader, Senior Researcher and Assistant Professor, Salamanca Biomedical Research Institute & University of Salamanca, Spain</p></td>
 </tr>
 <tr>
 <td style="width: 100px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez Rodriguez"/></a></td>
