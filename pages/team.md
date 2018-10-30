@@ -36,55 +36,55 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 <table>
 <tr>
-<td style="width: 105px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider"/></a></td>
+<td style="width: 105px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="105" alt="Reinhard Schneider"/></a></td>
 <td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project<br />Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" alt="Emmanuel Barillot"/></a></td>
+<td style="width: 105px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" width="105" alt="Emmanuel Barillot"/></a></td>
 <td><strong>Emmanuel Barillot</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="AndreiZinovyev"><img src="../images/team/AndreiZinovyev.jpg" alt="Andrei Zinovyev"/></a></td>
+<td style="width: 105px;"><a id="AndreiZinovyev"><img src="../images/team/AndreiZinovyev.jpg" width="105" alt="Andrei Zinovyev"/></a></td>
 <td><strong>Andrei Zinovyev</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group at the Institut Curie, France</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="StevenWatterson"><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson"/></a></td>
+<td style="width: 105px;"><a id="StevenWatterson"><img src="../images/team/StevenWatterson.jpg" width="105" alt="Steven Watterson"/></a></td>
 <td><strong>Steven Watterson</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Coordinator of the Atherosclerosis Map project; Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" alt="Ugur Dogrusoz"/></a></td>
+<td style="width: 105px;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="105" alt="Ugur Dogrusoz"/></a></td>
 <td><strong>Ugur Dogrusoz</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Newt Editor project<br />Professor in Computer Engineering at the Bilkent University, Turekey</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="CatarinaPereira"><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira"/></a></td>
+<td style="width: 105px;"><a id="CatarinaPereira"><img src="../images/team/CatarinaPereira.jpg" width="105" alt="Catarina Pereira"/></a></td>
 <td><strong>Catarina Pereira</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Cystic Fibrosis Map project (CF-MAP)<br />PhD Student at the University of Lisbon, Portugal</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" alt="Andre Falcao"/></a></td>
+<td style="width: 105px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" width="105" alt="Andre Falcao"/></a></td>
 <td><strong>Andre Falcao</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Cystic Fibrosis Map project (CF-MAP)<br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis"/></a></td>
+<td style="width: 105px;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" width="105" alt="Anna Niarakis"/></a></td>
 <td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Rheumatoid Arthritis Map project<br />Associate Professor, University of Evry Val d’Essonne, France</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="FengHe"><img src="../images/team/FengHe.jpg" alt="Feng He"/></a></td>
+<td style="width: 105px;"><a id="FengHe"><img src="../images/team/FengHe.jpg" width="105" alt="Feng He"/></a></td>
 <td><strong>Feng He</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Anaphylaxis Map project<br />Head of Immune Systems Biology Group, Department of Infection and Immunity, Luxembourg Institute of Health, Luxembourg</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoLopezHernandez.jpg" alt="Francisco J. Lopez Hernandez"/></a></td>
+<td style="width: 105px;"><a id="FranciscoJLopezHernandez"><img src="../images/team/FranciscoLopezHernandez.jpg" width="105" alt="Francisco J. Lopez Hernandez"/></a></td>
 <td><strong>Francisco J. Lopez Hernandez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Regulatory Network of Systemic and Renal Hemodynamics project; Group Leader, Senior Researcher and Assistant Professor, Salamanca Biomedical Research Institute & University of Salamanca, Spain</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez Rodriguez"/></a></td>
+<td style="width: 105px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" width="105" alt="Julio Saez Rodriguez"/></a></td>
 <td><strong>Julio Saez Rodriguez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Multiple Sclerosis Pathways Map project; Professor of Computational Biomedicine at the Faculty of Medicine, RWTH-Aachen University Hospital, Aachen, Germany; Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI, UK</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="NathanaelLemonnier"><img src="../images/team/NathanaelLemonnier.jpg" alt="Nathanael Lemonnier"/></a></td>
+<td style="width: 105px;"><a id="NathanaelLemonnier"><img src="../images/team/NathanaelLemonnier.jpg" width="105" alt="Nathanael Lemonnier"/></a></td>
 <td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project<br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
 </tr>
 <tr>
-<td style="width: 105px;"><a id="DanielaBornigen"><img src="../images/team/DanielaBörnigen.jpg" alt="Daniela Bornigen"/></a></td>
+<td style="width: 105px;"><a id="DanielaBornigen"><img src="../images/team/DanielaBörnigen.jpg" width="105" alt="Daniela Bornigen"/></a></td>
 <td><strong>Daniela Börnigen</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Coronary Artery Disease Map project<br />Senior Researcher, Department of General and Interventional Cardology, University Heart Center Hamburg GmbH (UHZ), University Medical Center Hamburg-Eppendorf, Germany</p></td>
 </tr>
 </table>
