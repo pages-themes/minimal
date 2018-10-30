@@ -67,7 +67,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td style="width: 100px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez Rodriguez"/></a></td>
 <td><strong>Julio Saez Rodriguez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Multiple Sclerosis Pathways Map project; Professor of Computational Biomedicine at the Faculty of Medicine, RWTH-Aachen University Hospital, Aachen, Germany; Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI, UK</p></td>
 </tr>
-</tr>
 <tr>
 <td style="width: 100px;"><a id="NathanaelLemonnier"><img src="../images/team/NathanaelLemonnier.jpg" alt="Nathanael Lemonnier"/></a></td>
 <td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project<br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
