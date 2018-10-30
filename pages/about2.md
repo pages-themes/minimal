@@ -23,9 +23,9 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/InnaKuperstein.jpg" width="110"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein, PhD</strong>, <font size="2">Senior Researcher, European Institute for Systems Biology and Medicine, France</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Marek Ostaszewski, PhD</strong>, <font size="2">Researcher, Luxembourg Centre for Systems Biomedicine</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Inna Kuperstein, PhD</strong>, <font size="2">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Alexander Mazein, PhD</strong><br /><font size="2">Senior Researcher, European Institute for Systems Biology and Medicine, France</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Marek Ostaszewski, PhD</strong><br /><font size="2">Researcher, Luxembourg Centre for Systems Biomedicine</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Inna Kuperstein, PhD</strong><br /><font size="2">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</font></p></td>
 </tr>
 </table>    
         
@@ -38,9 +38,9 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/team/EmmanuelBarillot.jpg" width="110"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Charles Auffray, PhD</strong>, Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Reinhard Schneider, PhD</strong>, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</font></p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Emmanuel Barillot, PhD</strong>, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Charles Auffray, PhD</strong><br /><font size="2">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Reinhard Schneider, PhD</strong><br /><font size="2">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</font></p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><p style="line-height:140%;"><strong>Emmanuel Barillot, PhD</strong><br /><font size="2">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</font></p></td>
 </tr>
 </table>    
 
