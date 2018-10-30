@@ -40,7 +40,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="105" alt="Reinhard Schneider"/></a></td>
-<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; PI of the Disease Maps Project; Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" width="105" alt="Emmanuel Barillot"/></a></td>
