@@ -33,10 +33,16 @@ This page defines the organisational structure, roles and processes in the  Dise
 ![](/images/team/InnaKuperstein.jpg){:width="105px"} | <a id="InnaKuperstein"><strong>Inna Kuperstein</strong></a><br />Co-founder of the Disease Maps Project<br />Co-leader of the Disease Maps Project<br />Coordinator of the Atlas of Cancer Signalling Networks<br />Senior Research Scientist at the Institut Curie, France
 ![](/images/team/CharlesAuffray.jpg){:width="105px"} | <a id="CharlesAuffray"><strong>Charles Auffray</strong></a><br />Co-founder of the Disease Maps Project<br />PI of the Disease Maps Project<br />Founding Director of the European Institute for Systems Biology and Medicine, <br />France
 ![](/images/team/RudiBalling.jpg){:width="105px"} | <a id="RudiBalling"><strong>Rudi Balling</strong></a><br />Co-founder of the Disease Maps Project<br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg
-![](/images/team/ReinhardSchneider.jpg){:width="105px"} | <a id="ReinhardSchneider"><strong>Reinhard Schneider</strong></a><br />PI of the Disease Maps Project<br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, Luxembourg
-![](/images/team/EmmanuelBarillot.jpg){:width="105px"} | <a id="EmmanuelBarillot"><strong>Emmanuel Barillot</strong></a><br />PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France
 
 <table>
+<tr>
+<td style="width: 100px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider"/></a></td>
+<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project<br />Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+</tr>
+<tr>
+<td style="width: 100px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" alt="Emmanuel Barillot"/></a></td>
+<td><strong>Emmanuel Barillot</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project<br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France</p></td>
+</tr>
 <tr>
 <td style="width: 100px;"><a id="AndreiZinovyev"><img src="../images/team/AndreiZinovyev.jpg" alt="Andrei Zinovyev"/></a></td>
 <td><strong>Andrei Zinovyev</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project<br />Scientific Coordinator of the Computational Systems Biology of Cancer group at the Institut Curie, France</p></td>
