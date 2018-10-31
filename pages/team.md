@@ -126,8 +126,8 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td><strong>Bertrand De Meulder</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Developer of pipelines for omics data analysis and interpretation through disease maps; <br />Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
 </tr>
 <tr>
-<td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Jan Hasenauer"/></a></td>
-<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Mechanistic modelling on the basis of disease maps; <br />Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
+<td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/JanHasenauer.jpg" width="105" alt="Jan Hasenauer"/></a></td>
+<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Mechanistic modelling on the basis of disease maps; Group Leader, Data-driven Computational Modeling, Institute of Computational Biology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JoaquinDopazo"><img src="../images/team/JoaquinDopazo.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
