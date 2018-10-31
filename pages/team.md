@@ -26,7 +26,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Daniela Börnigen](#DanielaBornigen), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Susana Kalko](#SusanaKalko), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Daniela Börnigen](#DanielaBornigen), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Susana Kalko](#SusanaKalko), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Ugur Dogrusoz](#UgurDogrusoz), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Jan Hasenauer](#JanHasenauer), [Joaquin Dopazo](#JoaquinDopazo)  
 
 <table>
 <tr>
@@ -116,6 +116,22 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="JoseAntonioLopezEscamez"><img src="../images/team/JoseAntonioLopezEscamez.jpg" width="105" alt="Jose Antonio Lopez-Escamez"/></a></td>
 <td><strong>Jose Antonio Lopez-Escamez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Meniere's Disease Map project; <br />Head of the Otology and Neurotology Group, Centre for Genomics and Oncology Genyo, Instituto Biosanitario Granada, Spain</p></td>
+</tr>
+<tr>
+<td style="width: 110px;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="105" alt="Irina Balaur"/></a></td>
+<td><strong>Irina Balaur</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Lead Developer of the ySBGN tools; <br />Neo4j for Disease Maps initiative</p></td>
+</tr>
+<tr>
+<td style="width: 110px;"><a id="BertrandDeMeulder"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Bertrand De Meulder"/></a></td>
+<td><strong>Bertrand De Meulder</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Developer of pipelines for omics data analysis and interpretation through disease maps; <br />Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
+</tr>
+<tr>
+<td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Jan Hasenauer"/></a></td>
+<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Mechanistic modelling on the basis of disease maps; <br />Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
+</tr>
+<tr>
+<td style="width: 110px;"><a id="JoaquinDopazo"><img src="../images/team/JoaquinDopazo.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
+<td><strong>Joaquin Dopazo</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Modelling on the basis of disease maps; <br />Organiser of the 4th Disease Maps Community Meeting; <br />Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain</p></td>
 </tr>
 </table>
 
