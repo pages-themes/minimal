@@ -26,7 +26,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Daniela Börnigen](#DanielaBornigen), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Susana Kalko](#SusanaKalko), [Rupert Overall](#RupertOverall), Jose Antonio Lopez-Escamez, [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Anna Niarakis](#AnnaNiarakis), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Daniela Börnigen](#DanielaBornigen), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Susana Kalko](#SusanaKalko), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Ugur Dogrusoz](#UgurDogrusoz), Irina Balaur, Bertrand De Meulder, Jan Hasenauer, Joaquin Dopazo  
 
 <table>
 <tr>
@@ -113,10 +113,9 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td style="width: 110px;"><a id="RupertOverall"><img src="../images/team/RupertOverall.jpg" width="105" alt="Rupert Overall"/></a></td>
 <td><strong>Rupert Overall</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Cognitive Resilience Map project (adult neurogenesis); <br />Platform Leader, German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</p></td>
 </tr>
+<tr>
+<td style="width: 110px;"><a id="JoseAntonioLopezEscamez"><img src="../images/team/JoseAntonioLopezEscamez.jpg" width="105" alt="Jose Antonio Lopez-Escamez"/></a></td>
+<td><strong>Jose Antonio Lopez-Escamez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">text</p></td>
+</tr>
 </table>
-
-
-
-
-
 
