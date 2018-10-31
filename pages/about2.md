@@ -44,7 +44,7 @@ The Disease Maps Scientific Committee helps to secure funding for the Disease Ma
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
 </tr>
-<tr>
+<!--<tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/RudiBalling.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AndreiZinovyev.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
@@ -53,7 +53,7 @@ The Disease Maps Scientific Committee helps to secure funding for the Disease Ma
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Rudi Balling, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Andrei Zinovyev, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Scientific Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
-</tr>
+</tr>-->
 </table>    
 
 <!--## Scientific Advisory Board
