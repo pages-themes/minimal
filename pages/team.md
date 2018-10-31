@@ -70,6 +70,10 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td><strong>Ugur Dogrusoz</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Newt Editor project; <br />Professor in Computer Engineering at the Bilkent University, Turekey</p></td>
 </tr>
 <tr>
+<td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/JanHasenauer.jpg" width="105" alt="Jan Hasenauer"/></a></td>
+<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Mechanistic modelling on the basis of disease maps; Group Leader, Data-driven Computational Modeling, Institute of Computational Biology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany</p></td>
+</tr>
+<tr>
 <td style="width: 110px;"><a id="CatarinaPereira"><img src="../images/team/CatarinaPereira.jpg" width="105" alt="Catarina Pereira"/></a></td>
 <td><strong>Catarina Pereira</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Cystic Fibrosis Map project (CF-MAP); <br />PhD Student at the University of Lisbon, Portugal</p></td>
 </tr>
@@ -124,10 +128,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="BertrandDeMeulder"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Bertrand De Meulder"/></a></td>
 <td><strong>Bertrand De Meulder</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Developer of pipelines for omics data analysis and interpretation through disease maps; <br />Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
-</tr>
-<tr>
-<td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/JanHasenauer.jpg" width="105" alt="Jan Hasenauer"/></a></td>
-<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Mechanistic modelling on the basis of disease maps; Group Leader, Data-driven Computational Modeling, Institute of Computational Biology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JoaquinDopazo"><img src="../images/team/JoaquinDopazo.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
