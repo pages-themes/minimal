@@ -18,7 +18,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Scientific Committee
 
-[Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Rudi Balling](#RudiBalling), [Andrei Zinovyev](#AndreiZinovyev)  
+[Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot)  
 
 ### Project Coordinators
 
