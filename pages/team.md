@@ -123,7 +123,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="105" alt="Irina Balaur"/></a></td>
-<td><strong>Irina Balaur</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Lead Developer of the ySBGN tools; <br />Leader of the Neo4j-for-Disease-Maps initiative</p></td>
+<td><strong>Irina Balaur</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Neo4j-for-Disease-Maps initiative for the integration of the disease map resources; <br />Lead Developer of the ySBGN tool</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="BertrandDeMeulder"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Bertrand De Meulder"/></a></td>
