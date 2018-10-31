@@ -10,7 +10,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Founders
 
-[Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray), [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Steven Watterson](#StevenWatterson), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev)  
+[Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray), [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev), [Emmanuel Barillot](#EmmanuelBarillot)  
 
 ### Project Leaders
 
@@ -63,7 +63,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="StevenWatterson"><img src="../images/team/StevenWatterson.jpg" width="105" alt="Steven Watterson"/></a></td>
-<td><strong>Steven Watterson</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Coordinator of the Atherosclerosis Map project; Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK</p></td>
+<td><strong>Steven Watterson</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Atherosclerosis Map project; Lecturer in Computational Biology (Hypertension), Northern Ireland Centre for Stratified Medicine, University of Ulster, UK</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="105" alt="Ugur Dogrusoz"/></a></td>
