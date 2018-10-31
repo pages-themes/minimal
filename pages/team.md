@@ -31,7 +31,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 <table>
 <tr>
 <td style="width: 110px;"><a id="AlexanderMazein"><img src="../images/team/AlexanderMazein.jpg" width="105" alt="Alexander Mazein"/></a></td>
-<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project; <br /> Organiser of the 1st Disease Maps Community Meeting in Lyon</p></td>
+<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project; <br /> Organiser of the 1st Disease Maps Community Meeting</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="105" alt="Marek Ostaszewski"/></a></td>
@@ -39,7 +39,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="InnaKuperstein"><img src="../images/team/InnaKuperstein.jpg" width="105" alt="Inna Kuperstein"/></a></td>
-<td><strong>Inna Kuperstein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Co-leader of the Disease Maps Project; Organiser of the DMCM2018 in Paris; Coordinator of the Atlas of Cancer Signalling Networks; Senior Research Scientist at the Institut Curie, France</p></td>
+<td><strong>Inna Kuperstein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Co-leader of the Disease Maps Project; Organiser of the 3rd Disease Maps Community Meeting (DMCM2018); Coordinator of the Atlas of Cancer Signalling Networks; Senior Research Scientist at the Institut Curie, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="105" alt="Charles Auffray"/></a></td>
