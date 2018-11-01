@@ -7,10 +7,6 @@ permalink: /about
 # About
         
 The Disease Maps Project as a large-scale community effort was initiated by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>, the <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a> and the <a href="http://www.institut-curie.org/" target="_blank">Institut Curie</a>.
-
-## Get involved
-
-We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.  
         
 ### Principal Investigators
 
