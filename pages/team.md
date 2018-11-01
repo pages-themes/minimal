@@ -55,7 +55,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" width="105" alt="Emmanuel Barillot"/></a></td>
-<td><strong>Emmanuel Barillot</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project; <br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France</p></td>
+<td><strong>Emmanuel Barillot</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />PI of the Disease Maps Project; <br />Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="AndreiZinovyev"><img src="../images/team/AndreiZinovyev.jpg" width="105" alt="Andrei Zinovyev"/></a></td>
