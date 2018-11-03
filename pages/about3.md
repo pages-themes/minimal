@@ -24,8 +24,6 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 </table>
         
 ### Project Leaders
-        
-<p>The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.</p>
 
 <table>
 <tr>
@@ -39,6 +37,8 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 </table>    
+
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.
 
 ### Project Coordinators
 
