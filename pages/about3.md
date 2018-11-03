@@ -42,7 +42,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 ### Project Coordinators
 
-[Alexander Mazein](mailto:a.mazein@gmail.com">a.mazein@gmail.com), 
+[Alexander Mazein](mailto:a.mazein@gmail.com), 
 [Marek Ostaszewski](mailto:marek.ostaszewski@uni.lu), 
 [Inna Kuperstein](mailto:inna.kuperstein@curie.fr), 
 [Andrei Zinoviev](mailto:andrei.zinovyev@curie.fr), 
