@@ -21,6 +21,7 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
 </tr>
+</table>
         
 ### Project Leaders
         
