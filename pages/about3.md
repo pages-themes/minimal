@@ -44,8 +44,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </tr>
 </table>    
 
-### Project Coordinators
-
+<!--## Project Coordinators
 [Alexander Mazein](mailto:a.mazein@gmail.com), 
 [Marek Ostaszewski](mailto:marek.ostaszewski@uni.lu), 
 [Inna Kuperstein](mailto:inna.kuperstein@curie.fr), 
@@ -53,21 +52,19 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 [Reinhard Schneider](mailto:reinhard.schneider@uni.lu), 
 [Emmanuel Barillot](mailto:emmanuel.barillot@curie.fr), 
 [Rudi Balling](mailto:rudi.balling@uni.lu), 
-[Charles Auffray](mailto:cauffray@eisbm.org)
+[Charles Auffray](mailto:cauffray@eisbm.org)-->
         
-### Scientific Advisory Board
-
+<!--## Scientific Advisory Board
 <p>The Scientific Advisory Board is composed of scientists with expertise in large-scale systems biology and translational medicine projects. The board provides guidance regarding the goals and the roadmap for the Disease Maps Project.</p>
+<p>The list of the Scientific Advisory Board members is being confirmed.</p>-->
 
-<p>The list of the Scientific Advisory Board members is being confirmed.</p>
-
-### Acknowledgements
+## Acknowledgements
 
 <p>We would like to thank Rudi Balling, the Director of the <a href="http://lcsb.uni.lu" target="_blank">Luxembourg Centre for Systems Biomedicine</a> for his longstanding and enthusiastic support to the concept of disease maps. He is one of the key people that helped to catalyse the Disease Maps Project.</p>
 
 <p>Most of the published disease maps were developed in collaboration with the <a href="http://www.sbi.jp/" target="_blank">Systems Biology Institute</a>, Tokyo, Japan (Mizuno et al., 2012, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/22647208" target="_blank">22647208</a>; Matsuoka et al., 2013, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/24088197" target="_blank">24088197</a>; Fujita et al., 2014, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">23832570</a>; Kuperstein et al., 2015, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_blank">26192618</a>). We would like to underline the role of Prof. Hiroaki Kitano in pioneering the process description representation of signalling networks and initiating first comprehensive disease-relevant extensive reconstructions of signalling pathways (Oda et al., 2005, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/16729045" target="_blank">16729045</a>; Oda and Kitano, 2006, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/16738560" target="_blank">16738560</a>; Caron et al., 2010, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/21179025" target="_blank">21179025</a>).</p>
 
-### Funding
+## Funding
 
 The Disease Maps Project is funded in part by [IMI eTRIKS n°115446](http://www.imi.europa.eu/projects-results/project-factsheets/etriks)
 ([eTRIKS](https://www.etriks.org/), European Translational Information and Knowledge Management Services)
