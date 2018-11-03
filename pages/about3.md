@@ -39,6 +39,17 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 </table>    
+
+### Project Coordinators
+
+[Alexander Mazein](mailto:a.mazein@gmail.com">a.mazein@gmail.com), 
+[Marek Ostaszewski](mailto:marek.ostaszewski@uni.lu), 
+[Inna Kuperstein](mailto:inna.kuperstein@curie.fr), 
+[Andrei Zinoviev](mailto:andrei.zinovyev@curie.fr), 
+[Reinhard Schneider](mailto:reinhard.schneider@uni.lu), 
+[Emmanuel Barillot](mailto:emmanuel.barillot@curie.fr), 
+[Rudi Balling](mailto:rudi.balling@uni.lu), 
+[Charles Auffray](mailto:cauffray@eisbm.org)
         
 ### Scientific Advisory Board
 
