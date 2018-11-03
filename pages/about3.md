@@ -7,8 +7,12 @@ permalink: /about3
 # About
         
 The Disease Maps Project as a large-scale community effort was initiated by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>, the <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a> and the <a href="http://www.institut-curie.org/" target="_blank">Institut Curie</a>.
+
+## Get involved
+
+We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.
         
-### Principal Investigators
+## Principal Investigators
 
 <table>
 <tr>
@@ -23,7 +27,9 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 </tr>
 </table>
         
-### Project Leaders
+## Project Leaders
+
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.
 
 <table>
 <tr>
@@ -37,8 +43,6 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 </table>    
-
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.
 
 ### Project Coordinators
 
