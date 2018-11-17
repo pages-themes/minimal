@@ -8,17 +8,17 @@ permalink: /team2
 
 This page defines the organisational structure, roles and processes in the  Disease Maps Project, acknowledges contributions and reflects the history of the project development.
 
-### Founders
-
-[Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray), [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev), [Emmanuel Barillot](#EmmanuelBarillot)  
-
-### Project Coordinators
+### Project Leaders
 
 [Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein)  
 
 ### Principal Investigators
 
-[Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot)  
+[Charles Auffray](#CharlesAuffray), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot) 
+
+### Project Coordinators
+
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Andrei Zinovyev](#AndreiZinovyev), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Rudi Balling](#RudiBalling), [Charles Auffray](#CharlesAuffray)  
 
 ### Disease Maps Project Team
 
