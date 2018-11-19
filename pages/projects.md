@@ -17,7 +17,7 @@ The growing number of active projects within the Disease Maps Community are led 
 <li><a href="/asthma">Asthma</a></li>
 <li><a href="/atherosclerosis">Atherosclerosis</a></li>
 <li><a href="/cancer">Cancer</a></li>
-<li><a href="/coronaryarterydisease">Coronary artery disease</a></li>
+<!--<li><a href="/coronaryarterydisease">Coronary artery disease</a></li>-->
 <li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
 <li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
 <li><a href="/lungcancer">Lung cancer</a></li>
@@ -73,10 +73,9 @@ _Contact:_ Steven Watterson, University of Ulster, Coleraine, UK
 _Resource:_ [Atlas of Cancer Signalling Network](https://acsn.curie.fr/navicell/maps/acsn/master/index.html)  
 _Contact:_ Inna Kuperstein, Institut Curie, Paris, France  
 
-### [Coronary artery disease](coronaryarterydisease)
-
+<!--### [Coronary artery disease](coronaryarterydisease)
 _Resource:_ Coronary Artery Disease Map  
-_Contact:_ Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany  
+_Contact:_ Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany-->  
 
 ### [Cystic fibrosis](cysticfibrosis)
 
