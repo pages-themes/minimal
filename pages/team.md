@@ -94,10 +94,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project; <br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
 </tr>
 <tr>
-<td style="width: 110px;"><a id="DanielaBornigen"><img src="../images/team/DanielaBörnigen.jpg" width="105" alt="Daniela Bornigen"/></a></td>
-<td><strong>Daniela Börnigen</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Coronary Artery Disease Map project; Senior Researcher, Department of General and Interventional Cardology, University Heart Center Hamburg GmbH (UHZ), University Medical Center Hamburg-Eppendorf, Germany</p></td>
-</tr>
-<tr>
 <td style="width: 110px;"><a id="CeciliaJimenezMallebrera"><img src="../images/team/CeciliaJimenezMallebrera.jpg" width="105" alt="Cecilia Jimenez Mallebrera"/></a></td>
 <td><strong>Cecilia Jimenez Mallebrera</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Duchenne Muscular Dystrophy Map project; <br />Director, Laboratory for Translational Research into Children's Neuromuscular Diseases, Hospital Sant Joan de Déu, Barcelona, Spain</p></td>
 </tr>
