@@ -8,24 +8,24 @@ permalink: /projects
         
 The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
 
-The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.  
+The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts. The list of active projects, starting wiht published maps:
 
 <ul style="list-style-type:none; line-height:175%;">
+<li><a href="/parkinsons">Parkinson's disease</a></li>
+<li><a href="/cancer">Cancer</a></li>
+<li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
+<li><a href="/asthma">Asthma</a></li>
+<li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
+<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
+<li><a href="/atherosclerosis">Atherosclerosis</a></li>
 <li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
 <li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
 <li><a href="/anaphylaxis">Anaphylaxis</a></li>
-<li><a href="/asthma">Asthma</a></li>
-<li><a href="/atherosclerosis">Atherosclerosis</a></li>
-<li><a href="/cancer">Cancer</a></li>
-<!--<li><a href="/coronaryarterydisease">Coronary artery disease</a></li>-->
-<li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
 <li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
-<li><a href="/lungcancer">Lung cancer</a></li>
 <li><a href="/menieres">Meniere’s disease</a></li>
-<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
-<li><a href="/parkinsons">Parkinson's disease</a></li>
-<li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
 <li><a href="/spinalcordinjury">Spinal cord injury</a></li>
+<li><a href="/lungcancer">Lung cancer</a></li>
+<!--<li><a href="/coronaryarterydisease">Coronary artery disease</a></li>-->
 </ul>
 
 New projects being discussed:  
