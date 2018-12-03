@@ -10,7 +10,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.  
 
-The list of active projects, starting wiht published maps:
+The list of active projects, starting with published maps:
 
 <ul style="list-style-type:none; line-height:175%;">
 <li><a href="/parkinsons">Parkinson's disease</a></li>
