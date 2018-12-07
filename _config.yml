@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Nikola Tesla
+logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/N.Tesla.JPG/184px-N.Tesla.JPG
+description: A short one-page on the life of Nikola Tesla
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
