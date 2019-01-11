@@ -1,0 +1,20 @@
+<div class="border-bottom box-shadow-medium">
+  <div class="container-lg px-3">
+    <div class="py-4 d-flex flex-justify-between">
+      <h1 class="alt-h4 lh-default">
+
+        <a href="/" class="no-underline text-brand-blue-dark d-flex flex-items-center">
+          <img class="mr-2 mt-n2" src="{{ relBase }}/assets/png/tiger.png" width="42" height="42" alt="">
+          <span class="hide-sm">Wikipajak.org</span>
+        </a>
+
+      </h1>
+      <nav class="text-bold text-right">
+        {% for item in site.data.navigation %}
+        <a class="text-inherit px-2 d-inline-block {% if item.url == page.url %}active{% endif %}" href="{{ item.url }}">{{
+          item.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+kup:
+    name: KUP
+    description: Ketentuan Umum dan Tata Cara Perpajakan
+    bg-color: bg-red
+
+PPH:
+    name: PPh
+    description: Pajak Penghasilan
+    bg-color: bg-purple
+
+PPN:
+    name: PPN & PTLL
+    description: Pajak Pertambahan Nilai 
+    bg-color: bg-blue
+    
+File:
+    name: File Attachment
+    description: File Perpajakan
+    bg-color: bg-red-light

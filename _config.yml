@@ -1,0 +1,68 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+    # Where sass should look for other scss
+  #load_paths:
+  #  - node_modules/
+
+#theme: jekyll-theme-primer
+
+permalink: /blog/:title/
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/pages-themes/primer"
+  
+title: Wikipajak.org
+description: panduan ringkas peraturan perpajakan Indonesia, Sehingga mudah dipahami oleh semua orang.
+repository: berlamhenderson/berlamhenderson.github.io
+
+google_analytics: UA-111280620-2
+google_adsense: ca-pub-2676120456797792
+
+plugins:
+  - jekyll-octicons
+  - jekyll-paginate 
+  - jekyll-github-metadata
+
+detach:  false
+show_dir_listing: false
+
+collections:
+  faqs:
+    output: true
+    permalink: /faqs/:name
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_posts"
+      type: "posts" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "post" # overrides previous default layout
+      author: "wikipajak.org"
+
+  - scope:
+      path: ""
+      type: "faqs"
+    values:
+      layout: "faqs"
+
+#pagination
+paginate: 5
+paginate_path: /hal-:num/

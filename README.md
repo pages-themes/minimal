@@ -1,0 +1,1 @@
+Dalam hal terdapat ketidaksesuaian antara materi dalam file ini dengan peraturan perpajakan, maka pelaksanaannya mengacu pada peraturan perpajakan yang berlaku.

@@ -1,0 +1,9 @@
+_site
+node_modules
+.sass-cache
+*.gem
+Gemfile.locki
+*.gem
+assets/**/*.html
+assets/**/*.md
+.DS_Store

@@ -1,0 +1,26 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include head-open-graph.html %} 
+  {% include head-ga.html %} 
+  <title>
+    {% if page.title == "Home" %}
+    {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+    {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+  <link rel="hub" href=https://pubsubhubbub.appspot.com />
+  <link type="application/atom+xml" rel="alternate" href="https://wikipajak.org/atom.xml" title="{{ site.title }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <!--<link href="https://unpkg.com/primer/build/build.css" rel="stylesheet">-->
+  <link rel="stylesheet" href="{{ "/assets/css/halo.css?v=" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.ico" | relative_url }}">
+  <meta name="google-site-verification" content="yIWMZgElwxOzg64AzPCpRJi43D7SijIE8D4m1Zc5mig" />
+  <script src="https://unpkg.com/feather-icons"></script>
+
+</head>
