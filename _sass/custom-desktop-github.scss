@@ -1,0 +1,318 @@
+/*! debug.css v0.0.3 | MIT License | https://gist.github.com/zaydek/6b2e55258734deabbd2b4a284321d6f6 
+[debug],
+[debug] * {
+	color:                 hsla(210, 100%, 100%, 0.9) !important;
+	background:            hsla(210, 100%,  50%, 0.5) !important;
+	outline: solid 0.25rem hsla(210, 100%, 100%, 0.5) !important;
+
+	box-shadow: none !important;
+	filter:     none !important;
+}
+ end debug css */
+.height-full {
+    height: 100% !important;
+}
+
+// Variables
+$bg-gold: gold;
+$orange-light: #fecf4e;
+$orange: #a62a44;
+$orange-dark: #310441;
+
+$blue-light: #70a27d;
+$blue: #4552a1;
+$blue-dark: #371a6a;
+
+$bg-light: #ee7752;
+$bg-semi: #e73c7e;
+$bg-middle: #23a6d5;
+$bg-dark: #23d5ab;
+
+/**
+ * Nested numbered list with correct indentation.
+ *
+ * Tested on Firefox 32, Chromium 37, IE 9 and Android Browser. Doesn't work on IE 7 and previous.
+ * Source: https://cssnewbie.com/word-style-outline/#.W5Yv8EYzaM8
+ */
+
+ol {
+    list-style: decimal;
+    padding: 0;
+}
+
+ol ol {
+    list-style: lower-alpha;
+}
+
+ol ol ol {
+    list-style: lower-roman;
+}
+
+ol ol ol ol {
+    list-style: decimal;
+}
+
+ol ol,
+ol ol ol ol ol {
+    list-style: lower-alpha;
+}
+
+.bggradient-blue {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+
+#gradient-horizontal {
+    --color-stop-1: #a770ef;
+    --color-stop-2: #cf8bf3;
+    --color-stop-3: #fdb99b;
+}
+
+#gradient-vertical {
+    --color-stop-1: #00c3ff;
+    --color-stop-2: #77e190;
+    --color-stop-3: #ffff1c;
+}
+
+.icon-hgradient {
+    fill: url(#gradient-horizontal) gray;
+    /* We could use it as a stroke fill too:
+    stroke: url(#gradient-horizontal) gray; */
+}
+
+.icon-vgradient {
+    fill: url(#gradient-vertical) gray;
+}
+
+/* natgeo style via codepen 
+ easing https://easings.net/#easeOutCubic
+ */
+
+mark,
+mark:link {
+    color: black;
+    text-decoration: none;
+    background-position-y: -0%;
+    background-image: linear-gradient(white 50%, gold 50%);
+    //transition: background 200ms ease;
+    background-size: 2px;
+    background-size: auto 175%;
+    -webkit-transition: all 300ms cubic-bezier(.21, .61, .35, 1);
+    transition: all 300ms cubic-bezier(.21, .61, .35, 1);
+}
+
+mark:hover {
+    background-position-y: 100%;
+
+}
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+img {
+    border: 0;
+}
+
+/**
+   * Correct overflow not hidden in IE 9/10/11.
+   */
+svg:not(:root) {
+    overflow: hidden;
+}
+
+//untuk kategori bullet
+.dot {
+    border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    position: relative;
+    //top: 1px;
+    width: 10px;
+}
+
+//header
+
+.site-header {
+    //z-index: 3;
+    font-size: 16px;
+    background-clip: padding-box;
+    position: fixed;
+    top: 0;
+    left: 0
+}
+
+.site-header+* {
+    margin-top: 70px
+}
+
+@media (max-width: 960px) {
+    .site-header {
+        position: relative
+    }
+
+    .site-header+* {
+        margin-top: 0
+    }
+}
+
+.site-header .header-logo {
+    color: #24292e
+}
+
+.site-header .header-logo .octicon-mark-github {
+    float: left
+}
+
+@media (max-width: 960px) {
+    .page-responsive .site-header {
+        padding-top: 8px;
+        padding-bottom: 8px
+    }
+}
+
+.site-header.open .site-header-menu {
+    display: block
+}
+
+.site-header-toggle {
+    display: none
+}
+
+@media (max-width: 960px) {
+    .site-header-toggle {
+        display: block;
+        color: #959da5
+    }
+
+    .site-header-toggle:hover {
+        color: #d1d5da
+    }
+}
+
+.site-header-nav .nav-item {
+    float: left;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    line-height: 20px
+}
+
+.site-header-nav .nav-item+.nav-item {
+    margin-left: 20px
+}
+
+@media (max-width: 960px) {
+    .page-responsive .site-header-nav .nav-item {
+        margin-left: 0
+    }
+}
+
+.site-header-nav .selected {
+    padding-bottom: 6px;
+    color: white;
+    border-bottom: 3px solid #6a737d
+}
+
+@media (max-width: 960px) {
+    .site-header-nav {
+        float: none;
+        margin-bottom: 16px
+    }
+
+    .site-header-nav .nav-item {
+        display: block;
+        float: none;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        margin-left: 0;
+        border-top: 1px solid #d1d5da
+    }
+
+    .site-header-nav .nav-item:last-child {
+        border-bottom: 1px solid #d1d5da
+    }
+}
+
+@media (max-width: 960px) {
+    .site-header-menu {
+        display: none;
+        padding-top: 15px;
+        clear: left
+    }
+}
+
+.site-nav-container {
+    display: flex;
+    width: auto;
+    max-width: 1012px
+}
+
+@media (max-width: 960px) {
+    .site-nav-container {
+        display: block
+    }
+}
+
+.js-hidden-card {
+    display: none
+}
+
+// link active header
+.site-header-menu a.active {
+    color: lightgray;
+    cursor: default;
+}
+
+//cane color
+$color-1: $bg-dark;
+$color-2: adjust-hue($color-1, 120%);
+// Amount of steps to iterate through color mix
+$steps: 9;
+
+// Mix colors to go from $color-1 ro @color-2 with 9 total steps
+@for $i from 0 to $steps {
+    .index-cateory:nth-of-type(#{$i + 1}) {
+        background: mix($color-1, $color-2, percentage($i / ($steps - 1)));
+    }
+}
+
+.markdown-body {
+
+    // Tables
+    table {
+        font-size: $h6-size;
+
+        th,
+        td {
+          padding: 3px 13px;
+        }
+    }
+}
+
+.halo {
+    color: black;
+    background: $bg-gold;
+}
+
+.-Label--gold {
+    color: black;
+    background-image: linear-gradient(135deg,#ff4c9f,#ff7b74);
+}
+.-Label--gold:nth-child(even) {
+    color: #fff;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+$color-1: gold;
+$color-2: adjust-hue($color-1, 130%);
+// Amount of steps to iterate through color mix
+$steps: 9;
+
+// Mix colors to go from $color-1 ro @color-2 with 9 total steps
+@for $i from 0 to $steps {
+	.Label--gold:nth-of-type(#{$i + 1}) {
+        background: mix($color-2, $color-1, percentage($i / ($steps - 1)));
+        color: black;
+	}
+}
+

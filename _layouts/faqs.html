@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div>
+  <div>
+    <div class="page-section pt-0">
+      <div class="container-lg p-responsive">
+
+        <div class="clearfix pt-md-6">
+          <div class="col-md-3 float-md-left pr-md-5 mb-3 mb-md-0">
+            <div class="mx-auto mt-1"></div>
+          </div>
+          <div class="col-md-9 float-md-left pl-md-5 text-center text-md-left">
+            <h1 class="f1-light lh-condensed mb-3">
+              {{ page.title }}
+            </h1>
+          </div>
+        </div>
+
+        <div class="clearfix d-flex flex-column flex-md-row flex-lg-row">
+          <div class="col-md-3 pr-md-5 pt-3">
+            <ul class="list-style-none mt-1 mb-2">
+              <li class="border-bottom pb-3 lh-condensed">
+                <h5 class="mb-2">Kategori</h5>
+                {% for cat in page.categories %}
+                <span class="Label f6 {{ cat }}">
+                  {{ cat }}
+                </span>
+                {% endfor %}
+              </li>
+              <li class="border-bottom py-3 lh-condensed">
+                <h5 class="mb-2">Tanggal Pembuatan</h5>
+                <span class="d-block f6">{{ page.datePublished | date_to_long_string }}</span>
+              </li>
+
+              {% if page.dateUpdated %}
+              <li class="border-bottom py-3 lh-condensed">
+                <h5 class="mb-2">Tanggal Update</h5>
+                  <span class="f6">{{ page.dateUpdated | date_to_long_string }}</span>
+              </li>
+              {% endif %}
+
+              {% if page.dasarhukum %}
+              <li class="py-3 lh-condensed">
+                <h5 class="mb-2">Dasar Hukum</h5>
+                <ul class="list-style-none text-small">
+
+                  {% for sec in page.dasarhukum %}
+                  <li class="mb-1 list-style-none"><span><img src="https://icongr.am/entypo/plus.svg?size=12&color=000000"></span> <a href="{{sec.url}}">{{sec.peraturan}}</a></li>
+                  {% endfor %}
+              
+                </ul>
+                {% endif %}
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-9 pl-md-5 pt-3">
+            <div class="markdown-body mb-4 lh-condensed">
+              {{ content }}
+            </div>
+            <div class="border border-black-fade bg-red-light p-2 mb-2 text-small text-center text-gray lh-condensed mt-6 bg-gray">Dalam hal terdapat ketidaksesuaian antara materi dalam file ini dengan peraturan perpajakan, maka pelaksanaannya mengacu pada peraturan perpajakan yang berlaku.</div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>

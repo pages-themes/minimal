@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: /resume/
+title: Resume
+header: bg-yellow
+description: Resume perpajakan yang disusun berdasarkan peraturan yang berlaku
+---
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <p></p>   
+    <h2>{{ category_name }}</h2>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <ul class="list-style-none">
+        <li>👉 <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> — <span class="text-gray">{{ post.datePublished | date_to_long_string }}</span></li>
+    </ul>
+    {% endfor %}
+  </div>
+{% endfor %}
