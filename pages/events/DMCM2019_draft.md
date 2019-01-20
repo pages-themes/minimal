@@ -49,7 +49,7 @@ Coming soon
 
 ## Registration
 
-The registration is free but mandatory. Fill in the <a href="https://goo.gl/forms/MqK7AjrtcXYQh2Br1"><strong><font color="Navy">registration form here</font></strong></a>.  
+The registration is free but mandatory. Please fill in the <a href="https://goo.gl/forms/MqK7AjrtcXYQh2Br1"><strong><font color="Navy">registration form here</font></strong></a>.  
 
 ## Location
 
