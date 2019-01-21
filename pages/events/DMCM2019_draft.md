@@ -40,19 +40,19 @@ Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany
 Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, US
 
 **Schizophrenia Map: Data to knowledge to data**
-Jessica Dale Tenenbaum, Duke University at Durham, North Carolina
+Jessica Dale Tenenbaum, Duke University at Durham, North Carolina, US
 
 ### Afternoon discussion sessions
 
-Afternoon breakout discussion sessions are planned following the example of the [2nd Disease Maps Community Meeting](http://disease-maps.org/DMCM2017_2nd) in Luxembourg. We invite proposals: a title and a brief description of the topic (1 page maximum). 4-6 topics will be selected, introduced 2nd October and discussed 3rd and 4th October with summaries presented at the end to all the participants. The outcome of the Luxembourg meeting discussions was published receintly in *Briefings in Bioinformatics*: [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024).
+Afternoon breakout discussion sessions are planned following the example of the [2nd Disease Maps Community Meeting](http://disease-maps.org/DMCM2017_2nd) in Luxembourg. We invite proposals: a title and a brief description of the topic (1 page maximum). 4-6 topics will be selected, introduced 2nd October and discussed 3rd and 4th October with summaries presented at the end to all the participants. The outcome of the Luxembourg meeting discussions was published receintly in _Briefings in Bioinformatics_: [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024).
 
 ## Abstract submission
 
-Submit abstracts (up to 400 words) via <a href="#"><strong><font color="Navy">the submission link</font></strong></a> for oral presentations and/or posters. Indicate 4 keywords to allocate it into the suitable session.  
+Submit abstracts (up to 400 words) via <a href="#"><strong><font color="Navy">the submission link</font></strong></a> for oral presentations and/or posters. Indicate 4 keywords to allocate it into the suitable session.
 
 ## Registration
 
-The registration is free but mandatory. Please fill in the <a href="https://goo.gl/forms/MqK7AjrtcXYQh2Br1"><strong><font color="Navy">registration form here</font></strong></a>.  
+The registration is free but mandatory. Please fill in the <a href="https://goo.gl/forms/MqK7AjrtcXYQh2Br1"><strong><font color="Navy">registration form here</font></strong></a>.
 
 ## Location
 
@@ -89,7 +89,7 @@ The registration is free but mandatory. Please fill in the <a href="https://goo.
 ## Organisers
 
 <p><a href="http://clinbioinfosspa.es/">Clinical Bioinformatics Area Group</a>
-<p><a href="mailto:joaquin.dopazo@juntadeandalucia.es">Joaquin Dopazo</a>
+<br /><a href="mailto:joaquin.dopazo@juntadeandalucia.es">Joaquin Dopazo</a>
 <br /><a href="mailto:ruben.garcia.serrano@juntadeandalucia.es">Rubén García Serrano</a>
 <br /><a href="mailto:maria.pena.chilet.ext@juntadeandalucia.es">Maria Peña Chilet</a>
 </p>
