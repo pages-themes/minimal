@@ -45,7 +45,7 @@ Afternoon breakout discussion sessions are planned following the example of the 
 
 ## Abstract submission
 
-Coming soon
+Submit abstracts (up to 400 words) via <a href="#"><strong><font color="Navy">the submission link</font></strong></a> for oral presentations and/or posters. Indicate 4 keywords to allocate it into the suitable session.  
 
 ## Registration
 
@@ -53,18 +53,34 @@ The registration is free but mandatory. Please fill in the <a href="https://goo.
 
 ## Location
 
-Coming soon
+<b>C.D.C.A.. Building, Hospital Universitario Virgen del Rocío</b><br />
+Avenida Manuel Siurot s/n,<br />
+41013 Seville,<br />
+Spain
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1585.5956319963145!2d-5.981069!3d37.361651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x70784b65432acca!2sCentro+de+Documentaci%C3%B3n+Cl%C3%ADnica+Avanzada!5e0!3m2!1sen!2ses!4v1548074227371" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 ## Accommodation
 
-Coming soon
+<p>Recommended hotels:</p>
+<p><a href="https://www.marriott.com/hotels/travel/svqci-ac-hotel-ciudad-de-sevilla/">AC Hotel Ciudad de Sevilla, a Marriott Lifestyle Hotel</a>
+<br />AV Manuel Siurot 25, Sevilla 41013 España.</p>
+<p><a href="https://www.hoteles-silken.com/en/hotel-al-andalus-seville/">Silken Al-Andalus Palace</a>
+<br />Avenida de la Palmera s/n, esq. C/ Paraná. 41012. Sevilla, España.</p>
+<p><a href="https://www.exehotels.com/exe-sevilla-palmera.html">EXE Sevilla Palmera</a>
+<br />Cardenal Ilundain, 28 Sevilla 41013 España,
+<br />Tel. +34 932 087 108</p>
+<p><a href="https://www.melia.com/en/hotels/spain/seville/melia-sevilla/index.htm">Melia Sevilla</a>
+<br />Dr. Pedro de Castro, 1 Sevilla.
+<br />Tel. +34 912764747</p>
 
 ## Contact
 
 <p><a href="mailto:disease-maps-coord@googlegroups.com ">disease-maps-coord@googlegroups.com</a></p>
 
 ## Organisers
-
+<p><a href="http://clinbioinfosspa.es/">Clinical Bioinformatics Area Group</a>
 <p><a href="mailto:joaquin.dopazo@juntadeandalucia.es">Joaquin Dopazo</a>
 <br /><a href="mailto:ruben.garcia.serrano@juntadeandalucia.es">Rubén García Serrano</a>
 <br /><a href="mailto:maria.pena.chilet.ext@juntadeandalucia.es">Maria Peña Chilet</a>
