@@ -35,3 +35,6 @@ google_fonts:
 
 navigation_pages:
   - tags.md
+
+unhide:
+  h1: false
