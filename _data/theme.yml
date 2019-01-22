@@ -26,8 +26,8 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
-    weights: "400,400i,600,600i"
+  - name: "Roboto"
+    weights: "400,400i,700,700i"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
@@ -36,5 +36,5 @@ google_fonts:
 navigation_pages:
   - tags.md
 
-unhide:
-  h1: false
+hide:
+  h1: #default true
