@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+    Basically Basic Jekyll Theme 1.4.1
+    Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head.html %}
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {{ page.title | slugify }}">
+
+    {% include skip-links.html %}
+
+    <div class="sidebar-toggle-wrapper">
+      {% if site.search %}
+        <button class="search-toggle" type="button">
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <title>{{ site.data.theme.t.search | default: 'Search' }}</title>
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+      {% endif %}
+
+      <button class="toggle navicon-button larr" type="button">
+        <span class="toggle-inner">
+          <span class="sidebar-toggle-label visually-hidden">{{ site.data.theme.t.menu | default: 'Menu' }}</span>
+          <span class="navicon"></span>
+        </span>
+      </button>
+    </div>
+
+    <div id="sidebar" class="sidebar">
+      <div class="inner">
+        {% include navigation.html %}
+        {% include contact-list.html %}
+      </div>
+    </div>
+
+    <div class="canvas">
+      <div class="wrapper">
+        {% include masthead.html %}
+        <div class="initial-content">
+          {{ content }}
+        </div>
+
+        <div class="search-content">
+          {% include search-form.html %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+  </body>
+
+</html>

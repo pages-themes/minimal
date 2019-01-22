@@ -1,0 +1,35 @@
+<ul class="contact-list">
+  {% if site.email %}
+    <li>
+      <a href="mailto:{{ site.email }}">
+        <span class="icon icon--email">{% include icon-email.svg %}</span>
+        <span class="label">{{ site.data.theme.t.email | default: 'Email' }}</span>
+      </a>
+    </li>
+  {% endif %}
+
+  {% if site.github_username %}
+    <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
+  {% endif %}
+
+  {% if site.twitter_username %}
+    <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
+  {% endif %}
+  
+  {% if site.facebook_username %}
+    <li>{% include icon-facebook.html username=site.facebook_username label='Facebook' %}</li>
+  {% endif %}
+
+  {% if site.telegram_username %}
+  <li>{% include icon-telegram.html username=site.telegram_username label='Telegram' %}</li>
+  {% endif %}
+
+  <li>
+    {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
+      <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
+        <span class="icon icon--rss">{% include icon-rss.svg %}</span>
+        <span class="label">{{ site.data.theme.t.subscribe | default: 'Subscribe' }}</span>
+      </a>
+    {% endif %}
+  </li>
+</ul>

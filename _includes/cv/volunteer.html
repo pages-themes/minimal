@@ -1,0 +1,46 @@
+{% if cv.volunteer %}
+  <div id="volunteer" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">Volunteer</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for v in cv.volunteer %}
+        {% if v.organization %}
+          <h3 class="company">
+            {% if v.website %}
+              <a href="{{ v.website }}">{{ v.organization }}</a>
+            {% else %}
+              {{ v.organization }}
+            {% endif %}
+          </h3>
+        {% endif %}
+        {% if v.position %}
+          <h4 class="position">{{ v.position }}</h4>
+        {% endif %}
+        <div class="date">
+          {% if v.startDate %}
+            <span class="startDate">{{ v.startDate }}</span>
+          {% endif %}
+          {% if v.endDate == '' %}
+            <span class="endDate">{{ site.data.theme.t.present | default: 'Present' | prepend: ' &mdash; ' }}</span>
+          {% else %}
+            <span class="endDate">{{ v.endDate | prepend: ' &mdash; ' }}</span>
+          {% endif %}
+        </div>
+        {% if v.summary %}
+          <div class="summary">
+            <p>{{ v.summary }}</p>
+          </div>
+        {% endif %}
+        {% if v.highlights %}
+          <ul class="highlights">
+            {% for highlight in v.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

@@ -1,0 +1,20 @@
+{% if cv.languages %}
+  <div id="languages" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">Languages</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for l in cv.languages %}
+        {% if l.language %}
+          <h4 class="language">{{ l.language }}</h4>
+        {% endif %}
+        {% if l.fluency %}
+          <div class="fluency">
+            <em>{{ l.fluency }}</em>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

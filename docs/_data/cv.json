@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Dugan Nash",
+    "label": "Very extravagant man",
+    "picture": "",
+    "email": "dugan.hash@mailinator.com",
+    "phone": "(555) 555-5555",
+    "website": "https://towlettepettetuc.ci",
+    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "location": {
+      "address": "123 Sesame Street",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Towlette_Pettetucci",
+        "url": "https://twitter.com/Towlette_Pettetucci"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "Towlette_Pettetucci",
+        "url": "https://soundcloud.com/Towlette_Pettetucci"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "The Whip",
+      "position": "CEO/President",
+      "website": "https://thewh.ip",
+      "startDate": "2013-12-01",
+      "endDate": "",
+      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "highlights": [
+        "Concealed nipper in embrodiery.",
+        "Dealt with Elastical Gomez on a daily basis."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Steve's Meat Market",
+      "position": "Assistant",
+      "website": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-03-20",
+      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "highlights": [
+        "Awarded a 'Helium Biscuit'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Ointment",
+      "area": "Digital Skillets",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Perpendicular Crosstalk",
+        "CS2011 - Introduction to Moisturization"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Warble Pioneer Award",
+      "date": "2001-11-01",
+      "awarder": "Levi Goulet",
+      "summary": "Have you seen my turtle?"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Radio Julius",
+      "publisher": "Tanyo Lubbock",
+      "releaseDate": "2014-10-01",
+      "website": "https://en.rhy.es",
+      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Audio Juggling",
+      "level": "Master",
+      "keywords": [
+        "Ointment",
+        "Voltor",
+        "Millipedes"
+      ]
+    },
+    {
+      "name": "Bruschotti",
+      "level": "Satisfactory",
+      "keywords": [
+        "Snow camp",
+        "Owl"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nonsense",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "The Information Superhighway",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": " Nannette Nananacci",
+      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}

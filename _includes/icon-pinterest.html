@@ -1,0 +1,4 @@
+<a href="https://www.pinterest.com/{{ include.username }}">
+  <span class="icon icon--pinterest">{% include icon-pinterest.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

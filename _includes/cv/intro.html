@@ -1,0 +1,18 @@
+<header class="intro">
+  <div class="inner">
+    <div class="intro-text">
+      <h1 class="intro-title">{{ cv.basics.name | default: page.title | markdownify | remove: '<p>' | remove: '</p>' }}</h1>
+      {% if cv.basics.label %}
+        <p class="intro-subtitle">{{ cv.basics.label | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      {% endif %}
+
+      {% if page.actions %}
+        <ul class="intro-actions">
+          {% for action in page.actions %}
+            <li><a href="{{ action.url }}" class="btn">{% if action.icon %}<span class="icon">{% include {{ action.icon | prepend: 'icon-' | append: '.svg' }} %}</span>{% endif %}{{ action.label }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+</header>

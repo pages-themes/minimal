@@ -1,0 +1,20 @@
+{% if cv.interests %}
+  <div id="interests" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">Interests</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for i in cv.interests %}
+        <div class="taxonomy">
+          {% if i.name %}
+            <h4 class="title">{{ i.name }}</h4>
+          {% endif %}
+          {% if i.keywords %}
+            <span class="keywords">{{ i.keywords | array_to_sentence_string }}</span>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

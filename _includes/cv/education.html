@@ -1,0 +1,36 @@
+{% if cv.education %}
+  <div id="education" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">Education</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for e in cv.education %}
+        {% if e.institution %}
+          <h4 class="institution">{{ e.institution }}</h4>
+        {% endif %}
+        <div class="date">
+          {% if e.startDate %}
+            <span class="startDate">{{ e.startDate }}</span>
+          {% endif %}
+          {% if e.endDate == '' %}
+            <span class="endDate">{{ site.data.theme.t.present | default: 'Present' | prepend: ' &mdash; ' }}</span>
+          {% else %}
+            <span class="endDate">{{ e.endDate | prepend: ' &mdash; ' }}</span>
+          {% endif %}
+        </div>
+        {% if e.area %}
+          <div class="area"><strong>{{ e.area }}{% if e.studyType %}<span class="studyType">{{ e.studyType | prepend: ', ' }}</span>{% endif %}</strong>{% if e.gpa %}<span class="gpa">{{ e.gpa | prepend: ' (' | append: ' GPA)' }}</span>{% endif %}</div>
+        {% endif %}
+        {% if e.courses %}
+          <h5 class="courses-title">Courses</h5>
+          <ul class="courses">
+            {% for course in e.courses %}
+              <li>{{ course }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

@@ -1,0 +1,91 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+lang: en-US
+title: Wikipajak.org
+email:
+description:
+baseurl: /jekyll-theme-basically-basic # the optional subpath of your site, e.g. "/blog"
+url: https://docupajak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+author:
+  name: woww
+  twitter: woww
+  picture: /assets/images/logo.png
+facebook_username: diskusipajak
+telegram_username: diskusipajak
+twitter_username: #woww
+github_username: #docupajak
+logo: /assets/images/tiger.png # path of site logo, e.g. "/assets/images/logo.png"
+search: true #, false (default)
+search_full_content: false # true, false (default)
+search_provider: lunr #(default), algolia
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
+
+# ga
+google_analytics: UA-111280620-2
+google_adsense: ca-pub-2676120456797792 
+
+# Build settings
+markdown: kramdown
+# theme: jekyll-theme-basically-basic
+plugins: # previsously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      read_time: false

@@ -1,0 +1,107 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+/* Breakpoint widths */
+$small: 320px !default;
+$medium: 768px !default;
+$large: 1024px !default;
+$xlarge: 1280px !default;
+
+/* Fluid type */
+$base-font-size: 16px !default;
+$min-vw: $small !default;
+$max-vw: $xlarge !default;
+$min-font-size: 14px !default;
+$max-font-size: 18px !default;
+
+/* Calculate Modular Scale */
+$modular-scale-1: 1.067 !default; /* small */
+$modular-scale-2: 1.296 !default; /* large */
+/* Heading 1 */
+$h1-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 *
+  $modular-scale-1 * $base-font-size !default;
+$h1-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 *
+  $modular-scale-2 * $base-font-size !default;
+/* Heading 2 */
+$h2-min: $modular-scale-1 * $modular-scale-1 * $modular-scale-1 *
+  $base-font-size !default;
+$h2-max: $modular-scale-2 * $modular-scale-2 * $modular-scale-2 *
+  $base-font-size !default;
+/* Heading 3 */
+$h3-min: $modular-scale-1 * $modular-scale-1 * $base-font-size !default;
+$h3-max: $modular-scale-2 * $modular-scale-2 * $base-font-size !default;
+/* Heading 4 */
+$h4-min: $modular-scale-1 * $base-font-size !default;
+$h4-max: $modular-scale-2 * $base-font-size !default;
+/* Heading 5 */
+$h5-min: $base-font-size !default;
+$h5-max: $base-font-size !default;
+/* Heading 6 */
+$h6-min: ($base-font-size / $modular-scale-1) !default;
+$h6-max: ($base-font-size / $modular-scale-2) !default;
+
+/* Base font family */
+$base-font-family: "Fira Sans", sans-serif !default;
+/* Other font families */
+$headline-font-family: $base-font-family !default;
+$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
+  monospace !default;
+
+/* Colors */
+$base-color: #393e46 !default;
+$text-color: #181c22 !default;
+$accent-color: #00838a !default;
+$background-color: #fff !default;
+$code-background-color: tint($base-color, 95%) !default;
+$border-color: tint($base-color, 80%) !default;
+$overlay-color: $base-color !default;
+
+/* Syntax highlighting (base16) colors */
+$base00: #1c2023 !default;
+$base01: #393f45 !default;
+$base02: #565e65 !default;
+$base03: #747c84 !default;
+$base04: #adb3ba !default;
+$base05: #c7ccd1 !default;
+$base06: #dfe2e5 !default;
+$base07: #f3f4f5 !default;
+$base08: #c7ae95 !default;
+$base09: #c7c795 !default;
+$base0a: #aec795 !default;
+$base0b: #95c7ae !default;
+$base0c: #95aec7 !default;
+$base0d: #ae95c7 !default;
+$base0e: #c795ae !default;
+$base0f: #c79595 !default;
+
+/* Max-width of the main content */
+$main-max-width: $xlarge !default;
+
+/* Width of the sidebar */
+$sidebar-width: $small !default;
+
+/* Background color of the sidebar */
+$sidebar-background-color: #fff !default;
+
+/* Intro image color overlay */
+$intro-image-color-overlay: false !default;
+
+/* Border radius */
+$border-radius: 0.25em !default;
+
+/* Global transition */
+$global-transition: all 0.4s ease !default;
+
+/* Navicon */
+$navicon-width: 1.75em !default;
+$navicon-height: 0.25em !default;
+$navicon-duration: 0.5s !default;
+$navicon-toggled-size: 1 !default;
+$navicon-nav-bg-close: transparent !default;
+$navicon-nav-bg-open: transparent !default;
+$navicon-content-bg: $text-color !default;
+
+/* Site image */
+$site-image-width: 50px !default;
+$site-image-height: 50px !default;

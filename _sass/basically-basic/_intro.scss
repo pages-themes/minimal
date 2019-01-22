@@ -1,0 +1,67 @@
+/* ==========================================================================
+   Page intro
+   ========================================================================== */
+
+.intro {
+  margin: 1rem 0;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.intro-image {
+  position: relative;
+  margin-top: -3rem; /* compensate for intro top margin */
+  margin-bottom: 3rem;
+
+  &::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    @if $intro-image-color-overlay == true {
+      background-color: rgba($accent-color, 0.25);
+    };
+    content: '';
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+.intro-text {
+
+  /* remove space after last child element */
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.intro-title {
+  @include fluid-type($min-vw, $max-vw, 26px, 80px);
+  margin-bottom: 1rem;
+  color: tint($text-color, 25%);
+  line-height: 1;
+}
+
+.intro-subtitle {
+  @include fluid-type($min-vw, $max-vw, 18px, 28px);
+  font-style: italic;
+}
+
+.intro-actions {
+  @include list-unstyled;
+
+  li {
+    display: inline-block;
+  }
+}
+
+.intro-more {
+
+  > p:first-child {
+    font-size: 1.125em;
+    line-height: 1.625;
+  }
+}

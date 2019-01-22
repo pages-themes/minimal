@@ -1,0 +1,11 @@
+<footer id="footer" class="site-footer">
+  <div class="inner">
+    <div class="copyright">
+      {% if site.copyright %}
+        {{ site.copyright | markdownify }}
+      {% else %}
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      {% endif %}
+    </div>
+  </div>
+</footer>

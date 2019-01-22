@@ -1,0 +1,69 @@
+{% if cv.basics.summary %}
+  <div class="summary">
+    {{ cv.basics.summary | markdownify }}
+  </div>
+{% endif %}
+
+<div id="contact" class="entry">
+  <header class="entry-header">
+    <h3 class="entry-title">Contact</h3>
+  </header>
+
+  <div class="entry-content">
+    {% if cv.basics.email %}
+      <div class="email"><strong>Email</strong> <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a></div>
+    {% endif %}
+    {% if cv.basics.phone %}
+      <div class="phone"><strong>Phone</strong> {{ cv.basics.phone }}</div>
+    {% endif %}
+    {% if cv.basics.website %}
+      <div class="website"><strong>Website</strong> <a href="{{ cv.basics.website }}">{{ cv.basics.website }}</a></div>
+    {% endif %}
+    {% if cv.basics.profiles %}
+      {% for p in cv.basics.profiles %}
+        <div class="item">
+          {% if p.network %}
+            <strong class="network">{{ p.network | append: ' ' }}</strong>
+          {% endif %}
+          {% if p.username %}
+            <span class="username">
+              {% unless p.url == '' or p.url == nil %}
+                <a href="{{ p.url }}">{{ p.username }}</a>
+              {% else %}
+                {{ p.username }}
+              {% endunless %}
+            </span>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+{% if cv.basics.location %}
+  <div id="location" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">Location</h3>
+    </header>
+
+    <div class="entry-content">
+      <address>
+        {% if cv.basics.location.address %}
+          <span class="address">{{ cv.basics.location.address }}</span><br />
+        {% endif %}
+        {% if cv.basics.location.city %}
+          <span class="city">{{ cv.basics.location.city | append: ', ' }}</span>
+        {% endif %}
+        {% if cv.basics.location.region %}
+          <span class="region">{{ cv.basics.location.region | append: ' ' }}</span>
+        {% endif %}
+        {% if cv.basics.location.postalCode %}
+          <span class="postalCode">{{ cv.basics.location.postalCode | append: ' ' }}</span>
+        {% endif %}
+        {% if cv.basics.location.countryCode %}
+          <span class="countryCode">{{ cv.basics.location.countryCode }}</span>
+        {% endif %}
+      </address>
+    </div>
+  </div>
+{% endif %}

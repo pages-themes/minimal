@@ -1,0 +1,31 @@
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% if author %}
+  {% if author.name %}
+    {% assign author_name = author.name %}
+  {% else %}
+    {% if site.data.authors and site.data.authors[author] %}
+      {% assign author_name = site.data.authors[author].name %}
+    {% else %}
+      {% assign author_name = author %}
+    {% endif %}
+  {% endif %}
+
+  {% if author.picture %}
+    {% assign author_picture = author.picture %}
+  {% else %}
+    {% if site.data.authors and site.data.authors[author] %}
+      {% assign author_picture = site.data.authors[author].picture %}
+    {% endif %}
+    {% unless author_picture contains '://' %}{% assign author_picture = author_picture | relative_url %}{% endunless %}
+  {% endif %}
+
+  {% if author.twitter %}
+    {% assign author_twitter = author.twitter %}
+  {% else %}
+    {% if site.data.authors and site.data.authors[author] %}
+      {% assign author_twitter = site.data.authors[author].twitter %}
+    {% else %}
+      {% assign author_twitter = site.twitter_username %}
+    {% endif %}
+  {% endif %}
+{% endif %}

@@ -1,0 +1,148 @@
+/* ==========================================================================
+   Navicons
+   ========================================================================== */
+
+.navicon-button {
+  display: inline-block;
+  position: relative;
+  padding: 0.90625rem 0;
+  min-height: $site-image-height;
+  -webkit-transition: $navicon-duration / 2;
+  transition: $navicon-duration / 2;
+  border: 0;
+  outline: none;
+  background-color: $navicon-nav-bg-close;
+  line-height: 5 * $navicon-height;
+  cursor: pointer;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+
+  &.open {
+    background-color: $navicon-nav-bg-open;
+  }
+
+  .navicon::before,
+  .navicon::after {
+    -webkit-transition-duration: $navicon-duration / 2;
+    transition-duration: $navicon-duration / 2;
+  }
+
+  &:hover {
+    -webkit-transition-duration: $navicon-duration;
+    transition-duration: $navicon-duration;
+
+    .navicon::before,
+    .navicon::after {
+      -webkit-transition-duration: $navicon-duration / 2;
+      transition-duration: $navicon-duration / 2;
+    }
+
+    .navicon::before {
+      top: (2.5 * $navicon-height);
+    }
+    .navicon::after {
+      top: (-2.5 * $navicon-height);
+    }
+  }
+}
+
+.navicon {
+  position: relative;
+  width: $navicon-width;
+  height: $navicon-height;
+  -webkit-transition-duration: $navicon-duration;
+  transition-duration: $navicon-duration;
+  border-radius: $navicon-width;
+  background: $navicon-content-bg;
+
+  &::before,
+  &::after {
+    display: block;
+    position: absolute;
+    width: $navicon-width;
+    height: $navicon-height;
+    -webkit-transition-duration: $navicon-duration $navicon-duration / 2;
+    transition-duration: $navicon-duration $navicon-duration / 2;
+    border-radius: $navicon-width;
+    background: $navicon-content-bg;
+    content: "";
+  }
+
+  &::before {
+    top: (2 * $navicon-height);
+  }
+  &::after {
+    top: (-2 * $navicon-height);
+  }
+}
+
+.open:not(.steps) .navicon::before,
+.open:not(.steps) .navicon::after {
+  top: 0 !important;
+}
+
+.open {
+  -webkit-transform: scale($navicon-toggled-size);
+  -ms-transform: scale($navicon-toggled-size);
+  transform: scale($navicon-toggled-size);
+
+  .navicon::before,
+  .navicon::after {
+    -webkit-transition-duration: $navicon-duration;
+    transition-duration: $navicon-duration;
+  }
+
+  /* Arrows */
+  &.larr .navicon,
+  &.rarr .navicon,
+  &.uarr .navicon {
+    &::before,
+    &::after {
+      width: (0.6 * $navicon-width);
+    }
+
+    &::before {
+      -webkit-transform: rotate(35deg);
+      -ms-transform: rotate(35deg);
+      transform: rotate(35deg);
+      -webkit-transform-origin: left top;
+      -ms-transform-origin: left top;
+      transform-origin: left top;
+    }
+
+    &::after {
+      -webkit-transform: rotate(-35deg);
+      -ms-transform: rotate(-35deg);
+      transform: rotate(-35deg);
+      -webkit-transform-origin: left bottom;
+      -ms-transform-origin: left bottom;
+      transform-origin: left bottom;
+    }
+  }
+
+  &.uarr {
+    -webkit-transform: scale($navicon-toggled-size) rotate(90deg);
+    -ms-transform: scale($navicon-toggled-size) rotate(90deg);
+    transform: scale($navicon-toggled-size) rotate(90deg);
+  }
+
+  &.rarr .navicon {
+    &::before {
+      -webkit-transform: translate3d(1em, 0, 0) rotate(-35deg);
+      transform: translate3d(1em, 0, 0) rotate(-35deg);
+      -webkit-transform-origin: right top;
+      -ms-transform-origin: right top;
+      transform-origin: right top;
+    }
+
+    &::after {
+      -webkit-transform: translate3d(1em, 0, 0) rotate(35deg);
+      transform: translate3d(1em, 0, 0) rotate(35deg);
+      -webkit-transform-origin: right bottom;
+      -ms-transform-origin: right bottom;
+      transform-origin: right bottom;
+    }
+  }
+}

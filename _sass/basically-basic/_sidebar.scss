@@ -1,0 +1,166 @@
+/* ==========================================================================
+   Sidebar
+   ========================================================================== */
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  max-width: $sidebar-width;
+  height: 100%;
+  z-index: 50;
+  visibility: hidden;
+  -webkit-transition: visibility 0s 0.3s;
+  transition: visibility 0s 0.3s;
+
+  @include breakpoint($large) {
+    max-width: (1.5 * $sidebar-width);
+  }
+
+  &.is--visible {
+    visibility: visible;
+    -webkit-transition: visibility 0s 0s;
+    transition: visibility 0s 0s;
+  }
+
+  li {
+    -webkit-transform: translateX(-1rem);
+    -ms-transform: translateX(-1rem);
+    transform: translateX(-1rem);
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 0;
+
+    &.is--moved {
+      -webkit-transform: translateX(0);
+      -ms-transform: translateX(0);
+      transform: translateX(0);
+      opacity: 1;
+    }
+
+    /* line hover effect */
+    a {
+      position: relative;
+      color: $base-color;
+
+      &::before {
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: -3rem;
+        width: 0;
+        height: 1px;
+        -webkit-transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
+        transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
+        background-color: $base-color;
+        content: "";
+      }
+
+      &:hover {
+        color: $accent-color;
+      }
+
+      &:hover::before {
+        width: 2.5rem;
+      }
+    }
+  }
+
+  > .inner {
+    width: 100%;
+    height: 100%;
+    padding: 1.5em;
+    background-color: $sidebar-background-color;
+    overflow-x: hidden;
+    -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
+    box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
+
+    @include breakpoint($medium) {
+      padding: 3rem;
+    }
+  }
+
+  .menu {
+    @include fluid-type($min-vw, $max-vw, 24px, 48px);
+    position: relative;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: bold;
+    line-height: 1;
+
+    a {
+      display: block;
+    }
+
+    /* divider line */
+    &::after {
+      position: absolute;
+      bottom: 0;
+      width: 1.5em;
+      height: 1px;
+      background-color: $base-color;
+      content: "";
+    }
+
+    li {
+      margin-bottom: 1.5rem;
+    }
+  }
+
+  .contact-list {
+    @include fluid-type($min-vw, $max-vw, 18px, 24px);
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+
+    li:not(:last-child) {
+      margin-bottom: 0.5rem;
+    }
+
+    a {
+      display: block;
+      color: $base-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.sidebar-toggle-wrapper {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  top: 0;
+  right: 0;
+  margin: 1.8125rem 0;
+  padding-right: 1rem;
+  background-color: $background-color;
+  z-index: 10000;
+
+  @include breakpoint($medium) {
+    right: 2rem;
+    padding-right: 0;
+  }
+
+  @include breakpoint($large) {
+    right: 5vw;
+  }
+
+  .toggle-inner {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+  }
+}
+
+.sidebar-toggle-label {
+  margin-left: 0.5rem;
+  font-weight: bold;
+  color: $text-color;
+}

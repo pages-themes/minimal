@@ -1,0 +1,37 @@
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.site-footer {
+  margin-top: 4rem;
+  color: tint($text-color, 40%);
+  font-size: 80%;
+
+  .inner {
+    padding: 0 0.5rem;
+
+    @include breakpoint($small) {
+      padding-right: 1rem;
+      padding-left: 1rem;
+    }
+
+    @include breakpoint($medium) {
+      padding-right: 2rem;
+      padding-left: 2rem;
+    }
+
+    @include breakpoint($large) {
+      padding-right: 3rem;
+      padding-left: 3rem;
+    }
+
+    @include breakpoint($xlarge) {
+      padding-right: 4rem;
+      padding-left: 4rem;
+    }
+  }
+}
+
+.copyright {
+  font-family: $monospace-font-family;
+}

@@ -1,0 +1,4 @@
+<a href="https://t.me/{{ include.username }}" target="_blank">
+  <span class="icon icon--telegram">{% include icon-telegram.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

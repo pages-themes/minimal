@@ -1,0 +1,66 @@
+/* ==========================================================================
+   Navigation
+   ========================================================================== */
+
+.menu {
+  @include list-unstyled;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+/*
+   Skip links
+   ========================================================================== */
+
+.skip-links {
+  position: absolute;
+  width: 100%;
+
+  ul {
+    @include list-unstyled;
+  }
+}
+
+/*
+   Paginator
+   ========================================================================== */
+
+.pager {
+  @include clearfix();
+  margin-bottom: 2rem;
+
+  ul {
+    @include list-unstyled;
+    display: -ms-flexbox;
+    display: flex;
+
+    > li {
+      -ms-flex: 1;
+      flex: 1;
+      justify-content: space-between;
+      -ms-flex-pack: justify;
+    }
+
+    li + li {
+      margin-left: 0.125em;
+    }
+  }
+
+  a {
+    display: block;
+    padding: 1em;
+    border-radius: $border-radius;
+    background-color: $accent-color;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+
+    &:hover {
+      background-color: tint($accent-color, 20%);
+    }
+  }
+}

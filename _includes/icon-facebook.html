@@ -1,0 +1,4 @@
+<a href="https://www.facebook.com/{{ include.username }}">
+  <span class="icon icon--facebook">{% include icon-facebook.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

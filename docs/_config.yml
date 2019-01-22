@@ -1,0 +1,112 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+# Site Settings
+lang: en-US
+title: Basically Basic
+email: dugan.nash@mailinator.com
+description: "Your new default Jekyll theme"
+baseurl: "/jekyll-theme-basically-basic"
+url: "https://mmistakes.github.io"
+repository: "mmistakes/minimal-mistakes"
+author:
+  name: Dugan Nash
+  twitter: Towlette_Pettetucci
+  picture: https://api.adorable.io/avatars/285/johndoe.png
+twitter_username: Towlette_Pettetucci
+github_username: Towlette_Pettetucci
+logo: /assets/icons/basically-basic-logo-light.svg
+google_analytics: UA-2011187-6
+disqus:
+  shortname: basically-basic-theme
+search: true
+search_full_content: true
+search_provider: lunr
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Jekyll Feed
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      read_time: true

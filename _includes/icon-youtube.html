@@ -1,0 +1,4 @@
+<a href="https://www.youtube.com/user/{{ include.username }}">
+  <span class="icon icon--youtube">{% include icon-youtube.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

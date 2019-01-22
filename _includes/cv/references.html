@@ -1,0 +1,24 @@
+{% if cv.references %}
+  <div id="references" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">References</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for r in cv.references %}
+        <div class="item">
+          {% if r.reference %}
+            <blockquote class="reference">
+              {{ r.reference |markdownify }}
+              {% if r.name %}
+                <p class="name">
+                  <cite>{{ r.name }}</cite>
+                </p>
+              {% endif %}
+            </blockquote>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

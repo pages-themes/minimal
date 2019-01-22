@@ -1,0 +1,4 @@
+<a href="https://soundcloud.com/{{ include.username }}">
+  <span class="icon icon--soundcloud">{% include icon-soundcloud.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

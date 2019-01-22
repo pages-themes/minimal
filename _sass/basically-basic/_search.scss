@@ -1,0 +1,101 @@
+/* ==========================================================================
+   SEARCH
+   ========================================================================== */
+
+.search-toggle {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border: 0;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+
+  .icon {
+    @include fluid-type($min-vw, $max-vw, 20px, 24px);
+    fill: $navicon-content-bg;
+  }
+}
+
+.search-content {
+  display: none;
+  visibility: hidden;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  .inner {
+    padding: 0 0.5rem;
+
+    @include breakpoint($small) {
+      padding-right: 1rem;
+      padding-left: 1rem;
+    }
+
+    @include breakpoint($medium) {
+      padding-right: 2rem;
+      padding-left: 2rem;
+    }
+
+    @include breakpoint($large) {
+      padding-right: 3rem;
+      padding-left: 3rem;
+    }
+
+    @include breakpoint($xlarge) {
+      padding-right: 4rem;
+      padding-left: 4rem;
+    }
+  }
+
+  .entry-excerpt {
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .search-input {
+    display: block;
+    margin-bottom: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: transparent;
+    @include fluid-type($min-vw, $max-vw, 24px, 32px);
+  }
+
+  &.is--visible::after {
+    content: "";
+    display: block;
+  }
+
+  .results-found {
+    margin-top: 0.5em;
+  }
+}
+
+/* Algolia search */
+
+.ais-hits {
+  .entry {
+    border-bottom: 1px solid $border-color;
+  }
+}
+
+.ais-search-box {
+  max-width: 100% !important;
+  margin-bottom: 2em;
+}
+
+.entry-title .ais-Highlight {
+  color: $accent-color;
+  font-style: normal;
+  text-decoration: underline;
+}
+.entry-excerpt .ais-Highlight {
+  color: $accent-color;
+  font-style: normal;
+  font-weight: bold;
+}

@@ -1,0 +1,4 @@
+<a href="https://last.fm/user/{{ include.username }}">
+  <span class="icon icon--lastfm">{% include icon-lastfm.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

@@ -1,0 +1,14 @@
+<div class="inner">
+  {% if site.search %}
+    {%- assign search_provider = site.search_provider | default: "lunr" -%}
+    {%- case search_provider -%}
+      {%- when "lunr" -%}
+        <label class="visually-hidden" for="search">{{ site.data.theme.t.site_search | default: 'Site Search' }}</label>
+        <input type="text" id="search" class="search-input" aria-describedby="results-count" tabindex="-1" placeholder="{{ site.data.theme.t.menu.search_placeholder_text | default: 'Enter your search term...' }}" />
+        <div id="results" class="results"></div>
+      {%- when "algolia" -%}
+        <div tabindex="-1" class="search-searchbar"></div>
+        <div class="search-hits"></div>
+    {%- endcase -%}
+  {% endif %}
+</div>
