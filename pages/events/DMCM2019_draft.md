@@ -39,7 +39,7 @@ Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany
 **Toward whole-cell computational models for precision medicine**  
 Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, US
 
-**Schizophrenia Map: Data to knowledge to data**
+**Schizophrenia Map: Data to knowledge to data**  
 Jessica Dale Tenenbaum, Duke University at Durham, North Carolina, US
 
 ### Afternoon discussion sessions
@@ -48,7 +48,7 @@ Afternoon breakout discussion sessions are planned following the example of the 
 
 ## Abstract submission
 
-Submit abstracts (up to 400 words) via <a href="#"><strong><font color="Navy">the submission link</font></strong></a> for oral presentations and/or posters. Indicate 4 keywords to allocate it into the suitable session.
+Submit abstracts (up to 400 words) via <a href="https://easychair.org/conferences/?conf=dmcm2019"><strong><font color="Navy">the submission link</font></strong></a> for oral presentations and/or posters. Indicate 4 keywords to allocate it into the suitable session.
 
 ## Registration
 
