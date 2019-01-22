@@ -17,8 +17,8 @@ lang: en-US
 title: Wikipajak.org
 email:
 description:
-baseurl: /jekyll-theme-basically-basic # the optional subpath of your site, e.g. "/blog"
-url: https://docupajak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: https://wikipajak.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: woww
   twitter: woww
