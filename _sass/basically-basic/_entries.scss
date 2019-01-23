@@ -17,10 +17,10 @@
 }
 
 .entry-title {
-  @include fluid-type($min-vw, $max-vw, 18px, 24px);
+  @include fluid-type($min-vw, $max-vw, 15px, 20px); //18px, 24px);
   margin-bottom: 0.5rem;
   color: tint($text-color, 25%);
-  line-height: inherit;
+  line-height: 1,25rem; //inherit;
 
   a {
     text-decoration: none;
