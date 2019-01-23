@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="{{ '/assets/stylesheets/main.css' | relative_url }}">
   {% if site.data.theme.google_fonts %}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={% for font in site.data.theme.google_fonts %}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{% endfor %}">
+    <link href="https://rsms.me/interface/interface.css" rel="preload" as="style">
   {% endif %}
 
   {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed'%}
