@@ -7,8 +7,9 @@
 <article class="entry">
   <header class="entry-header">
     <h4 class="entry-title">
-      <a href="{{ post.url | relative_url }}" rel="bookmark"></a>{{ title }}</a>
+      {{ title }} {% include post-source.html %}
     </h4>
+    
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail %}
       {% unless entry_image contains '://' %}
@@ -23,7 +24,7 @@
     {% if post.date %}
       <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
     {% endif %}
-    {% include post-source.html %}
+    
     {% if post.read_time %}
       <li>
         <span class="icon">{% include icon-stopwatch.svg %}</span>
