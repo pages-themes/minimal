@@ -4,6 +4,16 @@
 
 // Intentionally left blank
 /* Fluid type */
+/* Colors */
+$base-color: #3a4750 !default;
+$text-color: #303841 !default;
+$accent-color: #d72323 !default;
+$background-color: #eee !default;
+$code-background-color: #fff !default;
+$border-color: rgba($text-color, 0.25) !default;
+$overlay-color: #fff !default;
+
+
 $base-font-size: 12px !default; //16px !default;
 $min-font-size: 10px !default;//14px !default;
 $max-font-size: 14px !default;//18px !default;
@@ -28,4 +38,7 @@ $base-font-family: 'Inter UI var alt', sans-serif;
     -o-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
     -webkit-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
     font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
+}
+.entry-meta {
+    font-size: 0.75em;//add
 }
