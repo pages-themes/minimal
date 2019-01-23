@@ -8,3 +8,24 @@ $base-font-size: 12px !default; //16px !default;
 $min-font-size: 10px !default;//14px !default;
 $max-font-size: 14px !default;//18px !default;
 $base-font-family: 'Inter UI var alt', sans-serif;
+.entry-title {
+    font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace;
+}
+.entry-excerpt{
+    font: 15px/22px 'Inter UI', system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    letter-spacing: -0.002em;
+    font-weight: 400;
+    padding-bottom: 30px;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    font-kerning: normal;
+    -moz-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
+    -ms-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
+    -o-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
+    -webkit-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
+    font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
+}
