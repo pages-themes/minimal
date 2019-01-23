@@ -24,7 +24,10 @@
       <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
     {% endif %}
     {% if post.read_time %}
-      <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
+      <li>
+        <span class="icon">{% include icon-stopwatch.svg %}</span>
+        {% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}
+      </li>
     {% endif %}
     </ul>
   </footer>
