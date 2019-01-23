@@ -1,0 +1,9 @@
+{% if post.facebook %}
+      <li>Sumber: <a href="https://facebook.com{{ post.facebook }}" class="icon">{% include icon-facebook.svg %}</a></li>
+{% endif %}
+{% if post.telegram %}
+      <li>Sumber: <a href="https://t.me{{ post.telegram }}" class="icon">{% include icon-telegram.svg %}</a></li>
+{% endif %}
+{% if post.twitter %}
+      <li>Sumber: <a href="https://twitter.com{{ post.twitter }}" class="icon">{% include icon-twitter.svg %}</a></li>
+{% endif %}
