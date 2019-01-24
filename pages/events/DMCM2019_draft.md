@@ -21,7 +21,8 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 </tr>
 <tr>
 <td style="width: 150px;"><img src="../images/team/SampsaHautaniemi2.jpg" alt="Sampsa Hautaniemi" /></td>
-<td><strong>Sampsa Hautaniemi, PhD, at University of Helsinki</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Sampsa Hautaniemi is professor of Systems Biology and director of Systems Oncology research program in Faculty of Medicine, University of Helsinki. His research focuses on developing and applying machine learning methods to understand and overcome drug resistance in cancers. Prof. Hautaniemi has contributed to >130 publications that are cited >4,600 times.
+<td><strong>Sampsa Hautaniemi, PhD, University of Helsinki</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Sampsa Hautaniemi is professor of Systems Biology and director of Systems Oncology research program in Faculty of Medicine, University of Helsinki.
+His research focuses on developing and applying machine learning methods to understand and overcome drug resistance in cancers. Prof. Hautaniemi has contributed to more than 130 publications that are cited more than 4,600 times.
 </p></td>
 </tr>
 <tr>
