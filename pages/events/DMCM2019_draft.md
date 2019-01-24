@@ -21,7 +21,8 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 </tr>
 <tr>
 <td style="width: 150px;"><img src="../images/team/SampsaHautaniemi2.jpg" alt="Sampsa Hautaniemi" /></td>
-<td><strong>Sampsa Hautaniemi, PhD, Lorem ipsum dolor sit amet</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Pellentesque hendrerit ante id libero fermentum, non malesuada elit rutrum. Mauris volutpat risus eleifend, dictum erat id, dapibus diam. Duis sit amet fringilla ante. Quisque placerat imperdiet iaculis. Nunc tincidunt orci eu sem vehicula tincidunt. Sed in eleifend leo. Nunc dignissim dignissim luctus. Morbi sagittis lectus a odio luctus, in elementum leo pharetra. Nunc vitae maximus nibh. Nullam a nulla lacus. Integer ut metus eu ipsum aliquam blandit eu ut quam. Mauris vitae tortor scelerisque, eleifend ante dapibus, pellentesque diam. Curabitur dignissim egestas hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae nisl mattis, vulputate urna eu, condimentum nisl. Nulla pulvinar nisl aliquam, fermentum ipsum vel, maximus lectus: <a href="https://www.lipsum.com" target="_blank">https://www.lipsum.com</a>.</p></td>
+<td><strong>Sampsa Hautaniemi, PhD, at University of Helsinki</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Sampsa Hautaniemi is professor of Systems Biology and director of Systems Oncology research program in Faculty of Medicine, University of Helsinki. His research focuses on developing and applying machine learning methods to understand and overcome drug resistance in cancers. Prof. Hautaniemi has contributed to >130 publications that are cited >4,600 times.
+</p></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="../images/team/JessicaDale.jpg" alt="Jessica Dale" /></td>
@@ -41,6 +42,9 @@ Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, US
 
 **Schizophrenia Map: Data to knowledge to data**  
 Jessica Dale Tenenbaum, Duke University at Durham, North Carolina, US
+
+**Computational approaches to tackle chemoresistance in high-grade serous ovarian cancer**  
+Sampsa Hautaniemi, Faculty of Medicine, University of Helsinki
 
 ### Afternoon discussion sessions
 
