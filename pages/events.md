@@ -11,7 +11,7 @@ permalink: /events
 <tr>
 <td style="width: 105px;" valign="top"><img src="../images/places/Sevilla.png" alt="Sevilla"/></td>
 <td valign="top">
-<strong>4th Disease Maps Community Meeting</strong><br />
+<strong><a href="/DMCM2019">4th Disease Maps Community Meeting</strong><br />
 2-4 October 2019, Sevilla, Spain<br />
 The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.es/">Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio</a>.
 </td>
