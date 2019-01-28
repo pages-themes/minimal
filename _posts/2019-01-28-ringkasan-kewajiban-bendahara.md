@@ -6,6 +6,7 @@ categories:
 tags:
   - Faktur Pajak
 awarder: how
+excerpt: "Pengisian SSP [...]"
 ---
 ![Ringkasan Kewajiban Perpajakan Bendaharawan]({{ site.baseurl }}/assets/posts/kewajiban-perpajakan-bendahara.png)
 
