@@ -8,28 +8,6 @@ permalink: /DMCM2019_draft
 
 The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.es/">Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio</a>.
 
-## Invited speakers
-
-<table>
-<tr>
-<td style="width: 150px;"><img src="../images/teamhq/JulioSaezRodriguez.jpg" alt="Julio Saez-Rodriguez" /></td>
-<td><strong>Julio Saez-Rodriguez, PhD, RWTH-Aachen University, Germany</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Julio Saez-Rodriguez is Professor of Medical Bioinformatics and Data Analysis  at the Faculty of Medicine of Heidelberg University. Julio is a member of the Disease Maps team and participates in the development of the Multiple Sclerosis Map. Julio's research interests are in computational methods and tools for studying information transfer within signalling networks, and applications to disease-related questions, with a focus on cancer and fibrosis. More information can be found at <a href="www.saezlab.org" target="_blank">www.saezlab.org</a>.</p></td>
-</tr>
-<tr>
-<td style="width: 150px;"><img src="../images/teamhq/JonathanKarr.jpg" alt="Jonathan Karr" /></td>
-<td><strong>Jonathan Karr, PhD, Icahn School of Medicine at Mount Sinai, US</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Jonathan Karr is a Fellow at the Icahn School of Medicine at Mount Sinai in New York. The goal of Jonathan's research group is to develop mechanistic whole-cell computational models that predict the behavior of individual cells by representing all of the biochemical activity in cells. In addition, his research group is developing the methods and tools needed for whole-cell modeling. Jonathan earned his PhD in Biophysics and his MS in Medicine from Stanford University and his SB in Physics and SB in Brain & Cognitive Sciences from MIT. See his research group's website for more information: <a href="https://www.karrlab.org" target="_blank">https://www.karrlab.org</a>.</p></td>
-</tr>
-<tr>
-<td style="width: 150px;"><img src="../images/team/SampsaHautaniemi2.jpg" alt="Sampsa Hautaniemi" /></td>
-<td><strong>Sampsa Hautaniemi, PhD, University of Helsinki</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Sampsa Hautaniemi is professor of Systems Biology and director of Systems Oncology research program in Faculty of Medicine, University of Helsinki.
-His research focuses on developing and applying machine learning methods to understand and overcome drug resistance in cancers. Prof. Hautaniemi has contributed to more than 130 publications that are cited more than 4,600 times. More information can be found at <a href="https://www.helsinki.fi/en" target="_blank">University of helsinki</a>.</p></td>
-</tr>
-<tr>
-<td style="width: 150px;"><img src="../images/team/JessicaDale.jpg" alt="Jessica Dale" /></td>
-<td><strong>Jessica Dale Tenenbaum, PhD, Assistant Professor of Biostatistics & Bioinformatics</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Dr. Tenenbaum is as Assistant Professor of Translational Biomedical Informatics in the Department of Biostatistics and Bioinformatics at Duke University. Her research applies expertise in data standards and electronic health records to stratify mental health disorders to for biomarker discovery. Nationally, Dr. Tenenbaum is a member of the Board of Directors for the American Medical Informatics Association (AMIA) and serves on the Board of Scientific Counselors for the Lister Hill Center at the National Library of Medicine. She is co-founder and Chair of AMIA's Mental Health Informatics Working Group and Past Chair of AMIA’s Genomics and Translational Bioinformatics Working Group. She is an Associate Editor for the Journal of Biomedical Informatics and serves on the advisory panel for Nature Scientific Data.  After earning her bachelor’s degree in biology from Harvard, Dr. Tenenbaum worked as a program manager at Microsoft Corporation in Redmond, WA for six years before pursuing a PhD in biomedical informatics at Stanford University. See her research group's website for more information: <a href="https://sites.duke.edu/tenenbaum/" target="_blank">Tenenbaum Lab</a>.</p></td>
-</tr>
-</table>
-
 ## Programme
 
 ### Invited talks
@@ -50,62 +28,3 @@ Sampsa Hautaniemi, Faculty of Medicine, University of Helsinki
 
 Afternoon breakout discussion sessions are planned following the example of the [2nd Disease Maps Community Meeting](http://disease-maps.org/DMCM2017_2nd) in Luxembourg. We invite proposals: a title and a brief description of the topic (1 page maximum). 4-6 topics will be selected, introduced 2nd October and discussed 3rd and 4th October with summaries presented at the end to all the participants. The outcome of the Luxembourg meeting discussions was published receintly in _Briefings in Bioinformatics_: [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024).
 
-## Abstract submission
-
-Submit abstracts (up to 400 words) via <a href="https://easychair.org/conferences/?conf=dmcm2019"><strong><font color="Navy">the submission link</font></strong></a> for oral presentations and/or posters. Indicate 4 keywords to allocate it into the suitable session.
-
-## Registration
-
-The registration is free but mandatory. Please fill in the <a href="https://goo.gl/forms/MqK7AjrtcXYQh2Br1"><strong><font color="Navy">registration form here</font></strong></a>.
-
-## Location
-
-<b>C.D.C.A.. Building, Hospital Universitario Virgen del Rocío</b>
-<br />Avenida Manuel Siurot s/n,
-<br />41013. Seville, Spain
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1585.5956319963145!2d-5.981069!3d37.361651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x70784b65432acca!2sCentro+de+Documentaci%C3%B3n+Cl%C3%ADnica+Avanzada!5e0!3m2!1sen!2ses!4v1548074227371" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-## Accommodation
-
-<p>Recommended hotels:</p>
-<p><a href="https://www.marriott.com/hotels/travel/svqci-ac-hotel-ciudad-de-sevilla/">AC Hotel Ciudad de Sevilla, a Marriott Lifestyle Hotel</a>
-<br />AV Manuel Siurot 25,
-<br />41013. Seville, Spain.
-<br/>Tel. +34 954 230 505</p>
-<p><a href="https://www.hoteles-silken.com/en/hotel-al-andalus-seville/">Silken Al-Andalus Palace</a>
-<br />Avenida de la Palmera s/n, esq. C/ Paraná,
-<br />41012. Seville, Spain.
-<br />Tel. +34 954 230 600</p>
-<p><a href="https://www.exehotels.com/exe-sevilla-palmera.html">EXE Sevilla Palmera</a>
-<br />Cardenal Ilundain, 28,
-<br />41013. Seville, Spain.
-<br />Tel. +34 932 087 108</p>
-<p><a href="https://www.melia.com/en/hotels/spain/seville/melia-sevilla/index.htm">Melia Sevilla</a>
-<br />Dr. Pedro de Castro, 1,
-<br />41004. Seville, Spain.
-<br />Tel. +34 912 764 747</p>
-
-## Contact
-
-<p><a href="mailto:disease-maps-coord@googlegroups.com ">disease-maps-coord@googlegroups.com</a></p>
-
-## Organisers
-
-<p><a href="http://clinbioinfosspa.es/">Clinical Bioinformatics Area Group</a>
-<br /><a href="mailto:joaquin.dopazo@juntadeandalucia.es">Joaquin Dopazo</a>
-<br /><a href="mailto:ruben.garcia.serrano@juntadeandalucia.es">Rubén García Serrano</a>
-<br /><a href="mailto:maria.pena.chilet.ext@juntadeandalucia.es">Maria Peña Chilet</a>
-</p>
-
-## Disease Maps Project Coordinators
-
-<p><a href="mailto:a.mazein@gmail.com">Alexander Mazein</a>
-<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
-<br /><a href="mailto:inna.kuperstein@curie.fr ">Inna Kuperstein</a>
-<br /><a href="mailto:andrei.zinovyev@curie.fr ">Andrei Zinovyev</a>
-<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
-<br /><a href="mailto:emmanuel.barillot@curie.fr ">Emmanuel Barillot</a>
-<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
-<br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
-</p>
