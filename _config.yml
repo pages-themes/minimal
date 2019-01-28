@@ -20,9 +20,13 @@ description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://wikipajak.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: woww
-  twitter: woww
-  picture: /assets/images/logo.png
+  - name: woww
+    twitter: woww
+    picture: /assets/images/logo.png
+
+  - name: sildaprayona
+    telegram: sildaprayona
+
 facebook_username: diskusipajak
 telegram_username: diskusipajak
 twitter_username: #woww
