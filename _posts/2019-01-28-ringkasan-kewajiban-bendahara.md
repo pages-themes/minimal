@@ -5,6 +5,7 @@ categories:
   - Resume
 tags:
   - Faktur Pajak
+awarder: how
 ---
 ![Ringkasan Kewajiban Perpajakan Bendaharawan]({{ site.baseurl }}/assets/posts/kewajiban-perpajakan-bendahara.png)
 
