@@ -39,7 +39,7 @@ algolia:
 
 # ga
 google_analytics: UA-111280620-2
-google_adsense: ca-pub-2676120456797792 
+google_adsense: ca-pub-2676120456797792
 
 # Build settings
 markdown: kramdown
