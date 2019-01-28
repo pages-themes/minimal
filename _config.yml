@@ -40,6 +40,7 @@ algolia:
 # ga
 google_analytics: UA-111280620-2
 google_adsense: ca-pub-2676120456797792
+google-site-verification: 3sK9zXJmMaKJwJ0ZDKdW1INGWgcExYxPG0Hx7N6pJ0E
 
 # Build settings
 markdown: kramdown
