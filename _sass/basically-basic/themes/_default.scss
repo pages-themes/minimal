@@ -22,7 +22,7 @@ $base-font-family: 'Inter UI var alt', sans-serif;
     font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace;
 }
 .entry-excerpt{
-    font: 15px/22px 'Inter UI', system-ui, sans-serif;
+    font: 15px/22px 'Inter UI var alt', system-ui, sans-serif;
     font-size: 15px;
     line-height: 1.5;
     letter-spacing: -0.002em;
@@ -38,7 +38,4 @@ $base-font-family: 'Inter UI var alt', sans-serif;
     -o-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
     -webkit-font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
     font-feature-settings: "calt" 1, "kern" 1, "liga" 1;
-}
-.entry-meta {
-    font-size: 0.75em;//add
 }
