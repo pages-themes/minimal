@@ -6,8 +6,8 @@
 /* Fluid type */
 
 /* Colors */
-$base-color: #3a4750 !default;
-$text-color: rgba(0,0,0,0.87) !default;
+$base-color: #222 !default;
+$text-color: #111 !default;
 $accent-color: #fc5c65 !default;
 $background-color: #eee !default;
 $code-background-color: #fff !default;
@@ -15,6 +15,29 @@ $border-color: rgba($text-color, 0.25) !default;
 $overlay-color: #eee !default;
 
 
-$base-font-size: 12px !default; //16px !default;
-$min-font-size: 10px !default;//14px !default;
+$base-font-size: 16px !default;
+$min-font-size: 12px !default;//14px !default;
 $max-font-size: 14px !default;//18px !default;
+$base-font-family: 'Inter UI var', system-ui, sans-serif;
+
+
+.site-title {
+    font-family: $base-font-family;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #111;
+}
+
+.entry-excerpt {
+    /* normalize font sizes */
+    > * {
+        font-size: 22px; 
+        font-weight: 400; 
+        letter-spacing: 0.4px; 
+        -webkit-font-smoothing: initial; 
+        text-decoration: none; 
+        text-transform: none; 
+        font-feature-settings: "calt" 0, "liga" 0, "kern" 0;
+    }
+  }
