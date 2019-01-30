@@ -34,9 +34,11 @@
     <div class="canvas">
       <div class="wrapper">
         {% include masthead.html %}
-        <div style="display:block;margin: 0 auto 0 auto;">
+        {% if jekyll.environment == 'production' and site.google-site-verification %}
+          <div style="display:block;margin: 0 auto 0 auto;">
             {% include entry-level.html %}
-        </div>
+          </div>
+        {% endif %}
         <div class="initial-content">
             
           {{ content }}

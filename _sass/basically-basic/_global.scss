@@ -29,7 +29,7 @@
     -webkit-box-align: center;
     align-items: center;
     min-height: $site-image-height;
-    color: $base-color;
+    color: $text-color;
     text-decoration: none;
   }
 }
@@ -38,7 +38,7 @@
   width: $site-image-width;
   height: $site-image-height;
   margin-right: 0.5rem;
-  //border-radius: 50%; hilang telinga tiger
+  //border-radius: 50%;
 }
 
 .more-link {

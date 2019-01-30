@@ -3,89 +3,12 @@
    ========================================================================== */
 
 // Intentionally left blank
-/* Fluid type */
+.inner {
+    max-width: 100% !important;
+  }
 
-/* Colors */
-$base-color: #222 !default;
-$text-color: #111 !default;
-$accent-color: #fc5c65 !default;
-$background-color: #eee !default;
-$code-background-color: #fff !default;
-$border-color: rgba($text-color, 0.25) !default;
-$overlay-color: #eee !default;
+$text-color: linear-gradient(109.63136980204558deg, rgba(245, 167, 128,1) 5.4289754871150215%,rgba(241, 43, 92,1) 96.8808925204274%);
 
-
-$base-font-size: 16px !default;
-$min-font-size: 12px !default;//14px !default;
-$max-font-size: 14px !default;//18px !default;
-//$base-font-family: 'Inter UI var', system-ui, sans-serif;
-body {
-    font-family: Arial, Helvetica, sans-serif, Verdana, Tahoma;
+.entry-title {
+  color: red;
 }
-
-
-.site-title {
-    font-size: 17px;
-    font-weight: 700;
-    line-height: 1.1;
-    color: #111;
-}
-
-  /**
- * Nested numbered list with correct indentation.
- *
- * Tested on Firefox 32, Chromium 37, IE 9 and Android Browser. Doesn't work on IE 7 and previous.
- * Source: https://cssnewbie.com/word-style-outline/#.W5Yv8EYzaM8
- */
-
-ol {
-    list-style: decimal;
-    padding: 0;
-}
-
-ol ol {
-    list-style: lower-alpha;
-    li {margin-left: 20px; padding-left: 0;}
-}
-
-ol ol ol {
-    list-style: lower-roman;
-}
-
-ol ol ol ol {
-    list-style: decimal;
-}
-
-ol ol,
-ol ol ol ol ol {
-    list-style: lower-alpha;
-}
-
-/* natgeo style via codepen 
- easing https://easings.net/#easeOutCubic
- */
-
- mark,
- mark:link {
-     color: black;
-     text-decoration: none;
-     background-position-y: -0%;
-     background-image: linear-gradient(white 50%, gold 50%);
-     //transition: background 200ms ease;
-     background-size: 2px;
-     background-size: auto 175%;
-     -webkit-transition: all 300ms cubic-bezier(.21, .61, .35, 1);
-     transition: all 300ms cubic-bezier(.21, .61, .35, 1);
- }
- 
- mark:hover {
-     background-position-y: 100%;
- 
- }
-
- //test meyer https://meyerweb.com/eric/thoughts/2018/02/21/displaying-css-breakpoint-information-with-generated-content/
-
- body::before {content: "default";
-    position: fixed; top: 1px; right: 1px; z-index: 100; padding: 1ch;
-    background: rgba(0,0,0,0.67); color: rgba(255,255,255,0.75);
-    font: bold 0.85rem Lucida Grande, sans-serif;}

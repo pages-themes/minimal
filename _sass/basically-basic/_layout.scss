@@ -66,11 +66,27 @@ main {
 
 .layout--post,
 .layout--page {
-  .entry-content {
-    @include breakpoint($large) {
-      width: span(14 of 16);
+  .entries {
+    .entry-header {
+      @include breakpoint($medium) {
+        width: span(5 of 16);
+        padding-right: gutter(1 of 16);
+
+        /* remove space after last child element */
+        > *:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    .entry-content {
+      @include breakpoint($medium) {
+        float: right;
+        width: span(11 of 16);
+      }
     }
   }
+
 }
 
 .layout--about {

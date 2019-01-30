@@ -26,7 +26,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Roboto"
+  - name: "Lato"
     weights: "400,400i,700,700i"
 
 # Link to specific internal pages in the navigation.
