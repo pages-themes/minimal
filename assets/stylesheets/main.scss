@@ -8,3 +8,4 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+@import "primer-labels/index.scss";
