@@ -25,7 +25,7 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 Location
 
 <table>
-<tr><td><strong>9:30h - 13:30h: On site registration</strong></td></tr> 
+<tr><td><strong>9:30h - 13:30h On site registration</strong></td></tr> 
 <tr><td><strong>10:00h Disease Maps Coordinators meeting</strong><br />
 <a href="#">Member,</a> Institute, City, Country</td></tr> 
 </table>
@@ -41,7 +41,7 @@ Schizophrenia Map: Data to knowledge to data. <a href="#">Jessica Dale Tenenbaum
 <tr><td><strong>12:30h Selected short talks</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>13:30h Lunch and Poster viewing</strong><br />
+<tr><td><strong>13:30h Lunch and Poster viewing</strong><br /></td></tr> 
 </table>
 
 <p><i>Discussion Sessions </i></p>  
@@ -107,7 +107,6 @@ Toward whole-cell computational models for precision medicine <a href="#">Jonath
 
 <p><i>20:30 Gala Dinner</i></p>
 
-
 ### Friday 4th October
 
 #### Session 4: Clinical application of disease maps
@@ -151,4 +150,5 @@ Afternoon breakout discussion sessions are planned following the example of the 
 ## Funding acknowledgments
 
 The source of funding can be specified
+
 
