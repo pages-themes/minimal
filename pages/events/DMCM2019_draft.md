@@ -8,17 +8,6 @@ permalink: /DMCM2019_draft
 
 The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.es/">Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio</a>.
 
-(Dr. Tenenbaum short description)
-
-## Invited speakers
-
-<table>
-<tr>
-<td style="width: 150px;"><img src="../images/team/JessicaDale.jpg" alt="Jessica Dale" /></td>
-<td><strong>Jessica Dale Tenenbaum, PhD, Duke University, USA</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Dr. Tenenbaum is an Assistant Professor in the Department of Biostatistics & Bioinformatics at Duke University. Her research focuses on mining electronic health record data for stratification of mental health disorders to enable biomarker discovery. After earning her bachelor’s degree in biology from Harvard, Jessica Dale Tenenbaum worked as a program manager at Microsoft Corporation in Redmond, WA for six years before pursuing a PhD in biomedical informatics at Stanford University. More information: <a href="https://sites.duke.edu/tenenbaum/" target="_blank">Tenenbaum Lab</a>.</p></td>
-</tr>
-</table>
-
 ## Programme
 
 ### Wednesday 2nd October
@@ -63,8 +52,7 @@ Location
 #### Session 2: Multi-view data integration
 
 <table>
-<tr><td><strong>9:00 Key Lecture<br />
-Logic modeling to integrate disease maps and various omics data <a href="#">Julio Saez-Rodriguez,</a><i> RWTH-Aachen University Hospital</i>, Aachen, Germany</strong><br />
+<tr><td><strong>9:00 Key Lecture: Logic modeling to integrate disease maps and various omics data<br /><a href="#">Julio Saez-Rodriguez,</a><i> RWTH-Aachen University Hospital</i>, Aachen, Germany</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>10:00 Highlighted talk</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
@@ -74,8 +62,8 @@ Logic modeling to integrate disease maps and various omics data <a href="#">Juli
 <p><i>10:30 Coffee break and Poster viewing</i></p>
 
 <table>
-<tr><td><strong>11:00 Selected short talks<br />
-Text <a href="#">Author,</a><i> Institute</i>, City, Country</strong><br />
+<tr><td><strong>11:00 Selected short talks: Text <br />
+<a href="#">Author,</a><i> Institute</i>, City, Country</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>12:30 Poster session</strong><br /></td></tr> 
 </table>
@@ -85,10 +73,10 @@ Text <a href="#">Author,</a><i> Institute</i>, City, Country</strong><br />
 #### Session 3: Computational models
 
 <table>
-<tr><td><strong>14:30 Key Lecture:<br />
-Toward whole-cell computational models for precision medicine <a href="#">Jonathan Karr,</a><i> Icahn School of Medicine at Mount Sinai</i>, New York, USA</strong><br />
+<tr><td><strong>14:30 Key Lecture: Toward whole-cell computational models for precision medicine<br />
+<a href="#">Jonathan Karr,</a><i> Icahn School of Medicine at Mount Sinai</i>, New York, USA</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30 Selected short talks</strong><br />
+<tr><td><strong>15:30 Selected short talks: Text</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
@@ -104,10 +92,10 @@ Toward whole-cell computational models for precision medicine <a href="#">Jonath
 #### Session 4: Clinical application of disease maps
 
 <table>
-<tr><td><strong>10:00 Key Lecture:<br />
-Computational approaches to tackle chemoresistance in high-grade serous ovarian cancer <a href="#">Sampsa Hautaniemi,</a><i> Faculty of Medicine, University of Helsinki</i>, Finland.</strong><br />
+<tr><td><strong>10:00 Key Lecture: Computational approaches to tackle chemoresistance in high-grade serous ovarian cancer<br />
+<a href="#">Sampsa Hautaniemi,</a><i> Faculty of Medicine, University of Helsinki</i>, Finland.</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>11:00 Highlighted talk</strong><br />
+<tr><td><strong>11:00 Highlighted talk: Text</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
@@ -115,7 +103,7 @@ Computational approaches to tackle chemoresistance in high-grade serous ovarian 
 <p><i>11:30 Coffee break and poster session</i></p>
 
 <table>
-<tr><td><strong>12:30 Selected short talks</strong><br />
+<tr><td><strong>12:30 Selected short talks: Text</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>13:30 Meeting closure</strong><br /></td></tr> 
