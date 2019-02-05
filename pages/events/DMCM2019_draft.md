@@ -50,18 +50,10 @@ Schizophrenia Map: Data to knowledge to data. <a href="#">Jessica Dale Tenenbaum
 <tr><td><strong>15:00h Introduction to Discussion Sessions</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30h - 17:00h Discussion 1: Selected topic</strong><br />
-<a href="#">Member,</a> Institute, City, Country<br/>
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30h - 17:00h Discussion 2: Selected topic</strong><br />
-<a href="#">Speaker</a> and <a href="#">Speaker,</a> University, City, Country<br />
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30h - 17:00h Discussion 3: Selected topic</strong><br />
-<a href="#">Speaker</a> and <a href="#">Speaker,</a> University, City, Country<br />
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30h - 17:00h Tutorial  and discussion: To be determined.</strong><br />
-<a href="#">Speaker</a> and <a href="#">Speaker,</a> University, City, Country<br />
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><strong>15:30h - 17:00h Discussion group 1: Selected topic</strong><br /></td></tr> 
+<tr><td><strong>15:30h - 17:00h Discussion group 2: Selected topic</strong><br /></td></tr> 
+<tr><td><strong>15:30h - 17:00h Discussion group 3: Selected topic</strong><br /></td></tr> 
+<tr><td><strong>15:30h - 17:00h Tutorial and discussion: To be determined.</strong><br /></td></tr> 
 </table>
 
 17:00h - 18:00h Concluding remarks
