@@ -34,16 +34,10 @@ Location
 
 #### Session 1: Using existing data to create disease maps
 
-
-
-<tr><td><strong>09:15 - 09:30 Integrating disease maps using a graph database approach</strong><br />
-<a href="http://www.eisbm.org/portfolio/irina-balaur/">Irina Balaur,</a> European Institute for Systems Biology and Medicine, Lyon, France<br />
-  
-  
 <table>
 <tr><td><strong>11:30 Opening Key Lecture<br />
 Schizophrenia Map: Data to knowledge to data</strong><br />
-<a href="#">Jessica Dale Tenenbaum,</a><i> Duke University at Durham</i>, North Carolina, USA<br />
+<a href="#">Jessica Dale Tenenbaum,</a> Duke University, Durham, North Carolina, USA<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>12:30 Selected short talks</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
