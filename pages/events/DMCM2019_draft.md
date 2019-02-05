@@ -25,70 +25,70 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 Location
 
 <table>
-<tr><td><strong>9:30h - 13:30h On site registration</strong></td></tr> 
-<tr><td><strong>10:00h Disease Maps Coordinators meeting</strong><br />
+<tr><td><strong>09:30 - 13:30 On site registration</strong></td></tr> 
+<tr><td><strong>10:00 Disease Maps Coordinators meeting</strong><br />
 <a href="#">Member,</a> Institute, City, Country</td></tr> 
 </table>
 
-<p><i>11:00h Coffee Break at </i></p>  
+<p><i>11:00 Coffee Break at </i></p>  
 
 #### Session 1: Using existing data to create disease maps
 
 <table>
-<tr><td><strong>11:30h Opening Key Lecture<br />
+<tr><td><strong>11:30 Opening Key Lecture<br />
 Schizophrenia Map: Data to knowledge to data. <a href="#">Jessica Dale Tenenbaum,</a><i> Duke University at Durham</i>, North Carolina, USA</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>12:30h Selected short talks</strong><br />
+<tr><td><strong>12:30 Selected short talks</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>13:30h Lunch and Poster viewing</strong><br /></td></tr> 
+<tr><td><strong>13:30 Lunch and Poster viewing</strong><br /></td></tr> 
 </table>
 
 <p><i>Discussion Sessions </i></p>  
 
 <table>
-<tr><td><strong>15:00h Introduction to Discussion Sessions</strong><br />
+<tr><td><strong>15:00 Introduction to Discussion Sessions</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30h - 17:00h Discussion group 1: Selected topic</strong><br /></td></tr> 
-<tr><td><strong>15:30h - 17:00h Discussion group 2: Selected topic</strong><br /></td></tr> 
-<tr><td><strong>15:30h - 17:00h Discussion group 3: Selected topic</strong><br /></td></tr> 
-<tr><td><strong>15:30h - 17:00h Tutorial and discussion: To be determined.</strong><br /></td></tr> 
+<tr><td><strong>15:30 - 17:00 Discussion group 1: Selected topic</strong><br /></td></tr> 
+<tr><td><strong>15:30 - 17:00 Discussion group 2: Selected topic</strong><br /></td></tr> 
+<tr><td><strong>15:30 - 17:00 Discussion group 3: Selected topic</strong><br /></td></tr> 
+<tr><td><strong>15:30 - 17:00 Tutorial and discussion: To be determined.</strong><br /></td></tr> 
 </table>
 
-17:00h - 18:00h Concluding remarks
+17:00 - 18:00 Concluding remarks
 
 ### Thursday 3rd October
 
 #### Session 2: Multi-view data integration
 
 <table>
-<tr><td><strong>9:00h Key Lecture<br />
+<tr><td><strong>9:00 Key Lecture<br />
 Logic modeling to integrate disease maps and various omics data <a href="#">Julio Saez-Rodriguez,</a><i> RWTH-Aachen University Hospital</i>, Aachen, Germany</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>10:00h Highlighted talk</strong><br />
+<tr><td><strong>10:00 Highlighted talk</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 
-<p><i>10:30h Coffee break and Poster viewing</i></p>
+<p><i>10:30 Coffee break and Poster viewing</i></p>
 
 <table>
-<tr><td><strong>11:00h Selected short talks<br />
+<tr><td><strong>11:00 Selected short talks<br />
 Text <a href="#">Author,</a><i> Institute</i>, City, Country</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>12:30h Poster session</strong><br /></td></tr> 
+<tr><td><strong>12:30 Poster session</strong><br /></td></tr> 
 </table>
 
-<p><i>13:30h Lunch and poster viewing</i></p>
+<p><i>13:30 Lunch and poster viewing</i></p>
 
 #### Session 3: Computational models
 
 <table>
-<tr><td><strong>14:30h Key Lecture:<br />
+<tr><td><strong>14:30 Key Lecture:<br />
 Toward whole-cell computational models for precision medicine <a href="#">Jonathan Karr,</a><i> Icahn School of Medicine at Mount Sinai</i>, New York, USA</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30h Selected short talks</strong><br />
+<tr><td><strong>15:30 Selected short talks</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
@@ -104,21 +104,21 @@ Toward whole-cell computational models for precision medicine <a href="#">Jonath
 #### Session 4: Clinical application of disease maps
 
 <table>
-<tr><td><strong>10:00h Key Lecture:<br />
+<tr><td><strong>10:00 Key Lecture:<br />
 Computational approaches to tackle chemoresistance in high-grade serous ovarian cancer <a href="#">Sampsa Hautaniemi,</a><i> Faculty of Medicine, University of Helsinki</i>, Finland.</strong><br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>11:00h Highlighted talk</strong><br />
+<tr><td><strong>11:00 Highlighted talk</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 
-<p><i>11:30h Coffee break and poster session</i></p>
+<p><i>11:30 Coffee break and poster session</i></p>
 
 <table>
-<tr><td><strong>12:30h Selected short talks</strong><br />
+<tr><td><strong>12:30 Selected short talks</strong><br />
 <a href="#">Member,</a> Institute, City, Country<br/>
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>13:30h Meeting closure</strong><br /></td></tr> 
+<tr><td><strong>13:30 Meeting closure</strong><br /></td></tr> 
 </table>
 
 ### Invited talks
