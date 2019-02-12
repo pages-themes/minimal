@@ -63,8 +63,8 @@ Location
 <p><i>10:30 Coffee break and Poster viewing</i></p>
 
 <table>
-<tr><td><strong>11:00 Selected short talks: Text <br />
-<a href="#">Author,</a><i> Institute</i>, City, Country</strong><br />
+<tr><td><strong>11:00 Selected short talks: Text </strong><br />
+<a href="#">Author,</a> Institute, City, Country<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>12:30 Poster session</strong><br /></td></tr> 
 </table>
