@@ -57,7 +57,7 @@ Supervisor of the CF-MAP PhD project</td>
 </tr>
 <tr>
 <td><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Senior Researcher<br />
+<td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</strong><br />Researcher<br />
 Co-supervisor of the CF-MAP PhD project</td>
 </tr>
 </table>
