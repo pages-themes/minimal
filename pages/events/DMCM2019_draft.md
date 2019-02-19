@@ -130,6 +130,6 @@ Afternoon breakout discussion sessions are planned following the example of the 
 
 ## Supported by
 
-<img src="../images/sponsors/inb.png" alt="INB" /><img src="../images/sponsors/iscii.png" alt="iscii" />
+<img src="../images/sponsors/iscii.png" alt="iscii" />
 
 The Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics platform. Its Coordination Node is supported by grant PT17/0009/0001, of the Acción Estratégica en Salud 2013-2016 of the Programa Estatal de Investigación Orientada a los Retos de la Sociedad, funded by the Instituto de Salud Carlos III (ISCIII) and European Regional Development Fund (ERDF)
