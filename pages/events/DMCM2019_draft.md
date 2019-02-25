@@ -110,6 +110,15 @@ Location
 <tr><td><strong>13:30 Meeting closure</strong><br /></td></tr> 
 </table>
 
+## Invited speakers
+
+<table>
+<tr>
+<td style="width: 150px;"><img src="../images/team/SampsaHautaniemi.jpg" alt="Sampsa Hautaniemi" /></td>
+<td><strong>Sampsa Hautaniemi, PhD, University of Helsinki, Finland</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Sampsa Hautaniemi is a Professor of Systems Biology and the Director of Systems Oncology research program at the Faculty of Medicine of the University of Helsinki. His research focuses on developing and applying machine learning methods to understanding and overcoming drug resistance in cancers. More information can be found at the <a href="https://www.helsinki.fi/en/researchgroups/systems-biology-of-drug-resistance-in-cancer" target="_blank">Hautaniemi lab</a>.</p></td>
+</tr>
+</table>
+
 ### Invited talks
 
 **Logic modeling to integrate disease maps and various omics data**  
@@ -127,9 +136,3 @@ Sampsa Hautaniemi, Faculty of Medicine, University of Helsinki
 ### Afternoon discussion sessions
 
 Afternoon breakout discussion sessions are planned following the example of the [2nd Disease Maps Community Meeting](http://disease-maps.org/DMCM2017_2nd) in Luxembourg. We invite proposals: a title and a brief description of the topic (1 page maximum). 4-6 topics will be selected, introduced 2nd October and discussed 3rd and 4th October with summaries presented at the end to all the participants. The outcome of the Luxembourg meeting discussions was published receintly in _Briefings in Bioinformatics_: [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024).
-
-## Supported by
-
-<img src="../images/sponsors/iscii.png" alt="iscii" />
-
-The Spanish National Bioinformatics Institute (INB) is the ISCIII Bioinformatics platform. Its Coordination Node is supported by grant PT17/0009/0001, of the Acción Estratégica en Salud 2013-2016 of the Programa Estatal de Investigación Orientada a los Retos de la Sociedad, funded by the Instituto de Salud Carlos III (ISCIII) and European Regional Development Fund (ERDF)
