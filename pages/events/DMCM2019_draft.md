@@ -110,15 +110,6 @@ Location
 <tr><td><strong>13:30 Meeting closure</strong><br /></td></tr> 
 </table>
 
-## Invited speakers
-
-<table>
-<tr>
-<td style="width: 150px;"><img src="../images/team/SampsaHautaniemi.jpg" alt="Sampsa Hautaniemi" /></td>
-<td><strong>Sampsa Hautaniemi, PhD, University of Helsinki, Finland</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Sampsa Hautaniemi is a Professor of Systems Biology and the Director of Systems Oncology research program at the Faculty of Medicine of the University of Helsinki. His research focuses on developing and applying machine learning methods to understanding and overcoming drug resistance in cancers. More information can be found at the <a href="https://www.helsinki.fi/en/researchgroups/systems-biology-of-drug-resistance-in-cancer" target="_blank">Hautaniemi lab</a>.</p></td>
-</tr>
-</table>
-
 ### Invited talks
 
 **Logic modeling to integrate disease maps and various omics data**  
