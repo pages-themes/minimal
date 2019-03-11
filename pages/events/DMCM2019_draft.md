@@ -11,11 +11,10 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 ## Programme
 
 ### Wednesday 2nd October
-Location
 
 <table>
 <tr><td><strong>09:30 - 13:30 On-site registration</strong></td></tr> 
-<tr><td><strong>10:00 Disease Maps Coordinators meeting</strong>
+<tr><td><strong>10:00 Disease Maps Coordinators meeting</strong></td></tr> 
 </table>
 
 <p><i>11:00 Coffee Break</i></p>  
@@ -26,7 +25,7 @@ Location
 <tr><td><strong>11:30 Opening Key Lecture: Schizophrenia Map: Data to knowledge to data</strong><br />
 <a href="#">Jessica Dale Tenenbaum,</a> Duke University, Durham, North Carolina, USA<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>12:30 Selected short talks</strong><br />
+<tr><td><strong>12:30 Selected short talks</strong><br /></td></tr> 
 <i>The talks will be selected from the submitted abstracts.</i>
 <tr><td><strong>13:30 Lunch and Poster viewing</strong><br /></td></tr> 
 </table>
@@ -43,13 +42,13 @@ Location
 <tr><td><strong>9:00 Key Lecture: Logic modelling to integrate disease maps and various omics data</strong><br />
 <a href="#">Julio Saez-Rodriguez,</a> RWTH-Aachen University Hospital, Aachen, Germany<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>10:00 Highlighted talk</strong><br />
+<tr><td><strong>10:00 Highlighted talk</strong><br /></td></tr> 
 </table>
 
 <p><i>10:30 Coffee break and Poster viewing</i></p>
 
 <table>
-<tr><td><strong>11:00 Selected short talks </strong><br />
+<tr><td><strong>11:00 Selected short talks </strong><br /></td></tr> 
 <tr><td><strong>12:30 Poster session</strong><br /></td></tr> 
 </table>
 
@@ -61,8 +60,7 @@ Location
 <tr><td><strong>14:30 Key Lecture: Toward whole-cell computational models for precision medicine</strong><br />
 <a href="#">Jonathan Karr,</a> Icahn School of Medicine at Mount Sinai, New York, USA<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30 Selected short talks</strong><br />
-</td></tr> 
+<tr><td><strong>15:30 Selected short talks</strong><br /></td></tr> 
 </table>
 
 <p><i>Discussion sessions</i></p>
@@ -77,7 +75,7 @@ Location
 <tr><td><strong>10:00 Key Lecture: Computational approaches to tackle chemoresistance in high-grade serous ovarian cancer</strong><br />
 <a href="#">Sampsa Hautaniemi,</a> Faculty of Medicine, University of Helsinki, Finland<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>11:00 Highlighted talk</strong><br />
+<tr><td><strong>11:00 Highlighted talk</strong><br /></td></tr> 
 </table>
 
 <p><i>11:30 Coffee break and poster session</i></p>
