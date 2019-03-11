@@ -45,7 +45,7 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 <tr><td><strong>10:00 Highlighted talk</strong><br /></td></tr> 
 </table>
 
-<p><i>10:30 Coffee break and Poster viewing</i></p>
+<p><i>10:30 Coffee break and poster viewing</i></p>
 
 <table>
 <tr><td><strong>11:00 Selected short talks </strong><br /></td></tr> 
