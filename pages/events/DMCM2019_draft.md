@@ -28,20 +28,10 @@ Location
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>12:30 Selected short talks</strong><br />
 <i>The talks will be selected from the submitted abstracts.</i>
-<!-- <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>  -->
 <tr><td><strong>13:30 Lunch and Poster viewing</strong><br /></td></tr> 
 </table>
 
 <p><i>Discussion Sessions </i></p>  
-
-<!-- <table>
-<tr><td><strong>15:00 Introduction to Discussion Sessions</strong><br />
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong>15:30 - 17:00 Discussion group 1: Selected topic</strong><br /></td></tr> 
-<tr><td><strong>15:30 - 17:00 Discussion group 2: Selected topic</strong><br /></td></tr> 
-<tr><td><strong>15:30 - 17:00 Discussion group 3: Selected topic</strong><br /></td></tr> 
-<tr><td><strong>15:30 - 17:00 Tutorial and discussion: To be determined.</strong><br /></td></tr> 
-</table> -->
 
 17:00 - 18:00 Concluding remarks
 
@@ -60,8 +50,6 @@ Location
 
 <table>
 <tr><td><strong>11:00 Selected short talks </strong><br />
-<!-- <a href="#">Author,</a> Institute, City, Country<br /> -->
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>12:30 Poster session</strong><br /></td></tr> 
 </table>
 
@@ -74,7 +62,7 @@ Location
 <a href="#">Jonathan Karr,</a> Icahn School of Medicine at Mount Sinai, New York, USA<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>15:30 Selected short talks</strong><br />
-<a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+</td></tr> 
 </table>
 
 <p><i>Discussion sessions</i></p>
@@ -90,14 +78,12 @@ Location
 <a href="#">Sampsa Hautaniemi,</a> Faculty of Medicine, University of Helsinki, Finland<br />
 <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong>11:00 Highlighted talk</strong><br />
-<!-- <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>  -->
 </table>
 
 <p><i>11:30 Coffee break and poster session</i></p>
 
 <table>
-<tr><td><strong>12:30 Selected short talks</strong><br />
-<!-- <a href="#"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>  -->
+<tr><td><strong>12:30 Selected short talks</strong></td></tr>
 <tr><td><strong>13:30 Meeting closure</strong><br /></td></tr> 
 </table>
 
