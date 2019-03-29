@@ -26,17 +26,14 @@ Considering the increasing complexity of metabolic networks, tools that enable t
 <td style="width: 100px;"><img src="../images/team/InesThiele.jpg" alt="Ines Thiele" /></td>
 <td><strong>Ines Thiele, PhD</strong><br />
 <strong>National University of Ireland, Galway, Ireland</strong><br />
-Head of the Molecular Systems Physiology Group; the Leader of the Virtual Metabolic Human project; <br />
-the Leader of the Virtual Metabolic Gut project; the Leader of the Recon3 project</td>
+Head of the Molecular Systems Physiology Group; the Leader of the Virtual Metabolic Human project; the Leader of the Virtual Metabolic Gut project; the Leader of the Recon3 project</td>
 </tr>
   
 <tr>
 <td><img src="../images/team/RonanFleming.jpg" alt="Ronan Fleming" /></td>
 <td><strong>Ronan Fleming, PhD</strong><br />
 <strong>Leiden University, Leiden, Netherlands</strong><br />
-Head of the Systems Biochemistry Group, Leiden Academic Centre for Drug Research; <br />
-the Leader of the ReconMap project; the Leader of the COBRA Toolbox project; <br />
-Coordinator of the H2020 Project - Systems Medicine of Mitochondrial Parkinson’s Disease</td>
+Head of the Systems Biochemistry Group, Leiden Academic Centre for Drug Research; the Leader of the ReconMap project; the Leader of the COBRA Toolbox project; Coordinator of the H2020 Project - Systems Medicine of Mitochondrial Parkinson’s Disease</td>
 </tr>
 </table>
 
