@@ -40,5 +40,5 @@ The following projects are strategically important for the future advances of th
 <h3><a href="vmh">Virtual Metabolic Human</a></h3>
 <p>
 <i>Description: </i>The Virtual Metabolic Human links human metabolism, gut microbiome metabolism, nutrition, and disease.<br />
-<i>Contact: </i>Ines Thiele, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg<br />
-<i>Homepage: </i><a href="https://vmh.uni.lu/" target="_blank">https://vmh.uni.lu/</a></p>
+<i>Contact: </i>Ines Thiele, National University of Ireland, Galway, Ireland; Ronan M.T. Fleming, Leiden University, Leiden, Netherlands<br />
+<i>Homepage: </i><a href="https://www.vmh.life" target="_blank">https://www.vmh.life</a></p>
