@@ -17,7 +17,7 @@ The [Virtual Metabolic Human](https://www.vmh.life/) (VMH, Noronha et al, 2019, 
 
 Considering the increasing complexity of metabolic networks, tools that enable to interactively visualize metabolic network content and integrate omics data and simulation results are highly desirable. [ReconMaps](http://vmh.uni.lu/#reconmap) (Noronha et al., 2016, PMID [27993782](https://www.ncbi.nlm.nih.gov/pubmed/27993782); Noronha et al, 2019, PMID [30371894](https://www.ncbi.nlm.nih.gov/pubmed/30371894)) is a collection of manually drawn comprehensive maps, consistent with the content of Recon3, and is available through a [web interface](https://vmh.uni.lu/MapViewer/index.xhtml) that allows content query, visualization of custom datasets and submission of feedback to manual curators. An extension of the [Constraint-Based Reconstruction and Analysis](https://opencobra.github.io/) (COBRA) toolbox (Heirendt et al., 2019, PMID [30787451](https://www.ncbi.nlm.nih.gov/pubmed/30787451)) was developed to interact with ReconMap and allows users to directly upload simulation results to ReconMaps.
 
-[VMH](http://vmh.life/) and [ReconMaps](http://vmh.uni.lu/#reconmap) can be connected to disease-specific maps, such as the [Parkinson’s disease map](http://disease-maps.org/projects/parkinsons), thereby enabling investigations beyond metabolic pathways.
+[VMH](http://vmh.life/) and [ReconMaps](https://www.vmh.life/#reconmaps) can be connected to disease-specific maps, such as the [Parkinson’s disease map](http://disease-maps.org/projects/parkinsons), thereby enabling investigations beyond metabolic pathways.
 
 <br>
 
