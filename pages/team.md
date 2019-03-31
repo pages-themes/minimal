@@ -111,7 +111,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/JanHasenauer.jpg" width="105" alt="Jan Hasenauer"/></a></td>
-<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Mechanistic modelling on the basis of disease maps; Group Leader, Institute of Computational Biology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany</p></td>
+<td><strong>Jan Hasenauer</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Professor at the University of Bonn, Bonn, Germany; <br /> Group Leader at the Helmholtz Zentrum München, Munich, Germany; <br /> Data-driven mechanistic modelling of disease mechanisms</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="105" alt="Irina Balaur"/></a></td>
