@@ -27,11 +27,11 @@ This page defines the organisational structure, roles and processes in the  Dise
 <table>
 <tr>
 <td style="width: 110px;"><a id="AlexanderMazein"><img src="../images/team/AlexanderMazein.jpg" width="105" alt="Alexander Mazein"/></a></td>
-<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project</p></td>
+<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="105" alt="Marek Ostaszewski"/></a></td>
-<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project; <br />Researcher at the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project; <br />Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="InnaKuperstein"><img src="../images/team/InnaKuperstein.jpg" width="105" alt="Inna Kuperstein"/></a></td>
@@ -43,11 +43,11 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="RudiBalling"><img src="../images/team/RudiBalling.jpg" width="105" alt="Rudi Balling"/></a></td>
-<td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Director of the Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+<td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Director of the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="105" alt="Reinhard Schneider"/></a></td>
-<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project; Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, Luxembourg</p></td>
+<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project; Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="EmmanuelBarillot"><img src="../images/team/EmmanuelBarillot.jpg" width="105" alt="Emmanuel Barillot"/></a></td>
