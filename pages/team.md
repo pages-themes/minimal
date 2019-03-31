@@ -107,7 +107,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JoseAntonioLopezEscamez"><img src="../images/team/JoseAntonioLopezEscamez.jpg" width="105" alt="Jose Antonio Lopez-Escamez"/></a></td>
-<td><strong>Jose Antonio Lopez-Escamez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Meniere's Disease Map project; <br />Head of the Otology and Neurotology Group, Centre for Genomics and Oncology Genyo, Instituto Biosanitario Granada, Spain</p></td>
+<td><strong>Jose Antonio Lopez-Escamez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Meniere's Disease Map project; <br />Head of the Otology and Neurotology Group, Centre for Genomics and Oncology Genyo, Instituto Biosanitario Granada, Granada, Spain</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JanHasenauer"><img src="../images/team/JanHasenauer.jpg" width="105" alt="Jan Hasenauer"/></a></td>
