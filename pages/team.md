@@ -27,11 +27,11 @@ This page defines the organisational structure, roles and processes in the  Dise
 <table>
 <tr>
 <td style="width: 110px;"><a id="AlexanderMazein"><img src="../images/team/AlexanderMazein.jpg" width="105" alt="Alexander Mazein"/></a></td>
-<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project<br />Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Leader of the Disease Maps Project; Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="105" alt="Marek Ostaszewski"/></a></td>
-<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Leader of the Disease Maps Project; <br />Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Leader of the Disease Maps Project; Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="InnaKuperstein"><img src="../images/team/InnaKuperstein.jpg" width="105" alt="Inna Kuperstein"/></a></td>
@@ -115,11 +115,11 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="105" alt="Irina Balaur"/></a></td>
-<td><strong>Irina Balaur</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Neo4j-for-Disease-Maps initiative for the integration of the disease map resources; <br />Lead Developer of the ySBGN tool</p></td>
+<td><strong>Irina Balaur</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Neo4j-for-Disease-Maps initiative for the integration of the disease map resources; Lead Developer of the ySBGN tool</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="BertrandDeMeulder"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Bertrand De Meulder"/></a></td>
-<td><strong>Bertrand De Meulder</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Developer of pipelines for omics data analysis and interpretation through disease maps; <br />Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
+<td><strong>Bertrand De Meulder</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Developer of pipelines for omics data analysis and interpretation through disease maps; Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JoaquinDopazo"><img src="../images/team/JoaquinDopazo.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
