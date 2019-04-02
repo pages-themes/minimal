@@ -89,17 +89,6 @@ President of the Federation of Innovative Drug Research in the Netherlands,
 Coordinator of the ERANET <a href="https://www.era-learn.eu/network-information/networks/eracosysmed/1st-call-european-research-projects-to-demonstrate/systems-pharmacology-approach-to-difficult-to-treat-pediatric-asthma" target="_blank">SysPharmPediA</a> project</td>
 </tr>
 <tr>
-<td><img src="../images/team/JosepRoca.jpg" alt="Josep Roca" /></td>
-<td><strong>Josep Roca, MD</strong><br /><strong>Hospital Clinic of Barcelona, Spain</strong><br />
-Professor of Medicine at the University of Barcelona, Senior Researcher at IDIBAPS, Senior Consultant at the Hospital Clinic of Barcelona</td>
-</tr>
-<!--<tr>
-<td><img src="../images/team/PeterOpenshaw.jpg" alt="Peter Openshaw" /></td>
-<td><strong>Peter Openshaw, MD</strong><br /><strong>Imperial College London, UK</strong><br />
-Professor of Experimental Medicine, Honorary Physician in the Department of Respiratory Medicine, <br />
-President of the British Society for Immunology</td>
-</tr>-->
-<tr>
 <td><img src="../images/team/RatkoDjukanovic.jpg" alt="Ratko Djukanovic" /></td>
 <td><strong>Ratko Djukanovic, MD, DM, FRCP</strong><br /><strong>University of Southampton, UK</strong><br />
 Professor of Medicine, Director of the Southampton NIHR Respiratory Biomedical Research Unit, <br />
