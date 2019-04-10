@@ -10,7 +10,7 @@ permalink: /publications
 
 ## Key community papers
 
-Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira M, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C. Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms. NPJ Syst Biol Appl. 2018 Jun 2. [doi: 10.1038/s41540-018-0059-y](https://doi.org/10.1038/s41540-018-0059-y).
+Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira MM, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C. Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms. NPJ Syst Biol Appl. 2018 Jun 2;4:21. [doi: 10.1038/s41540-018-0059-y](https://doi.org/10.1038/s41540-018-0059-y). eCollection 2018. PubMed [PMID: 29872544](https://www.ncbi.nlm.nih.gov/pubmed/29872544).
 
 Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2018 Apr 23. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
 
@@ -19,6 +19,8 @@ Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenaue
 ## Publications of the community members
  
 ### Maps
+
+Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. doi: 10.1111/cea.13211. PubMed PMID: 30133857.
 
 Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational systems biology approach for the study of rheumatoid arthritis: from a molecular map to a dynamical model. Genomics Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050)  
 
