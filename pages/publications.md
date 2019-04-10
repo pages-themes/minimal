@@ -39,12 +39,20 @@ Chanrion M, Kuperstein I, Barrière C, El Marjou F, Cohen D, Vignjevic D, Stimme
 Gawron P, Ostaszewski M, Satagopam V, Gebel S, Mazein A, Kuzma M, Zorzan S,
 McGee F, Otjacques B, Balling R, Schneider R. MINERVA-a platform for visualization and curation of molecular interaction networks. NPJ Syst Biol Appl. 2016 Sep 22;2:16020. [doi: 10.1038/npjsba.2016.20](https://doi.org/10.1038/npjsba.2016.20). eCollection 2016. PubMed [PMID: 28725475](https://www.ncbi.nlm.nih.gov/pubmed/28725475).  
 
+Bonnet E, Viara E, Kuperstein I, Calzone L, Cohen DP, Barillot E, Zinovyev A. NaviCell Web Service for network-based data visualization. Nucleic Acids Res. 2015 Jul 1;43(W1):W560-5. [doi: 10.1093/nar/gkv450](https://doi.org/10.1093/nar/gkv450). Epub 2015 May 9. PubMed [PMID: 25958393](https://www.ncbi.nlm.nih.gov/pubmed/25958393).  
 
+Kuperstein I, Cohen DP, Pook S, Viara E, Calzone L, Barillot E, Zinovyev A. NaviCell: a web-based environment for navigation, curation and maintenance of large molecular interaction maps. BMC Syst Biol. 2013 Oct 7;7:100. [doi: 10.1186/1752-0509-7-100](https://doi.org/10.1186/1752-0509-7-100). PubMed [PMID: 24099179](https://www.ncbi.nlm.nih.gov/pubmed/24099179).  
+
+Bonnet E, Calzone L, Rovera D, Stoll G, Barillot E, Zinovyev A. BiNoM 2.0, a Cytoscape plugin for accessing and analyzing pathways using standard systems biology formats. BMC Syst Biol. 2013 Mar 1;7:18. [doi: 10.1186/1752-0509-7-18](https://doi.org/10.1186/1752-0509-7-18). PubMed [PMID: 23453054](https://www.ncbi.nlm.nih.gov/pubmed/23453054).  
 
 ## Other important resources
 
 ### Maps
 
 Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y. A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. [doi:10.1186/1752-0509-7-97](https://doi.org/10.1186/1752-0509-7-97). PubMed [PMID: 24088197](https://www.ncbi.nlm.nih.gov/pubmed/24088197).  
+
+Ogishima S, Mizuno S, Kikuchi M, Miyashita A, Kuwano R, Tanaka H, Nakaya J. AlzPathway, an Updated Map of Curated Signaling Pathways: Towards Deciphering Alzheimer's Disease Pathogenesis. Methods Mol Biol. 2016;1303:423-32. 
+doi: <a href="https://dx.doi.org/10.1007/978-1-4939-2627-5_25" target="_blank">10.1007/978-1-4939-2627-5_25</a>. 
+PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26235082" target="_blank">26235082</a>.  
 
 Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. [doi:10.1186/1752-0509-6-52](https://doi.org/10.1186/1752-0509-6-52). PubMed [PMID: 22647208](https://www.ncbi.nlm.nih.gov/pubmed/22647208).  
