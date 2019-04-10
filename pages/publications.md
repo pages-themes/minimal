@@ -18,7 +18,7 @@ Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenaue
 
 ## Publications of the community members
  
-### Maps
+### Disease maps
 
 Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. doi: 10.1111/cea.13211. PubMed PMID: 30133857.
 
@@ -49,7 +49,7 @@ Bonnet E, Calzone L, Rovera D, Stoll G, Barillot E, Zinovyev A. BiNoM 2.0, a Cyt
 
 ## Other important resources
 
-### Maps
+### Disease maps
 
 Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y. A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. [doi:10.1186/1752-0509-7-97](https://doi.org/10.1186/1752-0509-7-97). PubMed [PMID: 24088197](https://www.ncbi.nlm.nih.gov/pubmed/24088197).  
 
