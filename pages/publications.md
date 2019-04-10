@@ -16,7 +16,7 @@ Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenaue
 
 
 
-## Publications of the community members
+## Selected publications of the community members
  
 ### Disease maps
 
