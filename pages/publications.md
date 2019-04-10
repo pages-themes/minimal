@@ -39,7 +39,7 @@ Chanrion M, Kuperstein I, Barrière C, El Marjou F, Cohen D, Vignjevic D, Stimme
 ### Tools
 
 Gawron P, Ostaszewski M, Satagopam V, Gebel S, Mazein A, Kuzma M, Zorzan S,
-McGee F, Otjacques B, Balling R, Schneider R. MINERVA-a platform for visualization and curation of molecular interaction networks. NPJ Syst Biol Appl. 2016 Sep 22;2:16020. [doi: 10.1038/npjsba.2016.20](https://doi.org/10.1038/npjsba.2016.20). eCollection 2016. PubMed [PMID: 28725475](https://www.ncbi.nlm.nih.gov/pubmed/28725475).  
+McGee F, Otjacques B, Balling R, Schneider R. MINERVA - a platform for visualization and curation of molecular interaction networks. NPJ Syst Biol Appl. 2016 Sep 22;2:16020. [doi: 10.1038/npjsba.2016.20](https://doi.org/10.1038/npjsba.2016.20). eCollection 2016. PubMed [PMID: 28725475](https://www.ncbi.nlm.nih.gov/pubmed/28725475).  
 
 Bonnet E, Viara E, Kuperstein I, Calzone L, Cohen DP, Barillot E, Zinovyev A. NaviCell Web Service for network-based data visualization. Nucleic Acids Res. 2015 Jul 1;43(W1):W560-5. [doi: 10.1093/nar/gkv450](https://doi.org/10.1093/nar/gkv450). Epub 2015 May 9. PubMed [PMID: 25958393](https://www.ncbi.nlm.nih.gov/pubmed/25958393).  
 
