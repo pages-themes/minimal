@@ -59,7 +59,7 @@ PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26235082" target="_bla
 
 Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. [doi:10.1186/1752-0509-6-52](https://doi.org/10.1186/1752-0509-6-52). PubMed [PMID: 22647208](https://www.ncbi.nlm.nih.gov/pubmed/22647208).  
 
-### Extensive pathway maps
+### Comprehensive pathway maps
 
 Caron E, Ghosh S, Matsuoka Y, Ashton-Beaucage D, Therrien M, Lemieux S, Perreault C, Roux PP, Kitano H. A comprehensive map of the mTOR signaling network. Mol Syst Biol. 2010 Dec 21;6:453. [doi: 10.1038/msb.2010.108](https://doi.org/10.1038/msb.2010.108). Review. PubMed [PMID: 21179025](https://www.ncbi.nlm.nih.gov/pubmed/21179025).
 
