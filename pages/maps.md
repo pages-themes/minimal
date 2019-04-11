@@ -26,7 +26,7 @@ PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_bla
 
 <h3 id="Parkison's disease">Parkinson's disease</h3>
 <i>Resource:</i> Parkinson's disease map<br />
-<i>Contact:</i> Stephan Gebel, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg<br />
+<i>Contact:</i> Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, Belval, Luxembourg<br />
 <i>Homepage:</i> <a href="http://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map" target="_blank">http://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map</a><br />
 <i>Online access:</i> <a href="http://minerva.uni.lu/MapViewer/" target="_blank">http://minerva.uni.lu/MapViewer/</a><br />
 <i>Downloads:</i> <a href="http://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map/downloads" target="_blank">http://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map/downloads</a><br />
