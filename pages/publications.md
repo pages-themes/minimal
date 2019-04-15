@@ -49,7 +49,7 @@ Kuperstein I, Cohen DP, Pook S, Viara E, Calzone L, Barillot E, Zinovyev A. Navi
 
 Bonnet E, Calzone L, Rovera D, Stoll G, Barillot E, Zinovyev A. BiNoM 2.0, a Cytoscape plugin for accessing and analyzing pathways using standard systems biology formats. BMC Syst Biol. 2013 Mar 1;7:18. [doi: 10.1186/1752-0509-7-18](https://doi.org/10.1186/1752-0509-7-18). PubMed [PMID: 23453054](https://www.ncbi.nlm.nih.gov/pubmed/23453054).  
 
-## Other important resources
+## Relevant projects
 
 ### Disease maps
 
