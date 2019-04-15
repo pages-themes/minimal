@@ -55,10 +55,6 @@ Bonnet E, Calzone L, Rovera D, Stoll G, Barillot E, Zinovyev A. BiNoM 2.0, a Cyt
 
 Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y. A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. [doi:10.1186/1752-0509-7-97](https://doi.org/10.1186/1752-0509-7-97). PubMed [PMID: 24088197](https://www.ncbi.nlm.nih.gov/pubmed/24088197).  
 
-Ogishima S, Mizuno S, Kikuchi M, Miyashita A, Kuwano R, Tanaka H, Nakaya J. AlzPathway, an Updated Map of Curated Signaling Pathways: Towards Deciphering Alzheimer's Disease Pathogenesis. Methods Mol Biol. 2016;1303:423-32. 
-doi: <a href="https://dx.doi.org/10.1007/978-1-4939-2627-5_25" target="_blank">10.1007/978-1-4939-2627-5_25</a>. 
-PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26235082" target="_blank">26235082</a>.  
-
 Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. [doi:10.1186/1752-0509-6-52](https://doi.org/10.1186/1752-0509-6-52). PubMed [PMID: 22647208](https://www.ncbi.nlm.nih.gov/pubmed/22647208).  
 
 ### Comprehensive pathway maps
