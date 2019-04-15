@@ -68,3 +68,5 @@ Oda K, Matsuoka Y, Funahashi A, Kitano H. A comprehensive pathway map of epiderm
 ### Complementary approaches
 
 Kodamullil AT, Younesi E, Naz M, Bagewadi S, Hofmann-Apitius M. Computable cause-and-effect models of healthy and Alzheimer's disease states and their mechanistic differential analysis. Alzheimers Dement. 2015 Nov;11(11):1329-39. [doi: 10.1016/j.jalz.2015.02.006](https://doi.org/10.1016/j.jalz.2015.02.006). Epub 2015 Apr 4. PubMed [PMID: 25849034](https://www.ncbi.nlm.nih.gov/pubmed/25849034).
+
+Hoyt CT, Domingo-Fernández D, Aldisi R, Xu L, Kolpeja K, Spalek S, Wollert E, Bachman J, Gyori BM, Greene P, Hofmann-Apitius M. Re-curation and Rational Enrichment of Knowledge Graphs in Biological Expression Language. biRxiv. 2019. Preprint. [doi: 10.1101/536409](https://doi.org/10.1101/536409).
