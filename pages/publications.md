@@ -64,3 +64,7 @@ Caron E, Ghosh S, Matsuoka Y, Ashton-Beaucage D, Therrien M, Lemieux S, Perreaul
 Oda K, Kitano H. A comprehensive map of the toll-like receptor signaling network. Mol Syst Biol. 2006;2:2006.0015. Epub 2006 Apr 18. Review. PubMed [PMID: 16738560](https://www.ncbi.nlm.nih.gov/pubmed/16738560).
 
 Oda K, Matsuoka Y, Funahashi A, Kitano H. A comprehensive pathway map of epidermal growth factor receptor signaling. Mol Syst Biol. 2005;1:2005.0010. Epub 2005 May 25. PubMed [PMID: 16729045](https://www.ncbi.nlm.nih.gov/pubmed/16729045).
+
+### Complementary approaches
+
+Kodamullil AT, Younesi E, Naz M, Bagewadi S, Hofmann-Apitius M. Computable cause-and-effect models of healthy and Alzheimer's disease states and their mechanistic differential analysis. Alzheimers Dement. 2015 Nov;11(11):1329-39. [doi: 10.1016/j.jalz.2015.02.006](https://doi.org/10.1016/j.jalz.2015.02.006). Epub 2015 Apr 4. PubMed [PMID: 25849034](https://www.ncbi.nlm.nih.gov/pubmed/25849034).
