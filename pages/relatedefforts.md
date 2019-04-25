@@ -10,6 +10,12 @@ permalink: /relatedefforts
 
 The following projects are strategically important for the future advances of the Disease Maps. We initiated discussions with the leaders of the projects and in each case identified overlapping and complementary activities and shared objectives. We aim to work together as partners, integrate resources and avoid duplicated efforts.  
 
+### Reactome
+
+*Description:* Reactome is a free, open-source, open data, curated and peer-reviewed pathway database.
+*Contact:* Henning Hermjakob, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
+*Homepage:* [https://reactome.org](https://reactome.org)
+
 <h3><a href="pathwaycommons">Pathway Commons</a></h3>
 <p>
 <i>Description: </i>Pathway Commons aims to collect and disseminate biological pathway and interaction data. Data is collected from partner databases and is represented in the <a href="http://biopax.org/" target="_blank">BioPAX</a> standard.<br />
