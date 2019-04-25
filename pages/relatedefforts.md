@@ -12,9 +12,9 @@ The following projects are strategically important for the future advances of th
 
 ### Reactome
 
-*Description:* Reactome is a free, open-source, open data, curated and peer-reviewed pathway database.
-*Contact:* Henning Hermjakob, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
-*Homepage:* [https://reactome.org](https://reactome.org)
+*Description:* Reactome is a free, open-source, open data, curated and peer-reviewed pathway database.  
+*Contact:* Henning Hermjakob, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK  
+*Homepage:* [https://reactome.org](https://reactome.org)  
 
 <h3><a href="pathwaycommons">Pathway Commons</a></h3>
 <p>
