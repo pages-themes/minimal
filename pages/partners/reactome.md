@@ -6,7 +6,7 @@ permalink: /reactome
 
 # Reactome
 
-The page is under contstruction
+Reactome is a free, open-source, curated and peer-reviewed pathway database. The goal is to provide intuitive bioinformatics tools for visualization, interpretation and analysis of pathway knowledge to support basic research, genome analysis, modelling, systems biology and education.  
 
 <br>
 
