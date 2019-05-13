@@ -14,9 +14,9 @@ The list of active projects, starting with published maps:
 
 <table>
 <tr style="height: 200px;">
-<td style="width: 330px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
+<td style="width: 360px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
 <td style="width: 10px;"> </td>
-<td style="width: 330px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
+<td style="width: 360px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 330px;"> </td>
