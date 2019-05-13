@@ -12,13 +12,16 @@ The growing number of active projects within the Disease Maps Community are led 
 
 The list of active projects, starting with published maps:
 
-<!--<td style="background-color: #000;">-->
-
 <table>
 <tr style="height: 200px;">
 <td style="width: 360px; text-align: left; vertical-align: top; background-color: #45818eff;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
 <td style="width: 20px;"> </td>
 <td style="width: 360px; text-align: left; vertical-align: top; background-color: #45818eff;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 360px;"> </td>
+<td style="width: 20px;"> </td>
+<td style="width: 360px;"> </td>
 </tr>
 <tr style="height: 200px;">
 <td style="width: 360px; text-align: left; vertical-align: top; background-color: #45818eff;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
