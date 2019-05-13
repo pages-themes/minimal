@@ -18,7 +18,7 @@ The list of active projects, starting with published maps:
 <td style="width: 20px;"> </td>
 <td style="width: 330px; text-align: left; vertical-align: top; background-color: #45818eff;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
 </tr>
-<tr style="height: 20px;">
+<tr style="height: 40px;">
 <td style="width: 330px;"> </td>
 <td style="width: 20px;"> </td>
 <td style="width: 330px;"> </td>
