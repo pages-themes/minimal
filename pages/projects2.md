@@ -18,9 +18,9 @@ The list of active projects, starting with published maps:
 <td style="width: 10px;"> </td>
 <td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Cancer](cancer)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
-<tr style="height: 20px;">
+<tr style="height: 30px;">
 <td style="width: 320px;"> </td>
-<td style="width: 30px;"> </td>
+<td style="width: 10px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height: 200px;">
