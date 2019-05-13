@@ -12,6 +12,24 @@ The growing number of active projects within the Disease Maps Community are led 
 
 The list of active projects, starting with published maps:
 
+<!--<td style="background-color: #000;">-->
+
+<table>
+<tr>
+<td style="width: 360px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
+<td style="width: 40px;"> </td>
+<td style="width: 360px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
+</tr>
+<tr>
+<td style="width: 360px; text-align: left; vertical-align: top; background-color: #000;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+<td style="width: 40px;"> </td>
+<td style="width: 36px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
+</tr>
+</table>    
+
+
+
+
 <ul style="list-style-type:none; line-height:175%;">
 <li><a href="/parkinsons">Parkinson's disease</a></li>
 <li><a href="/cancer">Cancer</a></li>
