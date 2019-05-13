@@ -20,7 +20,7 @@ The list of active projects, starting with published maps:
 </tr>
 <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
-<td style="width: 20px;"> </td>
+<td style="width: 30px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height: 200px;">
