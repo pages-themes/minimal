@@ -14,19 +14,19 @@ The list of active projects, starting with published maps:
 
 <table>
 <tr style="height: 200px;">
-<td style="width: 400px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Parkinson's disease](parkinsons)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Parkinson's disease](parkinsons)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
 <td style="width: 10px;"> </td>
-<td style="width: 400px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Cancer](cancer)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Cancer](cancer)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 <tr style="height: 20px;">
-<td style="width: 400px;"> </td>
+<td style="width: 320px;"> </td>
 <td style="width: 20px;"> </td>
-<td style="width: 400px;"> </td>
+<td style="width: 320px;"> </td>
 </tr>
 <tr style="height: 200px;">
-<td style="width: 400px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Rheumatoid arthritis](rheumatoidarthritis)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Rheumatoid arthritis](rheumatoidarthritis)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
 <td style="width: 10px;"> </td>
-<td style="width: 400px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Asthma](asthma)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Asthma](asthma)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 </tr>
 </table>    
 
