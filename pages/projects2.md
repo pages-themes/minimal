@@ -45,7 +45,7 @@ The following are the active projects, starting with published maps.
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
+        Resource: Rheumatoid Arthritis Map<br />
         Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
@@ -59,6 +59,30 @@ The following are the active projects, starting with published maps.
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a><br />
         </p></td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
+        Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
+        Contact: <a href="mailto:a.mazein@gmail.com">Alexander Mazein</a>, University of Luxembourg, Belvaux, Luxembourg<br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a><br />
+        </p></td>
+</tr>
 </table>    
 
 
@@ -66,8 +90,8 @@ The following are the active projects, starting with published maps.
 
 
 <li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
-<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="/atherosclerosis">Atherosclerosis</a></li>
+<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
 <li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
 <li><a href="/anaphylaxis">Anaphylaxis</a></li>
@@ -82,6 +106,7 @@ The following are the active projects, starting with published maps.
 
 
 
+<br />
 
 As a list, in alphabetical order:
 
