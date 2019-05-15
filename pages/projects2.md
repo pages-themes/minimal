@@ -12,11 +12,13 @@ The growing number of active projects within the Disease Maps Community are led 
 
 The list of active projects, starting with published maps:
 
+<a href="../parkinsons" target="_blank">Parkinson's disease</a>
+
 <table>
 <tr style="height: 200px;">
-<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Parkinson's disease](parkinsons)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong><p style="line-height:140%; margin-top:6px; font-size:14px;">
         Resource: Parkinson's Disease Map<br />
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg
+        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Country: <img src="../images/flags/flag-of-Luxembourg.png" width="40"/> Luxembourg
         </p></td>
 <td style="width: 10px;"> </td>
