@@ -14,13 +14,13 @@ The list of active projects, starting with published maps:
 
 <table>
 <tr style="height:200px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#dee5ef;"><p style="margin:15px; font-size:16px;"><strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p><p style="line-height:160%; margin:15px; font-size:13px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#dee5ef;"><p style="margin:10px; font-size:16px;"><strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p><p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Parkinson's Disease Map<br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         <!--<img src="../images/flags/flag-of-Luxembourg.png" width="30"/> Luxembourg-->
         </p></td>
 <td style="width:10px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; margin:15px; background-color:#dee5ef;">
+<td style="width:320px; text-align:left; vertical-align:top; margin:10px; background-color:#dee5ef;">
         <font size="3"><strong><a href="../cancer" target="_blank">Cancer</a></strong></font>
         <p style="line-height:160%; margin-top:6px; font-size:13px;">
         Resource: Atlas of Cancer Signalling Network<br />
