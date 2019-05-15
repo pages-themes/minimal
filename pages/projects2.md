@@ -69,8 +69,8 @@ The following are the active projects, starting with published maps.
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />
+        Resource: Cystic Fibrosis Map<br />
+        Contact: <a href="mailto:cpereira@lasige.di.fc.ul.pt">Catarina Pereira</a>, University of Lisbon, Lisbon, Portugal<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
@@ -78,9 +78,8 @@ The following are the active projects, starting with published maps.
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
-        Contact: <a href="mailto:a.mazein@gmail.com">Alexander Mazein</a>, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a><br />
+        Resource: <a href="http://asthma-map.org/" target="_blank">Atherosclerosis Map</a><br />
+        Contact: <a href="mailto:s.watterson@ulster.ac.uk">Steven Watterson</a>, University of Ulster, Coleraine, UK<br />
         </p></td>
 </tr>
 </table>    
@@ -157,15 +156,6 @@ _Contact:_ Rupert Overall, German Center for Neurodegenerative Diseases, Dresden
 _Resource:_ Anaphylaxis Map  
 _Contact:_ Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg  
 
-### [Atherosclerosis](atherosclerosis)
-
-_Resource:_ Atherosclerosis Map  
-_Contact:_ Steven Watterson, University of Ulster, Coleraine, UK  
-
-### [Cystic fibrosis](cysticfibrosis)
-
-_Resource:_ Cystic Fibrosis Map  
-_Contact:_ Catarina Pereira, University of Lisbon, Lisbon, Portugal  
 
 ### [Duchenne muscular dystrophy](duchenne)
 
