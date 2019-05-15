@@ -15,7 +15,33 @@ The following are the active projects, starting with published maps.
 
 
 <table>
-<tr style="height:200px;">
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
+        Contact: <a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>, University of Luxembourg, Belvaux, Luxembourg<br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+        </p></td>
+        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29951575" target="_blank">PubMed</a>
+<td style="width: 10px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+        Contact: <a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>, Institut Curie, Paris, France<br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_blank">PubMed</a>
+        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+        </p></td>
+</tr>
+<tr style="height: 30px;">
+<td style="width: 320px;"> </td>
+<td style="width: 10px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
@@ -32,30 +58,6 @@ The following are the active projects, starting with published maps.
         Resource: Atlas of Cancer Signalling Network<br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
         </p></td>
-</tr>
-<tr style="height: 30px;">
-<td style="width: 320px;"> </td>
-<td style="width: 10px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height: 200px;">
-<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><p style="margin-top:10px; font-size:16px;"><strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p><p style="line-height:160%; margin-top:0px; font-size:13px;">
-        Resource: Parkinson's Disease Map<br />
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        <!--<img src="../images/flags/flag-of-Luxembourg.png" width="30"/> Luxembourg-->
-        </p></td>
-<td style="width: 10px;"> </td>
-<td style="width: 320px; text-align: left; vertical-align: top; background-color: #dee5ed;">
-        <font size="3"><strong><a href="../cancer" target="_blank">Cancer</a></strong></font>
-        <p style="line-height:160%; margin-top:6px; font-size:13px;">
-        Resource: Atlas of Cancer Signalling Network<br />
-        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        </p></td>
-</tr>
-<tr style="height: 30px;">
-<td style="width: 320px;"> </td>
-<td style="width: 10px;"> </td>
-<td style="width: 320px;"> </td>
 </tr>
 </table>    
 
