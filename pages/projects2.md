@@ -15,7 +15,7 @@ The following are the active projects, starting with published maps.
 
 
 <table>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#e1e8ef;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
@@ -40,7 +40,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#e1e8ef;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
@@ -64,7 +64,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#e1e8ef;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
