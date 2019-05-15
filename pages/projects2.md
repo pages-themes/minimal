@@ -81,28 +81,36 @@ The following are the active projects, starting with published maps.
         Contact: <a href="mailto:s.watterson@ulster.ac.uk">Steven Watterson</a>, University of Ulster, Coleraine, UK<br />
         </p></td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#e1e8ef;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: The regulatory network of systemic and renal hemodynamics<br />
+        Contact: <a href="mailto:flopezher@usal.es ">Francisco J. López-Hernández</a>, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#e1e8ef;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Multiple Sclerosis Pathway Map<br />
+        Contact: <a href="mailto:julio.saez@bioquant.uni-heidelberg.de">Julio Saez Rodriguez</a>, Heidelberg University Hospital, Heidelberg, Germany<br />
+        </p></td>
+</tr>
 </table>    
 
-
-
-
-
-<li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
-<li><a href="/atherosclerosis">Atherosclerosis</a></li>
-<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
-<li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
 <li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
 <li><a href="/anaphylaxis">Anaphylaxis</a></li>
 <li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
 <li><a href="/menieres">Meniere’s disease</a></li>
 <li><a href="/spinalcordinjury">Spinal cord injury</a></li>
 <li><a href="/lungcancer">Lung cancer</a></li>
-
-
-
-
-
-
 
 <br />
 
@@ -140,10 +148,6 @@ New projects being discussed:
 <li>Inflammatory bowel disease</li>
 </ul>
 
-### [Acute kidney injury](acutekidneyinjury)
-
-_Resource:_ The regulatory network of systemic and renal hemodynamics  
-_Contact:_ Francisco J. López-Hernández, University of Salamanca, Salamanca, Spain  
 
 ### [Adult neurogenesis](adultneurogenesis)
 
