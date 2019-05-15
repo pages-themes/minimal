@@ -16,7 +16,7 @@ The following are the active projects, starting with published maps.
 
 <table>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -25,7 +25,7 @@ The following are the active projects, starting with published maps.
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
