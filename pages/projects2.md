@@ -22,7 +22,10 @@ The list of active projects, starting with published maps:
         <!--<img src="../images/flags/flag-of-Luxembourg.png" width="30"/> Luxembourg-->
         </p></td>
 <td style="width: 10px;"> </td>
-<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong>[Cancer](cancer)</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><strong><a href="../cancer" target="_blank">Cancer</a></strong><p style="line-height:140%; margin-top:6px; font-size:13px;">
+        Resource: Atlas of Cancer Signalling Network<br />
+        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
+        </p></td>
 </tr>
 <tr style="height: 30px;">
 <td style="width: 320px;"> </td>
