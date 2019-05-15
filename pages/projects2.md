@@ -175,10 +175,6 @@ _Contact:_ Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, 
 _Resource:_ Meniere’s Disease Map  
 _Contact:_ Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain  
 
-### [Multiple sclerosis](multiplesclerosis)
-
-_Resource:_ Multiple Sclerosis Pathways Map  
-_Contact:_ Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany  
 
 ### [Spinal cord injury](spinalcordinjury)
 
