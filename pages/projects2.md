@@ -22,6 +22,7 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: <a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>, University of Luxembourg, Belvaux, Luxembourg<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 10px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
