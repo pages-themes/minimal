@@ -48,15 +48,18 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: <a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
+        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29951575" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 10px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Atlas of Cancer Signalling Network<br />
-        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
+        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+        Contact: <a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>, Institut Curie, Paris, France<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29688383+23832570" target="_blank">PubMed</a><br />
+        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
 </tr>
 </table>    
