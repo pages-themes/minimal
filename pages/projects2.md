@@ -10,7 +10,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.  
 
-The list of active projects, starting with published maps:
+The following are the active projects, starting with published maps.
 
 <table>
 <tr style="height:200px;">
@@ -21,6 +21,7 @@ The list of active projects, starting with published maps:
         Resource: Parkinson's Disease Map<br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
+<td style="width: 10px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#c7d3e0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
