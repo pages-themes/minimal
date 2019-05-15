@@ -16,7 +16,7 @@ The following are the active projects, starting with published maps.
 
 <table>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#9CB7D3;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -25,7 +25,7 @@ The following are the active projects, starting with published maps.
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#9CB7D3;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -41,7 +41,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -50,7 +50,7 @@ The following are the active projects, starting with published maps.
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -65,7 +65,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -73,7 +73,7 @@ The following are the active projects, starting with published maps.
         Contact: <a href="mailto:cpereira@lasige.di.fc.ul.pt">Catarina Pereira</a>, University of Lisbon, Lisbon, Portugal<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
