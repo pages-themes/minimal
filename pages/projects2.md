@@ -42,7 +42,7 @@ The following are the active projects, starting with published maps.
         <!--<img src="../images/flags/flag-of-Luxembourg.png" width="30"/> Luxembourg-->
         </p></td>
 <td style="width: 10px;"> </td>
-<td style="width: 320px; text-align: left; vertical-align: top; background-color: #9db2c8;">
+<td style="width: 320px; text-align: left; vertical-align: top; background-color: #dee5ed;">
         <font size="3"><strong><a href="../cancer" target="_blank">Cancer</a></strong></font>
         <p style="line-height:160%; margin-top:6px; font-size:13px;">
         Resource: Atlas of Cancer Signalling Network<br />
