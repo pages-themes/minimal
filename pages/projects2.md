@@ -12,8 +12,6 @@ The growing number of active projects within the Disease Maps Community are led 
 
 The list of active projects, starting with published maps:
 
-<a href="../parkinsons" target="_blank">Parkinson's disease</a>
-
 <table>
 <tr style="height: 200px;">
 <td style="width: 320px; text-align: left; vertical-align: top; background-color: #c3cfe0;"><p style="margin-top:10px; font-size:16px;"><strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p><p style="line-height:160%; margin-top:0px; font-size:13px;">
