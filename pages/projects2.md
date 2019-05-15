@@ -36,7 +36,7 @@ The following are the active projects, starting with published maps.
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
 </tr>
-<tr style="height: 10px;">
+<tr style="height: 20px;">
 <td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
