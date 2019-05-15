@@ -64,11 +64,7 @@ The following are the active projects, starting with published maps.
 
 
 
-<ul style="list-style-type:none; line-height:175%;">
-<li><a href="/parkinsons">Parkinson's disease</a></li>
-<li><a href="/cancer">Cancer</a></li>
-<li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
-<li><a href="/asthma">Asthma</a></li>
+
 <li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
 <li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
 <li><a href="/atherosclerosis">Atherosclerosis</a></li>
@@ -79,7 +75,31 @@ The following are the active projects, starting with published maps.
 <li><a href="/menieres">Meniere’s disease</a></li>
 <li><a href="/spinalcordinjury">Spinal cord injury</a></li>
 <li><a href="/lungcancer">Lung cancer</a></li>
-<!--<li><a href="/coronaryarterydisease">Coronary artery disease</a></li>-->
+
+
+
+
+
+
+
+
+As a list, in alphabetical order:
+
+<ul style="list-style-type:none; line-height:175%;">
+<li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
+<li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
+<li><a href="/anaphylaxis">Anaphylaxis</a></li>
+<li><a href="/asthma">Asthma</a></li>
+<li><a href="/atherosclerosis">Atherosclerosis</a></li>
+<li><a href="/cancer">Cancer</a></li>
+<li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
+<li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
+<li><a href="/lungcancer">Lung cancer</a></li>
+<li><a href="/menieres">Meniere’s disease</a></li>
+<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
+<li><a href="/parkinsons">Parkinson's disease</a></li>
+<li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
+<li><a href="/spinalcordinjury">Spinal cord injury</a></li>
 </ul>
 
 New projects being discussed:  
@@ -112,24 +132,10 @@ _Contact:_ Rupert Overall, German Center for Neurodegenerative Diseases, Dresden
 _Resource:_ Anaphylaxis Map  
 _Contact:_ Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg  
 
-### [Asthma](asthma)
-
-_Resource:_ [AsthmaMap](http://asthma-map.org/)  
-_Contact:_ Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
-
 ### [Atherosclerosis](atherosclerosis)
 
 _Resource:_ Atherosclerosis Map  
 _Contact:_ Steven Watterson, University of Ulster, Coleraine, UK  
-
-### [Cancer](cancer)
-
-_Resource:_ [Atlas of Cancer Signalling Network](https://acsn.curie.fr/navicell/maps/acsn/master/index.html)  
-_Contact:_ Inna Kuperstein, Institut Curie, Paris, France  
-
-<!--### [Coronary artery disease](coronaryarterydisease)
-_Resource:_ Coronary Artery Disease Map  
-_Contact:_ Daniela Börnigen, University Medical Center Hamburg-Eppendorf, Hamburg, Germany-->  
 
 ### [Cystic fibrosis](cysticfibrosis)
 
@@ -155,16 +161,6 @@ _Contact:_ Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Gr
 
 _Resource:_ Multiple Sclerosis Pathways Map  
 _Contact:_ Julio Saez-Rodriguez, RWTH-Aachen University Hospital, Aachen, Germany  
-
-### [Parkinson's disease](parkinsons)
-
-_Resource:_ [Parkinson's Disease Map](https://pdmap.uni.lu/MapViewer/)  
-_Contact:_ Stephan Gebel, University of Luxembourg, Belval, Luxembourg  
-
-### [Rheumatoid arthritis](rheumatoidarthritis)
-
-_Resource:_ Rheumatoid Arthritis Map  
-_Contact:_ Anna Niarakis, University of Evry Val d’Essonne, Evry, France  
 
 ### [Spinal cord injury](spinalcordinjury)
 
