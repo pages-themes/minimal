@@ -71,7 +71,6 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Cystic Fibrosis Map<br />
         Contact: <a href="mailto:cpereira@lasige.di.fc.ul.pt">Catarina Pereira</a>, University of Lisbon, Lisbon, Portugal<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#edeff2;">
