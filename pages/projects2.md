@@ -65,7 +65,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#edeff2;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#edf2f7;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
