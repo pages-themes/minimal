@@ -173,7 +173,7 @@ The following are the active projects, starting with published maps.
 </tr>
 </table>    
 
-<p style="margin:20px;">As a list, in alphabetical order:</p>
+<p style="margin:40px;">As a list, in alphabetical order:</p>
 
 <ul style="list-style-type:none; line-height:175%;">
 <li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
