@@ -57,7 +57,7 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a><br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -80,6 +80,7 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, University of Ulster, Coleraine, UK<br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
