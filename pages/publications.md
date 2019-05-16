@@ -32,6 +32,8 @@ Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Per
 
 ### Applications of disease maps
 
+Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2018 May 3. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). PubMed [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
+
 Jdey W, Thierry S, Russo C, Devun F, Al Abo M, Noguiez-Hellin P, Sun JS, Barillot E, Zinovyev A, Kuperstein I, Pommier Y, Dutreix M. Drug-Driven Synthetic Lethality: Bypassing Tumor Cell Genetics with a Combination of AsiDNA and PARP Inhibitors. Clin Cancer Res. 2017 Feb 15;23(4):1001-1011. [doi: 10.1158/1078-0432.CCR-16-1193](https://doi.org/10.1158/1078-0432.CCR-16-1193). Epub 2016 Aug 24. PubMed [PMID: 27559053](https://www.ncbi.nlm.nih.gov/pubmed/27559053).  
 
 Satagopam V, Gu W, Eifes S, Gawron P, Ostaszewski M, Gebel S, Barbosa-Silva A, Balling R, Schneider R. Integration and Visualization of Translational Medicine Data for Better Understanding of Human Diseases. Big Data. 2016 Jun;4(2):97-108. [doi: 10.1089/big.2015.0057](https://doi.org/10.1089/big.2015.0057). PubMed [PMID: 27441714](https://www.ncbi.nlm.nih.gov/pubmed/27441714).
