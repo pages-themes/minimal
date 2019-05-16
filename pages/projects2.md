@@ -127,10 +127,30 @@ The following are the active projects, starting with published maps.
         Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         </p></td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Duchenne Muscular Dystrophy Map<br />
+        Contact: Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Meniere’s Disease Map<br />
+        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
+        </p></td>
+</tr>
 </table>    
 
-<li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
-<li><a href="/menieres">Meniere’s disease</a></li>
 <li><a href="/spinalcordinjury">Spinal cord injury</a></li>
 <li><a href="/lungcancer">Lung cancer</a></li>
 
@@ -171,20 +191,12 @@ New projects being discussed:
 </ul>
 
 
-### [Duchenne muscular dystrophy](duchenne)
 
-_Resource:_ Duchenne Muscular Dystrophy Map  
-_Contact:_ Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain  
 
 ### [Lung cancer](lungcancer)
 
 _Resource:_ Lung Cancer Disease Map  
 _Contact:_ Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France  
-
-### [Meniere’s disease](menieres)
-
-_Resource:_ Meniere’s Disease Map  
-_Contact:_ Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain  
 
 
 ### [Spinal cord injury](spinalcordinjury)
