@@ -65,7 +65,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -73,7 +73,7 @@ The following are the active projects, starting with published maps.
         Contact: <a href="mailto:cpereira@lasige.di.fc.ul.pt">Catarina Pereira</a>, University of Lisbon, Lisbon, Portugal<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -87,7 +87,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -95,7 +95,7 @@ The following are the active projects, starting with published maps.
         Contact: <a href="mailto:flopezher@usal.es ">Francisco J. López-Hernández</a>, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
