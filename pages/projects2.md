@@ -149,10 +149,29 @@ The following are the active projects, starting with published maps.
         Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
         </p></td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Spinal Cord Injury Map<br />
+        Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Lung Cancer Disease Map<br />
+        Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
+        </p></td>
+</tr>
 </table>    
-
-<li><a href="/spinalcordinjury">Spinal cord injury</a></li>
-<li><a href="/lungcancer">Lung cancer</a></li>
 
 <br />
 
@@ -189,17 +208,3 @@ New projects being discussed:
 <li>Infectious diseases</li>
 <li>Inflammatory bowel disease</li>
 </ul>
-
-
-
-
-### [Lung cancer](lungcancer)
-
-_Resource:_ Lung Cancer Disease Map  
-_Contact:_ Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France  
-
-
-### [Spinal cord injury](spinalcordinjury)
-
-_Resource:_ Spinal Cord Injury Map  
-_Contact:_ Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA
