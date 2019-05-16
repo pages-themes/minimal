@@ -78,7 +78,7 @@ The following are the active projects, starting with published maps.
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="http://asthma-map.org/" target="_blank">Atherosclerosis Map</a><br />
+        Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, University of Ulster, Coleraine, UK<br />
         </p></td>
 </tr>
@@ -122,7 +122,7 @@ The following are the active projects, starting with published maps.
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="http://asthma-map.org/" target="_blank">Anaphylaxis Map</a><br />
+        Resource: Anaphylaxis Map<br />
         Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         </p></td>
 </tr>
