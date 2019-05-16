@@ -21,7 +21,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: <a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>, University of Luxembourg, Belvaux, Luxembourg<br />
+        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
@@ -30,7 +30,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-        Contact: <a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>, Institut Curie, Paris, France<br />
+        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29688383+23832570" target="_blank">PubMed</a><br />
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
@@ -46,7 +46,8 @@ The following are the active projects, starting with published maps.
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Rheumatoid Arthritis Map<br />
-        Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />
+        <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
+        Contact: Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
@@ -55,7 +56,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
-        Contact: <a href="mailto:a.mazein@gmail.com">Alexander Mazein</a>, University of Luxembourg, Belvaux, Luxembourg<br />
+        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a><br />
         </p></td>
 </tr>
@@ -70,7 +71,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Cystic Fibrosis Map<br />
-        Contact: <a href="mailto:cpereira@lasige.di.fc.ul.pt">Catarina Pereira</a>, University of Lisbon, Lisbon, Portugal<br />
+        Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
@@ -78,7 +79,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">Atherosclerosis Map</a><br />
-        Contact: <a href="mailto:s.watterson@ulster.ac.uk">Steven Watterson</a>, University of Ulster, Coleraine, UK<br />
+        Contact: Steven Watterson, University of Ulster, Coleraine, UK<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -92,7 +93,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: The regulatory network of systemic and renal hemodynamics<br />
-        Contact: <a href="mailto:flopezher@usal.es ">Francisco J. López-Hernández</a>, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
+        Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
@@ -100,13 +101,33 @@ The following are the active projects, starting with published maps.
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Multiple Sclerosis Pathway Map<br />
-        Contact: <a href="mailto:julio.saez@bioquant.uni-heidelberg.de">Julio Saez Rodriguez</a>, Heidelberg University Hospital, Heidelberg, Germany<br />
+        Contact: Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany<br />
+        </p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Cognitive Resilience Map<br />
+        Contact: Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="http://asthma-map.org/" target="_blank">Anaphylaxis Map</a><br />
+        Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         </p></td>
 </tr>
 </table>    
 
-<li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
-<li><a href="/anaphylaxis">Anaphylaxis</a></li>
 <li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
 <li><a href="/menieres">Meniere’s disease</a></li>
 <li><a href="/spinalcordinjury">Spinal cord injury</a></li>
@@ -147,17 +168,6 @@ New projects being discussed:
 <li>Infectious diseases</li>
 <li>Inflammatory bowel disease</li>
 </ul>
-
-
-### [Adult neurogenesis](adultneurogenesis)
-
-_Resource:_ The Cognitive Resilience Map  
-_Contact:_ Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany  
-
-### [Anaphylaxis](anaphylaxis)
-
-_Resource:_ Anaphylaxis Map  
-_Contact:_ Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg  
 
 
 ### [Duchenne muscular dystrophy](duchenne)
