@@ -155,7 +155,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -163,7 +163,7 @@ The following are the active projects, starting with published maps.
         Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#B3C7DD;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
