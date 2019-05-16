@@ -39,8 +39,8 @@ permalink: /multiplesclerosis
 <tr>
 <td style="width: 100px;"><img src="../images/team/JulioSaezRodriguez.jpg" alt="Julio Saez-Rodriguez" /></td>
 <td><strong>Julio Saez-Rodriguez, PhD</strong><br />
-<strong>RWTH-Aachen University Hospital, Aachen, Germany</strong><br />
-Professor of Computational Biomedicine at the Faculty of Medicine; Visiting Group Leader at the European Bioinformatics Institute - EMBL-EBI</td>
+<strong>Heidelberg University Hospital, Heidelberg, Germany</strong><br />
+Professor of Medical Bioinformatics and Data Analysis</td>
 </tr>
 <tr>
 <td style="width: 100px;"><img src="../images/team/EkatrinaKotelnikova.jpg" alt="Ekaterina Kotelnikova" /></td>
