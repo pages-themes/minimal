@@ -173,6 +173,8 @@ The following are the active projects, starting with published maps.
 </tr>
 </table>    
 
+<br />
+
 As a list, in alphabetical order:
 
 <ul style="list-style-type:none; line-height:175%;">
