@@ -92,7 +92,7 @@ The following are the active projects, starting with published maps.
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: The regulatory network of systemic and renal hemodynamics<br />
+        Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
