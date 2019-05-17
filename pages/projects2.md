@@ -16,7 +16,7 @@ The following are the active projects, starting with published maps.
 
 <table>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#e8d6cc;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#e8ccc7;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
