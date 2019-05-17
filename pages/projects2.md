@@ -91,7 +91,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -99,7 +99,7 @@ The following are the active projects, starting with published maps.
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -113,7 +113,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -121,7 +121,7 @@ The following are the active projects, starting with published maps.
         Contact: Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -135,7 +135,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -143,7 +143,7 @@ The following are the active projects, starting with published maps.
         Contact: Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -157,7 +157,7 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -165,7 +165,7 @@ The following are the active projects, starting with published maps.
         Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5e0ec;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
