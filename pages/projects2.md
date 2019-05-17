@@ -67,14 +67,6 @@ The following are the active projects, starting with published maps.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#e8ecd5;">
-        <p style="margin:10px; font-size:16px;">
-        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Cystic Fibrosis Map<br />
-        Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
-        </p></td>
-<td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#ece7d5;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
@@ -83,6 +75,14 @@ The following are the active projects, starting with published maps.
         Contact: Steven Watterson, University of Ulster, Coleraine, UK<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#d5ecd5;">
+        <p style="margin:10px; font-size:16px;">
+        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Cystic Fibrosis Map<br />
+        Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
