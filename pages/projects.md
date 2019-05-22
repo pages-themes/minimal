@@ -80,7 +80,7 @@ The following are the active projects, starting with published maps.
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Atherosclerosis Map<br />
-        Contact: Steven Watterson, University of Ulster, Coleraine, UK<br />
+        Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
         </p></td>
