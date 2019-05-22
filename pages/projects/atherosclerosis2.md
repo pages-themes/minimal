@@ -13,14 +13,14 @@ permalink: /atherosclerosis2
 <p>Cardiovascular disease (CVD) is the primary cause of death globally and contributes to morbidity and mortality more than any other disorder in the western world. In 2012, CVD was responsible for 31% of deaths worldwide, 47% of all deaths within Europe and 40% of all deaths within the European Union. CVD covers a collection of disorders that can be split into atherosclerotic and non-atherosclerotic categories. Atherosclerotic CVD is responsible for the majority of instances of CVD with a 2012 estimate attributing 71% of all CVD to atherosclerotic forms.</p>
 <p>Despite the growing importance of atherosclerosis and its implications for public health, the pathogenesis of atherosclerosis is not fully understood. Traditionally, atherosclerosis was viewed as a build-up of lipids (including cholesterol) within the innermost layer of the artery wall.  However, our understanding has since developed and atherosclerotic CVD is now predominantly viewed as a chronic inflammatory condition, advanced by lipid build-up and triggered by innate immune responses.</p>
 <p>Atherosclerosis emerges as the result of multiple dynamical cellular processes, involving components of haemodynamics, vascular mechanical stress, endothelial damage, inter- and intra-cellular signalling, cell migration, lipid oxidation, phagocytosis and plaque formation.  Hence, studies aimed at understanding atherosclerosis need to be broad in scope and integrative in nature.  The appropriate framework in which to consider emergent dynamical behaviour of this type is mathematical and computational modelling; and a comprehensive programme of mathematical modelling and simulation can provide many benefits.  Principally, it yields a framework for therapeutic hypothesis generation and for <i>in silico</i> drug target identification with the potential to streamline the drug development pipeline.  This framework can be applied across populations or can be tuned to describe individual patients or patient groups as part of a programme of stratified, personalised and precision medicine.</p>
-<p>The <a href="https://www.ulster.ac.uk/" target="_blank">University of Ulster</a> has been working on an modelling atherosclerosis and in particular on the overlap with other disease pathologies.This has emerged from work modelling cholesterol metabolism and the heritable dyslipidemia diseases.</p>
+<p>The <a href="https://www.ulster.ac.uk/" target="_blank">Ulster University</a> has been working on an modelling atherosclerosis and in particular on the overlap with other disease pathologies.This has emerged from work modelling cholesterol metabolism and the heritable dyslipidemia diseases.</p>
 
 <h3 id="developersteam">Development team</h3>
 
 <table>
 <tr>
 <td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
-<td><strong>Andrew Parton, BSc</strong><br />
+<td><strong>Andrew Parton, BSc, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />PhD Student, Northern Ireland Centre for Stratified Medicine</td>
 </tr>
 <tr>
