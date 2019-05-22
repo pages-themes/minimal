@@ -24,6 +24,11 @@ Andrew Parton Victoria McGilligan Melody Chemaly Maurice O’Kane Steven Watters
 
 <table>
 <tr>
+<td><img src="../images/team/StevenWatterson.jpg" alt="Andrew Parton" /></td>
+<td><strong>Andrew Parton BSc, PhD</strong><br />
+<strong>European Bioinformatics Institute, UK</strong>
+</tr>
+<tr>
 <td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
 <td><strong>Steven Watterson, MPhys, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), 
