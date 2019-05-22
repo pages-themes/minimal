@@ -24,7 +24,7 @@ Andrew Parton Victoria McGilligan Melody Chemaly Maurice O’Kane Steven Watters
 
 <table>
 <tr>
-<td><img src="../images/team/StevenWatterson.jpg" alt="Andrew Parton" /></td>
+<td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
 <td><strong>Andrew Parton BSc, PhD</strong><br />
 <strong>European Bioinformatics Institute, UK</strong>
 </tr>
