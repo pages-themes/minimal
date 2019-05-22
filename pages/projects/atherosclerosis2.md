@@ -19,11 +19,6 @@ permalink: /atherosclerosis2
 
 <table>
 <tr>
-<td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
-<td><strong>Andrew Parton, BSc, PhD</strong><br />
-<strong>University of Ulster, UK</strong><br />PhD Student, Northern Ireland Centre for Stratified Medicine</td>
-</tr>
-<tr>
 <td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
 <td><strong>Steven Watterson, MPhys, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), 
