@@ -15,6 +15,11 @@ permalink: /atherosclerosis2
 <p>Atherosclerosis emerges as the result of multiple dynamical cellular processes, involving components of haemodynamics, vascular mechanical stress, endothelial damage, inter- and intra-cellular signalling, cell migration, lipid oxidation, phagocytosis and plaque formation.  Hence, studies aimed at understanding atherosclerosis need to be broad in scope and integrative in nature.  The appropriate framework in which to consider emergent dynamical behaviour of this type is mathematical and computational modelling; and a comprehensive programme of mathematical modelling and simulation can provide many benefits.  Principally, it yields a framework for therapeutic hypothesis generation and for <i>in silico</i> drug target identification with the potential to streamline the drug development pipeline.  This framework can be applied across populations or can be tuned to describe individual patients or patient groups as part of a programme of stratified, personalised and precision medicine.</p>
 <p>The <a href="https://www.ulster.ac.uk/" target="_blank">Ulster University</a> has been working on an modelling atherosclerosis and in particular on the overlap with other disease pathologies.  This has emerged from work modelling cholesterol metabolism and the heritable dyslipidemia diseases.</p>
 
+<h3 id="access">Access</h3>
+Available from 
+
+Andrew Parton Victoria McGilligan Melody Chemaly Maurice O’Kane Steven Watterson, New models of atherosclerosis and multi-drug therapeutic interventions Bioinformatics (<i>in press</i>),  https://doi.org/10.1093/bioinformatics/bty980
+
 <h3 id="developersteam">Development team</h3>
 
 <table>
