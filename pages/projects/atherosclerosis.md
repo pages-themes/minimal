@@ -2,7 +2,7 @@
 title: Atherosclerosis
 layout: default
 redirect_from: "/projects/atherosclerosis/"
-permalink: /atherosclerosis2
+permalink: /atherosclerosis
 ---
 
 
