@@ -17,9 +17,9 @@ permalink: /atherosclerosis
 
 <a href="https://doi.org/10.1093/bioinformatics/bty980"><img src="/images/projects/Atherosclerosis.PNG" alt="Atherosclerosis" width="800px"/></a>
 
-SBGN-ML and SBML versions of this are available in .xml format from:-
+SBGN-ML and SBML versions of this are available in .xml format from the following publication.
 
-Andrew Parton Victoria McGilligan Melody Chemaly Maurice O’Kane Steven Watterson, New models of atherosclerosis and multi-drug therapeutic interventions Bioinformatics (<i>in press</i>),  https://doi.org/10.1093/bioinformatics/bty980
+Parton A, McGilligan V, Chemaly M, O'Kane M, Watterson S. New models of atherosclerosis and multi-drug therapeutic interventions. Bioinformatics. 2018 Dec 6. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). PubMed [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978).
 
 <h3 id="developersteam">Development team</h3>
 
