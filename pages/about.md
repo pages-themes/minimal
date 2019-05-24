@@ -29,7 +29,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
         
 ## Project Leaders
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help initiating new maps, advise on best practices and offer guidelines.
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines.
 
 <table>
 <tr>
