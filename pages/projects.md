@@ -32,7 +32,7 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29688383+23832570" target="_blank">PubMed</a><br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383" target="_blank">PubMed</a><br />
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
 </tr>
