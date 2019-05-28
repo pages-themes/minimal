@@ -31,21 +31,21 @@ permalink: /rheumatoidarthritis
 <tr>
 <td style="width: 100px;"><img src="../images/team/VidishaSingh.jpg" alt="Vidisha Singh" /></td>
 <td><strong>Vidisha Singh, MSc</strong><br />
-<strong>University of Evry Val d’Essonne, France</strong><br />PhD Student
+<strong>University of Evry, University of Paris-Saclay, France</strong><br />PhD Student
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
 <td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
 <td><strong>Anna Niarakis, PhD</strong><br />
-<strong>University of Evry Val d’Essonne, France</strong><br />Associate Professor, Department of Biology
+<strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
 <td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
 <td><strong>Elisabeth Petit-Teixeira, PhD</strong><br />
-<strong>University of Evry Val d’Essonne, France</strong><br />Professor, Department of Biology
+<strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
