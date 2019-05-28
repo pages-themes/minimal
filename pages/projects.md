@@ -48,7 +48,7 @@ The following are the active projects, starting with published maps.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Rheumatoid Arthritis Map<br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
-        Contact: Anna Niarakis, University of Evry Val d’Essonne, Evry, France<br />
+        Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, France<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
