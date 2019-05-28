@@ -39,7 +39,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" width="105" alt="Anna Niarakis"/></a></td>
-<td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Disease Maps Project; PI of the Rheumatoid Arthritis Map project; <br />Associate Professor, University of Evry Val d’Essonne, France</p></td>
+<td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Disease Maps Project; PI of the Rheumatoid Arthritis Map project; <br />Associate Professor, University of Evry, University of Paris-Saclay, Evry, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="105" alt="Charles Auffray"/></a></td>
