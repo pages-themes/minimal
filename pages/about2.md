@@ -22,7 +22,7 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
 </tr>
 </table>
@@ -48,7 +48,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Associate Professor, University of Evry Val d’Essonne, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Associate Professor, University of Evry, University of Paris-Saclay, Evry, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
