@@ -98,6 +98,13 @@ Director INSERM UMR 1173 - Infection and Inflammation <br />
 Head of Laboratory of Chronic Infection and Inflammation</td>
 </tr>
 <tr>
+<td><img src="../images/team/SaranPankaew.jpg" alt="Saran Pankaew" /></td>
+<td><strong>Saran Pankaew, Msc</strong><br />
+<strong>University of Evry, University of Paris-Saclay, France</strong><br />Master student, Department of Biology
+<br />GenHotel EA3886
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry 
+</tr>
+<tr>
 <td style="width: 100px;"><img src="../images/team/DavidGibson.jpg" alt="David Gibson" /></td>
 <td><strong>David Gibson, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
