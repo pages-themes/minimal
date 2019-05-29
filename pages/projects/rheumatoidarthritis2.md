@@ -102,7 +102,7 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td><strong>Saran Pankaew, Msc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Master student, Department of Biology
 <br />GenHotel EA3886
-<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry 
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
 <td style="width: 100px;"><img src="../images/team/DavidGibson.jpg" alt="David Gibson" /></td>
