@@ -43,6 +43,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
+<br />RA-Map and CaSQ development
 </tr>
 <tr>
 <td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
