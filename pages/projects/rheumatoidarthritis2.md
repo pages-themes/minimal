@@ -39,6 +39,14 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <br />RA-Map and CaSQ development</td>
 </tr>
 <tr>
+<td><img src="../images/team/SaraSadatAghamiri.jpg" alt="Sara Sadat Aghamiri" /></td>
+<td><strong>Sara Sadat Aghamiri, Msc</strong><br />
+<strong>University of Evry, University of Paris-Saclay, France</strong><br />Master student, Department of Biology
+<br />GenHotel EA3886
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry 
+<br />CaSQ benchmarking</td>
+</tr>
+<tr>
 <td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
 <td><strong>Anna Niarakis, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
@@ -106,7 +114,6 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 </tr>
 </table>
   
-
 ### Funding
 
 <ul>
