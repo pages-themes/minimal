@@ -57,6 +57,9 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <td><strong>Tomas Helikar, PhD</strong><br />
 <strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry
 <br />Cell Collective modelling platform</td>
+</tr>
+<tr>
+
 
 
 ### Editorial Panel
@@ -68,14 +71,14 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <strong>Hospital for Special Surgery, Weill Cornell Medical College, New York City, US</strong><br />
 Director of Precision Medicine Laboratory at the Hospital for Special Surgery, Assistant Professor of Medicine at the Weill Cornell Medical College</td>
 </tr>
-</table>  
-</tr>
 <tr>
 <td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
 <td><strong>Elisabeth Petit-Teixeira, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
+  
+  
 
 ### Former contributors
 
@@ -105,7 +108,8 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td><strong>Andrew Parton, BSc</strong><br />
 <strong>University of Ulster, UK</strong><br />PhD Student</td>
 </tr>
-</table>  
+<tr>
+  
 
 ### Funding
 
