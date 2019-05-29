@@ -76,11 +76,6 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/DavidGibson.jpg" alt="David Gibson" /></td>
-<td><strong>David Gibson, PhD</strong><br />
-<strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
-</tr>
-<tr>
 <td style="width: 100px;"><img src="../images/team/GeorgeKalliolias.jpg" alt="George D. Kalliolias" /></td>
 <td><strong>George D. Kalliolias, MD, PhD</strong><br />
 <strong>Hospital for Special Surgery, Weill Cornell Medical College, New York City, US</strong><br />
@@ -98,6 +93,11 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 Professor - Hospital Practitioner <br />
 Director INSERM UMR 1173 - Infection and Inflammation <br />
 Head of Laboratory of Chronic Infection and Inflammation</td>
+</tr>
+<tr>
+<td style="width: 100px;"><img src="../images/team/DavidGibson.jpg" alt="David Gibson" /></td>
+<td><strong>David Gibson, PhD</strong><br />
+<strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
