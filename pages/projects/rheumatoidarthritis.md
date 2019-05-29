@@ -6,8 +6,8 @@ permalink: /rheumatoidarthritis
 ---
 
 
-<h1>Rheumatoid arthritis</h1>
-<h2>Rheumatoid Arthritis Map (RA-MAP)</h2>
+# Rheumatoid arthritis
+## Rheumatoid Arthritis Map (RA-MAP)
 
 <p>Rheumatoid arthritis (RA) is a multifactorial autoimmune disease that causes chronic inflammation of the joints. The etiology of the disease remains still unclear. Patients with autoimmune diseases have an immune system that targets and attacks their own body tissues. Characteristic features of RA include inflammation of the tissue around the joints and hyperplasia (swelling) that can lead to bone erosion and permanent deformity. The disease can affect multiple organs in the body causing inflammation and injury and for this it is considered a systemic illness.</p>
 
@@ -21,11 +21,11 @@ permalink: /rheumatoidarthritis
 
 <p>The two teams have joined forces in order to create a state-of-the-art, refined, expert-reviewed map for RA.</p>
 
-<h3>Publications</h3>
+### Publications
 
-<p>Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar H, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genomics and Computational Biology, [S.l.], p. e100050, dec. 2017. ISSN 2365-7154. <a href="https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050" target="_blank">doi:10.18547/gcb.2018.vol4.iss1.e100050</a>.</p>
+Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genom Comput Biol. 2018;4(1). pii: e100050. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). Epub 2017 Dec 6. PubMed [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575). 
 
-<h3>Development Team</h3>
+### Development Team
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ permalink: /rheumatoidarthritis
 </tr>
 </table>
 
-<h3>Editorial Panel</h3>
+### Editorial Panel
 
 <table>
 <tr>
@@ -86,7 +86,8 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 </table>  
 
 
-<h3>Funding</h3>
+### Funding
+
 <ul>
 <li>PhD project "Integrative Modelling and Analysis of Molecular Pathways dysregulated in Rheumatoid Arthritis" is funded by the <a href="https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale" target="_blank">Doctoral School "Structure and Dynamics of Living Systems"</a>, the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">University of Paris-Saclay</a>.</li> 
 <li><a href="https://www.casym.eu/blog/category/casym-research-exchange-grants/" target="_blank">CASyM research exchange grant</a>, 2015. Awarded project: “Building a unified pathway theory of inflammation across asthma, 
