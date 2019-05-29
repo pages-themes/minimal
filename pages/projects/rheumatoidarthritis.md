@@ -15,7 +15,7 @@ The construction of a map and of a dynamic model are two tasks with different pu
 
 In order to bridge the gap between static and dynamic representations, the team has developed CaSQ (CellDesigner as SBML-qual), a tool for automated inference of large Boolean models, from molecular interaction maps based on network topology and semantics.
 
-The large scale Boolean models produced can be simulated and modelled using the Cell Collective modelling platform.   
+The large scale Boolean models produced can be simulated and modelled using the [Cell Collective](https://cellcollective.org/) modelling platform.   
 
 ### Publications
 
