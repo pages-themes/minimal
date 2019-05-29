@@ -111,7 +111,7 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td><strong>Andrew Parton, BSc</strong><br />
 <strong>University of Ulster, UK</strong><br />PhD Student</td>
 </tr>
-<table>
+</table>
   
 
 ### Funding
