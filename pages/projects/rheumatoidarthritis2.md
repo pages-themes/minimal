@@ -63,7 +63,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <tr>
 <td><img src="../images/team/TomasHelikar.jpg" alt="Tomas Helikar" /></td>
 <td><strong>Tomas Helikar, PhD</strong><br />
-<strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry
+<strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Associate Professor, Department of Biochemistry
 <br />Cell Collective modelling platform</td>
 </tr>
 </table>
