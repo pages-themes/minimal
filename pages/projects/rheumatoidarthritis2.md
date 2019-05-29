@@ -42,7 +42,8 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <td><strong>Anna Niarakis, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
 <br />GenHotel EA3886
-<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry, RA-Map and CaSQ development</td>
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry 
+<br />RA-Map and CaSQ development</td>
 </tr>
 <tr>
 <td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
