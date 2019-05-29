@@ -76,7 +76,7 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
-<table>
+</table>
   
 ### Former contributors
 
