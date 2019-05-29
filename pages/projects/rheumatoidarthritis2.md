@@ -123,8 +123,8 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
   
 ### Funding
 
-<ul>
+<table>
 <li>PhD project "Integrative Modelling and Analysis of Molecular Pathways dysregulated in Rheumatoid Arthritis" is funded by the <a href="https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale" target="_blank">Doctoral School "Structure and Dynamics of Living Systems"</a>, the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">University of Paris-Saclay</a>.</li> 
 <li><a href="https://www.casym.eu/blog/category/casym-research-exchange-grants/" target="_blank">CASyM research exchange grant</a>, 2015. Awarded project: “Building a unified pathway theory of inflammation across asthma, 
 rheumatoid arthritis and atherosclerosis”.</li>
-</ul>
+</table>
