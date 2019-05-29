@@ -60,11 +60,6 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <td><strong>Steven Watterson, MPhys, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), School of Biomedical Sciences</td>
 </tr>
-<tr>
-<td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
-<td><strong>Andrew Parton, BSc</strong><br />
-<strong>University of Ulster, UK</strong><br />PhD Student</td>
-</tr>
 </table>
 
 ### Editorial Panel
@@ -76,6 +71,16 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
 </tr>
 <tr>
+<td style="width: 100px;"><img src="../images/team/GeorgeKalliolias.jpg" alt="George D. Kalliolias" /></td>
+<td><strong>George D. Kalliolias, MD, PhD</strong><br />
+<strong>Hospital for Special Surgery, Weill Cornell Medical College, New York City, US</strong><br />
+Director of Precision Medicine Laboratory at the Hospital for Special Surgery, Assistant Professor of Medicine at the Weill Cornell Medical College</td>
+</tr>
+</table>  
+
+### Former contributors
+
+<table>
 <td><img src="../images/team/GillesChiocchia.jpg" alt="Gilles Chiocchia" /></td>
 <td><strong>Gilles Chiocchia, PhD</strong><br />
 <strong>University of Versailles-Saint-Quentin-en-Yvelines, France</strong><br />
@@ -84,13 +89,11 @@ Director INSERM UMR 1173 - Infection and Inflammation <br />
 Head of Laboratory of Chronic Infection and Inflammation</td>
 </tr>
 <tr>
-<td style="width: 100px;"><img src="../images/team/GeorgeKalliolias.jpg" alt="George D. Kalliolias" /></td>
-<td><strong>George D. Kalliolias, MD, PhD</strong><br />
-<strong>Hospital for Special Surgery, Weill Cornell Medical College, New York City, US</strong><br />
-Director of Precision Medicine Laboratory at the Hospital for Special Surgery, Assistant Professor of Medicine at the Weill Cornell Medical College</td>
+<td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
+<td><strong>Andrew Parton, BSc</strong><br />
+<strong>University of Ulster, UK</strong><br />PhD Student</td>
 </tr>
 </table>  
-
 
 ### Funding
 
