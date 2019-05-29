@@ -35,7 +35,8 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <td><strong>Vidisha Singh, MSc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />PhD Student
 <br />GenHotel EA3886
-<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry
+<br />RA-Map and CaSQ development</td>
 </tr>
 <tr>
 <td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
@@ -55,12 +56,14 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <tr>
 <td><img src="../images/team/SylvainSoliman.jpg" alt="Sylvain Soliman" /></td>
 <td><strong>Sylvain Soliman, PhD</strong><br />
-<strong>Inria Saclay-Île de France, Palaiseau, France</strong><br />Researcher</td>
+<strong>Inria Saclay-Île de France, Palaiseau, France</strong><br />Researcher
+<br />CaSQ development</td>
 </tr>
 <tr>
 <td><img src="../images/team/TomasHelikar.jpg" alt="Tomas Helikar" /></td>
 <td><strong>Tomas Helikar, PhD</strong><br />
-<strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry</td>
+<strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry
+<br />Cell Collective modelling platform</td>
 </tr>
 <tr>
 <td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
