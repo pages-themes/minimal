@@ -81,6 +81,7 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 ### Former contributors
 
 <table>
+<tr>
 <td><img src="../images/team/GillesChiocchia.jpg" alt="Gilles Chiocchia" /></td>
 <td><strong>Gilles Chiocchia, PhD</strong><br />
 <strong>University of Versailles-Saint-Quentin-en-Yvelines, France</strong><br />
