@@ -47,13 +47,6 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <br />RA-Map and CaSQ development</td>
 </tr>
 <tr>
-<td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
-<td><strong>Elisabeth Petit-Teixeira, PhD</strong><br />
-<strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
-<br />GenHotel EA3886
-<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
-</tr>
-<tr>
 <td><img src="../images/team/SylvainSoliman.jpg" alt="Sylvain Soliman" /></td>
 <td><strong>Sylvain Soliman, PhD</strong><br />
 <strong>Inria Saclay-Île de France, Palaiseau, France</strong><br />Researcher
@@ -64,13 +57,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <td><strong>Tomas Helikar, PhD</strong><br />
 <strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry
 <br />Cell Collective modelling platform</td>
-</tr>
-<tr>
-<td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
-<td><strong>Steven Watterson, MPhys, PhD</strong><br />
-<strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), School of Biomedical Sciences</td>
-</tr>
-</table>
+
 
 ### Editorial Panel
 
@@ -82,6 +69,13 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 Director of Precision Medicine Laboratory at the Hospital for Special Surgery, Assistant Professor of Medicine at the Weill Cornell Medical College</td>
 </tr>
 </table>  
+</tr>
+<tr>
+<td><img src="../images/team/ElisabethPetitTeixeira.jpg" alt="Elisabeth Petit-Teixeira" /></td>
+<td><strong>Elisabeth Petit-Teixeira, PhD</strong><br />
+<strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
+<br />GenHotel EA3886
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 
 ### Former contributors
 
@@ -98,6 +92,13 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td style="width: 100px;"><img src="../images/team/DavidGibson.jpg" alt="David Gibson" /></td>
 <td><strong>David Gibson, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
+</tr>
+<tr>
+<td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
+<td><strong>Steven Watterson, MPhys, PhD</strong><br />
+<strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), School of Biomedical Sciences</td>
+</tr>
+</table>
 </tr>
 <tr>
 <td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
