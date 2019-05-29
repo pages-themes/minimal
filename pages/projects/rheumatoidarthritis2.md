@@ -104,7 +104,6 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td><strong>Steven Watterson, MPhys, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), School of Biomedical Sciences</td>
 </tr>
-</tr>
 <tr>
 <td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
 <td><strong>Andrew Parton, BSc</strong><br />
