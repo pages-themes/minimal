@@ -9,17 +9,13 @@ permalink: /rheumatoidarthritis
 # Rheumatoid arthritis
 ## Rheumatoid Arthritis Map (RA-MAP)
 
-<p>Rheumatoid arthritis (RA) is a multifactorial autoimmune disease that causes chronic inflammation of the joints. The etiology of the disease remains still unclear. Patients with autoimmune diseases have an immune system that targets and attacks their own body tissues. Characteristic features of RA include inflammation of the tissue around the joints and hyperplasia (swelling) that can lead to bone erosion and permanent deformity. The disease can affect multiple organs in the body causing inflammation and injury and for this it is considered a systemic illness.</p>
+The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is working on an updated, detailed, fully annotated molecular map for RA based on exhaustive curation of the existing literature using CellDesigner. This map will serve as a template for the construction of a qualitative dynamical model, in order to explore the dynamical properties of the system and analyze its underlying regulatory networks. The model will then be used to address different biological questions such as comparing the network for different phenotypes, trying to understand the mechanisms driving variable responses to treatment and investigating the role of co- and multi-morbidities.
 
-<p>RA affects approximately 1% of the worldwide population. Women have a two to three higher risk developing the disease in comparison to men. It is currently believed that RA initiates as a result of complex interactions between genetic and environmental factors and that these factors are responsible for susceptibility and phenotype.</p>
+The construction of a map and of a dynamic model are two tasks with different purposes that are today mainly performed in an independent way. On the one hand, it is a question of creating a knowledge base in the form of a map, and on the other of defining an abstraction of the system that captures dynamic behaviours of interest. Yet these two constructs share a lot of information, including the mode of influence (e.g., activation or inhibition) and the topology of the network.
 
-<p>All cellular processes can be depicted as, and characterized by, their underlying complex molecular networks. This fundamental concept of viewing cells has brought up the need to develop high-quality methodologies for the construction and subsequent analysis of these molecular networks at a systems level. Quantitative kinetic models using differential or stochastic equations can provide a detailed analysis of a network’s dynamics, but they require a number of parameters that is often prohibitively large. In order to address the scarcity of kinetic data in signalling pathways, the use of <strong>discrete logic-based models</strong> is proposed as an alternative way to study the system’s <strong>qualitative</strong> dynamic behavior.</p>
+In order to bridge the gap between static and dynamic representations, the team has developed CaSQ (CellDesigner as SBML-qual), a tool for automated inference of large Boolean models, from molecular interaction maps based on network topology and semantics.
 
-<p>The <a href="http://www.univ-evry.fr/en/" target="_blank">University of Evry</a> is working on an updated, detailed, fully annotated molecular map for RA based on exhaustive curation of the existing literature using <a href="http://www.celldesigner.org/" target="_blank">CellDesigner</a>. This map will serve as a template for the construction of a qualitative dynamical model, in order to explore the dynamical properties of the system and analyze its underlying regulatory networks. The model will then be used to address different biological questions such as comparing the network for different phenotypes, trying to understand the mechanisms driving variable responses to treatment and investigating the role of co- and multi-morbidities.</p>
-
-<p>The <a href="https://www.ulster.ac.uk/" target="_blank">University of Ulster</a> in collaboration with the <a href="http://www.eisbm.org/" target="_blank">EISBM</a> is working to map out the key components from the range of cells involved in RA, trying to investigate the cellular interplay that leads to specific phenotypes. The work was initiated with the support from <a href="https://www.casym.eu/" target="_blank">CASyM</a> Research Exchange grant and continued as a long-term collaboration.</p>
-
-<p>The two teams have joined forces in order to create a state-of-the-art, refined, expert-reviewed map for RA.</p>
+The large scale Boolean models produced can be simulated and modelled using the Cell Collective modelling platform.   
 
 ### Publications
 
@@ -48,6 +44,16 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
+</tr>
+<tr>
+<td><img src="../images/team/SylvainSoliman.jpg" alt="Sylvain Soliman" /></td>
+<td><strong>Sylvain Soliman, PhD</strong><br />
+<strong>Inria Saclay-Île de France, Palaiseau, France</strong><br />Researcher</td>
+</tr>
+<tr>
+<td><img src="../images/team/TomasHelikar.jpg" alt="Tomas Helikar" /></td>
+<td><strong>Tomas Helikar, PhD</strong><br />
+<strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry</td>
 </tr>
 <tr>
 <td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
