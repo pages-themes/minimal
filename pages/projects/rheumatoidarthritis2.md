@@ -58,7 +58,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry
 <br />Cell Collective modelling platform</td>
 </tr>
-<table>
+</table>
 
 ### Editorial Panel
 
