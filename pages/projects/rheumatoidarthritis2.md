@@ -60,8 +60,6 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 </tr>
 <table>
 
-
-
 ### Editorial Panel
 
 <table>
@@ -80,9 +78,6 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 </tr>
 <table>
   
-  
-  
-
 ### Former contributors
 
 <table>
