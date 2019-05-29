@@ -58,7 +58,7 @@ Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, H
 <strong>University of Nebraska-Lincoln, Lincoln, NE, USA</strong><br />Assistant Professor at the Department of Biochemistry
 <br />Cell Collective modelling platform</td>
 </tr>
-<tr>
+<table>
 
 
 
@@ -77,6 +77,9 @@ Director of Precision Medicine Laboratory at the Hospital for Special Surgery, A
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Professor, Department of Biology
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
+</tr>
+<table>
+  
   
   
 
@@ -108,7 +111,7 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td><strong>Andrew Parton, BSc</strong><br />
 <strong>University of Ulster, UK</strong><br />PhD Student</td>
 </tr>
-<tr>
+<table>
   
 
 ### Funding
