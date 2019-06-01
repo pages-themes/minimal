@@ -1,7 +1,7 @@
 ---
 title: Team
 layout: default
-permalink: /team2
+permalink: /team
 ---
 
 # Team
