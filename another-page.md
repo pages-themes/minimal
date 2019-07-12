@@ -8,7 +8,6 @@ _yay_
 
 [back](./)
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
