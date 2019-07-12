@@ -66,7 +66,7 @@ If you'd like to change the theme's HTML layout:
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
 
-# Adding subpages
+### Adding subpages
 
 If you'd like to add custom subpages to Minimal (with links below the header):
 
