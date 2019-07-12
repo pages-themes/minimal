@@ -1,0 +1,42 @@
+---
+title: Page 3
+layout: page
+position: 3
+---
+<style media="screen">
+  input[type=text],input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical
+}
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+}
+input[type=submit]:hover {
+  background-color: lightblue;
+}
+</style>
+
+<form action="#">
+
+  <label for="fname">Name</label>
+  <input type="text" id="name" name="name" placeholder="Your name">
+
+  <label for="lname">E-mail</label>
+  <input type="email" id="email" name="email" placeholder="Your e-mail">
+
+  <label for="subject">Subject</label>
+  <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+  <input type="submit" value="Submit">
+
+</form>
