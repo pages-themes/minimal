@@ -1,6 +1,5 @@
 ---
 title: Page 1
-layout: page
 position: 1
 ---
 # Page 1

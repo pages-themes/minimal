@@ -66,6 +66,32 @@ If you'd like to change the theme's HTML layout:
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
 
+# Adding subpages
+
+If you'd like to add custom subpages to Minimal (with links below the header):
+
+1. Create a folder called `_sitepages`
+2. Create a HTML or a Markdown file inside the `_sitepages`folder
+3. Paste the following front matter on top of the file:
+  ```
+  ---
+  title: Your menu title
+  ---
+  # Your title here
+  ```  
+
+  If you wanna control the order of your pages, add the `position` option too with a number indicating its position.
+
+  ```
+  ---
+  title: Your menu title
+  position: 1
+  ---
+  # Your title here
+  ```
+
+4. Save the file and restart Jekyll to see the page
+
 ## Roadmap
 
 See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).

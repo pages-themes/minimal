@@ -9,3 +9,10 @@ collections:
   sitepages:
     output: true
     permalink: /pages/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "sitepages"
+    values:
+      layout: "page"
