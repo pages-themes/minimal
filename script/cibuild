@@ -3,7 +3,7 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-html --check-sri
+bundle exec htmlproofer ./_site --check-html --check-sri --assume-extension
 bundle exec rubocop -D
 bundle exec script/validate-html
 gem build jekyll-theme-minimal.gemspec
