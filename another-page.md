@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to google analytics page
 
-_hello! world corn_
+_hello_
 
 [back](./)
 
