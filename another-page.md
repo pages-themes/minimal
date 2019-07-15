@@ -2,13 +2,12 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to google analytics page
 
 _hello! world corn_
 
 [back](./)
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
