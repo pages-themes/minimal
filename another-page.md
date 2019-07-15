@@ -8,158 +8,73 @@ _yay_
 
 [back](./)
 
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Hello Analytics - A quickstart guide for JavaScript</title>
-</head>
-<body>
+<!DOCTYPE html>
+	<html>
+	<head>
+	  <meta charset="utf-8">
+	  <title>Hello Analytics Reporting API V4</title>
+	  <meta name="google-signin-client_id" content="436705610339-iv7fudo64feeivnd939pqd6df4nu5suv.apps.googleusercontent.com">
+	  <meta name="google-signin-scope" content="https://www.googleapis.com/auth/analytics.readonly">
+	</head>
+	<body>
+	
 
-<button id="auth-button" hidden>Authorize</button>
+	<h1>Hello Analytics Reporting API V4</h1>
+	
 
-<h1>Hello Analytics</h1>
+	<!-- The Sign-in button. This will run `queryReports()` on success. -->
+	<p class="g-signin2" data-onsuccess="queryReports"></p>
+	
 
-<textarea cols="80" rows="20" id="query-output"></textarea>
+	<!-- The API response will be printed here. -->
+	<textarea cols="80" rows="20" id="query-output"></textarea>
+	
 
-<script>
+	<script>
+	  // Replace with your view ID.
+	  var VIEW_ID = '197883945';
+	
+	  // Query the API and print the results to the page.
+	  function queryReports() {
+	    console.log('queryReports called');
+	    gapi.client.request({
+	      path: '/v4/reports:batchGet',
+	      root: 'https://analyticsreporting.googleapis.com/',
+	      method: 'POST',
+	      body: {
+	        reportRequests: [
+	          {
+	            viewId: VIEW_ID,
+	            dateRanges: [
+	              {
+	                startDate: '7daysAgo',
+	                endDate: 'yesterday'
+	              }
+	            ],
+	            metrics: [
+	              {
+	                expression: 'ga:CPC'
+	              }
+	            ]
+	          }
+	        ]
+	      }
+	    }).then(displayResults, console.error.bind(console));
+	    console.log('finished');
+	  }
+	
+	  function displayResults(response) {
+	    var formattedJson = JSON.stringify(response.result, null, 2);
+	    console.log('Results : ', formattedJson);
+	    document.getElementById('query-output').value = formattedJson;
+	  }
+	</script>
+	
 
-  // Replace with your client ID from the developer console.
-  var CLIENT_ID = '436705610339-gnrq5qdurjr2v3njmdj0328rjdbbun73.apps.googleusercontent.com';
+	<!-- Load the JavaScript API client and Sign-in library. -->
+	<script src="https://apis.google.com/js/client:platform.js"></script>
+	
 
-  // Set authorized scope.
-  var SCOPES = ['https://www.googleapis.com/auth/analytics.readonly'];
+	</body>
+	</html>
 
-
-  function authorize(event) {
-    // Handles the authorization flow.
-    // `immediate` should be false when invoked from the button click.
-    var useImmdiate = event ? false : true;
-    var authData = {
-      client_id: CLIENT_ID,
-      scope: SCOPES,
-      immediate: useImmdiate
-    };
-
-    gapi.auth.authorize(authData, function(response) {
-      var authButton = document.getElementById('auth-button');
-      if (response.error) {
-        authButton.hidden = false;
-      }
-      else {
-        authButton.hidden = true;
-        queryAccounts();
-      }
-    });
-  }
-
-
-function queryAccounts() {
-  // Load the Google Analytics client library.
-  gapi.client.load('analytics', 'v3').then(function() {
-
-    // Get a list of all Google Analytics accounts for this user
-    gapi.client.analytics.management.accounts.list().then(handleAccounts);
-  });
-}
-
-
-function handleAccounts(response) {
-  // Handles the response from the accounts list method.
-  if (response.result.items && response.result.items.length) {
-    // Get the first Google Analytics account.
-    var firstAccountId = response.result.items[0].id;
-
-    // Query for properties.
-    queryProperties(firstAccountId);
-  } else {
-    console.log('No accounts found for this user.');
-  }
-}
-
-
-function queryProperties(accountId) {
-  // Get a list of all the properties for the account.
-  gapi.client.analytics.management.webproperties.list(
-      {'accountId': accountId})
-    .then(handleProperties)
-    .then(null, function(err) {
-      // Log any errors.
-      console.log(err);
-  });
-}
-
-
-function handleProperties(response) {
-  // Handles the response from the webproperties list method.
-  if (response.result.items && response.result.items.length) {
-
-    // Get the first Google Analytics account
-    var firstAccountId = response.result.items[0].accountId;
-
-    // Get the first property ID
-    var firstPropertyId = response.result.items[0].id;
-
-    // Query for Views (Profiles).
-    queryProfiles(firstAccountId, firstPropertyId);
-  } else {
-    console.log('No properties found for this user.');
-  }
-}
-
-
-function queryProfiles(accountId, propertyId) {
-  // Get a list of all Views (Profiles) for the first property
-  // of the first Account.
-  gapi.client.analytics.management.profiles.list({
-      'accountId': accountId,
-      'webPropertyId': propertyId
-  })
-  .then(handleProfiles)
-  .then(null, function(err) {
-      // Log any errors.
-      console.log(err);
-  });
-}
-
-
-function handleProfiles(response) {
-  // Handles the response from the profiles list method.
-  if (response.result.items && response.result.items.length) {
-    // Get the first View (Profile) ID.
-    var firstProfileId = response.result.items[0].id;
-
-    // Query the Core Reporting API.
-    queryCoreReportingApi(firstProfileId);
-  } else {
-    console.log('No views (profiles) found for this user.');
-  }
-}
-
-
-function queryCoreReportingApi(profileId) {
-  // Query the Core Reporting API for the number sessions for
-  // the past seven days.
-  gapi.client.analytics.data.ga.get({
-    'ids': 'ga:' + profileId,
-    'start-date': '7daysAgo',
-    'end-date': 'today',
-    'metrics': 'ga:sessions'
-  })
-  .then(function(response) {
-    var formattedJson = JSON.stringify(response.result, null, 2);
-    document.getElementById('query-output').value = formattedJson;
-  })
-  .then(null, function(err) {
-      // Log any errors.
-      console.log(err);
-  });
-}
-
-  // Add an event listener to the 'auth-button'.
-  document.getElementById('auth-button').addEventListener('click', authorize);
-</script>
-
-<script src="https://apis.google.com/js/client.js?onload=authorize"></script>
-
-</body>
-</html>
