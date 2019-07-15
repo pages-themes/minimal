@@ -68,29 +68,40 @@ If you'd like to change the theme's HTML layout:
 
 ### Adding subpages
 
-If you'd like to add custom subpages to Minimal (with links below the header):
+If you'd like to add links to subpages to Minimal's sidebar (below the header):
 
-1. Create a folder called `_sitepages`
-2. Create a HTML or a Markdown file inside the `_sitepages`folder
-3. Paste the following front matter on top of the file:
+1. Create a HTML or a Markdown file, ie. `mypage.md` or `mypage.html`, in either the root directory or inside a separate folder.
+2. Paste the following front matter on top of the file:
   ```
   ---
-  title: Your menu title
+  title: My Page
   ---
-  # Your title here
+  # My Page
   ```  
 
-  If you wanna control the order of your pages, add the `position` option too with a number indicating its position.
+  The `title` property is required. Without it, your page will not appear in the sidebar.
+
+3. If you have several pages and want to control the order of appearance, add the `position` property to indicate its position.
 
   ```
   ---
-  title: Your menu title
+  title: My Page
   position: 1
   ---
-  # Your title here
+  # My Page
   ```
 
-4. Save the file and restart Jekyll to see the page
+  Note: All pages are added by default. You can hide a page from the sidebar, by adding the `sidebar` property and setting it to false (you can see an example [here](another-page.md)):
+
+  ```
+  ---
+  title: Another Page
+  sidebar: false
+  ---
+  # Another Page
+  ```
+
+4. Save the file and restart Jekyll to see the page on the sidebar.
 
 ## Roadmap
 

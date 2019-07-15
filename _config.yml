@@ -5,14 +5,11 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 
-collections:
-  sitepages:
-    output: true
-    permalink: /pages/:name
-
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-      type: "sitepages"
+      type: "pages"
     values:
       layout: "page"
+      sidebar: true

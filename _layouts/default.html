@@ -22,9 +22,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% assign sitepages = site.sitepages | sort: 'position', 'first' %}
-        {% for sitepage in sitepages %}
-        <p class="view"><a href="{{ sitepage.url | relative_url }}">{{sitepage.title}}</a></p>
+        {% assign pages = site.pages | sort_natural: "position" %}
+        {% for page in pages %}
+          {% if page.sidebar %}
+            <p class="view"><a href="{{ page.url | relative_url }}">{{page.title}}</a></p>
+          {% endif %}
         {% endfor %}
 
         {% if site.github.is_project_page %}
