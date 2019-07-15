@@ -18,18 +18,14 @@ _yay_
 	</head>
 	<body>
 	
-
 	<h1>Hello Analytics Reporting API V4</h1>
 	
-
 	<!-- The Sign-in button. This will run `queryReports()` on success. -->
 	<p class="g-signin2" data-onsuccess="queryReports"></p>
 	
-
 	<!-- The API response will be printed here. -->
 	<textarea cols="80" rows="20" id="query-output"></textarea>
 	
-
 	<script>
 	  // Replace with your view ID.
 	  var VIEW_ID = '197883945';
@@ -70,11 +66,8 @@ _yay_
 	  }
 	</script>
 	
-
 	<!-- Load the JavaScript API client and Sign-in library. -->
 	<script src="https://apis.google.com/js/client:platform.js"></script>
 	
-
 	</body>
 	</html>
-
