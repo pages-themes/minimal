@@ -63,6 +63,12 @@ function displayResults(response) {
 	    var formattedJson = JSON.stringify(response.result, null, 2);
 	    console.log('Results : ', formattedJson);
 	    document.getElementById('query-output').value = formattedJson;
+
+		var obj = JSON.parse(formattedJson);
+		console.log('1 : ', obj.columnHeader);
+		console.log('2 : ', obj.metricHeader);
+		console.log('3 : ', obj.metricHeaderEntries);
+		console.log('4 : ', obj.name);
 	  }
 </script>
 	
