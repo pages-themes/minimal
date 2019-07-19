@@ -6,9 +6,7 @@ permalink: /guidelines
 
 # Guidelines
 
-In each case, a disease map is designed while taking into account the goals and objectives of a particular project, 
-specifics of disease conditions and disease subtypes. Here we propose a set of guidelines for a disease map construction 
-and define some concepts that are derived from our collective experience and that might be helpful for developing a new disease map.
+In each case, a disease map is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes. Here we propose a set of guidelines for a disease map construction and define some concepts that are derived from our collective experience and that might be helpful for developing a new disease map.
 
 ### Steps
 <ol>
@@ -19,7 +17,7 @@ and define some concepts that are derived from our collective experience and tha
 <li>Develop a comprehensive version.</li>
 </ol>
 
-These steps can be done in parallel.
+These steps can be done in parallel.  
 
 ### Proposed milestones
 
