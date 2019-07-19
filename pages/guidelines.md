@@ -35,6 +35,8 @@ Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemak
 
 Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. doi: 10.1186/1752-0509-6-52. PubMed PMID: 22647208.  
 
+Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genom Comput Biol. 2018;4(1). pii: e100050. doi: 10.18547/gcb.2018.vol4.iss1.e100050. Epub 2017 Dec 6. PubMed PMID: 29951575.  
+
 
 
 
