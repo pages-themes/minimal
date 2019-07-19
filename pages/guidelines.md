@@ -35,21 +35,21 @@ The following order of tasks is shown to be efficient in complete and ongoing pr
 
 1. Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. doi: 10.1093/database/bay036. PubMed PMID: 29688383.  
 
-Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. doi: 10.1038/oncsis.2015.19. PubMed PMID: 26192618.  
+1. Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. doi: 10.1038/oncsis.2015.19. PubMed PMID: 26192618.  
 
-Kuperstein I, Grieco L, Cohen DP, Thieffry D, Zinovyev A, Barillot E. The shortest path is not the one you know: application of biological network resources in precision oncology research. Mutagenesis. 2015 Mar;30(2):191-204. doi: 10.1093/mutage/geu078. Review. PubMed PMID: 25688112.
+1. Kuperstein I, Grieco L, Cohen DP, Thieffry D, Zinovyev A, Barillot E. The shortest path is not the one you know: application of biological network resources in precision oncology research. Mutagenesis. 2015 Mar;30(2):191-204. doi: 10.1093/mutage/geu078. Review. PubMed PMID: 25688112.
 
-Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y.  A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. doi: 10.1186/1752-0509-7-97. PubMed PMID: 24088197.  
+1. Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y.  A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. doi: 10.1186/1752-0509-7-97. PubMed PMID: 24088197.  
 
-Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. doi: 10.1186/1752-0509-6-52. PubMed PMID: 22647208.  
+1. Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miyashita A, Kuwano R, Tanaka H. AlzPathway: a comprehensive map of signaling pathways of Alzheimer's disease. BMC Syst Biol. 2012 May 30;6:52. doi: 10.1186/1752-0509-6-52. PubMed PMID: 22647208.  
 
-Oda K, Kitano H. A comprehensive map of the toll-like receptor signaling network. Mol Syst Biol. 2006;2:2006.0015. Epub 2006 Apr 18. Review. PubMed PMID: 16738560.  
+1. Oda K, Kitano H. A comprehensive map of the toll-like receptor signaling network. Mol Syst Biol. 2006;2:2006.0015. Epub 2006 Apr 18. Review. PubMed PMID: 16738560.  
 
-Oda K, Matsuoka Y, Funahashi A, Kitano H. A comprehensive pathway map of epidermal growth factor receptor signaling. Mol Syst Biol. 2005;1:2005.0010. Epub 2005 May 25. PubMed PMID: 16729045.  
+1. Oda K, Matsuoka Y, Funahashi A, Kitano H. A comprehensive pathway map of epidermal growth factor receptor signaling. Mol Syst Biol. 2005;1:2005.0010. Epub 2005 May 25. PubMed PMID: 16729045.   
 
-Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genom Comput Biol. 2018;4(1). pii: e100050. doi: 10.18547/gcb.2018.vol4.iss1.e100050. Epub 2017 Dec 6. PubMed PMID: 29951575.  
+1. Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genom Comput Biol. 2018;4(1). pii: e100050. doi: 10.18547/gcb.2018.vol4.iss1.e100050. Epub 2017 Dec 6. PubMed PMID: 29951575.  
 
-Thiele I, Palsson BØ. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010 Jan;5(1):93-121. doi: 10.1038/nprot.2009.203. Epub 2010 Jan 7. PubMed PMID: 20057383.
+1. Thiele I, Palsson BØ. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010 Jan;5(1):93-121. doi: 10.1038/nprot.2009.203. Epub 2010 Jan 7. PubMed PMID: 20057383.  
 
 
 
