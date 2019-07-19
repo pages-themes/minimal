@@ -10,7 +10,7 @@ In each case, a disease map is designed while taking into account the goals and 
 
 ### Suggested steps
 
-The following order of tasks shown to be efficient in complete and ongoing projects.  
+The following order of tasks is shown to be efficient in complete and ongoing projects.  
 
 <ol>
   <li>Forming a panel of domain experts: leading researchers (clinicians and biologist) knowledgeable in the field of the disease. 
