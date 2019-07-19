@@ -29,11 +29,11 @@ The following order of tasks is shown to be efficient in complete and ongoing pr
 
 ### Recommended publications
 
-Caron E, Ghosh S, Matsuoka Y, Ashton-Beaucage D, Therrien M, Lemieux S, Perreault C, Roux PP, Kitano H. A comprehensive map of the mTOR signaling network. Mol Syst Biol. 2010 Dec 21;6:453. doi: 10.1038/msb.2010.108. Review. PubMed PMID: 21179025.
+1. Caron E, Ghosh S, Matsuoka Y, Ashton-Beaucage D, Therrien M, Lemieux S, Perreault C, Roux PP, Kitano H. A comprehensive map of the mTOR signaling network. Mol Syst Biol. 2010 Dec 21;6:453. doi: 10.1038/msb.2010.108. Review. PubMed PMID: 21179025.  
 
-Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. doi: 10.1007/s12035-013-8489-4. Epub 2013 Jul 7. Review. PubMed PMID: 23832570.
+1. Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. doi: 10.1007/s12035-013-8489-4. Epub 2013 Jul 7. Review. PubMed PMID: 23832570.  
 
-Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. doi: 10.1093/database/bay036. PubMed PMID: 29688383.
+1. Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. doi: 10.1093/database/bay036. PubMed PMID: 29688383.  
 
 Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. doi: 10.1038/oncsis.2015.19. PubMed PMID: 26192618.  
 
