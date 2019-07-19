@@ -6,11 +6,11 @@ permalink: /guidelines
 
 # Guidelines
 
-<p>In each case, a disease map is designed while taking into account the goals and objectives of a particular project, 
+In each case, a disease map is designed while taking into account the goals and objectives of a particular project, 
 specifics of disease conditions and disease subtypes. Here we propose a set of guidelines for a disease map construction 
-and define some concepts that are derived from our collective experience and that might be helpful for developing a new disease map.</p>
+and define some concepts that are derived from our collective experience and that might be helpful for developing a new disease map.
 
-<h3>Steps</h3>
+### Steps
 <ol>
 <li>Form a panel of domain experts: leading researchers, clinicians and biologist, with experience in the field of this particular disorder.</li>
 <li>Define the scope of a disease map. What are the disease hallmarks? What are the key modules? What levels of granularity should be included?</li>
@@ -18,9 +18,10 @@ and define some concepts that are derived from our collective experience and tha
 <li>Develop a draft version reusing information from other disease maps and pathway databases.</li>
 <li>Develop a comprehensive version.</li>
 </ol>
-<p>These steps can be done in parallel.</p>
 
-<h3>Proposed milestones</h3>
+These steps can be done in parallel.
+
+### Proposed milestones
 
 <ul>
 <li><strong>6 months:</strong> Steps 1-3 are progressed simultaneously. An overview diagram is developed and improved.  
