@@ -14,18 +14,17 @@ In each case, a disease map is designed while taking into account the goals and 
 
 The following order of tasks is shown to be efficient in published and ongoing projects.  
 
-<ol>
-  <li>Forming a panel of domain experts: leading researchers (clinicians and biologist) knowledgeable in the field of the disease. 
-    </li>
-  <li>Determining the scope of the disease map: identifying disease hallmarks, key modules to include and the desired granularity that suits the project. 
-    </li>
-  <li>Developing an overview map and start determining the content in close communication with the domain experts. An overview map outlines the main modules that are to be included and essentially reviews the future content of the detailed representation of disease mechanisms.
-    </li>
-  <li>Developing the first version of the map reusing information from other disease maps and pathway databases as much as possible to speed up the process of map construction. 
-    </li>
-  <li>Finalise the comprehensive version of the map. The refined version is complete and made accessible online for browsing, data interpretation and hypothesis generation, new disease-specific pathway modules are developed from scratch where necessary.
-    </li>
-</ol>
+1. Pre-development stage: an initial scan of the relevant literature searching PubMed mainly for review articles.  
+
+1. Forming a panel of domain experts: leading researchers (clinicians and biologist) knowledgeable in the field of the disease.  
+
+1. Determining the scope of the disease map: identifying disease hallmarks, key modules to include and the desired granularity that suits the project.  
+
+1. Developing an overview map and start determining the content in close communication with the domain experts. An overview map outlines the main modules that are to be included and essentially reviews the future content of the detailed representation of disease mechanisms.  
+
+1. Developing the first version of the map reusing information from other disease maps and pathway databases as much as possible to speed up the process of map construction.  
+
+1. Finalise the comprehensive version of the map. The refined version is complete and made accessible online for browsing, data interpretation and hypothesis generation, new disease-specific pathway modules are developed from scratch where necessary.  
 
 ### Recommended publications
 
