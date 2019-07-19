@@ -25,11 +25,13 @@ The following order of tasks is shown to be efficient in complete and ongoing pr
     </li>
 </ol>
 
-### Recommended references
+### Recommended publications
 
 Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. doi: 10.1007/s12035-013-8489-4. Epub 2013 Jul 7. Review. PubMed PMID: 23832570.  
 
 Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. doi: 10.1038/oncsis.2015.19. PubMed PMID: 26192618.  
+
+Kuperstein I, Grieco L, Cohen DP, Thieffry D, Zinovyev A, Barillot E. The shortest path is not the one you know: application of biological network resources in precision oncology research. Mutagenesis. 2015 Mar;30(2):191-204. doi: 10.1093/mutage/geu078. Review. PubMed PMID: 25688112.
 
 Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y.  A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. doi: 10.1186/1752-0509-7-97. PubMed PMID: 24088197.  
 
@@ -37,7 +39,7 @@ Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miya
 
 Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genom Comput Biol. 2018;4(1). pii: e100050. doi: 10.18547/gcb.2018.vol4.iss1.e100050. Epub 2017 Dec 6. PubMed PMID: 29951575.  
 
-Thiele I, Palsson BØ. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010 Jan;5(1):93-121. doi: 10.1038/nprot.2009.203. Epub 2010 Jan 7. PubMed PMID: 20057383
+Thiele I, Palsson BØ. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010 Jan;5(1):93-121. doi: 10.1038/nprot.2009.203. Epub 2010 Jan 7. PubMed PMID: 20057383.
 
 
 
