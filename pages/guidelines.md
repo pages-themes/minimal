@@ -10,6 +10,7 @@ The provided guidelines are based on our collective experience of building repre
 
 In each case, a resource is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.  
 
+
 ### Suggested steps
 
 The following order of tasks is shown to be efficient in published and ongoing projects.  
@@ -31,6 +32,11 @@ The following order of tasks is shown to be efficient in published and ongoing p
 1. Making the map accessible via publishing it in one of the online map navigation platforms.  
 
 1. Collecting feedback and regularly updating the map.
+
+
+### Standards
+
+We aim at making maps available in various formats including [SBGN](http://sbgn.org) (Systems Biology Graphical Notation), [SBML](http://sbml.org) (Systems Biology Markup Language) and  [BioPAX](http://www.biopax.org) (Biological Pathway Exchange), and also in the original format of the tool in which the map was developed (for example, the default CellDesigner’s XML format).  
 
 
 ### Recommended publications
