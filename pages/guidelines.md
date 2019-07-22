@@ -8,7 +8,7 @@ permalink: /guidelines
 
 The provided guidelines are based on our collective experience of building representations of disease mechanisms, the work by Maria Kondratova and coauthors (Kondratova et al., 2018, PMID 29688383), descriptions of published disease maps (Mizuno et al., 2012, PMID 22647208; Matsuoka et al., 2013, PMID 24088197; Fujita et al., 2014, PMID 23832570; Kuperstein et al., 2015, PMID 26192618; Singh et al., 2018, PMID 29951575) and comprehensive pathway maps (Oda et al., 2005, PMID 16729045; Oda and Kitano, 2006, PMID 16738560; Caron et al., 2010, PMID 21179025).  
 
-In each case, a disease map is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.  
+In each case, a resource is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.  
 
 ### Suggested steps
 
