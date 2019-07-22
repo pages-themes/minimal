@@ -36,7 +36,7 @@ The following order of tasks is shown to be efficient in published and ongoing p
 
 ### Standards
 
-We aim at making maps available in various formats including [SBGN](http://sbgn.org) (Systems Biology Graphical Notation), [SBML](http://sbml.org) (Systems Biology Markup Language) and  [BioPAX](http://www.biopax.org) (Biological Pathway Exchange), and also in the original format of the tool in which the map was developed (for example, the default CellDesigner’s XML format).  
+We aim at making maps available in various formats including [SBGN](http://sbgn.org) (Systems Biology Graphical Notation), [SBML](http://sbml.org) (Systems Biology Markup Language) and  [BioPAX](http://www.biopax.org) (Biological Pathway Exchange), and also in the original format of the tool in which the map was developed, for example, the default CellDesigner’s XML format or the yEd Graph Editor's GraphML format.  
 
 
 ### Recommended publications
