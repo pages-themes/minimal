@@ -30,6 +30,10 @@ Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzo
 
 Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. PubMed [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).  
 
+### Methods
+
+Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. [doi: 10.1093/database/bay036](https://doi.org/10.1093/database/bay036). PubMed [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
+
 ### Applications of disease maps
 
 Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2018 May 3. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). PubMed [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
