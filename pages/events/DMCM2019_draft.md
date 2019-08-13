@@ -99,6 +99,8 @@ Afternoon breakout discussion sessions are planned following the example of the 
 
 #### Hands-on session
 
+<p>Tutorials of the following tools and resources:</p>
+
 <table>
 <tr><td><strong>14:30 Newt</strong></td></tr> 
 <tr><td><strong>14:30 BiNoM, ACSN</strong></td></tr> 
