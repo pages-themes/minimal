@@ -34,7 +34,7 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 
 <table>
 <tr><td><strong>15:30 Key Lecture 2: Toward whole-cell computational models for precision medicine</strong><br />
-<a href="#">Jonathan Karr,</a> Icahn School of Medicine at Mount Sinai, New York, USA<br /></td></tr> 
+Jonathan Karr, Icahn School of Medicine at Mount Sinai, New York, USA<br /></td></tr> 
 <tr><td><strong>16:30 Short talks:<br />A multiscale modelling platform to simulate drug synergies in different cell population architectures.</strong><br /><i>Miguel Ponce de Leon. Barcelona Supercomputing Center. Barcelona, Spain</i><br /><br /><strong>The metabolite abundances in coherence with the activities of signalling pathway circuits. </strong><br /><i>Cankut Cubuk. Clinical Bioinformatics Area, FPS. Sevilla, Spain</i><br /><br /><strong>Executable Disease Maps – Addressing the challenges of large scale dynamical modelling. </strong><br /><i>Anna Niarakis. GenHotel, University of Evry, Paris-Saclay</i></td></tr> 
 </table>
 
@@ -44,7 +44,7 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 
 <table>
 <tr><td><strong>9:00 Key Lecture: <br/>Logic modelling to integrate disease maps and various omics data</strong><br />
-<a href="#">Julio Saez-Rodriguez,</a> RWTH-Aachen University Hospital, Aachen, Germany<br /></td></tr> 
+Julio Saez-Rodriguez,RWTH-Aachen University Hospital, Aachen, Germany<br /></td></tr> 
 <tr><td><strong>10:00 Highlighted talk: <br/>Elixir</strong><br /></td></tr> 
 </table>
 
@@ -82,7 +82,7 @@ The 2019 community meeting is hosted by the <a href="http://www.clinbioinfosspa.
 
 <table>
 <tr><td><strong>09:00 Key Lecture 4:<br/>Computational approaches to tackle chemoresistance in high-grade serous ovarian cancer.</strong><br />
-<a href="#">Sampsa Hautaniemi,</a> Faculty of Medicine, University of Helsinki, Finland<br /></td></tr> 
+Sampsa Hautaniemi, Faculty of Medicine, University of Helsinki, Finland<br /></td></tr> 
 <tr><td><strong>10:00 The DisGeNET platform’s 10 anniversary: <br/>Developing a knowledge base for disease genomics.</strong><br /><i>Janet Piñero. GRIB (IMIM-UPF). Spain</i></td></tr> 
 </table>
 
