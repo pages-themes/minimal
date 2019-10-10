@@ -46,7 +46,7 @@ Associate Professor at the Erasmus Medical Centre, Rotterdam, Netherlands</td>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
-Researcher Luxembourg Centre for Systems Biomedicine</td>
+Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
@@ -56,7 +56,7 @@ Researcher Luxembourg Centre for Systems Biomedicine</td>
 <tr>
 <td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</strong><br />Head of the Bioinformatics Core at the Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 </table>
 
