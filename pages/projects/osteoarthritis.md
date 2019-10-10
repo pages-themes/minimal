@@ -6,7 +6,11 @@ permalink: /osteoarthritis
 
 # Osteoarthritis
 
-## KneePainMap
+[Osteoarthritis]
+
+[Pain in knee osteoarthritis]
+
+[Map]
 
 ### Osteoarthritis of the knee
 
