@@ -5,18 +5,22 @@ permalink: /osteoarthritis
 ---
 
 # Osteoarthritis
+
 ## KneePainMap
 
+[Osteoarthritis]
 
+[Pain in knee osteoarthritis]
+
+[Map]
 
 ### KneePainMap Editorial Panel
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="../images/team/PeterSterk.jpg" alt="Peter Sterk"/></td>
-<td><strong>Peter Sterk, MD</strong><br /><strong>University of Amsterdam, Netherlands</strong><br />
-Professor of the Pathophysiology and Phenotyping of Asthma and COPD at the Faculty of Medicine <br />
-Coordinator of the IMI <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> project</td>
+<td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
+<td><strong>Anna Valdes, PhD</strong><br /><strong>University of Nottingham, UK</strong><br />
+Associate Professor, Medicine and Health Sciences</td>
 </tr>
 </table>
 
