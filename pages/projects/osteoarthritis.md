@@ -20,9 +20,9 @@ permalink: /osteoarthritis
 
 <table>
 <tr>
-<td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
-<td><strong>Anna Valdes, PhD</strong><br /><strong>University of Nottingham, UK</strong><br />
-Associate Professor, Medicine and Health Sciences</td>
+<td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
+<td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Cochin-Hotel Dieu Hospital, France</strong><br />
+Rheumatologist and pain specialist, Head of the pain center, Cochin-Hotel Dieu Hospital, Paris, France; Professor of clinical pharmacology, Paris Descartes University, INSERM Research Unit 987, Paris, France</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
