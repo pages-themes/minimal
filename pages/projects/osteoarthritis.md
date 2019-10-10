@@ -29,8 +29,8 @@ Associate Professor, Medicine and Health Sciences</td>
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</strong><br />
-Researcher</td>
+<td><strong>Alexander Mazein, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
+Researcher Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
