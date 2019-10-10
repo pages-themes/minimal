@@ -24,7 +24,7 @@ Associate Professor, Medicine and Health Sciences</td>
 </tr>
 </table>
 
-### Development Team
+### KneePainMap Development Team
 
 <table>
 <tr>
