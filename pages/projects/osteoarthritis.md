@@ -32,6 +32,16 @@ Associate Professor, Medicine and Health Sciences</td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</strong><br />
 Researcher</td>
 </tr>
+<tr>
+<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
 </table>
 
 ### Funding
