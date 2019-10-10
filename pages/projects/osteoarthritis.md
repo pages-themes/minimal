@@ -33,9 +33,9 @@ Associate Professor, Medicine and Health Sciences</td>
 Researcher</td>
 </tr>
 <tr>
-<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
-<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+<td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
+<td><strong>Andreas Kremer, PhD</strong><br /><strong>ITTM S.A., Luxembourg
+</strong><br />Managing Director, Information Technology for Translational Medicine (ITTM)<br /></td>
 </tr>
 <tr>
 <td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
