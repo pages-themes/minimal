@@ -8,15 +8,18 @@ permalink: /osteoarthritis
 
 ## KneePainMap
 
-[Osteoarthritis]
+### Osteoarthritis of the knee
 
-[Pain in knee osteoarthritis]
 
-[Map]
 
 ### KneePainMap Editorial Panel
 
 <table>
+<tr>
+<td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
+<td><strong>Anna Valdes, PhD</strong><br /><strong>University of Nottingham, UK</strong><br />
+Associate Professor, Medicine and Health Sciences</td>
+</tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
 <td><strong>Anna Valdes, PhD</strong><br /><strong>University of Nottingham, UK</strong><br />
