@@ -31,7 +31,7 @@ Associate Professor, Medicine and Health Sciences</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/FrancisBerenbaum.jpg" alt="Francis Berenbaum"/></td>
-<td><strong>Francis Berenbaum, MD, PhD</strong>><br /><strong>Sorbonne Université, France</strong><br />Academic rheumatologist at the University Pierre and Marie Curie (UPMC), Paris, France</td>
+<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne Université, France</strong><br />Academic rheumatologist at the University Pierre and Marie Curie (UPMC), Paris, France</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
