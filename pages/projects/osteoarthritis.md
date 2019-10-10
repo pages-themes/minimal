@@ -34,7 +34,7 @@ Researcher Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
-<td><strong>Andreas Kremer, PhD</strong><br /><strong>Information Technology for Translational Medicine (ITTM S.A.), Luxembourg
+<td><strong>Andreas Kremer, PhD</strong><br /><strong>Information Technology for Translational Medicine (ITTM) S.A., Luxembourg
 </strong><br />Managing Director<br /></td>
 </tr>
 <tr>
