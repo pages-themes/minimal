@@ -60,5 +60,5 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 
 ### Funding
 
-
+The project is funded by [Biologische Heilmittel Heel GmbH](https://www.heel.de)
 
