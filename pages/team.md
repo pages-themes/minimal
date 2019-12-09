@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Susana Kalko](#SusanaKalko), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo)  
 
 <table>
 <tr>
@@ -96,10 +96,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="CeciliaJimenezMallebrera"><img src="../images/team/CeciliaJimenezMallebrera.jpg" width="105" alt="Cecilia Jimenez Mallebrera"/></a></td>
 <td><strong>Cecilia Jimenez Mallebrera</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Duchenne Muscular Dystrophy Map project; <br />Director, Laboratory for Translational Research into Children's Neuromuscular Diseases, Hospital Sant Joan de Déu, Barcelona, Spain</p></td>
-</tr>
-<tr>
-<td style="width: 110px;"><a id="SusanaKalko"><img src="../images/team/SusanaKalko.jpg" width="105" alt="Susana Kalko"/></a></td>
-<td><strong>Susana Kalko</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Duchenne Muscular Dystrophy Map project; <br />Bioinformatics and Systems Biomedicine Consultant, Moebius Research, UK</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="RupertOverall"><img src="../images/team/RupertOverall.jpg" width="105" alt="Rupert Overall"/></a></td>
