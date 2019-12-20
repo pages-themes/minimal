@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: yuasabe
+logo: https://avatars3.githubusercontent.com/u/5180742?s=400&u=2d2abb484ef4fca12fe432ac562b6ff69aa70278&v=4
+description: 
+show_downloads: false
+google_analytics: UA-120752245-1
 theme: jekyll-theme-minimal
