@@ -4,7 +4,7 @@ layout: default
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
         
-<p>UPCOMING EVENT: The <strong>Disease Maps Community Meeting 2020</strong> (DMCM2020) is scheduled 12th - 14th November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>
+<p>UPCOMING EVENT: The <strong>Disease Maps Community Meeting 2020</strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>
         
 ### What is a disease map?
 
