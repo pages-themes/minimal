@@ -14,7 +14,7 @@ permalink: /events
 <td valign="top">
 <strong><a href="/DMCM2020">5th Disease Maps Community Meeting</a></strong><br />
 12-14 November 2020, Berlin, Gemany<br />
-The 2020 community meeting is hosted by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of rostock, Germany</a>.
+The 2020 community meeting is hosted by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of Rostock, Germany</a>.
 </td>
 </tr>
 </table> 
