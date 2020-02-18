@@ -10,7 +10,7 @@ permalink: /events
 
 <table>
 <tr>
-<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2020"><img src="../images/places/Berlin.png" alt="Berlin"/></td>
+<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2020"><img src="../images/places/Berlin.png" alt="Berlin"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2020">5th Disease Maps Community Meeting</a></strong><br />
 12-14 November 2020, Berlin, Germany<br />
@@ -21,7 +21,7 @@ The 2020 community meeting is hosted by the <a href="https://www.sbi.uni-rostock
 
 <table>
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2019"><img src="../images/places/Sevilla.png" alt="Sevilla"/></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2019"><img src="../images/places/Sevilla.png" alt="Sevilla"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2019">4th Disease Maps Community Meeting</a></strong><br />
 2-4 October 2019, Sevilla, Spain<br />
