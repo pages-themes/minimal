@@ -12,14 +12,16 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <!--The following are the active projects, starting with published maps.-->
 
+<font color="white">This is some text!</font>
+
 <table>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#DD493E;">
         <p style="margin:10px; font-size:16px;">
         <strong>COVID-19</strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://covid.pages.uni.lu/map_curation" target="_blank">COVID-19 Disease Map</a><br />
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank">COVID-19 Disease Map</a><br />
+        <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg</font><br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px;"> </td>
