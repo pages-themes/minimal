@@ -13,10 +13,10 @@ Project webpage: [https://covid.pages.uni.lu/map_curation](https://covid.pages.u
 
 Information will be available soon.
 
-### COVID-19 Disease Map Domain Expert Review Committee
+### Domain Expert Review Committee
 
 Information will be available soon.
 
-### COVID-19 Disease Map Curation Team
+### Curation Team
 
 Information will be available soon.
