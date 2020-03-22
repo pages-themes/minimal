@@ -6,7 +6,7 @@ permalink: /home2
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
 
-<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
+<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation"><font color="red">COVID-19 Disease Map</font></a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
 
 <p style="color:red">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation"><font color="red">COVID-19 Disease Map</font></a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
 
