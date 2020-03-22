@@ -8,14 +8,11 @@ permalink: /home2
 
 <p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
 
-<p style="color:red">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
+<p style="color:red">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation"><font color="red">COVID-19 Disease Map</font></a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
+
+<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> was initiated by the Luxembourgh Centre of Systems Biomedicine, University of Luxembourg, and is progressing in collaboration with many groups around the world. Join the effort!</p>
         
 <p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>
-
-<p>UPCOMING EVENT: The <strong><font color="red"><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></font></strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>
-
-<p>UPCOMING EVENT: The <strong><a href="/DMCM2020"><font color="red">Disease Maps Community Meeting 2020</font></a></strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>
-
         
 ### What is a disease map?
 
