@@ -1,7 +1,7 @@
 ---
 title: COVID-19
 layout: default
-permalink: /covid-19
+permalink: covid-19
 ---
 
 # Coronavirus disease (COVID-19)
