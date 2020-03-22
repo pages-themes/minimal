@@ -12,8 +12,6 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <!--The following are the active projects, starting with published maps.-->
 
-<font color="white">This is some text!</font>
-
 <table>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#DD493E;">
