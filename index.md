@@ -4,7 +4,7 @@ layout: default
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
 
-<p style="color:#b15159">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank">COVID-19 Disease Map</a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interactions mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>
+<p style="color:#bf4e50">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank">COVID-19 Disease Map</a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interactions mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>
 
 <!--<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interactions mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>-->
         
