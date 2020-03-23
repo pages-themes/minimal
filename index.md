@@ -3,6 +3,8 @@ layout: default
 ---
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
+
+<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of mechanisms of host-pathogen interactions specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>
         
 <p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>
         
