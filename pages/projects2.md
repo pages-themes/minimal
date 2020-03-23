@@ -72,9 +72,9 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="margin:10px; font-size:16px;">
         <a href="../asthma" target="_blank"><strong><font color="white">Asthma</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
-        Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
+        Resource: <a href="http://asthma-map.org/" target="_blank"><strong><font color="white">AsthmaMap</font></strong></a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank"><strong><font color="white">PubMed</font></strong></a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
