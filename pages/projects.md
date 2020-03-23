@@ -8,13 +8,27 @@ permalink: /projects
         
 The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
 
-The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.  
+<!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
-The following are the active projects, starting with published maps.
-
-
+<!--The following are the active projects, starting with published maps.-->
 
 <table>
+<tr style="height:180px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
+        <p style="margin:10px; font-size:16px;">
+        <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19</font></strong></a></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
+        <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px;"> </td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:16px;">
