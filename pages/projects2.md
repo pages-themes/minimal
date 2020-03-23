@@ -60,7 +60,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#5871A0;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
+        <a href="../rheumatoidarthritis" target="_blank"><strong><font color="white">Rheumatoid arthritis</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: Rheumatoid Arthritis Map<br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
@@ -70,7 +70,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
+        <a href="../asthma" target="_blank"><strong><font color="white">Asthma</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -85,7 +85,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#5871A0;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
+        <a href="../cysticfibrosis" target="_blank"><strong><font color="white">Cystic fibrosis</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: Cystic Fibrosis Map<br />
         Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
@@ -93,7 +93,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
+        <a href="../atherosclerosis" target="_blank"><strong><font color="white">Atherosclerosis</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
