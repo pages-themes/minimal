@@ -35,10 +35,10 @@ The growing number of active projects within the Disease Maps Community are led 
         <p style="margin:10px; font-size:16px;">
         <a href="../parkinsons" target="_blank"><strong><font color="white">Parkinson's disease</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
+        Resource: <a href="https://pdmap.uni.lu" target="_blank"><strong><font color="white">Parkinson's Disease Map</font></strong></a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank">PubMed</a>
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank"><strong><font color="white">PubMed</font></strong></a><br />
+        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank"><strong><font color="white">PubMed</font></strong></a>
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
@@ -47,8 +47,8 @@ The growing number of active projects within the Disease Maps Community are led 
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank"><strong><font color="white">Atlas of Cancer Signalling Network</font></strong></a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383" target="_blank"><strong><font color="white">PubMed</font></strong></a><br />
+        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank"><strong><font color="white">PubMed</font></strong></a>
         </p></td>
 </tr>
 
