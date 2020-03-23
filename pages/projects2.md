@@ -31,7 +31,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#596F9C;">
         <p style="margin:10px; font-size:16px;">
         <a href="../parkinsons" target="_blank"><strong><font color="white">Parkinson's disease</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
@@ -41,7 +41,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank"><strong><font color="white">PubMed</font></strong></a>
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#596F9C;">
         <p style="margin:10px; font-size:16px;">
         <a href="../cancer" target="_blank"><strong><font color="white">Cancer</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
