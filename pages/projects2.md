@@ -65,7 +65,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Resource: Rheumatoid Arthritis Map<br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
         Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank"><strong><font color="white">PubMed</font></strong></a><br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#6479A7;">
@@ -97,8 +97,8 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
-        Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank"><strong><font color="white">PubMed</font></strong></a><br />
+        Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank"><strong><font color="white">BioModels</font></strong></a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
