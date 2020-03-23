@@ -107,7 +107,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#CCD2E2;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F3F4F8;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -115,7 +115,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#CCD2E2;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F3F4F8;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
