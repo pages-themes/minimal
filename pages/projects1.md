@@ -14,7 +14,7 @@ The growing number of active projects within the Disease Maps Community are led 
 
 <table>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#DD493E;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#bf4e50;">
         <p style="margin:10px; font-size:16px;">
         <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
