@@ -8,7 +8,7 @@ layout: default
 
 <p style="color:#ce4c47">
 Website: <a href="https://covid.pages.uni.lu/map_curation" target="_blank">https://covid.pages.uni.lu/map_curation</a><br />
-Mailing list: <a href="https://groups.google.com/forum/#!forum/covid-19-map" target="_blank">COVID-19 Disease Map Mailing List</a><br />
+Main discussion forum: <a href="https://groups.google.com/forum/#!forum/covid-19-map" target="_blank">COVID-19 Disease Map Mailing List</a><br />
 Suggest contribution: <a href="https://groups.google.com/forum/#!forum/covid-19-map" target="_blank">Contributors - Google Sheets</a>
 </p>
 
