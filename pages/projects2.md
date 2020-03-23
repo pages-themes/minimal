@@ -30,17 +30,17 @@ The growing number of active projects within the Disease Maps Community are led 
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
+        <strong><a href="../parkinsons" target="_blank"><font color="white">Parkinson's disease</font></a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;"><font color="white">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank">PubMed</a>
-        </p></td>
+        </font></p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
