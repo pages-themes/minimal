@@ -15,9 +15,9 @@ The growing number of active projects within the Disease Maps Community are led 
 <table>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#DD493E;">
-        <p style="margin:10px; font-size:16px; color:white;">
+        <p style="margin:10px; font-size:16px;">
         <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19</font></strong></a></p>
-        <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
+        <p style="line-height:160%; margin:10px; font-size:13px;">
         <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
         <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
         </p></td>
@@ -32,9 +32,9 @@ The growing number of active projects within the Disease Maps Community are led 
 </tr>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#5871A0;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:16px; color:white;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
+        <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
