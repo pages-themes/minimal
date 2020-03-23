@@ -16,7 +16,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank">COVID-19</a></strong></p>
+        <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="white">COVID-19</font></a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
         <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
