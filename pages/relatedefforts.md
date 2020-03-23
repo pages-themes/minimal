@@ -21,6 +21,13 @@ The following projects are strategically important for the future advances of th
 <i>Description: </i>Pathway Commons aims to collect and disseminate biological pathway and interaction data. Data is collected from partner databases and is represented in the <a href="http://biopax.org/" target="_blank">BioPAX</a> standard.<br />
 <i>Contact: </i>Gary Bader, University of Toronto, Toronto, Canada<br />
 <i>Homepage: </i><a href="http://www.pathwaycommons.org/" target="_blank">http://www.pathwaycommons.org</a><br />
+  
+<h3><a href="wikipathways">WikiPathways</a></h3>
+<p>
+<i>Description: </i>WikiPathways is a database of biological pathways maintained by and for the scientific community.<br />
+<i>Contact: </i>Alexander Pico, Gladstone Institutes, University of California, San Francisco, United States<br />
+<i>Homepage: </i><a href="http://www.wikipathways.org/" target="_blank">http://www.wikipathways.org</a><br />
+<!-- <a href="partners/wikipathways">More information...</a></p> -->
 
 <h3><a href="vmh">Virtual Metabolic Human</a></h3>
 <p>
@@ -42,9 +49,4 @@ The following projects are strategically important for the future advances of th
 <i>Homepage: </i><a href="http://www.garuda-alliance.org/" target="_blank">http://www.garuda-alliance.org</a><br />
 <!-- <a href="partners/garuda">More information...</a></p> -->
 
-<h3><a href="wikipathways">WikiPathways</a></h3>
-<p>
-<i>Description: </i>WikiPathways is a database of biological pathways maintained by and for the scientific community.<br />
-<i>Contact: </i>Alexander Pico, Gladstone Institutes, University of California, San Francisco, United States<br />
-<i>Homepage: </i><a href="http://www.wikipathways.org/" target="_blank">http://www.wikipathways.org</a><br />
-<!-- <a href="partners/wikipathways">More information...</a></p> -->
+
