@@ -19,7 +19,7 @@ The growing number of active projects within the Disease Maps Community are led 
         <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
-        <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT<br />Find out how to participate <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">here</font></strong></a></font>
+        <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px;"> </td>
