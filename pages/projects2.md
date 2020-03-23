@@ -31,7 +31,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#5871A0;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#496497;">
         <p style="margin:10px; font-size:16px;">
         <a href="../parkinsons" target="_blank"><strong><font color="white">Parkinson's disease</font></strong></a></p>
         <p style="line-height:160%; margin:10px; font-size:13px; color:white;">
@@ -107,7 +107,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#97A5C4;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#CCD2E2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -115,7 +115,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#97A5C4;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#CCD2E2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
