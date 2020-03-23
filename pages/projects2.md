@@ -129,7 +129,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E5E8F0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -137,7 +137,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E5E8F0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -151,7 +151,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E5E8F0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -159,7 +159,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E5E8F0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -173,7 +173,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:180px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E5E8F0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -181,7 +181,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E5E8F0;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
