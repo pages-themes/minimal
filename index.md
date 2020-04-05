@@ -4,7 +4,7 @@ layout: default
 
 Welcome to my Market Making Website 
 
-[Link to another page](./another-page.html).
+[Link to another page](./3_Price_Discovery.html).
 
 There should be whitespace between paragraphs.
 
