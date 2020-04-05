@@ -21,7 +21,7 @@ Define Liquidity, and why it's important
 Define Microstructure
 Introducing the limit order book
 
-3. [Price Discovery](./Articles/Price Discovery Process .md).
+3. [Price Discovery](./Articles/Price Discovery Process .html).
 -Glosten-Milgrom
 -Kyle
 -Ho Stoll 

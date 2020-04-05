@@ -1,4 +1,6 @@
 [Kevin Ramlal Homepage](kevinramlal.github.io)
+
+
 #  Price Discovery Process 
 *Price discovery is the process in which a securities' price is determined through the interactions and mechanisms in a marketplace.* 
 
@@ -22,4 +24,5 @@ We see that depeding on $\theta$, $V_L \leq V_0 \leq V_H$.
 6. If the fair value of the security is $V_H$, the informed trader will buy with probabil
 
 Right away, we can glean some useful dynamics! Suppose that the true value of the security is $V_H$, 
+
 
