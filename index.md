@@ -21,25 +21,23 @@ Define Liquidity, and why it's important
 Define Microstructure
 Introducing the limit order book
 
-3. [Price Discovery](./Articles/3_Price_Discovery.html).
-Glosten-Milgrom
-Kyle
-Ho Stoll 
-Amihud-Medelson
+3. [Price Discovery](./Articles/3_Price_Discovery.md).
+-Glosten-Milgrom
+-Kyle
+-Ho Stoll 
+-Amihud-Medelson
 
 4. Limit Order Book Dynamics and Optimal Execution
-Depth
-Imbalance
-Almgren and Chriss
-Guo 
-VWAP
-TWAP
+-Depth
+-Imbalance
+-Almgren and Chriss
+-Guo 
+-VWAP
+-TWAP
 
 5. Mathematical Underpinnings of Market Making
-
 - Probability
 - Control Theory
-
 
 
 6. Python simulation of a Market 
