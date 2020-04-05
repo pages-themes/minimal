@@ -14,7 +14,7 @@ Truthfully, the complexity of academic literature within the market making space
 That being said, learning these principles on your own can be daunting, as I often found myself having no idea where to even start. A quick google of "what is market making" leads to a lot of information, with answers about bid/asks spreads, limit-order books, high frequency trading and more. None of these are wrong, but for me, it was always difficult to synthesize this information in a coherent flow.
 Throughout this article series I hope to create a resource that I wish I had several years ago - outlining fundamental concepts in market making while sharing a large body of resources and references that both helped me gain understanding, as well as pointed me in the right direction to explore dddfurther. I hope that this works out!
 
-1. [What is a Market Maker](./Articles/2_What is a marrket maker.html).
+1. [What is a Market Maker](./Articles/2_What is a market maker.html).
 
 2. Introduction to Liquidity and Market Microstructure
 - Define Liquidity, and why it's important
