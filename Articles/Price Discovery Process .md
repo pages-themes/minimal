@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Kevin Ramlal Homepage](./)
 #  Price Discovery Process 
 *Price discovery is the process in which a securities' price is determined through the interactions and mechanisms in a marketplace.* 
