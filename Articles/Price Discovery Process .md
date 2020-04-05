@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Kevin Ramlal Homepage](https://kevinramlal.github.io)
 
 
