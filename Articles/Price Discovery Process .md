@@ -1,3 +1,4 @@
+[Kevin Ramlal Homepage](./)
 #  Price Discovery Process 
 *Price discovery is the process in which a securities' price is determined through the interactions and mechanisms in a marketplace.* 
 
@@ -22,4 +23,4 @@ We see that depeding on $\theta$, $V_L \leq V_0 \leq V_H$.
 
 Right away, we can glean some useful dynamics! Suppose that the true value of the security is $V_H$, 
 
-[back](./)
+[Back](./)
