@@ -21,11 +21,11 @@ The 2021 community meeting is hosted by the <a href="https://www.sbi.uni-rostock
 
 <table>
 <tr>
-<td style="width: 105px; height: 105 px" valign="top">><img src="../images/places/Berlin.png" alt="Berlin"/></td>
+<td style="width: 105px; height: 105 px" valign="top"><img src="../images/places/covid-19-dm-logo.png"/></td>
 <td valign="top">
-<strong><a href="/DMCM2020">5th Disease Maps Community Meeting</a></strong><br />
-12-14 November 2020, Berlin, Germany<br />
-The 2020 community meeting is hosted by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of Rostock, Germany</a>.
+<strong>5th Disease Maps Community Meeting</strong><br />
+12-14 November 2020<br />
+The 2020 community meeting will be organised as an online meeting and is dedicated to the COVID-19 Disease Map project.
 </td>
 </tr>
 </table> 
