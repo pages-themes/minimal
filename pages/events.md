@@ -8,7 +8,7 @@ permalink: /events
 
 <br />
 
-<table>
+<!--<table>
 <tr>
 <td style="width: 105px; height: 105 px" valign="top"><img src="../images/places/Berlin.png"/></td>
 <td valign="top">
@@ -17,7 +17,7 @@ permalink: /events
 The 2021 community meeting is hosted by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of Rostock, Germany</a>.
 </td>
 </tr>
-</table> 
+</table>-->
 
 <table>
 <tr>
