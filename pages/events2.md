@@ -25,7 +25,7 @@ The 2021 community meeting is hosted by the <a href="https://www.sbi.uni-rostock
 <td valign="top">
 <strong>5th Disease Maps Community Meeting</strong><br />
 12-14 November 2020<br />
-The 2020 community meeting will be organised as an online meeting and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map project</a>.
+The 2020 community meeting will be organised as an online meeting and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.
 </td>
 </tr>
 </table> 
