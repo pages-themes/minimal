@@ -12,11 +12,10 @@ layout: default
 </td>
 </tr>
 <tr>
-<td><p style="color:#ce4c47">
+<td style="color:#ce4c47">
 Website: <br />
 Forum: <br />
 Contribute: 
-</p>
 </td>
 <td valign="top">
 <a href="https://covid.pages.uni.lu/map_curation" target="_blank">https://covid.pages.uni.lu</a><br />
