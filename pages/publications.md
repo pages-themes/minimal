@@ -18,6 +18,8 @@ Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenaue
  
 ### Disease maps
 
+Ravel JM, Monraz Gomez LC, Sompairac N, Calzone L, Zhivotovsky B, Kroemer G, Barillot E, Zinovyev A, Kuperstein I. Comprehensive Map of the Regulated Cell Death Signaling Network: A Powerful Analytical Tool for Studying Diseases. Cancers (Basel). 2020 Apr 17;12(4). pii: E990. [doi: 10.3390/cancers12040990](https://doi.org/10.3390/cancers12040990). PubMed [PMID: 32316560](https://www.ncbi.nlm.nih.gov/pubmed/32316560).
+
 Singh V, Kalliolias GD, Ostaszewski M, Veyssiere M, Pilalis E, Gawron P, Mazein A, Bonnet E, Petit-Teixeira E, Niarakis A. RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis. Database (Oxford). 2020 Jan 1;2020. pii: baaa017. [doi: 10.1093/database/baaa017](https://doi.org/10.1093/database/baaa017). PubMed [PMID: 32311035](https://www.ncbi.nlm.nih.gov/pubmed/32311035).
 
 Parton A, McGilligan V, Chemaly M, O'Kane M, Watterson S. New models of atherosclerosis and multi-drug therapeutic interventions. Bioinformatics. 2018 Dec 6. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). PubMed [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978).  
