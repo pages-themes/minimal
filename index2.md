@@ -6,7 +6,7 @@ layout: default
 
 <table>
 <tr>
-<td style="width: 105px; height: 105 px" valign="top" color=#ce4c47><img src="../images/places/covid-19-dm-logo.png"/></td>
+<td style="width: 105px; height: 105 px; valign=top; color=#ce4c47"><img src="../images/places/covid-19-dm-logo.png"/></td>
 <td valign="top">
 OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interaction mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!
 </td>
