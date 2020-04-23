@@ -1,6 +1,8 @@
 ---
 layout: default
+permalink: /index2
 ---
+
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
 
