@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Curriculum Vitae , _Gian_ _Claudio_ _Scarafini_.
 
-[Link to another page](./another-page.html).
+[My Web Site](./another-page.html).
 
 There should be whitespace between paragraphs.
 
