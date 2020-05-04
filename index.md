@@ -4,7 +4,7 @@ layout: default
 
 Curriculum Vitae , _Gian_ _Claudio_ _Scarafini_.
 
-[My Web Site](./another-page.html).
+[My Web Site](https://www.linkedin.com/in/gian-claudio-scarafini-/).
 
 There should be whitespace between paragraphs.
 
