@@ -2,17 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Curriculum Vitae, _Gian_ _Claudio_ _Scarafini_.
 
-[Link to another page](./another-page.html).
+[My Personal Web Page](http://bimast.tech/).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Professional Profile
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am resourceful, self-motivated, and results-driven, as evidenced by both my professional experience and my studies in architecture. As an assistant in small and big-sized firms, I have always adapted my way of working according to the specific needs and  requirements of the individual job. I am interested in data and information and how they influence design. In particular, tools like Revit, and Python are my passion. I love to find streamlined and efficient solutions to problems. I am a firm believer in the value of teamwork and collaboration to attain goals. These characterize my thesis project, the goal of which was to increase collaboration with different stakeholders through specific architectural activities. As a result of this process, I am currently building my expertise in manipulating data. I am a skilled Architectural Assistant & BIM offering an excellent blend of technical aptitude and creative ability. I have four years of experience in architectural firms, where I was an asset, providing on-site project management and data documentation. My ability to assist in the construction phases of projects supports the team in the pre-construction stages and contributes to high-quality costeffective and timely completion of tasks. Demonstrated autonomy in planning and coordinating field activities.
+
 
 ## Header 2
 
