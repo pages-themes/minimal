@@ -40,6 +40,8 @@ Suggest contribution: <a href="https://docs.google.com/spreadsheets/d/1dBd7zhgw1
 <p>UPCOMING EVENT: The <strong><a href="/events">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 as a web conference and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.</p>
 
 <!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>-->
+
+<br />
         
 ### What is a disease map?
 
