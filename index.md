@@ -33,6 +33,11 @@ Suggest contribution: <a href="https://docs.google.com/spreadsheets/d/1dBd7zhgw1
 </p>-->
 
 <!--<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interactions mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>-->
+
+Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms. Sci Data. 2020, 7, 136. [doi: 10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8).
+
+<p>RECENT PUBLICATION: Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. <strong>COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms.</strong> Sci Data. 2020, 7, 136. <a href="https://doi.org/10.1038/s41597-020-0477-8">doi: 10.1038/s41597-020-0477-8</a>.</p>
+
         
 <p>UPCOMING EVENT: The <strong><a href="/events">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 as a web conference and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.</p>
 
