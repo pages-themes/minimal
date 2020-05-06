@@ -14,6 +14,10 @@ Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, D
 
 Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2019 Mar 25;20(2):659-670. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
 
+## COVID-19 Disease Map
+
+Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms. Sci Data. 2020, 7, 136. [doi: 10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8).
+
 ## Selected publications of the community members
  
 ### Disease maps
