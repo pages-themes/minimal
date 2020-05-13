@@ -10,6 +10,18 @@ body {
   font-weight: 400;
 }
 
+.madtinker_main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* width: 100%;*/
+  max-width: 800px;
+  text-align: center;
+  align-items: center;
+}
+
+
 h1,
 h2,
 h3,
