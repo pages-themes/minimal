@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Custom Theme
+title: "Custom Theme"
 ---
 
 {% for post in paginator.posts %}
