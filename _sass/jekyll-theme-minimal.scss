@@ -22,17 +22,18 @@ body {
 }
 
 svg {
-  width: 25px;
-  height: 25px;
+  width: 50px;
+  height: 50px;
   padding: 10px;
   border-radius: 50px;
   background: blue;
   fill: white;
 }
 
-fab {
-  width: 30px;
-  height: 30px;
+.fab {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
 }
 
 h1,
