@@ -1,125 +1,69 @@
 ---
 layout: post
-title: "Code Snippet Samples"
-date: 2020-04-24 20:03:11
-categories: [Code]
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+  
+---
+layout: default
+title: Custom Theme
 ---
 
-### Here is an unordered list:
+{% for post in paginator.posts %}
 
-- Item foo
-- Item bar
-- Item baz
-- Item zip
+	<article class="post">
 
-### And an ordered list:
+		{% if post.external-url %}
+			<h1>
+				<a href="{{ post.external-url }}">{{ post.title }}</a>
+				<a class="anchor" href="{{ post.url }}"><i class="icon-anchor"></i></a>
+			</h1>
+		{% else %}
+			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		{% endif %}
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+		<div class="post-content">{{ post.content }}</div>
 
-### And a nested list:
+	</article>
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+{% endfor %}
+			<!--<span>{{ post.date | date_to_string }}</span>
+		<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
-### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+		<p>Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<br/>
+		<div class="post-content">{{ post.content }}</div>
 
-### Definition lists can be used with HTML syntax.
+	</article>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<!--{% for post in site.categories.Code %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}-->
 
-```
-The final element.
-```
+
+{% if paginator.total_pages > 1 %}
+	<div class="postnavigation">
+
+		{% if paginator.previous_page %}
+			{% if paginator.page == 2 %}
+				<a class="prev left" href="/">&larr; Newer</a>
+			{% else %}
+				<a class="prev left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
+			{% endif %}
+		{% else %}
+			<span class="nope left">&larr; Newer</span>
+		{% endif %}
+
+		<span class="pages">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+		{% if paginator.next_page %}
+			<a class="next right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
+		{% else %}
+			<span class="nope right">Older &rarr;</span>
+		{% endif %}
+
+	</div>
+{% endif %}
