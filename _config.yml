@@ -6,7 +6,6 @@ permalink: /:title/
 show_downloads: true
 theme: jekyll-theme-minimal
 
-
 include:
   - _pages
   - jemoji
