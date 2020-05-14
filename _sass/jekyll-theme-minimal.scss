@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import "note.css";
 
 body {
   background-color: #fff;
@@ -29,6 +30,36 @@ body {
   background: blue;
   fill: white;
 }*/
+
+
+
+.madtinker_main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* width: 100%;*/
+  max-width: 800px;
+  text-align: center;
+  align-items: center;
+}
+
+.post-content {
+  font-size: 1.3em;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+}
+
+figcaption {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 0.8em;
+  color: #999999;
+  width: 100%;
+}
 
 .fab {
   font-size: 40px;
@@ -97,6 +128,7 @@ h3 {
 
 h1 {
   font-size: 28px;
+  font-weight: 300;
 }
 
 h2 {
