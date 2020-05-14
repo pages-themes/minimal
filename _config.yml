@@ -1,6 +1,20 @@
-title: Minimal theme
+name: Custom
+url: http://madtinker.net
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: The Mad Tinker
+permalink: /:title/
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
+
+
+include:
+  - _pages
+  - jemoji
+  - _posts
+
+paginate: 5
+
+gems: [jekyll-paginate]
+exclude: ["README.md", "Gemfile.lock", "Gemfile", "Rakefile"]
+highlighter: rouge
+baseurl: /
