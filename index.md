@@ -21,6 +21,7 @@ title: Custom Theme
     </article>
 
 {% endfor %}
+
 <!--<span>{{ post.date | date_to_string }}</span>
 		<p><span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
@@ -36,6 +37,7 @@ title: Custom Theme
 {% endfor %}-->
 
 {% if paginator.total_pages > 1 %}
+
 <div class="postnavigation">
 
     	{% if paginator.previous_page %}
