@@ -21,6 +21,15 @@ body {
   align-items: center;
 }
 
+svg {
+  width: 25px;
+  height: 25px;
+  padding: 10px;
+  border-radius: 50px;
+  background: blue;
+  fill: white;
+}
+
 h1,
 h2,
 h3,
