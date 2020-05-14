@@ -13,7 +13,7 @@ include:
 
 paginate: 5
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 exclude: ["README.md", "Gemfile.lock", "Gemfile", "Rakefile"]
 highlighter: rouge
 baseurl: /
