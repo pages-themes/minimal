@@ -10,3 +10,28 @@ layout: default
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   {{ post.excerpt }} {% endfor %}
 </ul>
+
+
+{% if paginator.total_pages > 1 %}
+	<div class="postnavigation">
+
+		{% if paginator.previous_page %}
+			{% if paginator.page == 2 %}
+				<a class="prev left" href="/">&larr; Newer</a>
+			{% else %}
+				<a class="prev left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
+			{% endif %}
+		{% else %}
+			<span class="nope left">&larr; Newer</span>
+		{% endif %}
+
+		<span class="pages">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+		{% if paginator.next_page %}
+			<a class="next right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
+		{% else %}
+			<span class="nope right">Older &rarr;</span>
+		{% endif %}
+
+	</div>
+{% endif %}
