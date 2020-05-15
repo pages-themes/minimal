@@ -4,11 +4,8 @@ title: "Pinterest Sample Text"
 date: 2020-05-14 20:03:11
 categories: [Pinterest]
 ---
-
-</header><div class="container">
-	<div class="row" role="main" >		
-				
-			
+	
+						
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/25160925/what-is-an-infographic1.jpg" alt="" class="wp-image-54835"/></figure></div>
 
 
@@ -67,4 +64,3 @@ categories: [Pinterest]
 
 <hr class="wp-block-separator"/>
 
-</div>
