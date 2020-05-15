@@ -7,11 +7,9 @@ layout: default
 
 <ul>
   {% for post in site.posts %}
-   
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-   
-  {% endfor %}
+
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  {{ post.excerpt }} {% endfor %}
 </ul>
 
 {% endfor %} {% if paginator.total_pages > 1 %}
