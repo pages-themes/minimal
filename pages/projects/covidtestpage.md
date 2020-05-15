@@ -1,17 +1,17 @@
 ---
 title: COVID-19
 layout: default
-permalink: /covid
+permalink: /covidtestpage
 ---
 
-<span style="display:block;text-align:left;font-size:32px;">![COVID19 Disease Map Project logo]({{ "./COVID19-dmap-project.svg" | relative_url }}){:width="70px"} COVID-19 Disease Map</span>
+# COVID-19 Disease Map
 
 We aim to establish a knowledge repository of molecular mechanisms of COVID-19 as a broad community-driven effort.  
 Here we share resources and best practices to develop a COVID-19 Disease Map of these mechanisms.   
 The COVID-19 Disease Map is an assembly of molecular interaction diagrams, established based on literature evidence.  
 We focus on host-pathogen interactions specific to the SARS-CoV-2 virus.
 
-[**FAIRDOMHub** project space](https://fairdomhub.org/projects/190){:target="_ blank"} lists our contributors, data and computational models, and literature.
+[FAIRDOMHub project space](https://fairdomhub.org/projects/190){:target="_ blank"} lists our contributors, data and computational models, and literature.
 <br/><br/>
 ## Publication
 
