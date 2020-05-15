@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Pinterest Sample Text"
-date: 2020-05-24 20:03:11
-categories: [Code]
+date: 2020-05-14 20:03:11
+categories: [Pinterest]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
