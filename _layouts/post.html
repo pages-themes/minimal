@@ -5,9 +5,14 @@ title: Blog
 
 <h1>Latest Posts</h1>
 
-<ul>
-  {% for post in site.posts %}
+{% if page.external-url %}
+		<h1>
+			<a href="{{ page.external-url }}">{{ page.title }}</a> 
+			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
+		</h1>
+	{% else %}
+		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	{% endif %}
 
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.excerpt }} {% endfor %}
-</ul>
+
+	<div class="post-content">{{ content }}</div><br/><br/><br/>
