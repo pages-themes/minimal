@@ -6,10 +6,7 @@ permalink: /covidtestpage
 
 # COVID-19 Disease Map
 
-We aim to establish a knowledge repository of molecular mechanisms of COVID-19 as a broad community-driven effort.  
-Here we share resources and best practices to develop a COVID-19 Disease Map of these mechanisms.   
-The COVID-19 Disease Map is an assembly of molecular interaction diagrams, established based on literature evidence.  
-We focus on host-pathogen interactions specific to the SARS-CoV-2 virus.
+We aim to establish a knowledge repository of molecular mechanisms of COVID-19 as a broad community-driven effort. Here we share resources and best practices to develop a COVID-19 Disease Map of these mechanisms. The COVID-19 Disease Map is an assembly of molecular interaction diagrams, established based on literature evidence. We focus on host-pathogen interactions specific to the SARS-CoV-2 virus.
 
 [FAIRDOMHub project space](https://fairdomhub.org/projects/190){:target="_ blank"} lists our contributors, data and computational models, and literature.
 <br/><br/>
