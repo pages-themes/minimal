@@ -4,8 +4,7 @@ title: "Pinterest Sample Text"
 date: 2020-05-14 20:03:11
 categories: [Pinterest]
 ---
-	
-						
+
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://s3.amazonaws.com/image-control-storage/2020/02/25160925/what-is-an-infographic1.jpg" alt="" class="wp-image-54835"/></figure></div>
 
 <h3><strong>The information below is in your Creative Brief.</strong></h3>
@@ -35,5 +34,3 @@ categories: [Pinterest]
 <p>Basically, try to create as many questions as you can. You will need them when you create your infographic.</p>
 
 <hr class="wp-block-separator"/>
-
-
