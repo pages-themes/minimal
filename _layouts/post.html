@@ -5,13 +5,15 @@ author: admin
 ---
 
 {% if page.external-url %}
-<h1>
+<!--<h1>
   <a href="{{ page.external-url }}">{{ page.title }}</a>
- 
-</h1>
+  <a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
+</h1>-->
 {% else %}
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-{{ page.date | date_to_string }} - {{ page.author }} {% endif %}
+{{ page.date | date_to_string }} - {{ page.author }}
+
+{% endif %}
 
 <div class="post-content">{{ content }}</div>
 <br /><br /><br />
