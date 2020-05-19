@@ -141,7 +141,10 @@ Researcher</td>
 </table>
 
 <h3 id="funding">Funding</h3>
-<ul>
+<!--<ul>
 <li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred" target="_blank">IMI U-BIOPRED n°115010</a></li>
 <li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/etriks" target="_blank">IMI eTRIKS n°115446</a></li>
-</ul>
+</ul>-->
+
+Funded in part by the Innovative Medicines Initiative (IMI) funded by the European Union and the European Federation of Pharmaceutical Industry Associations through U-BIOPRED (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes, n°115010) and eTRIKS (European Translational Information and Knowledge Management Services, IMI n°115446), the French National Center for Scientific Research (CNRS), the European Institute for Systems Biology and Medicine and the Luxembourg Center for Systems Biomedicine.
+
