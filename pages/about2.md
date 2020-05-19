@@ -76,7 +76,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 ## Funding
 
-The Disease Maps Community building was funded in part by [IMI eTRIKS n°115446](http://www.imi.europa.eu/projects-results/project-factsheets/etriks)
+The Disease Maps Project was funded in part by [IMI eTRIKS n°115446](http://www.imi.europa.eu/projects-results/project-factsheets/etriks)
 ([eTRIKS](https://www.etriks.org/), European Translational Information and Knowledge Management Services).
 
 The Parkinson’s Disease Map project is funded by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a> (LCSB): Institutional Funds and supported by a donation from <a href="http://www.oeuvre.lu/" target="_blank">L’ Œuvre Nationale de Secours Grande-Duchesse Charlotte</a>.  
