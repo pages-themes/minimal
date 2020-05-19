@@ -42,3 +42,7 @@ Northern Ireland Centre <br />for Stratified Medicine, School of Biomedical Scie
 <br />School of Biomedical Sciences</td>
 </tr>
 </table>
+
+### Funding
+
+This work was supported by European Union Regional Development Fund (ERDF) EU Sustainable Competitiveness Programme for N. Ire- land; the Northern Ireland Public Health Agency (Health and Social Care R&D); Ulster University [all to Professor Tony Bjourson]; and Microsoft Azure Research [CRM:0740357 to SW].
