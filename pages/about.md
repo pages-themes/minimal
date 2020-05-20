@@ -98,4 +98,4 @@ The Anaphylaxis Map development is supported by [MESR](http://www.mesr.public.lu
 
 The Meniere’s Disease Map is a project initiated as part of MD-CONNECT project funded by the [FNR INTER Mobility](https://www.fnr.lu/funding-instruments/inter-mobility/) and the Andalusian Health Department.  
 
-The Lung Disease Map is supported by the regional cancer organisation [Canceropole Lyon Auvergne Rhone Alpes](http://www.canceropole-clara.com/) (CLARA).  
+The Lung Cancer Disease Map is supported by the regional cancer organisation [Canceropole Lyon Auvergne Rhone Alpes](http://www.canceropole-clara.com/) (CLARA).  
