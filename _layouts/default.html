@@ -18,6 +18,8 @@
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% elsif site.use_github_avatar == true and site.github_username %}
+          <img src="https://github.com/{{ site.github_username }}.png" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
