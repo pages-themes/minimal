@@ -88,7 +88,7 @@ The AsthmaMap project is funded in part by the Innovative Medicines Initiative (
 
 The Cystic Fibrosis Map is supported by the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt/) through the PhD Grant ref. PD/BD/131405/2017.  
 
-The Atherosclerosis Map was supported by European Union Regional Development Fund (ERDF) EU Sustainable Competitiveness Programme for N. Ire- land; the Northern Ireland Public Health Agency (Health and Social Care R&D); Ulster University [all to Professor Tony Bjourson]; and Microsoft Azure Research [CRM:0740357 to SW].  
+The Atherosclerosis Map was supported by European Union Regional Development Fund (ERDF) EU Sustainable Competitiveness Programme for N. Ireland; the Northern Ireland Public Health Agency (Health and Social Care R&D); Ulster University; and Microsoft Azure Research (CRM:0740357).  
 
 The Multiple Sclerosis Map is being built on the network developed by Marti Bernardo in the context of the 7FP EU CombiMS project, with an input from 7FP EU <a href="http://www.combims.eu/" target="_blank">CombiMS</a> consortium members (Saez-Rodriguez et al., PLoS Comput Biol, 2007, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/17722974" target="_blank">17722974</a>). The network is currently being further refined and extended by Melanie Rinas at the Saez-Rodriguez group in the context of the EraSysMed Sys4MS project.  
 
