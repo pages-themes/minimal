@@ -19,9 +19,10 @@ permalink: /acutekidneyinjury
 <li>Describe the status of their hemodynamic network; and based on it,</li>
 <li>Predict the effect of drugs and drug combinations on blood pressure, and renal function.</li>
 </ul>
-<li>To carry out clinical validation and adjustment of the computerized model with data from patients subject to drug treatments.
+<li>To carry out clinical validation and adjustment of the computerized model with data from patients subject to drug treatments.</li>
 </ol>
-<p>The project will:<p>
+
+<p>The project will:</p>
 <ol>
 <li>Provide personalized treatment for hypertension and pain based on disease mechanisms knowledge.</li>
 <li>Integrate patient’s multidimensional and longitudinal data.</li>
