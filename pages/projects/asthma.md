@@ -146,5 +146,5 @@ Researcher</td>
 <li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/etriks" target="_blank">IMI eTRIKS n°115446</a></li>
 </ul>-->
 
-Funded in part by the Innovative Medicines Initiative (IMI) funded by the European Union and the European Federation of Pharmaceutical Industry Associations through U-BIOPRED (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes, n°115010) and eTRIKS (European Translational Information and Knowledge Management Services, IMI n°115446), the French National Center for Scientific Research (CNRS), the European Institute for Systems Biology and Medicine and the Luxembourg Center for Systems Biomedicine.
+The AsthmaMap project is funded in part by the Innovative Medicines Initiative (IMI) funded by the European Union and the European Federation of Pharmaceutical Industry Associations through [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes, n°115010) and [eTRIKS](https://www.etriks.org/) (European Translational Information and Knowledge Management Services, IMI n°115446), the French National Center for Scientific Research (CNRS), the European Institute for Systems Biology and Medicine and the Luxembourg Center for Systems Biomedicine.
 
