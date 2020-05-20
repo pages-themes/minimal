@@ -96,5 +96,9 @@ The Cognitive Resilience Map (adult neurogenesis) start-up phase is funded by th
 
 The Anathylaxis Map development is supported by [MESR](http://www.mesr.public.lu) and [FNR](http://www.fnr.lu).  
 
+The Meniere’s Disease Map is a project initiated as part of MD-CONNECT project funded by the [FNR INTER Mobility](https://www.fnr.lu/funding-instruments/inter-mobility/) and the Andalusian Health Department.  
+
+The Lung Disease Map is supported by the regional cancer organisation <a href="http://www.canceropole-clara.com/" target="_blank">Canceropole Lyon Auvergne Rhone Alpes</a> (CLARA).  
+
 
 
