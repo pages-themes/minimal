@@ -94,7 +94,7 @@ The Multiple Sclerosis Map is being built on the network developed by Marti Bern
 
 The Cognitive Resilience Map is supported by the Helmholtz Network of Excellence.  
 
-The Anathylaxis Map development is supported by [MESR](http://www.mesr.public.lu) and [FNR](http://www.fnr.lu).  
+The Anaphylaxis Map development is supported by [MESR](http://www.mesr.public.lu) and [FNR](http://www.fnr.lu).  
 
 The Meniere’s Disease Map is a project initiated as part of MD-CONNECT project funded by the [FNR INTER Mobility](https://www.fnr.lu/funding-instruments/inter-mobility/) and the Andalusian Health Department.  
 
