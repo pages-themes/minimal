@@ -220,6 +220,13 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
+  sidebar {
+    padding: initial;
+    display: initial;
+    height: initial;
+    overflow: initial;    
+  }
+
   div.wrapper {
     width:auto;
     margin:0;
