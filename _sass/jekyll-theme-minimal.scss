@@ -210,6 +210,10 @@ footer, .sidebar-footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+footer {
+  display: none;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
