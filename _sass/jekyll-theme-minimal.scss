@@ -214,6 +214,10 @@ footer {
   display: none;
 }
 
+.sidebar-footer {
+  flex-basis: content;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
