@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <sidebar>
+      <div class="sidebar">
         <header>
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
           
@@ -42,7 +42,7 @@
         <div class="sidebar-footer">
           {%- include footer.html -%}
         </div>
-      </sidebar>
+      </div>
       <section>
 
       {{ content }}
