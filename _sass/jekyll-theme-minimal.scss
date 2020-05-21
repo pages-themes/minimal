@@ -117,8 +117,16 @@ img {
   height: calc(100vh - 108px);
   overflow-x: hidden;
   overflow-y: scroll;
-  scrollbar-width: none; // Firefox
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
+}
+
+// Disables the scrollbar in Firefox
+// HTML-Proofer fails without "@-moz-document url-prefix()"
+// because scrollbar-width is still experimental in Firefox.
+@-moz-document url-prefix() {
+  .sidebar {
+    scrollbar-width: none;
+  }
 }
 
 .sidebar::-webkit-scrollbar {
