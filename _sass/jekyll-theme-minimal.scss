@@ -111,6 +111,10 @@ sidebar {
   -webkit-font-smoothing:subpixel-antialiased;
   top: 0;
   padding: 58px 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: calc(100vh - 108px);
 }
 
 ul.downloads {
