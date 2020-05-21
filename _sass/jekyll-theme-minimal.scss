@@ -104,7 +104,7 @@ img {
   max-width:100%;
 }
 
-sidebar {
+.sidebar {
   width:270px;
   float:left;
   position:fixed;
@@ -121,7 +121,7 @@ sidebar {
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
 }
 
-sidebar::-webkit-scrollbar {
+.sidebar::-webkit-scrollbar {
   /* Chrome, Safari, Edge */
   display: none;
 }
@@ -220,7 +220,7 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
-  sidebar {
+  .sidebar {
     padding: initial;
     display: initial;
     height: initial;
@@ -240,7 +240,7 @@ footer {
     margin:0;
   }
 
-  sidebar, section, footer {
+  .sidebar, section, footer {
     float:none;
     position:static;
     width:auto;
