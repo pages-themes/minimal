@@ -117,6 +117,13 @@ sidebar {
   height: calc(100vh - 108px);
   overflow-x: hidden;
   overflow-y: scroll;
+  scrollbar-width: none; // Firefox
+  -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
+}
+
+sidebar::-webkit-scrollbar {
+  /* Chrome, Safari, Edge */
+  display: none;
 }
 
 ul.downloads {
