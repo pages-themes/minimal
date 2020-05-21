@@ -115,6 +115,8 @@ sidebar {
   flex-direction: column;
   justify-content: space-between;
   height: calc(100vh - 108px);
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 ul.downloads {
