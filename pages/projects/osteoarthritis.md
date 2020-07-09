@@ -24,7 +24,7 @@ Rheumatologist and pain specialist, Head of the pain center, Cochin-Hotel Dieu H
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
-<td><strong>Anna Valdes, PhD</strong><br /><strong>University of Nottingham, UK</strong><br />
+<td><strong>Anna M. Valdes, PhD</strong><br /><strong>University of Nottingham, UK</strong><br />
 Associate Professor, Medicine and Health Sciences</td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ Associate Professor, Medicine and Health Sciences</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
-<td><strong>Joyce van Meurs, PhD</strong><br /><strong>Erasmus Medical Centre, Netherlands</strong><br />
+<td><strong>Joyce B. J. van Meurs, PhD</strong><br /><strong>Erasmus Medical Centre, Netherlands</strong><br />
 Associate Professor at the Erasmus Medical Centre, Rotterdam, Netherlands</td>
 </tr>
 </table>
