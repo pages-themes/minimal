@@ -44,7 +44,7 @@ New 'AsthmaMap' could redefine disease and personalize treatment for patients, 1
 </li>
 </ul>
 
-<h3 id="editorscommittee">AsthmaMap Editorial Panel</h3>
+### AsthmaMap Editorial Panel
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ Professor and Honorary Consultant Paediatrician in Paediatric Allergy and Respir
 </tr>
 </table>
 
-<h3 id="developersteam">AsthmaMap Development Team</h3>
+### AsthmaMap Development Team
 
 <table>
 <tr>
@@ -135,12 +135,23 @@ Head of the Laboratory for Translational Research and Personalized Medicine</td>
 Researcher</td>
 </tr>
 <tr>
+<td style="width: 105px;"><img src="../images/team/RupertOverall.jpg" alt="Rupert Overall" /></td>
+<td><strong>Rupert Overall, PhD</strong><br /><strong>German Center for Neurodegenerative Diseases (DZNE), Dresden, Germany</strong><br />
+Platform Leader, Cognitive Resilience Map</td>
+</tr>
+<tr>
 <td><img src="../images/team/CharlesAuffray.jpg" alt="Charles Auffray" /></td>
 <td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Research Director at CNRS, Founding Director of the EISBM</td>
 </tr>
 </table>
 
-<h3 id="funding">Funding</h3>
+### Modelling
+
+### AsthmaMap support in MINERVA
+
+
+
+### Funding
 <!--<ul>
 <li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred" target="_blank">IMI U-BIOPRED n°115010</a></li>
 <li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/etriks" target="_blank">IMI eTRIKS n°115446</a></li>
