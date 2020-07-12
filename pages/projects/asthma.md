@@ -120,6 +120,11 @@ Researcher</td>
 Research Intern</td>
 </tr>
 <tr>
+<td style="width: 105px;"><img src="../images/team/LudovicRoy.jpg" alt="Ludovic Roy" /></td>
+<td><strong>Ludovic Roy, MSc</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
+Researcher</td>
+</tr>
+<tr>
 <td><img src="../images/team/BertrandDeMeulder.jpg" alt="Bertrand De Meulder" /></td>
 <td><strong>Bertrand De Meulder, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
 Researcher</td>
