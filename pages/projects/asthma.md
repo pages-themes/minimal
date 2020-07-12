@@ -154,7 +154,7 @@ Platform Leader, Cognitive Resilience Map</td>
 
 <table>
 <tr>
-<td><img src="../images/team/JanHasenauer.jpg" alt="Jan Hasenauer" /></td>
+<td style="width: 105px;"><img src="../images/team/JanHasenauer.jpg" alt="Jan Hasenauer" /></td>
 <td><strong>Jan Hasenauer, PhD</strong><br /><strong>Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany</strong><br />
 Group Leader, Institute of Computational Biology</td>
 </tr>
@@ -174,7 +174,7 @@ Researcher</td>
 
 <table>
 <tr>
-<td><img src="../images/team/PiotrGawron.jpg" alt="Piotr Gawron" /></td>
+<td style="width: 105px;"><img src="../images/team/PiotrGawron.jpg" alt="Piotr Gawron" /></td>
 <td><strong>Piotr Gawron, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
