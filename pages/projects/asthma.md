@@ -147,9 +147,48 @@ Platform Leader, Cognitive Resilience Map</td>
 
 ### Modelling
 
+<table>
+<tr>
+<td><img src="../images/team/JanHasenauer.jpg" alt="Jan Hasenauer" /></td>
+<td><strong>Jan Hasenauer, PhD</strong><br /><strong>Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany</strong><br />
+Group Leader, Institute of Computational Biology</td>
+</tr>
+<tr>
+<td><img src="../images/team/ThomasLigon.jpg" alt="Thomas Ligon" /></td>
+<td><strong>Thomas Ligon, PhD</strong><br /><strong>Ludwig Maximilian University of Munich, Munich, Germany</strong><br />
+Guest Scientist, Faculty of Physics and Center for NanoScience</td>
+</tr>
+<tr>
+<td><img src="../images/team/IrinaBalaur.jpg" alt="Irina Balaur" /></td>
+<td><strong>Irina Balaur, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
+Researcher</td>
+</tr>
+</table>
+
 ### AsthmaMap support in MINERVA
 
-
+<table>
+<tr>
+<td><img src="../images/team/PiotrGawron.jpg" alt="Piotr Gawron" /></td>
+<td><strong>Piotr Gawron, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<!--<tr>
+<td><img src="../images/team/RudiBalling.jpg" alt="Rudi Balling" /></td>
+<td><strong>Rudi Balling, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Director, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>-->
+<tr>
+<td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
+<td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+</table>
 
 ### Funding
 <!--<ul>
