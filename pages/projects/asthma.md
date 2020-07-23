@@ -35,14 +35,13 @@ permalink: /asthma
 
 Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
 
-<h3 id="press release">Press release</h3>
-
+<!--### Press release
 <ul>
 <li>
 New 'AsthmaMap' could redefine disease and personalize treatment for patients, 12th March 2016, European Lung Foundation. 
 <a href="http://www.europeanlung.org/en/news-and-events/media-centre/press-releases/new-%E2%80%9Casthmamap%E2%80%9D-could-redefine-disease-and-personalise-treatment-for-patients" target="_blank">Read...</a>
 </li>
-</ul>
+</ul>-->
 
 ### AsthmaMap Editorial Panel
 
