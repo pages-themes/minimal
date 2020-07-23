@@ -145,6 +145,10 @@ Researcher</td>
 Platform Leader, Cognitive Resilience Map</td>
 </tr>
 <tr>
+<td><img src="../images/team/JohannPellet.jpg" alt="Johann Pellet" /></td>
+<td><strong>Johann Pellet, MSc</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Researcher</td>
+</tr>
+<tr>
 <td><img src="../images/team/CharlesAuffray.jpg" alt="Charles Auffray" /></td>
 <td><strong>Charles Auffray, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />Research Director at CNRS, Founding Director of the EISBM</td>
 </tr>
@@ -183,15 +187,15 @@ Researcher</td>
 <td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Researcher, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
-<!--<tr>
-<td><img src="../images/team/RudiBalling.jpg" alt="Rudi Balling" /></td>
-<td><strong>Rudi Balling, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
-</strong><br />Director, Luxembourg Centre for Systems Biomedicine<br /></td>
-</tr>-->
 <tr>
 <td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/RudiBalling.jpg" alt="Rudi Balling" /></td>
+<td><strong>Rudi Balling, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
+</strong><br />Director, Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 </table>
 
