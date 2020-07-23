@@ -166,11 +166,11 @@ Group Leader, Institute of Computational Biology</td>
 <td><strong>Thomas Ligon, PhD</strong><br /><strong>Ludwig Maximilian University of Munich, Munich, Germany</strong><br />
 Guest Scientist, Faculty of Physics and Center for NanoScience</td>
 </tr>
-<tr>
+<!--<tr>
 <td><img src="../images/team/IrinaBalaur.jpg" alt="Irina Balaur" /></td>
 <td><strong>Irina Balaur, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
 Researcher</td>
-</tr>
+</tr>-->
 </table>
 
 ### AsthmaMap support in MINERVA
