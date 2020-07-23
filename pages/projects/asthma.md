@@ -105,7 +105,7 @@ Professor and Honorary Consultant Paediatrician in Paediatric Allergy and Respir
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
-<td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</strong><br />
+<td><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
 Researcher</td>
 </tr>
 <tr>
