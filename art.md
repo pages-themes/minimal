@@ -1,10 +1,8 @@
 ---
 layout: default
-title:  "Art"
+title: "Art"
 categories: [Art]
-
 ---
-
 
 <ul>
   {% for post in site.categories.Art %}

@@ -1,9 +1,8 @@
 ---
 layout: default
-title:  "Audio"
+title: "Audio"
 categories: [Audio]
 ---
-
 
 <ul>
   {% for post in site.categories.Audio %}

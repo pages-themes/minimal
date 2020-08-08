@@ -1,10 +1,9 @@
 ---
 layout: default
-title:  "Projects"
-date:   2020-04-24 20:03:11
+title: "Projects"
+date: 2020-04-24 20:03:11
 categories: [Projects]
 ---
-
 
 <ul>
   {% for post in site.categories.Projects %}

@@ -1,9 +1,8 @@
 ---
 layout: default
-title:  "Video Archives"
+title: "Video Archives"
 categories: [Video]
 ---
-
 
 <ul>
   {% for post in site.categories.Video %}

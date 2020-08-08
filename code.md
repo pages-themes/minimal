@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Code Snippet Samples"
+title: "Code Snippet Samples"
 categories: [Code]
 ---
 
