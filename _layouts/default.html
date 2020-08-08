@@ -33,22 +33,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
-        
-        {% if site.logo %}
-       <a href="{{ "/" | absolute_url }}"><img class="logo" src="https://image-control-storage.s3.amazonaws.com/ce_logo.png" /></a>
-       <!--   <img src="{{site.logo | relative_url}}" alt="Logo" />-->
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <hr>
-
-     
-        <i class="fab fa-twitter"></i><i class="fab fa-facebook"></i><i class="fab fa-github"></i><i class="fab fa-pinterest"></i><i class="fab fa-instagram"></i>
-      </header>
-      <div class="navigation">
+        <div class="navigation">
     <div class="container">
      
       <div class="navbar">
@@ -80,6 +65,22 @@
     </div>
   </div>
 
+      <header>
+        <!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
+        
+        {% if site.logo %}
+       <a href="{{ "/" | absolute_url }}"><img class="logo" src="https://image-control-storage.s3.amazonaws.com/ce_logo.png" /></a>
+       <!--   <img src="{{site.logo | relative_url}}" alt="Logo" />-->
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <hr>
+
+     
+        <i class="fab fa-twitter"></i><i class="fab fa-facebook"></i><i class="fab fa-github"></i><i class="fab fa-pinterest"></i><i class="fab fa-instagram"></i>
+      </header>
+    
   <div class="container">
    
 
