@@ -61,14 +61,20 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 <td><strong>Konstantin Cesnulevicius, MD, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Senior Medical Advisor Systems Biology/Systems Medicine, Department of Medical Affairs & Research<br /></td>
 </tr>
+<tr>
+<td><img src="../images/team/KathrinHemmer.jpg" alt="Kathrin Hemmer" /></td>
+<td><strong>Kathrin Hemmer, PhD</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Preclinical Project Manager, Department of Medical Affairs & Research<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/AndreaMueller.jpg" alt="Andrea Mueller" /></td>
+<td><strong>Andrea Mueller, PhD</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Systems Research Manager, Department of Medical Affairs & Research<br /></td>
+</tr>
 </table>
 
 
 
-
-Konstantin Cesnulevicius, MD, PhD
-Heel GmbH, Germany
-Senior Medical Advisor Systems Biology/Systems Medicine, Department of Medical Affairs & Research
 
 Kathrin Hemmer, PhD
 Heel GmbH, Germany
