@@ -29,7 +29,7 @@ Associate Professor<br />Expert in genetic epidemiology of osteoarthritis and ch
 <tr>
 <td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
 <td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hôspital Cochin, Paris, France</strong><br />
-Rheumatologist and Pain Specialist, Head of the Pain Center<br />Professor of Clinical Pharmacology, Paris Descartes University<br />Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
+Rheumatologist and Pain Specialist, Head of the Pain Center<br /><!--Professor of Clinical Pharmacology, Paris Descartes University<br />-->Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
@@ -55,6 +55,11 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 <td><img src="../images/team/ReinhardSchneider.jpg" alt="Reinhard Schneider" /></td>
 <td><strong>Reinhard Schneider, PhD</strong><br /><strong>University of Luxembourg, Luxembourg
 </strong><br />Head of the Bioinformatics Core at the Luxembourg Centre for Systems Biomedicine<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/KonstantinCesnulevicius.jpg" alt="Konstantin Cesnulevicius" /></td>
+<td><strong>Konstantin Cesnulevicius, MD, PhD</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Senior Medical Advisor Systems Biology/Systems Medicine, Department of Medical Affairs & Research<br /></td>
 </tr>
 </table>
 
