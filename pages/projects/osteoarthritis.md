@@ -29,7 +29,7 @@ Associate Professor<br />Expert in genetic epidemiology of osteoarthritis and ch
 <tr>
 <td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
 <td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hôspital Cochin, Paris, France</strong><br />
-Rheumatologist and Pain Specialist, Head of the Pain Center<br />Professor of Clinical Pharmacology, Paris Descartes University, INSERM Research Unit 987, Paris, France<br />Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
+Rheumatologist and Pain Specialist, Head of the Pain Center<br />Professor of Clinical Pharmacology, Paris Descartes University<br />Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
