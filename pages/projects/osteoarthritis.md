@@ -71,27 +71,22 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 <td><strong>Andrea Mueller, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Systems Research Manager, Department of Medical Affairs & Research<br /></td>
 </tr>
+<tr>
+<td><img src="../images/team/MyronSchultz.jpg" alt="Myron Schultz" /></td>
+<td><strong>Myron Schultz, MDipH</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Head of Medicine, Department of Medical Affairs & Research<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/MyronSchultz.jpg" alt="Myron Schultz" /></td>
+<td><strong>Myron Schultz, MDipH</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Head of Medicine, Department of Medical Affairs & Research<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/BerndSeilheimer.jpg" alt="Bernd Seilheimer" /></td>
+<td><strong>Bernd Seilheimer, PhD</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Head of Systems Research and Development, Department of Medical Affairs & Research<br /></td>
+</tr>
 </table>
-
-
-
-
-Kathrin Hemmer, PhD
-Heel GmbH, Germany
-Preclinical Project Manager, Department of Medical Affairs & Research
-
-Andrea Mueller, PhD
-Heel GmbH, Germany
-Systems Research Manager, Department of Medical Affairs & Research
-
-Myron Schultz, MDipH
-Heel GmbH, Germany
-Head of Medicine, Department of Medical Affairs & Research
-
-Bernd Seilheimer, PhD
-Heel GmbH, Germany
-Head of Systems Research and Development, Department of Medical Affairs & Research
-
 
 ### Funding
 
