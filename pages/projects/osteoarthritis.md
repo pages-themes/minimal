@@ -6,7 +6,7 @@ permalink: /osteoarthritis
 
 # Osteoarthritis
 
-## KneePainMap
+## KneePainOAMap
 
 Osteoarthritis (OA) is the most common form of arthritis in the knee affecting middle age to elderly populations. OA is considered as a complex disease of the entire joint, including the loss of cartilage, alterations in subchondral bone, deterioration of tendons and ligaments, and various degrees of inflammation of the synovium, eventually leading to joint failure.  
 
@@ -19,7 +19,7 @@ The map will capture osteoarthritis mechanisms relating to degeneration together
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/FrancisBerenbaum.jpg" alt="Francis Berenbaum"/></td>
-<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne Université, France</strong><br />Academic rheumatologist at the University Pierre and Marie Curie (UPMC), Paris, France<br />Expert in the field of inflammatory arthritis, mainly rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, and from osteoarthritis</td>
+<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne Université, Paris, France</strong><br />Academic rheumatologist at the University Pierre and Marie Curie (UPMC)<br />Expert in the field of inflammatory arthritis, mainly rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, and from osteoarthritis</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
@@ -38,7 +38,7 @@ Associate Professor, Medicine and Health Sciences<br />Expert in Bioinformatics,
 </tr>
 </table>
 
-### Development Team
+### KneePainOAMap Development Team
 
 <table>
 <tr>
