@@ -14,6 +14,10 @@ One of the symptomatic hallmarks of OA is pain assessed mostly based on its inte
 
 The map will capture osteoarthritis mechanisms relating to degeneration together with various pain phenotypes and thereby enhance our understanding of painful knee OA. It is expected to build detailed molecular layers of interconnected signalling as well as metabolic and gene regulatory pathways covering hallmarks of the disease mechanism annotated by published evidence, discussed and consolidated with scientific and clinical experts in the field. Our objective is to identify dysregulated networks and possible recovery mechanisms for pharmacological interventions.  
 
+### Contact
+
+To discuss the project and contribute to the effort, please contact Dr. Bernd Seilheimer at [bernd.seilheimer@heel.com](mailto:bernd.seilheimer@heel.com).
+
 ### Scientific and Clinical Osteoarthritis Expert Panel
 
 <table>
