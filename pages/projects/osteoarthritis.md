@@ -77,11 +77,6 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </strong><br />Head of Medicine, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/MyronSchultz.jpg" alt="Myron Schultz" /></td>
-<td><strong>Myron Schultz, MDipH</strong><br /><strong>Heel GmbH, Germany
-</strong><br />Head of Medicine, Department of Medical Affairs & Research<br /></td>
-</tr>
-<tr>
 <td><img src="../images/team/BerndSeilheimer.jpg" alt="Bernd Seilheimer" /></td>
 <td><strong>Bernd Seilheimer, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Head of Systems Research and Development, Department of Medical Affairs & Research<br /></td>
