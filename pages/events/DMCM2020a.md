@@ -25,9 +25,6 @@ DMCM2019: **12-14 November 2020**
 <td style="width: 300px;"><p style="margin:4px;"><img src="/images/teamhq/VassiliSoumelin.jpg" width="140"/></p></td>
 <td style="width: 300px;"><p style="margin:4px;"><img src="/images/teamhq/OlivierLantz.jpg" width="140"/></p></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td style="width: 300px;"><p style="margin:4px;"><strong>Vassili Soumelin, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
 <td style="width: 300px;"><p style="margin:4px;"><strong>Olivier Lantz, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institut Curie, Paris, France</font></p><br /></td>
