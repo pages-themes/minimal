@@ -1,0 +1,74 @@
+---
+title: DMCM2020
+layout: default
+permalink: /DMCM2020a
+---
+
+
+
+<img src="../images/places/covid-19-banner.jpg"/>
+
+The 2020 community meeting is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project and is organised as a web confernece by the <a target="_blank" href="https://wwwen.uni.lu/lcsb">Luxembourg Centre for Systems Biomedicine</a>.
+
+## Key dates
+
+Abstract submission deadline: **15 October 2020**  
+Acceptance notification: **20 October 2020**  
+Final program: **1 November 2020**  
+DMCM2019: **12-14 November 2020**  
+
+
+## Keynote speakers
+
+<table>
+<tr>
+<td style="width: 130px;"><img src="../images/teamhq/VassiliSoumelin.jpg" alt="Vassili Soumelin" width="130"/></td>
+<td><strong>Vassili Soumelin, MD, PhD, Hôpital St Louis, Paris, France</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Text</p></td>
+</tr>
+</table>
+
+## Invited speakers
+
+<table>
+<tr>
+<td style="width: 130px;"><img src="../images/teamhq/OlivierLantz.jpg" alt="Olivier Lantz" width="130"/></td>
+<td><strong>Olivier Lantz, MD, PhD, Institut Curie, Paris, France</strong><p style="line-height:150%; font-size:13px; padding-top:6px; text-align:justify">Text</p></td>
+</tr>
+</table>
+
+## Programme
+
+In preparation.
+
+## Abstract submission
+
+Abstract submission is not open yet.  
+
+## Registration
+
+Registration is not open yet.
+
+## Organisers
+
+### Event organisers
+
+<p><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
+<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>  
+</p>
+
+### Disease Maps Project Coordinators
+
+<p><a href="mailto:a.mazein@gmail.com">Alexander Mazein</a>
+<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
+<br /><a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>
+<br /><a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>
+<br /><a href="mailto:andrei.zinovyev@curie.fr">Andrei Zinovyev</a>
+<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
+<br /><a href="mailto:emmanuel.barillot@curie.fr ">Emmanuel Barillot</a>
+<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
+<br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
+</p>
+
+<!--## Contact-->
+
+<!--## Co-organizers-->
