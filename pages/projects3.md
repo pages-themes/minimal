@@ -15,12 +15,10 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <table>
 <tr>
 <td style="width:340px;"><a href="https://covid.pages.uni.lu/"><img src="/images/projects/covid-19.jpg"/></a></td>
-<td style="width: 0px;"> </td>
 <td style="width:340px;"> </td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
 </table>
