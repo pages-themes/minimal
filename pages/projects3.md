@@ -23,6 +23,9 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
+</table>
+        
+<table>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:16px;">
