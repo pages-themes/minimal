@@ -36,7 +36,7 @@ Suggest contribution: <a href="https://docs.google.com/spreadsheets/d/1dBd7zhgw1
 
 <!--<p>PUBLICATION: <strong> COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms.</strong> Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. Sci Data. 2020 May 5;7(1):136. <a href="https://doi.org/10.1038/s41597-020-0477-8">doi: 10.1038/s41597-020-0477-8</a>. PubMed <a href="https://www.ncbi.nlm.nih.gov/pubmed/32371892">PMID: 32371892</a></p>-->
         
-<p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 as a web conference and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.</p>
+<p>UPCOMING EVENT: The <strong><a href="/events">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 as a web conference and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.</p>
 
 <!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>-->
 
