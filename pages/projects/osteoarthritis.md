@@ -1,5 +1,5 @@
 ---
-title: Osteoarthritis
+title: Osteoarthritis of the knee
 layout: default
 permalink: /osteoarthritis
 ---
