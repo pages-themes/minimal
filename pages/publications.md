@@ -29,7 +29,7 @@ Sci Data. 2020 May 5;7(1):136. [doi: 10.1038/s41597-020-0477-8](https://doi.org/
 Serhan CN, Gupta SK, Perretti M, Godson C, Brennan E, Li Y, Soehnlein O, Shimizu T, Werz O, Chiurchiù V, Azzi A, Dubourdeau M, Gupta SS, Schopohl P, Hoch M, Gjorgevikj D, Khan FM, Brauer D, Tripathi A, Cesnulevicius K, Lescheid D, Schultz M, Särndahl E, Repsilber D, Kruse R, Sala A, Haeggström JZ, Levy BD, Filep JG, Wolkenhauer O.  
 Mol Aspects Med. 2020 Aug;74:100894. [doi: 10.1016/j.mam.2020.100894](https://doi.org/10.1016/j.mam.2020.100894). Epub 2020 Sep 3. [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032).
 
-**Comprehensive Map of the Regulated Cell Death Signaling Network: A Powerful Analytical Tool for Studying Diseases.**  
+**Comprehensive map of the regulated cell death signaling network: a powerful analytical tool for studying diseases.**  
 Ravel JM, Monraz Gomez LC, Sompairac N, Calzone L, Zhivotovsky B, Kroemer G, Barillot E, Zinovyev A, Kuperstein I.  
 Cancers (Basel). 2020 Apr 17;12(4). pii: E990. [doi: 10.3390/cancers12040990](https://doi.org/10.3390/cancers12040990). PubMed [PMID: 32316560](https://www.ncbi.nlm.nih.gov/pubmed/32316560).
 
@@ -45,7 +45,7 @@ Bioinformatics. 2018 Dec 6. [doi: 10.1093/bioinformatics/bty980](https://doi.org
 Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team.  
 Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
 
-**Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model.**  
+**Computational systems biology approach for the study of rheumatoid arthritis: from a molecular map to a dynamical model.**  
 Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A.  
 Genom Comput Biol. 2018;4(1). pii: e100050. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). Epub 2017 Dec 6. PubMed [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575). 
 
