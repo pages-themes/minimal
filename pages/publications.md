@@ -6,51 +6,84 @@ permalink: /publications
 
 # Publications
 
-
-
 ## Key community papers
 
-Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira MM, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C. Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms. NPJ Syst Biol Appl. 2018 Jun 2;4:21. [doi: 10.1038/s41540-018-0059-y](https://doi.org/10.1038/s41540-018-0059-y). eCollection 2018. PubMed [PMID: 29872544](https://www.ncbi.nlm.nih.gov/pubmed/29872544).
+**Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms.**  
+Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novère N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira MM, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C.  
+NPJ Syst Biol Appl. 2018 Jun 2;4:21. [doi: 10.1038/s41540-018-0059-y](https://doi.org/10.1038/s41540-018-0059-y). eCollection 2018. PubMed [PMID: 29872544](https://www.ncbi.nlm.nih.gov/pubmed/29872544).
 
-Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R. Community-driven roadmap for integrated disease maps. Brief Bioinform. 2019 Mar 25;20(2):659-670. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
+**Community-driven roadmap for integrated disease maps.**  
+Ostaszewski M, Gebel S, Kuperstein I, Mazein A, Zinovyev A, Dogrusoz U, Hasenauer J, Fleming RMT, Le Novère N, Gawron P, Ligon T, Niarakis A, Nickerson D, Weindl D, Balling R, Barillot E, Auffray C, Schneider R.  
+Brief Bioinform. 2019 Mar 25;20(2):659-670. [doi: 10.1093/bib/bby024](https://doi.org/10.1093/bib/bby024). PubMed [PMID: 29688273](https://www.ncbi.nlm.nih.gov/pubmed/29688273).  
 
 ## COVID-19 Disease Map open community project
 
-Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms. Sci Data. 2020 May 5;7(1):136. [doi: 10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8). PubMed [PMID: 32371892](https://www.ncbi.nlm.nih.gov/pubmed/32371892).
+**COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms.**  
+Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R.  
+Sci Data. 2020 May 5;7(1):136. [doi: 10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8). PubMed [PMID: 32371892](https://www.ncbi.nlm.nih.gov/pubmed/32371892).
 
 ## Selected publications of the community members
  
 ### Disease maps
+**The Atlas of Inflammation Resolution (AIR).**  
+Serhan CN, Gupta SK, Perretti M, Godson C, Brennan E, Li Y, Soehnlein O, Shimizu T, Werz O, Chiurchiù V, Azzi A, Dubourdeau M, Gupta SS, Schopohl P, Hoch M, Gjorgevikj D, Khan FM, Brauer D, Tripathi A, Cesnulevicius K, Lescheid D, Schultz M, Särndahl E, Repsilber D, Kruse R, Sala A, Haeggström JZ, Levy BD, Filep JG, Wolkenhauer O.  
+Mol Aspects Med. 2020 Aug;74:100894. [doi: 10.1016/j.mam.2020.100894](https://doi.org/10.1016/j.mam.2020.100894). Epub 2020 Sep 3. [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032).
 
-Ravel JM, Monraz Gomez LC, Sompairac N, Calzone L, Zhivotovsky B, Kroemer G, Barillot E, Zinovyev A, Kuperstein I. Comprehensive Map of the Regulated Cell Death Signaling Network: A Powerful Analytical Tool for Studying Diseases. Cancers (Basel). 2020 Apr 17;12(4). pii: E990. [doi: 10.3390/cancers12040990](https://doi.org/10.3390/cancers12040990). PubMed [PMID: 32316560](https://www.ncbi.nlm.nih.gov/pubmed/32316560).
+**Comprehensive Map of the Regulated Cell Death Signaling Network: A Powerful Analytical Tool for Studying Diseases.**  
+Ravel JM, Monraz Gomez LC, Sompairac N, Calzone L, Zhivotovsky B, Kroemer G, Barillot E, Zinovyev A, Kuperstein I.  
+Cancers (Basel). 2020 Apr 17;12(4). pii: E990. [doi: 10.3390/cancers12040990](https://doi.org/10.3390/cancers12040990). PubMed [PMID: 32316560](https://www.ncbi.nlm.nih.gov/pubmed/32316560).
 
-Singh V, Kalliolias GD, Ostaszewski M, Veyssiere M, Pilalis E, Gawron P, Mazein A, Bonnet E, Petit-Teixeira E, Niarakis A. RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis. Database (Oxford). 2020 Jan 1;2020. pii: baaa017. [doi: 10.1093/database/baaa017](https://doi.org/10.1093/database/baaa017). PubMed [PMID: 32311035](https://www.ncbi.nlm.nih.gov/pubmed/32311035).
+**RA-map: building a state-of-the-art interactive knowledge base for rheumatoid arthritis.**  
+Singh V, Kalliolias GD, Ostaszewski M, Veyssiere M, Pilalis E, Gawron P, Mazein A, Bonnet E, Petit-Teixeira E, Niarakis A.  
+Database (Oxford). 2020 Jan 1;2020. pii: baaa017. [doi: 10.1093/database/baaa017](https://doi.org/10.1093/database/baaa017). PubMed [PMID: 32311035](https://www.ncbi.nlm.nih.gov/pubmed/32311035).
 
-Parton A, McGilligan V, Chemaly M, O'Kane M, Watterson S. New models of atherosclerosis and multi-drug therapeutic interventions. Bioinformatics. 2018 Dec 6. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). PubMed [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978).  
+**New models of atherosclerosis and multi-drug therapeutic interventions.**  
+Parton A, McGilligan V, Chemaly M, O'Kane M, Watterson S.  
+Bioinformatics. 2018 Dec 6. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). PubMed [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978).  
 
-Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
+**AsthmaMap: An expert-driven computational representation of disease mechanisms.**  
+Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team.  
+Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
 
-Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A. Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model. Genom Comput Biol. 2018;4(1). pii: e100050. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). Epub 2017 Dec 6. PubMed [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575). 
+**Computational Systems Biology Approach for the Study of Rheumatoid Arthritis: From a Molecular Map to a Dynamical Model.**  
+Singh V, Ostaszewski M, Kalliolias GD, Chiocchia G, Olaso R, Petit-Teixeira E, Helikar T, Niarakis A.  
+Genom Comput Biol. 2018;4(1). pii: e100050. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). Epub 2017 Dec 6. PubMed [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575). 
 
-Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. [doi: 10.1038/oncsis.2015.19](https://doi.org/10.1038/oncsis.2015.19). PubMed [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618).  
+**Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps.**  
+Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A.  
+Oncogenesis. 2015 Jul 20;4:e160. [doi: 10.1038/oncsis.2015.19](https://doi.org/10.1038/oncsis.2015.19). PubMed [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618).  
 
-Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. PubMed [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).  
+**Integrating pathways of Parkinson's disease in a molecular interaction map.**  
+Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R.  
+Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. PubMed [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).  
 
 ### Map construction technology
 
-Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. [doi:10.1093/database/bay036](https://doi.org/10.1093/database/bay036). PubMed [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
+**Signalling maps in cancer research: construction and data analysis.**  
+Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I.  
+Database (Oxford). 2018 Jan 1;2018. [doi:10.1093/database/bay036](https://doi.org/10.1093/database/bay036). PubMed [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
 
 ### Applications of disease maps
 
-Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2018 May 3. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). PubMed [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
+**Application of Atlas of Cancer Signalling Network in preclinical studies.**  
+Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I.  
+Brief Bioinform. 2018 May 3. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). PubMed [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
 
-Jdey W, Thierry S, Russo C, Devun F, Al Abo M, Noguiez-Hellin P, Sun JS, Barillot E, Zinovyev A, Kuperstein I, Pommier Y, Dutreix M. Drug-Driven Synthetic Lethality: Bypassing Tumor Cell Genetics with a Combination of AsiDNA and PARP Inhibitors. Clin Cancer Res. 2017 Feb 15;23(4):1001-1011. [doi: 10.1158/1078-0432.CCR-16-1193](https://doi.org/10.1158/1078-0432.CCR-16-1193). Epub 2016 Aug 24. PubMed [PMID: 27559053](https://www.ncbi.nlm.nih.gov/pubmed/27559053).  
+**Drug-driven synthetic lethality: bypassing tumor cell genetics with a combination of AsiDNA and PARP inhibitors.**  
+Jdey W, Thierry S, Russo C, Devun F, Al Abo M, Noguiez-Hellin P, Sun JS, Barillot E, Zinovyev A, Kuperstein I, Pommier Y, Dutreix M.  
+Clin Cancer Res. 2017 Feb 15;23(4):1001-1011. [doi: 10.1158/1078-0432.CCR-16-1193](https://doi.org/10.1158/1078-0432.CCR-16-1193). Epub 2016 Aug 24. PubMed [PMID: 27559053](https://www.ncbi.nlm.nih.gov/pubmed/27559053).  
 
-Satagopam V, Gu W, Eifes S, Gawron P, Ostaszewski M, Gebel S, Barbosa-Silva A, Balling R, Schneider R. Integration and Visualization of Translational Medicine Data for Better Understanding of Human Diseases. Big Data. 2016 Jun;4(2):97-108. [doi: 10.1089/big.2015.0057](https://doi.org/10.1089/big.2015.0057). PubMed [PMID: 27441714](https://www.ncbi.nlm.nih.gov/pubmed/27441714).
+**Integration and visualization of translational medicine data for better understanding of human diseases.**  
+Satagopam V, Gu W, Eifes S, Gawron P, Ostaszewski M, Gebel S, Barbosa-Silva A, Balling R, Schneider R.  
+Big Data. 2016 Jun;4(2):97-108. [doi: 10.1089/big.2015.0057](https://doi.org/10.1089/big.2015.0057). PubMed [PMID: 27441714](https://www.ncbi.nlm.nih.gov/pubmed/27441714).
 
-Kuperstein I, Grieco L, Cohen DP, Thieffry D, Zinovyev A, Barillot E. The shortest path is not the one you know: application of biological network resources in precision oncology research. Mutagenesis. 2015 Mar;30(2):191-204. [doi:10.1093/mutage/geu078](https://doi.org/10.1093/mutage/geu078). Review. PubMed [PMID: 25688112](https://www.ncbi.nlm.nih.gov/pubmed/25688112).  
+**The shortest path is not the one you know: application of biological network resources in precision oncology research.**  
+Kuperstein I, Grieco L, Cohen DP, Thieffry D, Zinovyev A, Barillot E.  
+Mutagenesis. 2015 Mar;30(2):191-204. [doi:10.1093/mutage/geu078](https://doi.org/10.1093/mutage/geu078). Review. PubMed [PMID: 25688112](https://www.ncbi.nlm.nih.gov/pubmed/25688112).  
 
-Chanrion M, Kuperstein I, Barrière C, El Marjou F, Cohen D, Vignjevic D, Stimmer L, Paul-Gilloteaux P, Bièche I, Tavares Sdos R, Boccia GF, Cacheux W, Meseure D, Fre S, Martignetti L, Legoix-Né P, Girard E, Fetler L, Barillot E, Louvard D, Zinovyev A, Robine S. Concomitant Notch activation and p53 deletion trigger epithelial-to-mesenchymal transition and metastasis in mouse gut. Nat Commun. 2014 Oct 8;5:5005. [doi:10.1038/ncomms6005](https://doi.org/10.1038/ncomms6005). PubMed [PMID: 25295490](https://www.ncbi.nlm.nih.gov/pubmed/25295490).  
+**Concomitant Notch activation and p53 deletion trigger epithelial-to-mesenchymal transition and metastasis in mouse gut.**  
+Chanrion M, Kuperstein I, Barrière C, El Marjou F, Cohen D, Vignjevic D, Stimmer L, Paul-Gilloteaux P, Bièche I, Tavares Sdos R, Boccia GF, Cacheux W, Meseure D, Fre S, Martignetti L, Legoix-Né P, Girard E, Fetler L, Barillot E, Louvard D, Zinovyev A, Robine S.  
+Nat Commun. 2014 Oct 8;5:5005. [doi:10.1038/ncomms6005](https://doi.org/10.1038/ncomms6005). PubMed [PMID: 25295490](https://www.ncbi.nlm.nih.gov/pubmed/25295490).  
 
 ### Tools
 
