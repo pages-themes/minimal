@@ -95,7 +95,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
         </p></td>
 </tr>
