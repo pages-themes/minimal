@@ -38,8 +38,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank">PubMed</a>
+        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
@@ -48,8 +47,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383" target="_blank">PubMed</a><br />
-        Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -65,7 +63,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
         Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
@@ -74,7 +72,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
