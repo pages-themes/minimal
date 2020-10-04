@@ -13,8 +13,9 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <!--The following are the active projects, starting with published maps.-->
 
 <a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19.jpg" width="340px"/></a>
+
 <table>
-<tr style="height:180px;">
+<!--<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="white">COVID-19</font></a></strong></p>
@@ -29,8 +30,8 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
-</tr>
-<tr style="height:180px;">
+</tr>-->
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
@@ -56,7 +57,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
@@ -81,7 +82,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
@@ -105,7 +106,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
@@ -127,7 +128,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
@@ -149,7 +150,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
@@ -171,7 +172,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-<tr style="height:180px;">
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
