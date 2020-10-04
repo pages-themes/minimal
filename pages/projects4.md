@@ -32,7 +32,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:12px;">
         <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a><br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a><br /></p>
         </td>
 <td style="width: 0px;"> 
         </td>
@@ -42,8 +42,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:12px;">
         Rheumatoid Arthritis Map<br />
         Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
-        </p>
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br /></p>
         </td>
 </tr>
 </table>
