@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projects
+permalink: /projects/
 ---
 
 # Projects
@@ -12,7 +12,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 <!--The following are the active projects, starting with published maps.-->
 
-<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19.jpg" width="338px"/></a>
+<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19.jpg" width="340px"/></a>
 <table>
 <tr style="height:180px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
