@@ -38,7 +38,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
