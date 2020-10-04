@@ -191,8 +191,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 <br />
 
-As a list, in alphabetical order:  
-
+<!--As a list, in alphabetical order:  
 <ul style="list-style-type:none; line-height:175%;">
 <li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
 <li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
@@ -208,7 +207,7 @@ As a list, in alphabetical order:
 <li><a href="/parkinsons">Parkinson's disease</a></li>
 <li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
 <li><a href="/spinalcordinjury">Spinal cord injury</a></li>
-</ul>
+</ul>-->
 
 New projects being discussed:  
 
