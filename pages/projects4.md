@@ -19,7 +19,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:12px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
+        <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a><br />
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27441714" target="_blank">PubMed</a>
@@ -29,7 +29,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:12px;">
-        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+        <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26192618+29688383" target="_blank">PubMed</a><br />
         Applications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
@@ -39,7 +39,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="margin:10px; font-size:16px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:12px;">
-        Resource: Rheumatoid Arthritis Map<br />
+        Rheumatoid Arthritis Map<br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
         Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
