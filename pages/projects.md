@@ -152,7 +152,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Duchenne Muscular Dystrophy Map<br />
