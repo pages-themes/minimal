@@ -16,7 +16,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <table>
 <tr style="height:140px;">
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:6px; font-size:16px;">
+        <p style="margin:10px; font-size:16px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:12px;">
         <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
@@ -27,7 +27,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> 
         </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:6px; font-size:16px;">
+        <p style="margin:10px; font-size:16px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:12px;">
         <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
@@ -37,7 +37,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 0px;"> 
         </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:6px; font-size:16px;">
+        <p style="margin:10px; font-size:16px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:12px;">
         Rheumatoid Arthritis Map<br />
