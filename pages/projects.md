@@ -62,7 +62,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Rheumatoid Arthritis Map<br />
+        Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
         Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France<br />
         Publication: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
