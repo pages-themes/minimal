@@ -33,7 +33,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>-->
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
@@ -43,7 +43,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
@@ -59,7 +59,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Rheumatoid Arthritis Map<br />
@@ -69,7 +69,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
@@ -84,7 +84,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Cystic Fibrosis Map<br />
@@ -92,7 +92,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Atherosclerosis Map<br />
@@ -108,7 +108,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
@@ -116,7 +116,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Multiple Sclerosis Pathway Map<br />
@@ -130,7 +130,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Cognitive Resilience Map<br />
@@ -138,7 +138,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Anaphylaxis Map<br />
@@ -160,7 +160,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Meniere’s Disease Map<br />
@@ -174,7 +174,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 </tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Spinal Cord Injury Map<br />
@@ -182,7 +182,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:16px;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Lung Cancer Disease Map<br />
