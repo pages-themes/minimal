@@ -25,7 +25,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 
 <br />
 
-<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19.jpg" width="337px"/></a>
+<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19.jpg" width="338px"/></a>
         
 <table>
 <tr style="height:180px;">
