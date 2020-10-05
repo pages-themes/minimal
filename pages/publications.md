@@ -56,7 +56,7 @@ Chanrion M, Kuperstein I, Barrière C, El Marjou F, Cohen D, Vignjevic D, Stimme
 
 ### Tools
 
-Balci H, Siper MC, Saleh N, Safarli I, Roy L, Kilicarslan M, Ozaydin R, Mazein A, Auffray C, Babur Ö, Demir E, Dogrusoz U. Newt: a comprehensive web-based tool for viewing, constructing, and analyzing biological maps. Bioinformatics. 2020 Oct 3:btaa850. [doi: 10.1093/bioinformatics/btaa850](https://doi.org/10.1093/bioinformatics/btaa850). Epub ahead of print. [PMID: 33010165](https://www.ncbi.nlm.nih.gov/pubmed/33010165).
+Balci H, Siper MC, Saleh N, Safarli I, Roy L, Kilicarslan M, Ozaydin R, Mazein A, Auffray C, Babur Ö, Demir E, Dogrusoz U. Newt: a comprehensive web-based tool for viewing, constructing, and analyzing biological maps. Bioinformatics. 2020 Oct 3:btaa850. [doi: 10.1093/bioinformatics/btaa850](https://doi.org/10.1093/bioinformatics/btaa850). [PMID: 33010165](https://www.ncbi.nlm.nih.gov/pubmed/33010165).
 
 Hoksza D, Gawron P, Ostaszewski M, Smula E, Schneider R. MINERVA API and plugins: opening molecular network analysis and visualization to the community. Bioinformatics. 2019 Apr 25. pii: btz286. [doi: 10.1093/bioinformatics/btz286](https://doi.org/10.1093/bioinformatics/btz286). [PMID: 31074494](https://www.ncbi.nlm.nih.gov/pubmed/31074494).
 
