@@ -17,7 +17,7 @@ permalink: /tools
 
 ### Newt Editor
 
-<p><a href="http://newteditor.org/" target="_blank">Newt</a> is a free, web-based, open source viewer and editor for pathways in <a href="http://sbgn.github.io/sbgn/" target="_blank">Systems Biology Graphical Notation</a>.  It is written with a series of libraries and extensions based on <a href="http://js.cytoscape.org/" target="_blank">Cytoscape.js</a>.</p>
+<p><a href="http://newteditor.org/" target="_blank">Newt</a> (Balci et al., 2020, PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=33010165" target="_blank">33010165</a>) is a free, web-based, open source viewer and editor for pathways in <a href="http://sbgn.github.io/sbgn/" target="_blank">Systems Biology Graphical Notation</a>.  It is written with a series of libraries and extensions based on <a href="http://js.cytoscape.org/" target="_blank">Cytoscape.js</a>.</p>
 
 <p>Newt is developed to make it easy to design SBGN diagrams: rich yet minimalistic user-friendly UI; support for developing maps from scratch; automatic layout facilities; full support for complexes, compartments and submaps; state-of-the-art complexity management through hide-show and collapse-expand functionalities; advanced diagramming with grid and alignment support, resizing and styling map objects, and more.</p>
 
