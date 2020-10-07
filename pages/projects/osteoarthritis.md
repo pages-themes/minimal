@@ -8,7 +8,7 @@ permalink: /osteoarthritis
 
 ## KneePainOAMap
 
-Osteoarthritis (OA) is the most common form of arthritis in the knee affecting middle age to elderly populations. OA is considered as a complex disease of the entire joint, including the loss of cartilage, alterations in subchondral bone, deterioration of tendons and ligaments, and various degrees of inflammation of the synovium, eventually leading to joint failure.  
+Osteoarthritis (OA) is the most common form of arthritis in the knee affecting middle age to elderly populations. OA is considered a complex disease of the entire joint, including the loss of cartilage, alterations in subchondral bone, deterioration of tendons and ligaments, and various degrees of inflammation of the synovium, eventually leading to joint failure.  
 
 One of the symptomatic hallmarks of OA is pain assessed mostly based on its intensity. Paradoxically, structural changes associated with knee OA often not correlate with experienced pain, e.g., high pain intensities are reported despite a low degree of radiological OA and vice versa. Multiple pain phenotypes have been described in the literature, indicating that knee pain is complex and may be influenced by factors that are not unique to the knee joint, including psychological factors and changes in central sensitization.  
 
