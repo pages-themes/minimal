@@ -23,7 +23,7 @@ To discuss the project and contribute to the effort, please contact Dr. Bernd Se
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/FrancisBerenbaum.jpg" alt="Francis Berenbaum"/></td>
-<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne University, Paris, France</strong><br />Professor of Medicine at Sorbonne University. Researcher at INSERM<br />Rheumatologist at AP-HP Saint-Antoine hospital<br />Expert in the field of osteoarthritis</td>
+<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne University, Paris, France</strong><br />Professor of Medicine at Sorbonne University, Researcher at INSERM<br />Rheumatologist at AP-HP Saint-Antoine Hospital<br />Expert in the field of osteoarthritis</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
