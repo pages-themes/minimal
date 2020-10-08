@@ -23,22 +23,22 @@ To discuss the project and contribute to the effort, please contact Dr. Bernd Se
 <table>
 <tr>
 <td style="width: 105px;"><img src="../images/team/FrancisBerenbaum.jpg" alt="Francis Berenbaum"/></td>
-<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne University, Paris, France</strong><br />Professor of Medicine at Sorbonne University, Researcher at INSERM<br />Rheumatologist at the AP-HP Saint-Antoine Hospital<br />Expert in the field of osteoarthritis</td>
+<td><strong>Francis Berenbaum, MD, PhD</strong><br /><strong>Sorbonne University, Paris, France</strong><br />Professor of Medicine at Sorbonne University; Researcher at INSERM<br />Rheumatologist at the AP-HP Saint-Antoine Hospital;<br />Expert in the field of osteoarthritis</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
 <td><strong>Joyce B. J. van Meurs, PhD</strong><br /><strong>University Medical Center Rotterdam, Rotterdam, The Netherlands</strong><br />
-Associate Professor<br />Expert in genetic epidemiology of osteoarthritis and chronic pain</td>
+Associate Professor;<br />Expert in genetic epidemiology of osteoarthritis and chronic pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
 <td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hôspital Cochin, Paris, France</strong><br />
-Rheumatologist and Pain Specialist, Head of the Pain Center<br /><!--Professor of Clinical Pharmacology, Paris Descartes University<br />-->Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
+Rheumatologist and Pain Specialist, Head of the Pain Center;<br /><!--Professor of Clinical Pharmacology, Paris Descartes University<br />-->Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
 <td><strong>Anna M. Valdes, PhD</strong><br /><strong>Nottingham City Hospital, Nottingham, UK</strong><br />
-Associate Professor, Medicine and Health Sciences<br />Expert in Bioinformatics, genetics and the molecular basis of osteoarthritis</td>
+Associate Professor, Medicine and Health Sciences;<br />Expert in Bioinformatics, genetics and the molecular basis of osteoarthritis</td>
 </tr>
 </table>
 
