@@ -28,7 +28,7 @@ To discuss the project and contribute to the effort, please contact Dr. Bernd Se
 <tr>
 <td style="width: 105px;"><img src="../images/team/JoycevanMeurs.jpg" alt="Joyce van Meurs"/></td>
 <td><strong>Joyce B. J. van Meurs, PhD</strong><br /><strong>University Medical Center Rotterdam, Rotterdam, The Netherlands</strong><br />
-Associate Professor;<br />Expert in genetic epidemiology of osteoarthritis and chronic pain</td>
+Associate Professor of functional population genomics;<br />Expert in molecular epidemiology of osteoarthritis and chronic pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
