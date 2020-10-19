@@ -12,7 +12,7 @@ Osteoarthritis (OA) is the most common form of arthritis affecting middle age to
 
 One of the symptomatic hallmarks of OA is pain assessed mostly based on its intensity. Paradoxically, structural changes associated with knee OA often not correlate with experienced pain, e.g., high pain intensities are reported despite a low degree of radiological OA and vice versa. Multiple pain phenotypes have been described in the literature, indicating that knee pain is complex and may be influenced by factors that are not unique to the knee joint, including psychological factors and changes in central sensitization.  
 
-The map will capture OA mechanisms relating to degeneration together with various pain phenotypes and thereby enhance our understanding of painful knee OA. It is expected to build detailed molecular layers of interconnected signalling as well as metabolic and gene regulatory pathways covering hallmarks of the disease mechanism annotated by published evidence, discussed and consolidated with scientific and clinical experts in the field. Our objective is to identify dysregulated networks and possible recovery mechanisms for pharmacological interventions.  
+The map will capture OA mechanisms relating to degeneration together with various pain phenotypes and thereby enhance our understanding of painful knee OA. It is expected to build a map containing signalling, metabolic and gene regulatory pathways covering hallmarks of the disease mechanism supported by published evidence, discussed and consolidated with scientific and clinical experts in the field.  Our objective is to identify dysregulated networks and possible recovery mechanisms for pharmacological interventions.  
 
 ### Contact
 
