@@ -33,7 +33,7 @@ Associate Professor of functional population genomics;<br />Expert in molecular 
 <tr>
 <td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
 <td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hospital Cochin, Paris University, INSERM U987, Paris, France</strong><br />
-Professor of Clinical Pharmacology, Rheumatologist and Pain Specialist; Head of the Pain Center Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
+Professor of Clinical Pharmacology, Rheumatologist and Pain Specialist; <br />Head of the Pain Center Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnaValdes.jpg" alt="Ana Valdes"/></td>
