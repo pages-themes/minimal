@@ -7,7 +7,7 @@ permalink: /parkinsons
 
 # Parkinson’s disease
 
-## [Parkinson’s Disease Map](https://pdmap.uni.lu/MapViewer/)
+## [Parkinson’s Disease Map](https://pdmap.uni.lu/minerva/)
 
 <p>Parkinson’s disease (PD) is the second most prevalent neurodegenerative disease in the world. Although many genetic and 
 environmental factors contributing to the risk of PD have been identified, no unique causal mechanism is defined. 
@@ -30,7 +30,7 @@ data, or identification of drug targets and chemical interactions by dedicated i
 
 ### Access
 
-<a href="http://pdmap.uni.lu" target="_blank">http://pdmap.uni.lu</a>
+<a href="https://pdmap.uni.lu" target="_blank">https://pdmap.uni.lu</a>
 
 ### Publications
 
