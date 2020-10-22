@@ -32,13 +32,13 @@ Associate Professor of functional population genomics;<br />Expert in molecular 
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/SergePerrot.jpg" alt="Serge Perrot"/></td>
-<td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hôspital Cochin, Paris, France</strong><br />
-Rheumatologist and Pain Specialist, Head of the Pain Center;<br /><!--Professor of Clinical Pharmacology, Paris Descartes University<br />-->Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
+<td><strong>Serge Perrot, MD, PhD</strong><br /><strong>Hospital Cochin, Paris University, INSERM U987, Paris, France</strong><br />
+Professor of Clinical Pharmacology, Rheumatologist and Pain Specialist; Head of the Pain Center Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
 <td style="width: 105px;"><img src="../images/team/AnaValdes.jpg" alt="Ana Valdes"/></td>
 <td><strong>Ana M. Valdes, PhD</strong><br /><strong>Nottingham City Hospital, Nottingham, UK</strong><br />
-Associate Professor, Medicine and Health Sciences;<br />Expert in Bioinformatics, genetics and the molecular basis of osteoarthritis</td>
+Professor in Molecular and Genetic Epidemiology, Medicine and Health Sciences;<br />Expert in Bioinformatics, genetics and the molecular basis of osteoarthritis</td>
 </tr>
 </table>
 
