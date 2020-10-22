@@ -36,8 +36,8 @@ Associate Professor of functional population genomics;<br />Expert in molecular 
 Rheumatologist and Pain Specialist, Head of the Pain Center;<br /><!--Professor of Clinical Pharmacology, Paris Descartes University<br />-->Expert in musculoskeletal pain in osteoarthritis, rheumatoid arthritis, fibromyalgia and neck/low back pain</td>
 </tr>
 <tr>
-<td style="width: 105px;"><img src="../images/team/AnnaValdes.jpg" alt="Anna Valdes"/></td>
-<td><strong>Anna M. Valdes, PhD</strong><br /><strong>Nottingham City Hospital, Nottingham, UK</strong><br />
+<td style="width: 105px;"><img src="../images/team/AnaValdes.jpg" alt="Ana Valdes"/></td>
+<td><strong>Ana M. Valdes, PhD</strong><br /><strong>Nottingham City Hospital, Nottingham, UK</strong><br />
 Associate Professor, Medicine and Health Sciences;<br />Expert in Bioinformatics, genetics and the molecular basis of osteoarthritis</td>
 </tr>
 </table>
