@@ -14,6 +14,7 @@ Gem::Specification.new do |s|
   end
 
   s.platform = Gem::Platform::RUBY
+  s.required_ruby_version = '~> 2.4'
   s.add_runtime_dependency 'jekyll', '> 3.5', '< 5.0'
   s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.0'
   s.add_development_dependency 'html-proofer', '~> 3.0'
