@@ -106,15 +106,44 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### Session 1 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
-**9.00-9.30 [Talk 1]:** **Opening talk: COVID-19 Disease Map project** *Marek Ostaszewski*
+**9.00-9.30 [Talk 1]:** **Introductory lecture: COVID-19 Disease Map project** *Marek Ostaszewski*
 
-**9.30-10.10 <strong><font color="red">KEYNOTE</font></strong> [Talk 2]:** **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris** *Olivier Lantz*
+**9.30-10.10 [Talk 2]:** <strong><font color="red">KEYNOTE</font></strong> **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris** *Olivier Lantz*
 
-**10.10-10.30 [Talk 3]** **Connecting the COVID-19 dots: susceptibility factors and their immunodynamics in SARS-CoV-2 infection and disease severity** *Rupsha Fraser, Aurelio Orta-Resendiz and Alexander Mazein*
+**10.10-10.30 [Talk 3]:** **Connecting the COVID-19 dots: susceptibility factors and their immunodynamics in SARS-CoV-2 infection and disease severity** *Rupsha Fraser, Aurelio Orta-Resendiz and Alexander Mazein*
 
-**10.30-10.50 [Talk 4]** **Looking for pathways related to COVID-19 phenotypes: Confirmation of pathogenic mechanisms by SARS-CoV-2 - Host interactome** *Francesco Messina, Emanuala Giombini, Chiara Montaldo, Mauro Piacentini, Maria R. Capobianchi, Francesco Nicola Lauria and Giuseppe Ippolito*
+**10.30-10.50 [Talk 4]:** **Looking for pathways related to COVID-19 phenotypes: Confirmation of pathogenic mechanisms by SARS-CoV-2 - Host interactome** *Francesco Messina, Emanuala Giombini, Chiara Montaldo, Mauro Piacentini, Maria R. Capobianchi, Francesco Nicola Lauria and Giuseppe Ippolito*
 
-#### 13:00 - 16:00 Session 2
+*10.50-11.10 Break and Posters session 1*
+
+**11.10-11.30 [Talk 5]:** **The WikiPathways COVID-19 Community Portal** *Martina Kutmon, Friederike Ehrhart, Denise Slenter, Kristina Hanspers, Egon Willighagen, Alexander Pico and Chris Evelo*
+
+**11.30-11.50 [Talk 6]:** **ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways** *Agatha Treveil, Dezso Modos and Tamas Korcsmaros*
+
+**11.50-12.10 [Talk 7]:** **Cov-Hipathia: A tool for mechanistic modeling of the SARS-CoV-2 disease map** *Kinza Rian, Marina Esteban Medina, Devrim Gunyel, Carlos Loucera, Marek Ostaszewski, Anna Niarakis, Maria Peña-Chilet and Joaquin Dopazo*
+
+*12.10-13.30 Lunch and Posters session 2*
+
+### Session 2 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+
+**13.30-14.00 [Talk 8]:** **Introductory lecture: Modelling approaches in COVID-19 Disease Map project** *Anna Niarakis*
+
+**14.00-14.40 [Talk 9]:** <strong><font color="red">KEYNOTE</font></strong> **Informatics resources for COVID-19 proteomics, viral evolution and drug effects** *Chris Sander*
+
+**14.40-15.00 [Talk 10]:** **Reactome COVID-19: the literature curation strategy** *Andrea Senff-Ribeiro, Robin Haw, Lisa Matthews, Solomon Shorser, Peter D'Eustachio and Marc Gillespie*
+
+**15.00-15.20 [Talk 11]:** **The INDRA Database and Network Search: Comprehensive, context-specific information on biochemical interactions** *John Bachman, Benjamin Gyori, Patrick Greene and Klas Karis*
+
+15.20-15.40 Break and Posters session 3
+
+**15.20-15.40 [Talk 12]:** **Coronavirus Interactome: The IMEx dataset of host-viral biomolecular interactions** *Kalpana Panneerselvam, Pablo Porras Millan, Noemí del Toro, Margaret Duesbury, Livia Perfetto, Anjali Shrivastava, Sandra Orchard and Henning Hermjakob*
+
+**16.00-16.20 [Talk 13]:** **SEEK and Find: FAIRDOM Data Management Support for COVID-19 Disease Maps** *Martin Golebiewski, Xiaoming Hu, Stuart Owen, Olga Krebs, Munazah Andrabi, Finn Bacall, Ina Poehner, Maja Rey, Jacky Snoep, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Carole Goble and Wolfgang Müller*
+
+**16.20-17.00 [Talk 15]:** <strong><font color="red">KEYNOTE</font></strong> **Single cell RNAseq analysis of severe COVID-19 patients antigen-presenting cells** *Vassili Soumelis*
+
+**17.00-18.00 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50) / Meeting room B) Virtual apéro**
+
 #### 16:00 - 18:00 Poster session
 
 ### Friday 13 November
