@@ -4,7 +4,7 @@ layout: default
 permalink: /DMCM2020posters
 ---
 
-## Posters
+## DMCM2020 Poster sessions
 
 ### Poster Session 1
 
