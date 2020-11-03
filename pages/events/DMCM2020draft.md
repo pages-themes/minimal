@@ -110,8 +110,8 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 **Opening talk: COVID-19 Disease Map project**
 Marek Ostaszewski
 
-#### 9.30-10.10 **KEYNOTE** Talk 1
-**Opening talk: COVID-19 Disease Map project**
+#### 9.30-10.10 <strong><font color="red">KEYNOTE</font></strong> Talk 2
+**Opening talk: COVID-19 Disease Map project**  
 Marek Ostaszewski
 
 #### 13:00 - 16:00 Session 2
