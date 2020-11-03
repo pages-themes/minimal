@@ -104,7 +104,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
 
-### Session 1 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+### <strong><font color="Blue">Session 1</font></strong>  ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
 **09.00-09.30 [Talk 1]:**
 **Introductory lecture: COVID-19 Disease Map project**
@@ -138,7 +138,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 *12.10-13.30 Lunch and Posters session 2*
 
-### Session 2 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+### <strong><font color="Blue">Session 2</font></strong>  ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
 **13.30-14.00 [Talk 8]:**
 **Introductory lecture: Modelling approaches in COVID-19 Disease Map project**
@@ -174,7 +174,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### <strong><font color="Blue">Thursday 13 November</font></strong>
 
-### Session 3 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+### <strong><font color="Blue">Session 3</font></strong> ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
 **09.00-09.20 [Talk 15]:**
 **Opening lecture**
@@ -208,7 +208,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 *12.00-13.30 Lunch and Posters session 5*
 
-### Session 4 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+### <strong><font color="Blue">Session 4</font></strong> ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
 **09.00-09.20 [Talk 22]:** **Opening lecture** *Alexander Mazein*
 
@@ -250,7 +250,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 **17.30-18.30 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50) / Meeting room B) Virtual apéro**
 
-### Saturday 14 November
+### <strong><font color="Blue">Thursday 14 November</font></strong>
 
 **10:00 - 10:30 [Talk 31]:**
 **Introductory talk: COVID-19 Disease Map at the EUvsVirus Hackathon - making the map work**
