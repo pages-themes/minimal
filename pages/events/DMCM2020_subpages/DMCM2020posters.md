@@ -4,7 +4,7 @@ layout: default
 permalink: /DMCM2020posters
 ---
 
-# DMCM2020 Poster sessions
+## DMCM2020 Poster sessions
 
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
 ### <strong><font color="Blue">10.50-11.10 Poster Session 1</font></strong>
