@@ -42,8 +42,8 @@ permalink: /DMCM2020posters
 
 **The role of the System Biology program in Health and Disease: from biological networks to modern medicine** 
 *Saveena Solanki*  
-**Inference of a modular, large-scale Boolean network for modelling the Rheumatoid Arthritis fibroblast-like synoviocytes** 
-*Vidisha Singh, Sylvain Soliman and Anna Niarakis*  
+**Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts** 
+*Sahar Aghakhani, Sylvain Soliman and Anna Niarakis*  
 **Glial Scar Formation in CNS injury: A sub-map** 
 *Salma Ramadan, Mohammed Ibrahim, Mohammed Alaa and Bassem Awad*  
 **Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network** 
