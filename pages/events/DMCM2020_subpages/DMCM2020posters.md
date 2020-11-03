@@ -1,6 +1,6 @@
 
 ---
-title: DMCM2020
+title: DMCM2020 Poster sessions
 layout: default
 permalink: /DMCM2020posters
 ---
