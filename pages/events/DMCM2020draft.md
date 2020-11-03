@@ -106,13 +106,13 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### Session 1 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
-#### 9.00-9.30 Talk 1
-**Opening talk: COVID-19 Disease Map project**
-Marek Ostaszewski
+**9.00-9.30 [Talk 1]:** **Opening talk: COVID-19 Disease Map project** *Marek Ostaszewski*
 
-#### 9.30-10.10 <strong><font color="red">KEYNOTE</font></strong> Talk 2
-**Opening talk: COVID-19 Disease Map project**  
-Marek Ostaszewski
+**9.30-10.10 <strong><font color="red">KEYNOTE</font></strong> [Talk 2]:** **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris** *Olivier Lantz*
+
+**10.10-10.30 [Talk 3]** **Connecting the COVID-19 dots: susceptibility factors and their immunodynamics in SARS-CoV-2 infection and disease severity** *Rupsha Fraser, Aurelio Orta-Resendiz and Alexander Mazein*
+
+**10.30-10.50 [Talk 4]** **Looking for pathways related to COVID-19 phenotypes: Confirmation of pathogenic mechanisms by SARS-CoV-2 - Host interactome** *Francesco Messina, Emanuala Giombini, Chiara Montaldo, Mauro Piacentini, Maria R. Capobianchi, Francesco Nicola Lauria and Giuseppe Ippolito*
 
 #### 13:00 - 16:00 Session 2
 #### 16:00 - 18:00 Poster session
