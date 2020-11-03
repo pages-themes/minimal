@@ -88,32 +88,43 @@ The programme will contain keynotes, invited talks and talks selected from abstr
 </tr>
 </table>
 
-## Confirmed talks
-
+<!--- ## Confirmed talks
 | **Single cell RNAseq analysis of severe COVID-19 patients antigen-presenting cells**<br />_[Vassili Soumelis](https://science.curie.fr/members/vassili-soumelis-md-phd/), Hôpital St Louis, Paris, France_ |
 | **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris**<br />_[Olivier Lantz](https://institut-curie.org/personne/olivier-lantz), Institut Curie, Paris, France_ |
 | **Informatics resources for COVID-19 proteomics, viral evolution and drug effects** <br />_[Chris Sander](https://www.dfhcc.harvard.edu/insider/member-detail/member/chris-sander-phd/), Dana–Farber Cancer Institute, Harvard Medical School, Boston, US_ | 
 | **Deciphering molecular mechanisms of disease: a view on protein knowledge and disease maps**<br />_[Maria-Jesus Martin](https://www.ebi.ac.uk/about/people/maria-jesus-martin), European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK_ |
 | **Adding value to scientific results using COMBINE standards and guidelines for modelling and simulation in systems medicine**<br />_[Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss), Greifswald University Hospital, Greifswald, Germany_ |
 | **Petri nets for the analysis of disease maps: applied to the canonical and non-canonical NF-κB pathways**<br />_[Ina Koch](https://www.uni-frankfurt.de/57211826/People), Goethe University Frankfurt, Frankfurt, Germany_ |
-  
+--->
 
 ## Programme
 
-The programme will be available soon.
+The time is shown for Paris: Central European Time (CET) &ndash; **UTC/GMT +1 hour**
+Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Paris&).
 
-<!--The time is shown for Paris: Central European Time (CET) &ndash; **UTC/GMT +1 hour**
 ### Thursday 12 November
-#### 9:00 - 12:00 Session 1
+
+### Session 1 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+
+#### 9.00-9.30 Talk 1
+**Opening talk: COVID-19 Disease Map project**
+Marek Ostaszewski
+
+#### 9.30-10.10 **KEYNOTE** Talk 1
+**Opening talk: COVID-19 Disease Map project**
+Marek Ostaszewski
+
 #### 13:00 - 16:00 Session 2
 #### 16:00 - 18:00 Poster session
+
 ### Friday 13 November
 #### 9:00 - 12:00 Session 3
 #### 13:00 - 16:00 Session 4
+
 ### Saturday 14 November
 #### 10:00 - 12:00 Breakout discussions
 #### 14:00 - 15:00 Summary
-#### 15:00 - 15:30 Conclusions-->
+#### 15:00 - 15:30 Conclusions
 
 ## Contact
 
