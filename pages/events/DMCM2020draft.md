@@ -256,10 +256,15 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 **Introductory talk: COVID-19 Disease Map at the EUvsVirus Hackathon - making the map work** *Anna Niarakis*
 
 **10:30 - 12:00 Breakout discussions**  
-1. Interoperability, common standards and practices for working together at a larger scale - lessons learned from the C19DM effort
-2. Disease Maps Community: the status, the past year and the roadmap
-3. How to do curation and integrate efforts of many groups: training materials, guidelines ([an example](https://doi.org/10.1093/database/bay036))
- 
+
+Proposed topics so far:  
+
+1. Interoperability, common standards and practices for working together at a larger scale - lessons learned from the C19DM effort.
+2. Disease Maps Community: the status, the past year and the roadmap.
+3. How to do curation and integrate efforts of many groups: training materials, guidelines ([an example](https://doi.org/10.1093/database/bay036)).
+
+Please suggest topics for breakout discussions. With suggestions pleaase write to [dmcm-organisers@googlegroups.com](mailto:dmcm-organisers@googlegroups.com).
+
 *12.00-13.00 Lunch break*
  
 **13:00 - 14:00 Summary of discussions**  
