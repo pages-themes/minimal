@@ -4,9 +4,13 @@ layout: default
 permalink: /DMCM2020posters
 ---
 
-## DMCM2020 Poster sessions
+# DMCM2020 Poster sessions
 
-### Poster Session 1
+## Thursday 12 November
+### <strong><font color="Blue">Thursday 12 November</font></strong>
+
+### 10.50-11.10 Poster Session 1 
+### <strong><font color="Blue">10.50-11.10 Poster Session 1</font></strong>
 
 **COVID-19 Biomarkers in Research and Associations with Comorbidities** 
 *Nikhita Gogate, Amanda Bell, Daniel Lyman, Robel Kahsay and Raja Mazumder*  
@@ -14,7 +18,7 @@ permalink: /DMCM2020posters
 **A comprehensive map of the SARS-CoV-2 replication cycle** 
 *Marcio Acencio, Alexander Mazein, Marek Ostaszewski and Reinhard Schneider*  
 
-### Poster Session 2
+### 12.10-13.30 Poster Session 2
 
 **PhysiBoSS-COVID: the Boolean modelling of COVID-19 signalling pathways in a multicellular simulation framework allows for the uncovering of mechanistic insights** 
 *Vincent Noel, José Carbonell, Miguel Ponce de Leon, Sylvain Soliman, Anna Niarakis, Laurence Calzone, Emmanuel Barillot, Alfonso Valencia and Arnau Montagud*  
@@ -28,13 +32,15 @@ permalink: /DMCM2020posters
 **Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps** 
 *Carlos Loucera, Marina Esteban Medina, Kinza Rian, Matias M. Falco, Joaquin Dopazo and Maria Peña-Chilet*  
 
-### Poster Session 3
+### 15.20-15.40 Poster Session 3
 
 **SARS-CoV-2 and the NLRP3 inflammasome** 
 *Julia Somers, Ebru Kocakaya, Gokce Summak, Omur Bul, Emek Demir, Mehmet Altay Unal, Acelya Yilmazer and Can Akcali*  
 
 **Immunometabolic strategies to combat COVID-19 inflammation** 
 *Gökçe Yağmur Summak, Ebru Kocakaya, Omur Bul, Julia Somers, Mehmet Altay Ünal, Can Akcali, Acelya Yilmazer and Emek Demir*  
+
+## Friday 13 November
 
 ### Poster Session 4
 
