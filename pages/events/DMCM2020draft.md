@@ -102,7 +102,7 @@ The programme will contain keynotes, invited talks and talks selected from abstr
 The time is shown for Paris: Central European Time (CET) &ndash; **UTC/GMT +1 hour**
 Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Paris&).
 
-### Thursday 12 November
+### <strong><font color="Blue">Thursday 12 November</font></strong>
 
 ### Session 1 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
@@ -172,7 +172,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 **17.00-18.00 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50) / Meeting room B) Virtual apéro**
 
-### Thursday 13 November
+### <strong><font color="Blue">Thursday 13 November</font></strong>
 
 ### Session 3 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
