@@ -104,7 +104,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
 
-### <strong><font color="Blue">Session 1</font></strong>  ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+### <strong><font color="Blue">Session 1</font></strong> ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
 **09.00-09.30 [Talk 1]:**
 **Introductory lecture: COVID-19 Disease Map project**
@@ -138,7 +138,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 *12.10-13.30 Lunch and Posters session 2*
 
-### <strong><font color="Blue">Session 2</font></strong>  ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+### <strong><font color="Blue">Session 2</font></strong> ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
 **13.30-14.00 [Talk 8]:**
 **Introductory lecture: Modelling approaches in COVID-19 Disease Map project**
