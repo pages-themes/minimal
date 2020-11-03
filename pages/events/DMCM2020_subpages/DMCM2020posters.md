@@ -42,7 +42,7 @@ permalink: /DMCM2020posters
 
 ## Friday 13 November
 
-### Poster Session 4
+### 10.20-10.40 Poster Session 4
 
 **VSM: the intuitive, general-purpose curation technology** 
 *Steven Vercruysse*  
@@ -50,7 +50,7 @@ permalink: /DMCM2020posters
 **Computational modelling of the cellular interplay in Rheumatoid Arthritis. Deciphering the role of innate and adaptive immunity in cartilage destruction and bone erosion** 
 *Naouel Zerrouk, Charles Bettembourg and Anna Niarakis*  
 
-### Poster Session 5
+### 12.00-13.30 Poster Session 5
 
 **The role of the System Biology program in Health and Disease: from biological networks to modern medicine** 
 *Saveena Solanki*  
@@ -64,7 +64,7 @@ permalink: /DMCM2020posters
 **Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network** 
 *Quentin Miagoux, Dereck de Mézquita, Vidisha Singh, Smahane Chalabi, Elisabeth Petit-Teixeira and Anna Niarakis*  
 
-### Poster Session 6
+### 14.50-15.10 Poster Session 6
 
 **LipoCanPredict: Multi-omics biomarker signatures identification in Cancer-Associated Adipocytes in Invasive Breast Cancer in obese patients**
 *Luis Cristobal Monraz Gomez, Inna Kuperstein and Emmanuel Barillot*  
