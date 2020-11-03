@@ -210,7 +210,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### <strong><font color="Blue">Session 4</font></strong> ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
-**09.00-09.20 [Talk 22]:** **Opening lecture** *Alexander Mazein*
+**13.30-13.50 [Talk 22]:** **Opening lecture** *Alexander Mazein*
 
 **13.50-14.10 [Talk 23]:**
 **CyF-MAP: a pathway-based resource for Cystic Fibrosis**
