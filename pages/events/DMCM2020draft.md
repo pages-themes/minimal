@@ -220,7 +220,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 **SysCID map: a computational knowledge repository for rheumatoid arthritis, systemic lupus erythematosus and inflammatory bowel disease**
 *Marcio Acencio, Marek Ostaszewski, Wei Gu, Venkata Satagopam and Reinhard Schneider*
 
-**14.30-14.50 Talk 25**
+**14.30-14.50 [Talk 25]:**
 **Towards modularity and composability for assembling large-scale process description maps**
 *Adrien Rougny, Alexander Mazein, Joanthan Karr, Julio Saez Rodriguez, Marek Ostaszewski and Reinhard Schneider*
 
@@ -230,7 +230,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 <strong><font color="red">KEYNOTE</font></strong> **Adding value to scientific results using COMBINE standards and guidelines for modelling and simulation in systems medicine**
 *Dagmar Waltemath*
 
-**15.30-16.10 Talk 29 [Talk 27]:**
+**15.30-16.10 [Talk 27]:**
 <strong><font color="red">KEYNOTE</font></strong> **Petri nets for the analysis of disease maps: applied to the TNFR1 signaling pathway**
 *Ina Koch* 
 
@@ -256,10 +256,9 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 **Introductory talk: COVID-19 Disease Map at the EUvsVirus Hackathon - making the map work**
 
 **10:30 - 12:00 Breakout discussions**  
-
- - 1. Interoperability, common standards and practices for working together at a larger scale - lessons learned from the C19DM effort
- - 2. Disease Maps Community: the status, the past year and the roadmap
- - 3. How to do curation and integrate efforts of many groups: training materials, guidelines ([an example](https://doi.org/10.1093/database/bay036))
+1. Interoperability, common standards and practices for working together at a larger scale - lessons learned from the C19DM effort
+2. Disease Maps Community: the status, the past year and the roadmap
+3. How to do curation and integrate efforts of many groups: training materials, guidelines ([an example](https://doi.org/10.1093/database/bay036))
  
 *12.00-13.00 Lunch break*
  
