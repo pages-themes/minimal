@@ -253,7 +253,7 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 ### <strong><font color="Blue">Thursday 14 November</font></strong>
 
 **10:00 - 10:30 [Talk 31]:**
-**Introductory talk: COVID-19 Disease Map at the EUvsVirus Hackathon - making the map work**
+**Introductory talk: COVID-19 Disease Map at the EUvsVirus Hackathon - making the map work** *Anna Niarakis*
 
 **10:30 - 12:00 Breakout discussions**  
 1. Interoperability, common standards and practices for working together at a larger scale - lessons learned from the C19DM effort
