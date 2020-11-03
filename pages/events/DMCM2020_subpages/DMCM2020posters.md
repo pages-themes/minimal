@@ -2,7 +2,7 @@
 ---
 title: DMCM2020 Poster sessions
 layout: default
-permalink: /DMCM2020posters
+permalink: /DMCM2020posters/
 ---
 
 ## Posters
