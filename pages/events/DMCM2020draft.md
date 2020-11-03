@@ -106,54 +106,166 @@ Check your local time [here](https://www.thetimezoneconverter.com/?t=09:00&tz=Pa
 
 ### Session 1 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
-**9.00-9.30 [Talk 1]:** **Introductory lecture: COVID-19 Disease Map project** *Marek Ostaszewski*
+**09.00-09.30 [Talk 1]:**
+**Introductory lecture: COVID-19 Disease Map project**
+*Marek Ostaszewski*
 
-**9.30-10.10 [Talk 2]:** <strong><font color="red">KEYNOTE</font></strong> **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris** *Olivier Lantz*
+**09.30-10.10 [Talk 2]:**
+<strong><font color="red">KEYNOTE</font></strong> **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris**
+*Olivier Lantz*
 
-**10.10-10.30 [Talk 3]:** **Connecting the COVID-19 dots: susceptibility factors and their immunodynamics in SARS-CoV-2 infection and disease severity** *Rupsha Fraser, Aurelio Orta-Resendiz and Alexander Mazein*
+**10.10-10.30 [Talk 3]:**
+**Connecting the COVID-19 dots: susceptibility factors and their immunodynamics in SARS-CoV-2 infection and disease severity**
+*Rupsha Fraser, Aurelio Orta-Resendiz and Alexander Mazein*
 
-**10.30-10.50 [Talk 4]:** **Looking for pathways related to COVID-19 phenotypes: Confirmation of pathogenic mechanisms by SARS-CoV-2 - Host interactome** *Francesco Messina, Emanuala Giombini, Chiara Montaldo, Mauro Piacentini, Maria R. Capobianchi, Francesco Nicola Lauria and Giuseppe Ippolito*
+**10.30-10.50 [Talk 4]:**
+**Looking for pathways related to COVID-19 phenotypes: Confirmation of pathogenic mechanisms by SARS-CoV-2 - Host interactome**
+*Francesco Messina, Emanuala Giombini, Chiara Montaldo, Mauro Piacentini, Maria R. Capobianchi, Francesco Nicola Lauria and Giuseppe Ippolito*
 
 *10.50-11.10 Break and Posters session 1*
 
-**11.10-11.30 [Talk 5]:** **The WikiPathways COVID-19 Community Portal** *Martina Kutmon, Friederike Ehrhart, Denise Slenter, Kristina Hanspers, Egon Willighagen, Alexander Pico and Chris Evelo*
+**11.10-11.30 [Talk 5]:**
+**The WikiPathways COVID-19 Community Portal**
+*Martina Kutmon, Friederike Ehrhart, Denise Slenter, Kristina Hanspers, Egon Willighagen, Alexander Pico and Chris Evelo*
 
-**11.30-11.50 [Talk 6]:** **ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways** *Agatha Treveil, Dezso Modos and Tamas Korcsmaros*
+**11.30-11.50 [Talk 6]:**
+**ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways**
+*Agatha Treveil, Dezso Modos and Tamas Korcsmaros*
 
-**11.50-12.10 [Talk 7]:** **Cov-Hipathia: A tool for mechanistic modeling of the SARS-CoV-2 disease map** *Kinza Rian, Marina Esteban Medina, Devrim Gunyel, Carlos Loucera, Marek Ostaszewski, Anna Niarakis, Maria Peña-Chilet and Joaquin Dopazo*
+**11.50-12.10 [Talk 7]:**
+**Cov-Hipathia: A tool for mechanistic modeling of the SARS-CoV-2 disease map**
+*Kinza Rian, Marina Esteban Medina, Devrim Gunyel, Carlos Loucera, Marek Ostaszewski, Anna Niarakis, Maria Peña-Chilet and Joaquin Dopazo*
 
 *12.10-13.30 Lunch and Posters session 2*
 
 ### Session 2 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
 
-**13.30-14.00 [Talk 8]:** **Introductory lecture: Modelling approaches in COVID-19 Disease Map project** *Anna Niarakis*
+**13.30-14.00 [Talk 8]:**
+**Introductory lecture: Modelling approaches in COVID-19 Disease Map project**
+*Anna Niarakis*
 
-**14.00-14.40 [Talk 9]:** <strong><font color="red">KEYNOTE</font></strong> **Informatics resources for COVID-19 proteomics, viral evolution and drug effects** *Chris Sander*
+**14.00-14.40 [Talk 9]:**
+<strong><font color="red">KEYNOTE</font></strong> **Informatics resources for COVID-19 proteomics, viral evolution and drug effects**
+*Chris Sander*
 
-**14.40-15.00 [Talk 10]:** **Reactome COVID-19: the literature curation strategy** *Andrea Senff-Ribeiro, Robin Haw, Lisa Matthews, Solomon Shorser, Peter D'Eustachio and Marc Gillespie*
+**14.40-15.00 [Talk 10]:**
+**Reactome COVID-19: the literature curation strategy**
+*Andrea Senff-Ribeiro, Robin Haw, Lisa Matthews, Solomon Shorser, Peter D'Eustachio and Marc Gillespie*
 
-**15.00-15.20 [Talk 11]:** **The INDRA Database and Network Search: Comprehensive, context-specific information on biochemical interactions** *John Bachman, Benjamin Gyori, Patrick Greene and Klas Karis*
+**15.00-15.20 [Talk 11]:**
+**The INDRA Database and Network Search: Comprehensive, context-specific information on biochemical interactions**
+*John Bachman, Benjamin Gyori, Patrick Greene and Klas Karis*
 
 15.20-15.40 Break and Posters session 3
 
-**15.20-15.40 [Talk 12]:** **Coronavirus Interactome: The IMEx dataset of host-viral biomolecular interactions** *Kalpana Panneerselvam, Pablo Porras Millan, Noemí del Toro, Margaret Duesbury, Livia Perfetto, Anjali Shrivastava, Sandra Orchard and Henning Hermjakob*
+**15.20-15.40 [Talk 12]:**
+**Coronavirus Interactome: The IMEx dataset of host-viral biomolecular interactions**
+*Kalpana Panneerselvam, Pablo Porras Millan, Noemí del Toro, Margaret Duesbury, Livia Perfetto, Anjali Shrivastava, Sandra Orchard and Henning Hermjakob*
 
-**16.00-16.20 [Talk 13]:** **SEEK and Find: FAIRDOM Data Management Support for COVID-19 Disease Maps** *Martin Golebiewski, Xiaoming Hu, Stuart Owen, Olga Krebs, Munazah Andrabi, Finn Bacall, Ina Poehner, Maja Rey, Jacky Snoep, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Carole Goble and Wolfgang Müller*
+**16.00-16.20 [Talk 13]:**
+**SEEK and Find: FAIRDOM Data Management Support for COVID-19 Disease Maps**
+*Martin Golebiewski, Xiaoming Hu, Stuart Owen, Olga Krebs, Munazah Andrabi, Finn Bacall, Ina Poehner, Maja Rey, Jacky Snoep, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Carole Goble and Wolfgang Müller*
 
-**16.20-17.00 [Talk 15]:** <strong><font color="red">KEYNOTE</font></strong> **Single cell RNAseq analysis of severe COVID-19 patients antigen-presenting cells** *Vassili Soumelis*
+**16.20-17.00 [Talk 14]:**
+<strong><font color="red">KEYNOTE</font></strong> **Single cell RNAseq analysis of severe COVID-19 patients antigen-presenting cells**
+*Vassili Soumelis*
 
 **17.00-18.00 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50) / Meeting room B) Virtual apéro**
 
-#### 16:00 - 18:00 Poster session
+### Thursday 13 November
 
-### Friday 13 November
-#### 9:00 - 12:00 Session 3
-#### 13:00 - 16:00 Session 4
+### Session 3 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+
+**09.00-09.20 [Talk 15]:**
+**Opening lecture**
+*Inna Kuperstein*
+
+**09.20-10.00 [Talk 16]:**
+<strong><font color="red">KEYNOTE</font></strong> **Deciphering molecular mechanisms of disease: a view on protein knowledge and disease maps**
+*Maria-Jesus Martin*
+
+**10.00-10.20 [Talk 17]:**
+**Discovering the role of intercellular communication and its downstream effect in healthy and diseased conditions**
+*Lejla Gul, Dezso Modos, Denes Turei, Alberto Valdeolivas, Matthew Madgwick, Julio Saez-Rodriguez and Tamas Korcsmaros*
+
+*10.20-10.40 Break and Posters session 4*
+
+**10.40-11.00 [Talk 18]:**
+**A multi-layer scalable representation of disease mechanisms: lessons learned from the AsthmaMap project**
+*Alexander Mazein and Charles Auffray*	
+ 
+**11.00-11.20 [Talk 19]:**
+**Comprehensive Map of the Regulated Cell Death Signaling Network: A Powerful Analytical Tool for Studying Diseases**
+*Jean-Marie Ravel, L. Cristobal Monraz Gomez, Nicolas Sompairac, Boris Zhivotovsky, Guido Kroemer, Emmanuel Barillot, Andrei Zinovyev and Inna Kuperstein*
+
+**11.20-11.40 [Talk 20]:**
+**Inference of a modular, large-scale Boolean network for modelling the Rheumatoid Arthritis fibroblast-like synoviocytes**
+*Vidisha Singh, Sylvain Soliman and Anna Niarakis*
+ 
+**11.40-12.00 [Talk 21]:**
+**HCM Map: Interactive Knowledge Resource About Molecular Mechanisms of Hypertrophic Cardiomyopathy**
+*Mila Glavaški and Lazar Velicki*
+
+*12.00-13.30 Lunch and Posters session 5*
+
+### Session 4 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50))
+
+**09.00-09.20 [Talk 22]:** **Opening lecture** *Alexander Mazein*
+
+**13.50-14.10 [Talk 23]:**
+**CyF-MAP: a pathway-based resource for Cystic Fibrosis**
+*Catarina Pereira, Alexander Mazein, Margarida Amaral and Andre Falcao*
+
+**14.10-14.30 [Talk 24]:**
+**SysCID map: a computational knowledge repository for rheumatoid arthritis, systemic lupus erythematosus and inflammatory bowel disease**
+*Marcio Acencio, Marek Ostaszewski, Wei Gu, Venkata Satagopam and Reinhard Schneider*
+
+**14.30-14.50 Talk 25**
+**Towards modularity and composability for assembling large-scale process description maps**
+*Adrien Rougny, Alexander Mazein, Joanthan Karr, Julio Saez Rodriguez, Marek Ostaszewski and Reinhard Schneider*
+
+*14.50-15.10 Break and Posters session 6*
+
+**15.10-15.30 [Talk 26]:**
+<strong><font color="red">KEYNOTE</font></strong> **Adding value to scientific results using COMBINE standards and guidelines for modelling and simulation in systems medicine**
+*Dagmar Waltemath*
+
+**15.30-16.10 Talk 29 [Talk 27]:**
+<strong><font color="red">KEYNOTE</font></strong> **Petri nets for the analysis of disease maps: applied to the TNFR1 signaling pathway**
+*Ina Koch* 
+
+*16.10-16.30 Break*
+
+**16.30-16.50 [Talk 28]:**
+**Newt: view, design and analyze pathways in SBGN and more**
+*Ugur Dogrusoz*
+
+**16.50-17.10 [Talk 29]:**
+**Reactome DisGeNET overlay of gene-disease associations**
+*Chuan Deng, Chuqiao Gong, Guilherme Viteri and Henning Hermjakob*
+
+**17.10-17.30 [Talk 30]:**
+**A suite of plugins for data-driven analyses of acute inflammatory phenotypes**
+*Matti Hoch, Suchi Smita, Olaf Wolkenhauer and Shailendra Gupta*
+
+**17.30-18.30 ([Meeting room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50) / Meeting room B) Virtual apéro**
 
 ### Saturday 14 November
-#### 10:00 - 12:00 Breakout discussions
-#### 14:00 - 15:00 Summary
-#### 15:00 - 15:30 Conclusions
+
+**10:00 - 10:30 [Talk 31]:**
+**Introductory talk: COVID-19 Disease Map at the EUvsVirus Hackathon - making the map work**
+
+**10:30 - 12:00 Breakout discussions**  
+
+ - 1. Interoperability, common standards and practices for working together at a larger scale - lessons learned from the C19DM effort
+ - 2. Disease Maps Community: the status, the past year and the roadmap
+ - 3. How to do curation and integrate efforts of many groups: training materials, guidelines ([an example](https://doi.org/10.1093/database/bay036))
+ 
+*12.00-13.00 Lunch break*
+ 
+**13:00 - 14:00 Summary of discussions**  
+
+**14:00 Closing remarks**  
 
 ## Contact
 
