@@ -6,7 +6,8 @@ permalink: /DMCM2020posters
 
 ## DMCM2020 Poster sessions
 
-Go back to the [main page](https://disease-maps.org/DMCM2020)
+Go to the [main page](https://disease-maps.org/DMCM2020)
+Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
 ### <strong><font color="Blue">10.50-11.10 Poster Session A</font></strong>
