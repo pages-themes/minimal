@@ -37,18 +37,14 @@ The detailed instructions about profile generation, poster standards, video reco
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/teamhq/VassiliSoumelis.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/teamhq/ChrisSander.jpg" width="120"/></p></td>
-</tr>
-<tr>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Vassili Soumelis, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Olivier Lantz, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institut Curie, Paris, France</font></p><br /></td>
-<td style="width: 220px;"><p style="margin:4px;"><strong>Chris Sander, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Dana–Farber Cancer Institute, Harvard Medical School, Boston, US</font></p><br /></td>
-</tr>
-<tr>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/teamhq/MariaMartin.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/teamhq/InaKoch.jpg" width="120"/></p></td>
 </tr>
 <tr>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Vassili Soumelis, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Olivier Lantz, MD, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institut Curie, Paris, France</font></p><br /></td>
+<td style="width: 220px;"><p style="margin:4px;"><strong>Chris Sander, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Dana–Farber Cancer Institute, Harvard Medical School, Boston, US</font></p><br /></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Maria-Jesus Martin, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2"><!--European Molecular Biology Laboratory, European Bioinformatics Institute-->EMBL-EBI, Cambridge, UK</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Dagmar Waltemath, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Greifswald University Hospital, Greifswald, Germany</font></p></td>
 <td style="width: 220px;"><p style="margin:4px;"><strong>Ina Koch, PhD</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Goethe University Frankfurt, Frankfurt, Germany</font></p></td>
