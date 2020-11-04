@@ -26,11 +26,12 @@ Check [the agenda](https://disease-maps.org/DMCM2020posters){:target="_ blank"} 
 
 **How to record a video of your poster presentation**
 
-*Microphone and video settings:*  
-Check your microphone settings and your position with respect to the camera for the duration of the talk recording: sufficient light, appropriate angle, absence of background noise, etc. Record your presentation with a voice narrative and camera on.
+*Microphone and video settings:*
+- Check your microphone settings and your position with respect to the camera for the duration of the talk recording: sufficient light, appropriate angle, absence of background noise, etc. 
+- Record your presentation with a voice narrative and camera on.
 
 
-*Tips:*  
+*Tips:*
 - Prepare the slides and the text.
 - Rehearse the talk.
 - Coordinate the speech with the slides.
