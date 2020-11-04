@@ -34,12 +34,12 @@ The detailed instructions about profile generation, poster standards, video reco
 
 <table>
 <tr>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/VassiliSoumelis.jpg" width="120"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/ChrisSander.jpg" width="120"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/MariaMartin.jpg" width="120"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/InaKoch.jpg" width="120"/></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/VassiliSoumelis.jpg" width="120px"/></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120px"/></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/ChrisSander.jpg" width="120px"/></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/MariaMartin.jpg" width="120px"/></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120px"/></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/InaKoch.jpg" width="120px"/></p></td>
 </tr>
 <tr>
 <td style="width: 120px;"><p style="margin:1px;"><strong>Vassili<br/>Soumelis<br/>MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
