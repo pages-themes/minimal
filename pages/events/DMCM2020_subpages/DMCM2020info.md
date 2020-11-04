@@ -4,6 +4,8 @@ layout: default
 permalink: /DMCM2020info
 ---
 
+Go to the [main page](https://disease-maps.org/DMCM2020)  
+
 ## How to join the WEBEX sessions
 All events of the meeting will be delivered using WEBEX. 
 Install the App well before the meeting and familiarize with the functions
