@@ -5,9 +5,14 @@ permalink: /DMCM2020submit
 ---
 
 ## Talks and poster presentations: submission details
+
+Go back to the [main page](https://disease-maps.org/DMCM2020)
+
+### For all
+
 Please check the planning of [talks](https://disease-maps.org/DMCM2020.html) and [poster sessions](https://disease-maps.org/DMCM2020posters) to find out when you are supposed to present and in what format, a talk or a poster.
 
-All poster presenters and speakers are asked to create their profiles on the [ZENODO platform](https://zenodo.org)
+All poster presenters and speakers are asked to create their profiles on the [ZENODO platform](https://zenodo.org).
 
 ### For poster presenters
 You need to prepare:
@@ -43,10 +48,9 @@ The live talks of speakers will be recorded during the meeting and made availabl
 - Click the "New upload" button
 - Choose "Poster" category
 - Make sure the presentation is Open Access, so others can see your poster and watch your presentation
+- Important: Please check [ZENODO policies](https://about.zenodo.org/policies).
 
-Important: Please check ZENODO policies here https://about.zenodo.org/policies
-
-An example entry can ve found [here](https://zenodo.org/record/4033071#.X6KOsy9h2JY)
+An example entry can be found [here](https://zenodo.org/record/4033071#.X6KOsy9h2JY)
 
 
 
