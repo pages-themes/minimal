@@ -17,7 +17,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target=" blank"}
 
 **A comprehensive map of the SARS-CoV-2 replication cycle** 
-*Marcio Acencio, Alexander Mazein, Marek Ostaszewski and Reinhard Schneider*  
+*Marcio Acencio, Alexander Mazein, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Marek Ostaszewski and Reinhard Schneider*  
 [Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target=" blank"}
 
 ### <strong><font color="Blue">12.10-13.30 Poster Session B</font></strong>
