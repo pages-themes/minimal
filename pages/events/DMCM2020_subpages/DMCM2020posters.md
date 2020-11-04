@@ -7,7 +7,7 @@ permalink: /DMCM2020posters
 ## DMCM2020 Poster sessions
 
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
-### <strong><font color="Blue">10.50-11.10 Poster Session 1</font></strong>
+### <strong><font color="Blue">10.50-11.10 Poster Session A</font></strong>
 
 **COVID-19 Biomarkers in Research and Associations with Comorbidities** 
 *Nikhita Gogate, Amanda Bell, Daniel Lyman, Robel Kahsay and Raja Mazumder*  
@@ -16,7 +16,7 @@ permalink: /DMCM2020posters
 *Marcio Acencio, Alexander Mazein, Marek Ostaszewski and Reinhard Schneider*  
 
 
-### <strong><font color="Blue">12.10-13.30 Poster Session 2</font></strong>
+### <strong><font color="Blue">12.10-13.30 Poster Session B</font></strong>
 
 **PhysiBoSS-COVID: the Boolean modelling of COVID-19 signalling pathways in a multicellular simulation framework allows for the uncovering of mechanistic insights** 
 *Vincent Noel, José Carbonell, Miguel Ponce de Leon, Sylvain Soliman, Anna Niarakis, Laurence Calzone, Emmanuel Barillot, Alfonso Valencia and Arnau Montagud*  
@@ -31,7 +31,7 @@ permalink: /DMCM2020posters
 *Carlos Loucera, Marina Esteban Medina, Kinza Rian, Matias M. Falco, Joaquin Dopazo and Maria Peña-Chilet*  
 
 
-### <strong><font color="Blue">15.20-15.40 Poster Session 3</font></strong>
+### <strong><font color="Blue">15.20-15.40 Poster Session C</font></strong>
 
 **SARS-CoV-2 and the NLRP3 inflammasome** 
 *Julia Somers, Ebru Kocakaya, Gokce Summak, Omur Bul, Emek Demir, Mehmet Altay Unal, Acelya Yilmazer and Can Akcali*  
@@ -41,7 +41,7 @@ permalink: /DMCM2020posters
 
 
 ### <strong><font color="Blue">Friday 13 November</font></strong>
-### <strong><font color="Blue">10.20-10.40 Poster Session 4</font></strong>
+### <strong><font color="Blue">10.20-10.40 Poster Session D</font></strong>
 
 **VSM: the intuitive, general-purpose curation technology** 
 *Steven Vercruysse*  
@@ -50,7 +50,7 @@ permalink: /DMCM2020posters
 *Naouel Zerrouk, Charles Bettembourg and Anna Niarakis*  
 
 
-### <strong><font color="Blue">12.00-13.30 Poster Session 5</font></strong>
+### <strong><font color="Blue">12.00-13.30 Poster Session E</font></strong>
 
 **The role of the System Biology program in Health and Disease: from biological networks to modern medicine** 
 *Saveena Solanki*  
@@ -65,7 +65,7 @@ permalink: /DMCM2020posters
 *Quentin Miagoux, Dereck de Mézquita, Vidisha Singh, Smahane Chalabi, Elisabeth Petit-Teixeira and Anna Niarakis*  
 
 
-### <strong><font color="Blue">14.50-15.10 Poster Session 6</font></strong>
+### <strong><font color="Blue">14.50-15.10 Poster Session F</font></strong>
 
 **LipoCanPredict: Multi-omics biomarker signatures identification in Cancer-Associated Adipocytes in Invasive Breast Cancer in obese patients**
 *Luis Cristobal Monraz Gomez, Inna Kuperstein and Emmanuel Barillot*  
