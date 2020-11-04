@@ -8,7 +8,7 @@ Go to the [main page](https://disease-maps.org/DMCM2020)
 
 ## How to join the Webex sessions
 All events of the meeting will be delivered using Webex. 
-Install the App well before the meeting and familiarise with the functions. Go to the [Webex website](https://www.webex.com) or try to join the [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50).
+Install the App well before the meeting and familiarise with the functions. Go to the [Webex website](https://www.webex.com) or try to join the [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50) (it is currently inactive, but it will cause Webex to install).
 
 During the meeting, follow links from the program to the corresponding Webex rooms.
 
