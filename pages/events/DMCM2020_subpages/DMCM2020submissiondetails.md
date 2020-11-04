@@ -1,7 +1,7 @@
 ---
-title: DMCM2020
+title: DMCM2020 Submission details
 layout: default
-permalink: /DMCM2020submissiondetails
+permalink: /DMCM2020submit
 ---
 
 ## Talks and poster presentations: submission details
