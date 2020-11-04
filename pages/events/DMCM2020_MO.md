@@ -34,33 +34,24 @@ The detailed instructions about profile generation, poster standards, video reco
 
 <table>
 <tr>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/VassiliSoumelis.jpg" width="120px"/></p></td>
+<td style="heigth: 70px;"><p style="margin:1px;"><img src="/images/teamhq/VassiliSoumelis.jpg" width="120px"/></p></td>
 <td style="width: 220px;"><p style="margin:1px;"><strong>Vassili Soumelis, MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/MariaMartin.jpg" width="120px"/></p></td>
+<td style="heigth: 70px;"><p style="margin:1px;"><img src="/images/teamhq/MariaMartin.jpg" width="120px"/></p></td>
 <td style="width: 220px;"><p style="margin:1px;"><strong>Maria-Jesus Martin, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">EMBL-EBI, Cambridge, UK</font></p></td>
 </tr>
 <tr>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120px"/></p></td>
+<td style="heigth: 70px;"><p style="margin:1px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120px"/></p></td>
 <td style="width: 220px;"><p style="margin:1px;"><strong>Olivier Lantz, MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Institut Curie, Paris, France</font></p><br /></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120px"/></p></td>
+<td style="heigth: 70px;"><p style="margin:1px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120px"/></p></td>
 <td style="width: 220px;"><p style="margin:1px;"><strong>Dagmar Waltemath, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Greifswald University Hospital<br/>Greifswald, Germany</font></p></td>
 </tr>
 <tr>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/ChrisSander.jpg" width="120px"/></p></td>
+<td style="heigth: 70px;"><p style="margin:1px;"><img src="/images/teamhq/ChrisSander.jpg" width="120px"/></p></td>
 <td style="width: 220px;"><p style="margin:1px;"><strong>Chris Sander, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Dana–Farber Cancer Institute<br/>Harvard Medical School, Boston, US</font></p><br /></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/InaKoch.jpg" width="120px"/></p></td>
+<td style="heigth: 70px;"><p style="margin:1px;"><img src="/images/teamhq/InaKoch.jpg" width="120px"/></p></td>
 <td style="width: 220px;"><p style="margin:1px;"><strong>Ina Koch, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Goethe University Frankfurt<br/>Frankfurt, Germany</font></p></td>
 </tr>
 </table>
-
-<!--## Confirmed talks
-| **Single cell RNAseq analysis of severe COVID-19 patients antigen-presenting cells**<br />_[Vassili Soumelis](https://science.curie.fr/members/vassili-soumelis-md-phd/), Hôpital St Louis, Paris, France_ |
-| **The Curiosa study: high seroprevalence but short-lived immune response to SARS-CoV-2 infection in Paris**<br />_[Olivier Lantz](https://institut-curie.org/personne/olivier-lantz), Institut Curie, Paris, France_ |
-| **Informatics resources for COVID-19 proteomics, viral evolution and drug effects** <br />_[Chris Sander](https://www.dfhcc.harvard.edu/insider/member-detail/member/chris-sander-phd/), Dana–Farber Cancer Institute, Harvard Medical School, Boston, US_ | 
-| **Deciphering molecular mechanisms of disease: a view on protein knowledge and disease maps**<br />_[Maria-Jesus Martin](https://www.ebi.ac.uk/about/people/maria-jesus-martin), European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK_ |
-| **Adding value to scientific results using COMBINE standards and guidelines for modelling and simulation in systems medicine**<br />_[Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss), Greifswald University Hospital, Greifswald, Germany_ |
-| **Petri nets for the analysis of disease maps: applied to the canonical and non-canonical NF-κB pathways**<br />_[Ina Koch](https://www.uni-frankfurt.de/57211826/People), Goethe University Frankfurt, Frankfurt, Germany_ |-->
-
 
 ## Programme
 
