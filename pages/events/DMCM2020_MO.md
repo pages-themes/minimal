@@ -35,19 +35,21 @@ The detailed instructions about profile generation, poster standards, video reco
 <table>
 <tr>
 <td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/VassiliSoumelis.jpg" width="120px"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120px"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/ChrisSander.jpg" width="120px"/></p></td>
+<td style="width: 220px;"><p style="margin:1px;"><strong>Vassili Soumelis, MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
 <td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/MariaMartin.jpg" width="120px"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120px"/></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/InaKoch.jpg" width="120px"/></p></td>
+<td style="width: 220px;"><p style="margin:1px;"><strong>Maria-Jesus Martin, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">EMBL-EBI, Cambridge, UK</font></p></td>
 </tr>
 <tr>
-<td style="width: 120px;"><p style="margin:1px;"><strong>Vassili<br/>Soumelis<br/>MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Hôpital St Louis, Paris, France</font></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><strong>Olivier<br/>Lantz<br/>MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Institut Curie, Paris, France</font></p><br /></td>
-<td style="width: 120px;"><p style="margin:1px;"><strong>Chris<br/>Sander<br/>PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Dana–Farber Cancer Institute, Harvard Medical School, Boston, US</font></p><br /></td>
-<td style="width: 120px;"><p style="margin:1px;"><strong>Maria-Jesus<br/>Martin<br/>PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">EMBL-EBI, Cambridge, UK</font></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><strong>Dagmar<br/>Waltemath<br/>PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Greifswald University Hospital, Greifswald, Germany</font></p></td>
-<td style="width: 120px;"><p style="margin:1px;"><strong>Ina<br/>Koch<br/>PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Goethe University Frankfurt, Frankfurt, Germany</font></p></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/OlivierLantz.jpg" width="120px"/></p></td>
+<td style="width: 220px;"><p style="margin:1px;"><strong>Olivier Lantz, MD, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Institut Curie, Paris, France</font></p><br /></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/DagmarWaltemath.jpg" width="120px"/></p></td>
+<td style="width: 220px;"><p style="margin:1px;"><strong>Dagmar Waltemath, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Greifswald University Hospital<br/>Greifswald, Germany</font></p></td>
+</tr>
+<tr>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/ChrisSander.jpg" width="120px"/></p></td>
+<td style="width: 220px;"><p style="margin:1px;"><strong>Chris Sander, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Dana–Farber Cancer Institute<br/>Harvard Medical School, Boston, US</font></p><br /></td>
+<td style="width: 120px;"><p style="margin:1px;"><img src="/images/teamhq/InaKoch.jpg" width="120px"/></p></td>
+<td style="width: 220px;"><p style="margin:1px;"><strong>Ina Koch, PhD</strong></p><p style="margin:1px; line-height:100%;"><font size="2">Goethe University Frankfurt<br/>Frankfurt, Germany</font></p></td>
 </tr>
 </table>
 
