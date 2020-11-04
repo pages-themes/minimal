@@ -4,11 +4,11 @@ layout: default
 permalink: /DMCM2020submit
 ---
 
-## Talks and poster presentations: submission details
-
 Go back to the [main page](https://disease-maps.org/DMCM2020)
 
-### For all
+## Talks and poster presentations: submission details
+
+### For speakers and poster presenters
 
 Please check the planning of [talks](https://disease-maps.org/DMCM2020){:target="_ blank"} and [poster sessions](https://disease-maps.org/DMCM2020posters){:target="_ blank"} to find out when you are supposed to present and in what format, a talk or a poster.
 
