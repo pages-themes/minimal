@@ -49,7 +49,7 @@ The live talks will be recorded during the meeting and made available to the pre
 ### How to upload my materials to the ZENODO platform
 - Access the [Disease Maps Community on Zenodo](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}
 - Click the "New upload" button
-- Choose "Poster" (for poster presenters) or "Presentation" (for speakers) category
+- Choose "Poster" (for poster presenters) or "Presentation" (for speakers) category, even though you will be uploading a video.
 - Make sure the content is Open Access, so others can see your poster and watch your presentation. We suggest the default OA license (Creative Commons 4.0 Attribution International)
 - Publication date should be default, the date of the upload.
 - **Important:** Please check [Zenodo policies](https://about.zenodo.org/policies){:target="_ blank"}.
