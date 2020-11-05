@@ -18,7 +18,8 @@ All poster presenters and speakers are asked to create their profiles on the [Ze
 You need to prepare:
 - A description: feel free to reuse your submission abstract
 - Your poster: portrait orientation, A0 format, pdf
-- A pre-recorded video presentation describing your poster: 12 slides, 7 minutes max in mp4 format, <1 GB
+- A pre-recorded video presentation describing your poster: 12 slides, 7 minutes max in mp4 format, <1 GB (you might find [this tutorial](https://www.youtube.com/watch?v=D8JV3w4TOVw) useful)
+
 and submit it to [Zenodo platform, Disease Maps Community](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}.
 
 Participants of the poster sessions are expected to check your poster beforehand, the link will appear on the website as soon as you submit. Poster sessions will be dedicated to discussions about the contents of the posters, and will take place in dedicated Discussion Rooms.
@@ -41,14 +42,15 @@ Check [the agenda](https://disease-maps.org/DMCM2020posters){:target="_ blank"} 
 - Follow instructions How to Make a Video in PowerPoint - ppt to video
 
 ### For speakers
-Speakers are asked to prepare their abstracts and posters following the format described above and upload to the [Zenodo platform, Disease Maps Community](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}.  
-The live talks of speakers will be recorded during the meeting and made available to the presenters. Presenters are then encouraged to upload these videos to their corresponding Zenodo entries.
+You need to a 15 minutes talk which will be followed by 5 minutes of Q&A.  
+Please upload your abstract and, if possilbe, slides to the [Zenodo platform, Disease Maps Community](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}, following the instructions below.   
+The live talks will be recorded during the meeting and made available to the presenters. You are then encouraged to upload these videos to your corresponding Zenodo entry.
 
 ### How to upload my materials to the ZENODO platform
 - Access the [Disease Maps Community on Zenodo](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}
 - Click the "New upload" button
-- Choose "Poster" category
-- Make sure the presentation is Open Access, so others can see your poster and watch your presentation
+- Choose "Poster" (for poster presenters) or "Presentation" (for speakers) category
+- Make sure the content is Open Access, so others can see your poster and watch your presentation
 - Important: Please check [Zenodo policies](https://about.zenodo.org/policies){:target="_ blank"}.
 
 An example entry can be found [here](https://zenodo.org/record/4033071#.X6KOsy9h2JY){:target="_ blank"}.
