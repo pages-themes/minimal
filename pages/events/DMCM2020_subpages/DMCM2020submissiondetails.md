@@ -18,7 +18,7 @@ All poster presenters and speakers are asked to create their profiles on the [Ze
 You need to prepare:
 - A description: feel free to reuse your submission abstract
 - Your poster: portrait orientation, A0 format, pdf
-- A pre-recorded video presentation describing your poster: 12 slides, 7 minutes max in mp4 format, <1 GB (you might find [this tutorial](https://www.youtube.com/watch?v=D8JV3w4TOVw) useful)
+- A pre-recorded video presentation describing your poster: 12 slides, 7 minutes max in mp4 format, <1 GB
 
 and submit it to [Zenodo platform, Disease Maps Community](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}.
 
@@ -39,7 +39,7 @@ Check [the agenda](https://disease-maps.org/DMCM2020posters){:target="_ blank"} 
 - Respect time limit.
 - Let your colleagues watch your recording.
 - Repeat recording if needed.
-- Follow instructions How to Make a Video in PowerPoint - ppt to video
+- Follow instructions [How to Make a Video in PowerPoint - ppt to video](https://www.youtube.com/watch?v=D8JV3w4TOVw){:target="_ blank"}
 
 ### For speakers
 You need to a 15 minutes talk which will be followed by 5 minutes of Q&A.  
