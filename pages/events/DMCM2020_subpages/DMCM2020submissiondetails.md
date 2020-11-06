@@ -12,7 +12,7 @@ Go back to the [main page](https://disease-maps.org/DMCM2020)
 
 Please check the planning of [talks](https://disease-maps.org/DMCM2020){:target="_ blank"} and [poster sessions](https://disease-maps.org/DMCM2020posters){:target="_ blank"} to find out when you are supposed to present and in what format, a talk or a poster.
 
-All poster presenters and speakers are asked to create their profiles on the [Zenodo platform](https://zenodo.org){:target="_ blank"}.
+All poster presenters and speakers are asked to create their profiles on the [Zenodo platform](https://zenodo.org/signup/){:target="_ blank"}.
 
 ### For poster presenters
 You need to prepare:
@@ -42,13 +42,17 @@ Check [the agenda](https://disease-maps.org/DMCM2020posters){:target="_ blank"} 
 - Follow instructions [How to Make a Video in PowerPoint - ppt to video](https://www.youtube.com/watch?v=D8JV3w4TOVw){:target="_ blank"}
 
 ### For speakers
-You need to a 15 minutes talk which will be followed by 5 minutes of Q&A.  
+You need to plan a 15 minutes talk which will be followed by 5 minutes of Q&A.  
 Please upload your abstract and, if possilbe, slides to the [Zenodo platform, Disease Maps Community](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}, following the instructions below.   
 The live talks will be recorded during the meeting and made available to the presenters. You are then encouraged to upload these videos to your corresponding Zenodo entry.
 
 ### How to upload my materials to the ZENODO platform
 - Access the [Disease Maps Community on Zenodo](https://zenodo.org/communities/disease-maps/?page=1&size=20){:target="_ blank"}
 - Click the "New upload" button
+- Paste your abstract in the "Description" field
+- Upload your required files in the "Files" section, either by drag and drop or by clicking the "Choose files" button'
+  - for presenters, a PDF file with the poster, a slide deck (PDF or PPT) and a MP4 file with the recorded presentation
+  - for speakers, a PDF with the slides
 - Choose "Poster" (for poster presenters) or "Presentation" (for speakers) category, even though you will be uploading a video.
 - Make sure the content is Open Access, so others can see your poster and watch your presentation. We suggest the default OA license (Creative Commons 4.0 Attribution International)
 - Publication date should be default, the date of the upload.
