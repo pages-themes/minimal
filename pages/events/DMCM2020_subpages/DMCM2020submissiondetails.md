@@ -52,7 +52,7 @@ The live talks will be recorded during the meeting and made available to the pre
 - Paste your abstract in the "Description" field
 - Upload your required files in the "Files" section, either by drag and drop or by clicking the "Choose files" button'
   - for presenters, a PDF file with the poster, a slide deck (PDF or PPT) and a MP4 file with the recorded presentation
-  - for speakers, a PDF with the slides
+  - for speakers, a slide deck (PDF or PPT)
 - Choose "Poster" (for poster presenters) or "Presentation" (for speakers) category, even though you will be uploading a video.
 - Make sure the content is Open Access, so others can see your poster and watch your presentation. We suggest the default OA license (Creative Commons 4.0 Attribution International)
 - Publication date should be default, the date of the upload.
