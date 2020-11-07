@@ -6,8 +6,10 @@ permalink: /publications
 
 # Publications
 
-* [Key community papers](#key-community-papers)
-* [COVID-19 Disease Map](#covid-19-disease-map)
+* [Key community papers](#key-community-papers)  
+
+* [COVID-19 Disease Map](#covid-19-disease-map)  
+
 * [Selected publications of the community members](#selected-publications-of-the-community-members)
   * [Disease maps](#disease-maps)
   * [Map construction technology](#map-construction-technology)
