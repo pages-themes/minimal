@@ -7,8 +7,16 @@ permalink: /publications
 # Publications
 
 * [Key community papers](#key-community-papers)
-* [COVID-19 Disease Map](#COVID-19-Disease-Map)
+* [COVID-19 Disease Map](#covid-19-disease-map)
 * [Selected publications of the community members](#selected-publications-of-the-community-members)
+  * [Disease maps](#disease-maps)
+  * [Map construction technology](#map-construction-technology)
+  * [Applications of disease maps](#applications-of-disease-maps)
+  * [Tools](#tools)
+* [Relevant projects](#relevant-projects)
+  * [Relevant disease maps](#relevant-disease-maps)
+  * [Comprehensive pathway maps](#comprehensive-pathway-maps)
+  * [Complementary approaches](#complementary-approaches)
 
 ## Key community papers
 
@@ -72,7 +80,7 @@ Bonnet E, Calzone L, Rovera D, Stoll G, Barillot E, Zinovyev A. BiNoM 2.0, a Cyt
 
 ## Relevant projects
 
-### Disease maps
+### Relevant disease maps
 
 Matsuoka Y, Matsumae H, Katoh M, Eisfeld AJ, Neumann G, Hase T, Ghosh S, Shoemaker JE, Lopes TJ, Watanabe T, Watanabe S, Fukuyama S, Kitano H, Kawaoka Y. A comprehensive map of the influenza A virus replication cycle. BMC Syst Biol. 2013 Oct 2;7:97. [doi:10.1186/1752-0509-7-97](https://doi.org/10.1186/1752-0509-7-97). [PMID: 24088197](https://www.ncbi.nlm.nih.gov/pubmed/24088197).  
 
