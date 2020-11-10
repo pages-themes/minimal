@@ -9,6 +9,9 @@ permalink: /DMCM2020posters
 Go to the [main page](https://disease-maps.org/DMCM2020)  
 Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 
+**IMPORTANT:** Videos for posters, when available, are embedded. Safari browser may not display the embedded videos correctly.
+In this case, right click on the video thumbnail and download the video to watch it.
+
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
 ### <strong><font color="Blue">10.50-11.10 Poster Session A</font></strong>
 
