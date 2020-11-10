@@ -61,7 +61,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 
 ### <strong><font color="Blue">12.00-13.30 Poster Session E</font></strong>
 
-**The role of the System Biology program in Health and Disease: from biological networks to modern medicine** 
+**[[doi: 10.5281/zenodo.4266067]The role of the System Biology program in Health and Disease: from biological networks to modern medicine](https://doi.org/10.5281/zenodo.4266067)**  
 *Saveena Solanki*  
 [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50){:target=" blank"}
 
