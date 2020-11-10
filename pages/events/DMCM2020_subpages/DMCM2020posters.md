@@ -25,9 +25,24 @@ In this case, right click on the video thumbnail and download the video to watch
 
 ### <strong><font color="Blue">12.10-13.30 Poster Session B</font></strong>
 
-**PhysiBoSS-COVID: the Boolean modelling of COVID-19 signalling pathways in a multicellular simulation framework allows for the uncovering of mechanistic insights** 
-*Vincent Noel, José Carbonell, Miguel Ponce de Leon, Sylvain Soliman, Anna Niarakis, Laurence Calzone, Emmanuel Barillot, Alfonso Valencia and Arnau Montagud*  
-[Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266778/files/physiboss-covid.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266778" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266778] PhysiBoSS-COVID: the Boolean modelling of COVID-19 signalling pathways in a multicellular simulation framework allows for the uncovering of mechanistic insights</font></strong><br/>
+</a>
+<i>Vincent Noel, José Carbonell, Miguel Ponce de Leon, Sylvain Soliman, Anna Niarakis, Laurence Calzone, Emmanuel Barillot, Alfonso Valencia and Arnau Montagud</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50" target="_blank">
+  <font color="Navy">Meeting Room A</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 <table>
 <tr>
