@@ -89,9 +89,24 @@ In this case, right click on the video thumbnail and download the video to watch
 *Steven Vercruysse*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target=" blank"}
 
-**Computational modelling of the cellular interplay in Rheumatoid Arthritis. Deciphering the role of innate and adaptive immunity in cartilage destruction and bone erosion** 
-*Naouel Zerrouk, Charles Bettembourg and Anna Niarakis*  
-[Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266102/files/loucera_carlos_dm2020_talk.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266771" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266771] Computational modelling of the cellular interplay in Rheumatoid Arthritis. Deciphering the role of innate and adaptive immunity in cartilage destruction and bone erosion</font></strong><br/>
+</a>
+<i>Naouel Zerrouk, Charles Bettembourg and Anna Niarakis</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
+  <font color="Navy">Discussion Room 2</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 ### <strong><font color="Blue">12.00-13.30 Poster Session E</font></strong>
 
