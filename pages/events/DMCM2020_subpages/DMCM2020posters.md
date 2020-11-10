@@ -29,9 +29,24 @@ In this case, right click on the video thumbnail and download the video to watch
 *Vincent Noel, José Carbonell, Miguel Ponce de Leon, Sylvain Soliman, Anna Niarakis, Laurence Calzone, Emmanuel Barillot, Alfonso Valencia and Arnau Montagud*  
 [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50){:target="_ blank"}
 
-**From COVID-19 Disease Map molecular mechanisms to executable cell-specific logical models** 
-*Viviam Bermúdez, Marco Fariñas, Eirini Tsirvouli and Martin Kuiper*  
-[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266707/files/Poster%20presentation%20recording%20DMCM2020_Bermudez-Fariñas.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266707" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266707] From COVID-19 Disease Map molecular mechanisms to executable cell-specific logical models</font></strong><br/>
+</a>
+<i>Viviam Bermúdez, Marco Fariñas, Eirini Tsirvouli and Martin Kuiper</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
+  <font color="Navy">Discussion Room 1</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 **A machine-built self-updating model of COVID-19 mechanisms** 
 *Benjamin M. Gyori, John A. Bachman and Diana Kolusheva*  
