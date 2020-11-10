@@ -63,7 +63,7 @@ The programme will contain keynotes, invited talks and talks selected from abstr
 </tr>
 </table> 
 
-
+<iframe width="420" height="315" src="https://zenodo.org/record/4033071/files/BioKC%20Video%20BioNetVisA%202020.mp4" frameborder="0" allowfullscreen></iframe>
 
 ## Invited speakers
 
