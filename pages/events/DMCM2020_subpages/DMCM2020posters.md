@@ -65,7 +65,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Saveena Solanki*  
 [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50){:target=" blank"}
 
-**Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts** 
+**[[doi: 10.5281/zenodo.4266084] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts](https://doi.org/10.5281/zenodo.4266084)**  
 *Sahar Aghakhani, Sylvain Soliman and Anna Niarakis*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target=" blank"}
 
