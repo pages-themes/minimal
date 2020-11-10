@@ -73,7 +73,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Salma Ramadan, Mohammed Ibrahim, Mohammed Alaa and Bassem Awad*  
 [Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
 
-[**[Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network]**](https://doi.org/10.5281/zenodo.4266124){:target=" blank"}   
+[**[doi: 10.5281/zenodo.4266124] Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network**](https://doi.org/10.5281/zenodo.4266124){:target=" blank"}   
 *Quentin Miagoux, Dereck de Mézquita, Vidisha Singh, Smahane Chalabi, Elisabeth Petit-Teixeira and Anna Niarakis*  
 [Discussion Room 3](https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf){:target="_ blank"}
 
