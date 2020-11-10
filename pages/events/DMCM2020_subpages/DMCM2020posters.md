@@ -34,7 +34,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Benjamin M. Gyori, John A. Bachman and Diana Kolusheva*  
 [Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target=" blank"}
 
-**Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps** 
+**[[doi: 10.5281/zenodo.4266058] Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps](https://doi.org/10.5281/zenodo.4266058)** 
 *Carlos Loucera, Marina Esteban Medina, Kinza Rian, Matias M. Falco, Joaquin Dopazo and Maria Peña-Chilet*  
 [Discussion Room 3](https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf){:target=" blank"}
 
