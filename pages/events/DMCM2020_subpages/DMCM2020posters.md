@@ -69,7 +69,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Sahar Aghakhani, Sylvain Soliman and Anna Niarakis*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
 
-**[[doi: 10.5281/zenodo.4266347] Glial Scar Formation in CNS injury: A sub-map](https://doi.org/10.5281/zenodo.4266347)**{:target="_ blank"}  
+**[[doi: 10.5281/zenodo.4266347] Glial Scar Formation in CNS injury: A sub-map](https://doi.org/10.5281/zenodo.4266347){:target="_ blank"}**  
 *Salma Ramadan, Mohammed Ibrahim, Mohammed Alaa and Bassem Awad*  
 [Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
 
