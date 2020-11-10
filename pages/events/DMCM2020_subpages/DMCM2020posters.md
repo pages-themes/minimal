@@ -69,9 +69,24 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Sahar Aghakhani, Sylvain Soliman and Anna Niarakis*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
 
-**[[doi: 10.5281/zenodo.4266347] Glial Scar Formation in CNS injury: A sub-map](https://doi.org/10.5281/zenodo.4266347){:target="_ blank"}**  
-*Salma Ramadan, Mohammed Ibrahim, Mohammed Alaa and Bassem Awad*  
-[Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266347/files/Glial%20Scar%20in%20CNS%20injury%20Presentation%2011-10-20%20-%20Salma%20Ramadan.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266347" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266347] Glial Scar Formation in CNS injury: A sub-map</font></strong><br/>
+</a>
+<i>Salma Ramadan, Mohammed Ibrahim, Mohammed Alaa and Bassem Awad</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
+  <font color="Navy">[Discussion Room 2</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 **[[doi: 10.5281/zenodo.4266124] Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network](https://doi.org/10.5281/zenodo.4266124){:target=" blank"}**   
 *Quentin Miagoux, Dereck de Mézquita, Vidisha Singh, Smahane Chalabi, Elisabeth Petit-Teixeira and Anna Niarakis*  
