@@ -143,9 +143,24 @@ In this case, right click on the video thumbnail and download the video to watch
 
 ### <strong><font color="Blue">14.50-15.10 Poster Session F</font></strong>
 
-**LipoCanPredict: Multi-omics biomarker signatures identification in Cancer-Associated Adipocytes in Invasive Breast Cancer in obese patients**
-*Luis Cristobal Monraz Gomez, Inna Kuperstein and Emmanuel Barillot*  
-[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266124/files/presentation_quentin_miagoux_DCMC.m4v" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266860" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266860] LipoCanPredict: Multi-omics biomarker signatures identification in Cancer-Associated Adipocytes in Invasive Breast Cancer in obese patients</font></strong><br/>
+</a>
+<i>Luis Cristobal Monraz Gomez, Inna Kuperstein and Emmanuel Barillot</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
+  <font color="Navy">Discussion Room 1</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 **OmniPath: A resource for integrated intra- and intercellular signalling analysis** 
 *Denes Turei, Alberto Valdeolivas, Lejla Potari-Gul, Nicolàs Palacio-Escat, Olga Ivanova, Attila Gábor, Dezso Modos, Tamas Korcsmaros and Julio Saez-Rodriguez*  
