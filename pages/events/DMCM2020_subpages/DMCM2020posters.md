@@ -82,15 +82,30 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 </a>
 <i>Salma Ramadan, Mohammed Ibrahim, Mohammed Alaa and Bassem Awad</i><br/>
 <a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
-  <font color="Navy">[Discussion Room 2</font><br/>
+  <font color="Navy">Discussion Room 2</font><br/>
 </a>
 </td>
 </tr>
 </table> 
 
-**[[doi: 10.5281/zenodo.4266124] Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network](https://doi.org/10.5281/zenodo.4266124){:target=" blank"}**   
-*Quentin Miagoux, Dereck de Mézquita, Vidisha Singh, Smahane Chalabi, Elisabeth Petit-Teixeira and Anna Niarakis*  
-[Discussion Room 3](https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266124/files/presentation_quentin_miagoux_DCMC.m4v" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266124" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266124] Combining bottom-up and top-down systems biology methods to obtain an integrative, global RA-specific network</font></strong><br/>
+</a>
+<i>Quentin Miagoux, Dereck de Mézquita, Vidisha Singh, Smahane Chalabi, Elisabeth Petit-Teixeira and Anna Niarakis</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf" target="_blank">
+  <font color="Navy">Discussion Room 3</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 ### <strong><font color="Blue">14.50-15.10 Poster Session F</font></strong>
 
