@@ -34,7 +34,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Benjamin M. Gyori, John A. Bachman and Diana Kolusheva*  
 [Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target=" blank"}
 
-**[[doi: 10.5281/zenodo.4266058] Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps](https://doi.org/10.5281/zenodo.4266058)**  
+[**[doi: 10.5281/zenodo.4266058] Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps**](https://doi.org/10.5281/zenodo.4266058){:target=" blank"}  
 *Carlos Loucera, Marina Esteban Medina, Kinza Rian, Matias M. Falco, Joaquin Dopazo and Maria Peña-Chilet*  
 [Discussion Room 3](https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf){:target=" blank"}
 
@@ -51,7 +51,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 ### <strong><font color="Blue">Friday 13 November</font></strong>
 ### <strong><font color="Blue">10.20-10.40 Poster Session D</font></strong>
 
-**[[doi:10.5281/zenodo.4265407] VSM: the intuitive, general-purpose curation technology](https://doi.org/10.5281/zenodo.4265407)**  
+[**[doi:10.5281/zenodo.4265407] VSM: the intuitive, general-purpose curation technology**](https://doi.org/10.5281/zenodo.4265407){:target=" blank"}  
 *Steven Vercruysse*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target=" blank"}
 
@@ -61,11 +61,11 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 
 ### <strong><font color="Blue">12.00-13.30 Poster Session E</font></strong>
 
-**[[doi: 10.5281/zenodo.4266067]The role of the System Biology program in Health and Disease: from biological networks to modern medicine](https://doi.org/10.5281/zenodo.4266067)**  
+[**[doi: 10.5281/zenodo.4266067]The role of the System Biology program in Health and Disease: from biological networks to modern medicine**](https://doi.org/10.5281/zenodo.4266067){:target=" blank"}  
 *Saveena Solanki*  
 [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50){:target=" blank"}
 
-**[[doi: 10.5281/zenodo.4266084] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts](https://doi.org/10.5281/zenodo.4266084)**  
+[**[doi: 10.5281/zenodo.4266084] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts**](https://doi.org/10.5281/zenodo.4266084){:target=" blank"}  
 *Sahar Aghakhani, Sylvain Soliman and Anna Niarakis*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target=" blank"}
 
