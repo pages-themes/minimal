@@ -192,7 +192,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266124/files/presentation_quentin_miagoux_DCMC.m4v" type="video/mp4">
+   <source src="https://zenodo.org/record/4266860/files/LipoCanPredict_DMCM2020_Poster_Presentation_LCMG.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
