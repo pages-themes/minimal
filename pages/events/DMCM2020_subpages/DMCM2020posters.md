@@ -51,7 +51,7 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 ### <strong><font color="Blue">Friday 13 November</font></strong>
 ### <strong><font color="Blue">10.20-10.40 Poster Session D</font></strong>
 
-**VSM: the intuitive, general-purpose curation technology** 
+**VSM: the intuitive, general-purpose curation technology (see here: [doi:10.5281/zenodo.4265407](https://doi.org/10.5281/zenodo.4265407))** 
 *Steven Vercruysse*  
 [Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target=" blank"}
 
