@@ -34,9 +34,24 @@ In this case, right click on the video thumbnail and download the video to watch
 </tr>
 </table> 
 
-**A comprehensive map of the SARS-CoV-2 replication cycle** 
-*Marcio Acencio, Alexander Mazein, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Marek Ostaszewski and Reinhard Schneider*  
-[Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4267039/files/sars-cov-2_replication_cell_cycle.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4267039" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4267039] A comprehensive map of the SARS-CoV-2 replication cycle</font></strong><br/>
+</a>
+<i>Marcio Acencio, Alexander Mazein, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Marek Ostaszewski and Reinhard Schneider</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
+  <font color="Navy">Discussion Room 2</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 ### <strong><font color="Blue">12.10-13.30 Poster Session B</font></strong>
 
