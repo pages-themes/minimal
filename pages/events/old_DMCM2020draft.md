@@ -52,9 +52,18 @@ We also welcome talks, posters and discussions on other topics relevant to disea
  
 The programme will contain keynotes, invited talks and talks selected from abstracts. We’ll hold several parallel discussion panels on the major burning topics in the field. All virtual posters will be exposed on the ZENODO platform. 
 
+<table>
+<tr>
+<td style="width: 100px;">
 <video width="100%" controls>
    <source src="https://zenodo.org/record/4033071/files/BioKC%20Video%20BioNetVisA%202020.mp4" type="video/mp4">
 </video>
+</td>
+<td style="width: 320px;">The programme will contain keynotes, invited talks and talks selected from abstracts. We’ll hold several parallel discussion panels on the major burning topics in the field. All virtual posters will be exposed on the ZENODO platform. </td>
+</tr>
+</table> 
+
+
 
 ## Invited speakers
 
