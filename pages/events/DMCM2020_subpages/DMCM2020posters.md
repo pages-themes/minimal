@@ -15,9 +15,24 @@ In this case, right click on the video thumbnail and download the video to watch
 ### <strong><font color="Blue">Thursday 12 November</font></strong>
 ### <strong><font color="Blue">10.50-11.10 Poster Session A</font></strong>
 
-**COVID-19 Biomarkers in Research and Associations with Comorbidities** 
-*Nikhita Gogate, Amanda Bell, Daniel Lyman, Robel Kahsay and Raja Mazumder*  
-[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266707/files/Poster%20presentation%20recording%20DMCM2020_Bermudez-Fariñas.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266707" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266707] From COVID-19 Disease Map molecular mechanisms to executable cell-specific logical models</font></strong><br/>
+</a>
+<i>Viviam Bermúdez, Marco Fariñas, Eirini Tsirvouli and Martin Kuiper</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
+  <font color="Navy">Discussion Room 1</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 **A comprehensive map of the SARS-CoV-2 replication cycle** 
 *Marcio Acencio, Alexander Mazein, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Marek Ostaszewski and Reinhard Schneider*  
@@ -44,24 +59,9 @@ In this case, right click on the video thumbnail and download the video to watch
 </tr>
 </table> 
 
-<table>
-<tr>
-<td style="width: 120px;">
-<video width="100%" controls>
-   <source src="https://zenodo.org/record/4266707/files/Poster%20presentation%20recording%20DMCM2020_Bermudez-Fariñas.mp4" type="video/mp4">
-</video>
-</td>
-<td style="width: 400px;">
-<a href="https://doi.org/10.5281/zenodo.4266707" target="_blank">
-  <strong><font color="Navy">[doi: 10.5281/zenodo.4266707] From COVID-19 Disease Map molecular mechanisms to executable cell-specific logical models</font></strong><br/>
-</a>
-<i>Viviam Bermúdez, Marco Fariñas, Eirini Tsirvouli and Martin Kuiper</i><br/>
-<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
-  <font color="Navy">Discussion Room 1</font><br/>
-</a>
-</td>
-</tr>
-</table> 
+**COVID-19 Biomarkers in Research and Associations with Comorbidities** 
+*Nikhita Gogate, Amanda Bell, Daniel Lyman, Robel Kahsay and Raja Mazumder*  
+[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
 
 **A machine-built self-updating model of COVID-19 mechanisms** 
 *Benjamin M. Gyori, John A. Bachman and Diana Kolusheva*  
