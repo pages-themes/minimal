@@ -65,9 +65,24 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Saveena Solanki*  
 [Meeting Room A](https://unilu.webex.com/unilu/j.php?MTID=mf57af1440a92c6ed3df9eb8820f63e50){:target="_ blank"}
 
-**[[doi: 10.5281/zenodo.4266084] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts](https://doi.org/10.5281/zenodo.4266084){:target=" blank"}**  
-*Sahar Aghakhani, Sylvain Soliman and Anna Niarakis*  
-[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266084/files/DMCM_Video.m4v" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266084" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266084] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts</font></strong><br/>
+</a>
+<i>Sahar Aghakhani, Sylvain Soliman and Anna Niarakis</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
+  <font color="Navy">Discussion Room 1</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 <table>
 <tr>
