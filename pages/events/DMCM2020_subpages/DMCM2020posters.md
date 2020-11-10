@@ -34,9 +34,25 @@ Go to the [submission page](https://disease-maps.org/DMCM2020submit)
 *Benjamin M. Gyori, John A. Bachman and Diana Kolusheva*  
 [Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
 
-**[[doi: 10.5281/zenodo.4266058] Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps](https://doi.org/10.5281/zenodo.4266058){:target=" blank"}**  
-*Carlos Loucera, Marina Esteban Medina, Kinza Rian, Matias M. Falco, Joaquin Dopazo and Maria Peña-Chilet*  
-[Discussion Room 3](https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf){:target="_ blank"}
+
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4266058/files/loucera_carlos_dm2020_talk.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4266058" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4266058] Drug repurposing for SARS-CoV-2 infection using machine learning and mechanistic models of the COVID-19 Disease Maps</font></strong><br/>
+</a>
+<i>Carlos Loucera, Marina Esteban Medina, Kinza Rian, Matias M. Falco, Joaquin Dopazo and Maria Peña-Chilet</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=mdc2c219e3c1af6853ca9308d654f6dcf" target="_blank">
+  <font color="Navy">Discussion Room 3</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 ### <strong><font color="Blue">15.20-15.40 Poster Session C</font></strong>
 
