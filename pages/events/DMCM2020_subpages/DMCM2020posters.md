@@ -135,7 +135,7 @@ If this doesn't work, follow the link behind the poster title and download the v
 
 <table>
 <tr>
-<td style="width: 120px;">
+<td style="width: 200px;">
 <video width="100%" controls>
    <source src="[file]" type="video/mp4">
 </video>
@@ -154,7 +154,7 @@ If this doesn't work, follow the link behind the poster title and download the v
 
 <table>
 <tr>
-<td style="width: 120px;">
+<td style="width: 200px;">
 <video width="100%" controls>
    <source src="[file]" type="video/mp4">
 </video>
