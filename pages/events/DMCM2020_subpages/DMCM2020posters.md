@@ -133,13 +133,43 @@ If this doesn't work, follow the link behind the poster title and download the v
 
 ### <strong><font color="Blue">15.20-15.40 Poster Session C</font></strong>
 
-**SARS-CoV-2 and the NLRP3 inflammasome** 
-*Julia Somers, Ebru Kocakaya, Gokce Summak, Omur Bul, Emek Demir, Mehmet Altay Unal, Acelya Yilmazer and Can Akcali*  
-[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="[file]" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4267982" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4267982] SARS-CoV-2 and the NLRP3 inflammasome</font></strong><br/>
+</a>
+<i>Julia Somers, Ebru Kocakaya, Gokce Summak, Omur Bul, Emek Demir, Mehmet Altay Unal, Acelya Yilmazer and Can Akcali</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
+  <font color="Navy">Discussion Room 1</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
-**Immunometabolic strategies to combat COVID-19 inflammation** 
-*Gökçe Yağmur Summak, Ebru Kocakaya, Omur Bul, Julia Somers, Mehmet Altay Ünal, Can Akcali, Acelya Yilmazer and Emek Demir*  
-[Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="[file]" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4267989" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4267989] Immunometabolic strategies to combat COVID-19 inflammation</font></strong><br/>
+</a>
+<i>Gökçe Yağmur Summak, Ebru Kocakaya, Omur Bul, Julia Somers, Mehmet Altay Ünal, Can Akcali, Acelya Yilmazer and Emek Demir</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
+  <font color="Navy">Discussion Room 2</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 ### <strong><font color="Blue">Friday 13 November</font></strong>
 ### <strong><font color="Blue">10.20-10.40 Poster Session D</font></strong>
