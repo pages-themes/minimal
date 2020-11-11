@@ -74,14 +74,43 @@ In this case, right click on the video thumbnail and download the video to watch
 </tr>
 </table> 
 
-**COVID-19 Biomarkers in Research and Associations with Comorbidities** 
-*Nikhita Gogate, Amanda Bell, Daniel Lyman, Robel Kahsay and Raja Mazumder*  
-[Discussion Room 1](https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4267247/files/COVID19%20Biomarker%20Resource%20Nikhita%20Gogate.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4267247" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4267247] COVID-19 Biomarkers in Research and Associations with Comorbidities</font></strong><br/>
+</a>
+<i>Nikhita Gogate, Amanda Bell, Daniel Lyman, Robel Kahsay and Raja Mazumder</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
+  <font color="Navy">Discussion Room 1</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
-**A machine-built self-updating model of COVID-19 mechanisms** 
-*Benjamin M. Gyori, John A. Bachman and Diana Kolusheva*  
-[Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
-
+<table>
+<tr>
+<td style="width: 120px;">
+<video width="100%" controls>
+   <source src="[file]" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4267215" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4267215] A machine-built self-updating model of COVID-19 mechanisms</font></strong><br/>
+</a>
+<i>Benjamin M. Gyori, John A. Bachman and Diana Kolusheva</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
+  <font color="Navy">Discussion Room 2</font><br/>
+</a>
+</td>
+</tr>
+</table> 
 
 <table>
 <tr>
@@ -123,7 +152,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266102/files/loucera_carlos_dm2020_talk.mp4" type="video/mp4">
+   <source src="https://zenodo.org/record/4266771/files/Video_DMCM_Zerrouk.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
