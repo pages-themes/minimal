@@ -137,7 +137,7 @@ If this doesn't work, follow the link behind the poster title and download the v
 <tr>
 <td style="width: 200px;">
 <video width="100%" controls>
-   <source src="[file]" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/NLRP3_inflammasome.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -156,7 +156,7 @@ If this doesn't work, follow the link behind the poster title and download the v
 <tr>
 <td style="width: 200px;">
 <video width="100%" controls>
-   <source src="[file]" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/Immunometabolic_approaches.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
