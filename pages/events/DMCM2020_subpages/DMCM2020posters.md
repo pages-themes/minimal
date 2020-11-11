@@ -97,7 +97,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="[file]" type="video/mp4">
+   <source src="https://zenodo.org/record/4267215/files/2020-11-12_gyori_disease_maps_poster_talk.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
