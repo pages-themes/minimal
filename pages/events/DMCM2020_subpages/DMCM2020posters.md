@@ -19,7 +19,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266707/files/Poster%20presentation%20recording%20DMCM2020_Bermudez-Fariñas.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/Poster%20presentation%20recording%20DMCM2020_Bermudez-Fariñas.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -38,7 +38,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4267039/files/sars-cov-2_replication_cell_cycle.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/sars-cov-2_replication_cell_cycle.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -59,7 +59,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266778/files/physiboss-covid.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/physiboss-covid.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -78,7 +78,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4267247/files/COVID19%20Biomarker%20Resource%20Nikhita%20Gogate.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/COVID19%20Biomarker%20Resource%20Nikhita%20Gogate.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -116,7 +116,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266102/files/loucera_carlos_dm2020_talk.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/loucera_carlos_dm2020_talk.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -152,7 +152,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266771/files/Video_DMCM_Zerrouk.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/Video_DMCM_Zerrouk.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -177,7 +177,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266084/files/DMCM_Video.m4v" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/DMCM_Video.m4v" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -196,7 +196,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266347/files/Glial%20Scar%20in%20CNS%20injury%20Presentation%2011-10-20%20-%20Salma%20Ramadan.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/Glial%20Scar%20in%20CNS%20injury%20Presentation%2011-10-20%20-%20Salma%20Ramadan.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -215,7 +215,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266124/files/presentation_quentin_miagoux_DCMC.m4v" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/presentation_quentin_miagoux_DCMC.m4v" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
@@ -236,7 +236,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://zenodo.org/record/4266860/files/LipoCanPredict_DMCM2020_Poster_Presentation_LCMG.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/LipoCanPredict_DMCM2020_Poster_Presentation_LCMG.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
