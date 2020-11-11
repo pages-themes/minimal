@@ -181,8 +181,8 @@ If this doesn't work, follow the link behind the poster title and download the v
 </video>
 </td>
 <td style="width: 400px;">
-<a href="https://doi.org/10.5281/zenodo.4266084" target="_blank">
-  <strong><font color="Navy">[doi: 10.5281/zenodo.4266084] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts</font></strong><br/>
+<a href="https://doi.org/10.5281/zenodo.4267832" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4267832] Computational Modeling of the Metabolic Reprogramming in Rheumatoid Arthritis Synovial Fibroblasts and Cancer Associated Fibroblasts</font></strong><br/>
 </a>
 <i>Sahar Aghakhani, Sylvain Soliman and Anna Niarakis</i><br/>
 <a href="https://unilu.webex.com/unilu/j.php?MTID=m5900afddeb5f319585e3dcb4d72ed6e4" target="_blank">
