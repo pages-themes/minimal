@@ -97,7 +97,7 @@ In this case, right click on the video thumbnail and download the video to watch
 <tr>
 <td style="width: 120px;">
 <video width="100%" controls>
-   <source src="https://github.com/disease-maps/disease-maps.github.io/blob/master/pages/events/DMCM2020_files/videos/2020-11-12_gyori_disease_maps_poster_talk.mp4" type="video/mp4">
+   <source src="/pages/events/DMCM2020_files/videos/2020-11-12_gyori_disease_maps_poster_talk.mp4" type="video/mp4">
 </video>
 </td>
 <td style="width: 400px;">
