@@ -18,7 +18,7 @@ If this doesn't work, follow the link behind the poster title and download the v
 <table>
 <tr>
 <td style="width: 200px;">
-<video width="100%" controls preload="metadata" poster="/images/disease-maps-logo.png">
+<video width="100%" controls>
    <source src="/pages/events/DMCM2020_files/videos/Poster%20presentation%20recording%20DMCM2020_Bermudez-Fariñas.mp4" type="video/mp4">
 </video>
 </td>
