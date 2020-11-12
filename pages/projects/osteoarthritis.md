@@ -1,7 +1,7 @@
 ---
 title: Osteoarthritis of the knee
 layout: default
-permalink: /osteoarthritis
+permalink: /osteoarthritis/
 ---
 
 # Osteoarthritis
