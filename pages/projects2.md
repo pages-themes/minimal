@@ -187,6 +187,22 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
         </p></td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Lung Cancer Disease Map<br />
+        Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;"> </td>
+</tr>
 </table>    
 
 <br />
