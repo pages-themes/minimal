@@ -107,7 +107,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acutekidneyinjury" target="_blank">Osteoarthritis of the knee</a></strong></p>
+        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
