@@ -107,12 +107,26 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
+        <strong><a href="../acutekidneyinjury" target="_blank">Osteoarthritis of the knee</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: KneePainOAMap<br />
+        Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
@@ -120,13 +134,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Resource: Multiple Sclerosis Pathway Map<br />
         Contact: Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany<br />
         </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
@@ -134,7 +142,13 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Resource: Cognitive Resilience Map<br />
         Contact: Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
         </p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
@@ -142,13 +156,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Resource: Anaphylaxis Map<br />
         Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
@@ -156,14 +164,6 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Resource: Duchenne Muscular Dystrophy Map<br />
         Contact: Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
         </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Meniere’s Disease Map<br />
-        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
-        </p></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
@@ -173,18 +173,18 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
+        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Spinal Cord Injury Map<br />
-        Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
+        Resource: Meniere’s Disease Map<br />
+        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
+        <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Lung Cancer Disease Map<br />
-        Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
+        Resource: Spinal Cord Injury Map<br />
+        Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
