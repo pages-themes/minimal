@@ -201,7 +201,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;"> </td>
+<td style="width:320px;"> </td>
 </tr>
 </table>    
 
