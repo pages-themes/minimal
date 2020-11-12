@@ -281,6 +281,21 @@ If this doesn't work, follow the link behind the poster title and download the v
 </tr>
 </table> 
 
-**OmniPath: A resource for integrated intra- and intercellular signalling analysis** 
-*Denes Turei, Alberto Valdeolivas, Lejla Potari-Gul, Nicolàs Palacio-Escat, Olga Ivanova, Attila Gábor, Dezso Modos, Tamas Korcsmaros and Julio Saez-Rodriguez*  
-[Discussion Room 2](https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299){:target="_ blank"}
+<table>
+<tr>
+<td style="width: 200px;">
+<video width="100%" controls>
+   <source src="https://zenodo.org/record/4268619/files/OmniPath.mp4" type="video/mp4">
+</video>
+</td>
+<td style="width: 400px;">
+<a href="https://doi.org/10.5281/zenodo.4268619" target="_blank">
+  <strong><font color="Navy">[doi: 10.5281/zenodo.4268619] OmniPath: A resource for integrated intra- and intercellular signalling analysis</font></strong><br/>
+</a>
+<i>Denes Turei, Alberto Valdeolivas, Lejla Potari-Gul, Nicolàs Palacio-Escat, Olga Ivanova, Attila Gábor, Dezso Modos, Tamas Korcsmaros and Julio Saez-Rodriguez</i><br/>
+<a href="https://unilu.webex.com/unilu/j.php?MTID=m988a7225025bd3eb934c336d7b262299" target="_blank">
+  <font color="Navy">Discussion Room 2</font><br/>
+</a>
+</td>
+</tr>
+</table>
