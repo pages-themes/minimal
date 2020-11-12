@@ -4,7 +4,7 @@ layout: default
 permalink: /osteoarthritis/
 ---
 
-# Osteoarthritis
+# Osteoarthritis of the knee
 
 ## KneePainOAMap
 
