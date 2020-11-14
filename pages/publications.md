@@ -6,14 +6,14 @@ permalink: /publications
 
 # Publications
 
-[Key community papers](#key-community-papers)  
-[COVID-19 Disease Map](#covid-19-disease-map)  
-[Selected publications of the community members](#selected-publications-of-the-community-members)  
+**[Key community papers](#key-community-papers)**  
+**[COVID-19 Disease Map](#covid-19-disease-map)**  
+**[Selected publications of the community members](#selected-publications-of-the-community-members)**  
 &emsp; &emsp; [Disease maps](#disease-maps)  
 &emsp; &emsp; [Map construction technology](#map-construction-technology)  
 &emsp; &emsp; [Applications of disease maps](#applications-of-disease-maps)  
 &emsp; &emsp; [Tools](#tools)  
-[Relevant projects](#relevant-projects)  
+**[Relevant projects](#relevant-projects)**  
 &emsp; &emsp; [Relevant disease maps](#relevant-disease-maps)  
 &emsp; &emsp; [Comprehensive pathway maps](#comprehensive-pathway-maps)  
 &emsp; &emsp; [Complementary approaches](#complementary-approaches)  
