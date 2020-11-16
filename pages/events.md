@@ -25,7 +25,7 @@ The 2021 community meeting is hosted by the <a href="https://www.sbi.uni-rostock
 <td valign="top">
 <strong><a href="/DMCM2020">5th Disease Maps Community Meeting</a></strong><br />
 12-14 November 2020<br />
-The 2020 community meeting is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project and is organsied as a web conference.
+The 2020 community meeting is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project and is organsied as a web conference by the <a target="_blank" href="https://wwwen.uni.lu/lcsb">Luxembourg Centre for Systems Biomedicine</a>.
 </td>
 </tr>
 </table> 
