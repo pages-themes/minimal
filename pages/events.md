@@ -8,16 +8,16 @@ permalink: /events
 
 <br />
 
-<!--<table>
+<table>
 <tr>
 <td style="width: 105px; height: 105 px" valign="top"><img src="../images/places/Berlin.png"/></td>
 <td valign="top">
 <strong>6th Disease Maps Community Meeting</strong><br />
-2021, Berlin, Germany, the dates are being confirmed<br />
+27-29 October 2021, Berlin, Germany<br />
 The 2021 community meeting is hosted by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of Rostock, Germany</a>.
 </td>
 </tr>
-</table>-->
+</table>
 
 <table>
 <tr>
