@@ -38,7 +38,7 @@ Suggest contribution: <a href="https://docs.google.com/spreadsheets/d/1dBd7zhgw1
         
 <!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 as a web conference and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.</p>-->
 
-UPCOMING EVENT: The **Disease Maps Community Meeting 2021** (DMCM2021) is scheduled 27-29 October 2021 in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).
+UPCOMING EVENT: The **[Disease Maps Community Meeting 2021](../events)** (DMCM2021) is scheduled 27-29 October 2021 in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).
 
 <!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2021">Disease Maps Community Meeting 2021</a></strong> (DMCM2021) is scheduled 27-29 October 2021 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>-->
 
