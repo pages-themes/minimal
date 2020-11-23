@@ -5,6 +5,8 @@ redirect_from: "/events/2ndCommunityMeeting/"
 permalink: /DMCM2017_2nd
 ---
 
+<img src="../images/places/belval-banner.jpg"/>
+
 # 2nd Disease Maps Community Meeting
 
 <p>Dates: 2-3 October 2017
