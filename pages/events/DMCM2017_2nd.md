@@ -7,11 +7,6 @@ permalink: /DMCM2017_2nd
 
 <img src="../images/places/belval-banner.jpg"/>
 
-# 2nd Disease Maps Community Meeting
-
-<p>Dates: 2-3 October 2017
-<br />Location: Belval, Luxembourg</p>
-
 <p>Abstract submission: until <strong>31 July 2017</strong>
 <br />Registration: until <strong>31 August 2017</strong></p>
 
