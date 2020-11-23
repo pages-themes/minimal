@@ -1,5 +1,5 @@
 ---
-title: 2nd Community Meeting
+title: DMCM2017 2nd
 layout: default
 redirect_from: "/events/2ndCommunityMeeting/"
 permalink: /DMCM2017_2nd
