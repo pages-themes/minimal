@@ -54,7 +54,7 @@ The 2018 community meeting is hosted by the <a href="https://sysbio.curie.fr/">C
 
 <table>
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval.png" alt="Lyon"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval2.png" alt="Lyon"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2017_2nd">2nd Disease Maps Community Meeting</a></strong><br />
 2-3 October 2017, Belval, Luxembourg<br />
