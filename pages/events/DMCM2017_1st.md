@@ -1,14 +1,10 @@
 ---
-title: 1st Community Meeting
+title: DMCM2017 1st
 layout: default
-redirect_from: "/events/1stCommunityMeeting/"
-permalink: /DMCM2017_1st
+permalink: /DMCM2017_1st/
 ---
 
-# 1st Disease Maps Community Meeting
-
-<p>Dates: 15-17 February 2017
-<br />Location: Lyon, France</p>
+<img src="../images/places/lyon-banner.jpg"/>
 
 <p>The first face-to-face community meeting is held 15-17 February 2017 at the <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a> in Lyon, France, with 10 groups from 6 countries participating. The topics include best practices, guidelines for developing high-quality maps and applications for translational medicine projects.</p>
 
@@ -73,11 +69,10 @@ permalink: /DMCM2017_1st
 
 ## Organisers
 
-<a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a>:
-<br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
-<br /><a href="mailto:obrasier@eisbm.org">Odile Brasier</a>
-<br /><a href="mailto:jpellet@eisbm.org">Johann Pellet</a>
-<br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
+<a href="mailto:amazein@eisbm.org">Alexander Mazein</a>  
+<a href="mailto:obrasier@eisbm.org">Odile Brasier</a>  
+<a href="mailto:jpellet@eisbm.org">Johann Pellet</a>  
+<a href="mailto:cauffray@eisbm.org">Charles Auffray</a>  
   
 ## Disease Maps Project Coordinators
 
