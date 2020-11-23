@@ -2,7 +2,7 @@
 title: 1st Community Meeting
 layout: default
 redirect_from: "/events/1stCommunityMeeting/"
-permalink: /DMCM2017_1st_Backup
+permalink: /DMCM2017_1st_backup
 ---
 
 # 1st Disease Maps Community Meeting
