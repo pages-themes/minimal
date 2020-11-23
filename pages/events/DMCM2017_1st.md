@@ -74,9 +74,9 @@ permalink: /DMCM2017_1st
 ## Organisers
 
 <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a>:
+<br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:obrasier@eisbm.org">Odile Brasier</a>
 <br /><a href="mailto:jpellet@eisbm.org">Johann Pellet</a>
-<br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
 <br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
   
 ## Disease Maps Project Coordinators
