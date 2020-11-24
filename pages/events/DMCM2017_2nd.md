@@ -153,21 +153,21 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 ## Organisers
 
 <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>:
-<br /><a href="mailto:stephan.gebel@uni.lu">Stephan Gebel</a>
-<br /><a href="mailto:marie-laure.magnani@uni.lu">Marie-Laure Magnani</a>
-<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
-<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
-<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
+<br /><a href="mailto:stephan.gebel@uni.lu">Stephan Gebel</a>  
+<br /><a href="mailto:marie-laure.magnani@uni.lu">Marie-Laure Magnani</a>  
+<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
+<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>  
+<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>  
 
 ## Disease Maps Project Coordinators
 
-<br /><a href="mailto:amazein@eisbm.org">Alexander Mazein</a>
-<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>
-<br /><a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>
-<br /><a href="mailto:andrei.zinovyev@curie.fr">Andrei Zinoviev</a>
-<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>
-<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>
-<br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>
+<a href="mailto:amazein@eisbm.org">Alexander Mazein</a>  
+<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
+<br /><a href="mailto:inna.kuperstein@curie.fr">Inna Kuperstein</a>  
+<br /><a href="mailto:andrei.zinovyev@curie.fr">Andrei Zinoviev</a>  
+<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>  
+<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>  
+<br /><a href="mailto:cauffray@eisbm.org">Charles Auffray</a>  
 
 ## Funding acknowledgements
 
