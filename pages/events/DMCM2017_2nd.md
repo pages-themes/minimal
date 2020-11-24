@@ -152,12 +152,11 @@ Andrei Zinovyev, Emmanuel Barillot, Institut Curie, France</td></tr>
 
 ## Organisers
 
-<a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>:
-<br /><a href="mailto:stephan.gebel@uni.lu">Stephan Gebel</a>  
-<br /><a href="mailto:marie-laure.magnani@uni.lu">Marie-Laure Magnani</a>  
-<br /><a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
-<br /><a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>  
-<br /><a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>  
+<a href="mailto:stephan.gebel@uni.lu">Stephan Gebel</a>  
+<a href="mailto:marie-laure.magnani@uni.lu">Marie-Laure Magnani</a>  
+<a href="mailto:marek.ostaszewski@uni.lu">Marek Ostaszewski</a>  
+<a href="mailto:reinhard.schneider@uni.lu">Reinhard Schneider</a>  
+<a href="mailto:rudi.balling@uni.lu">Rudi Balling</a>  
 
 ## Disease Maps Project Coordinators
 
