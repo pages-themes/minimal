@@ -32,6 +32,8 @@ Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pi
  
 ### Disease maps
 
+Mazein A, Ivanova O, Balaur I, Ostaszewski M, Berzhitskaya V, Serebriyskaya T, Ligon T, Hasenauer J, De Meulder B, Overall RW, Roy L, Knowles RG, Wheelock CE, Dahlen SE, Chung KF, Adcock IM, Roberts G, Djukanovic R, Pellet J, Gawron P, Balling R, Maitland-van der Zee AH, Schneider R, Sterk PJ, Auffray C; U-BIOPRED Study Group and the eTRIKS Consortium. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [doi: 10.1016/j.jaci.2020.11.032](https://doi.org/10.1016/j.jaci.2020.11.032). [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
+
 Serhan CN, Gupta SK, Perretti M, Godson C, Brennan E, Li Y, Soehnlein O, Shimizu T, Werz O, Chiurchiù V, Azzi A, Dubourdeau M, Gupta SS, Schopohl P, Hoch M, Gjorgevikj D, Khan FM, Brauer D, Tripathi A, Cesnulevicius K, Lescheid D, Schultz M, Särndahl E, Repsilber D, Kruse R, Sala A, Haeggström JZ, Levy BD, Filep JG, Wolkenhauer O. The Atlas of Inflammation Resolution (AIR). Mol Aspects Med. 2020 Aug;74:100894. [doi: 10.1016/j.mam.2020.100894](https://doi.org/10.1016/j.mam.2020.100894). Epub 2020 Sep 3. [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032).  
 
 Ravel JM, Monraz Gomez LC, Sompairac N, Calzone L, Zhivotovsky B, Kroemer G, Barillot E, Zinovyev A, Kuperstein I. Comprehensive Map of the Regulated Cell Death Signaling Network: A Powerful Analytical Tool for Studying Diseases. Cancers (Basel). 2020 Apr 17;12(4). pii: E990. [doi: 10.3390/cancers12040990](https://doi.org/10.3390/cancers12040990). [PMID: 32316560](https://www.ncbi.nlm.nih.gov/pubmed/32316560).
