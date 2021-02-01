@@ -28,11 +28,6 @@ permalink: /duchenne
 <td><strong>Cecilia Jimenez-Mallebrera, PhD</strong><br />
 <strong>Hospital Sant Joan de Déu, Barcelona, Spain</strong><br />Principal Investigator of the DMD-map project<br />Director, Laboratory for Translational Research into Children's Neuromuscular Diseases</td>
 </tr>
-<tr>
-<td><img src="../images/team/SusanaKalko.jpg" alt="Susana Kalko" /></td>
-<td><strong>Susana G. Kalko, PhD</strong><br />
-<strong>Moebius Research, United Kingdom</strong><br />Bioinformatics and Systems Biomedicine Consultant</td>
-</tr>
 </table>
 
 ### DMD-map Editorial Panel
