@@ -2,6 +2,25 @@
 layout: default
 ---
 
+# Ahmet Akkoç
+
+### The Mad Programer
+
+## About
+
+## Active Projects
+
+## Gamedev
+
+## Competitive Programming
+
+## Q&A
+
+[comment]: <> (## Active Projects)
+[comment]: <> (## Gamedev)
+[comment]: <> (## Competitive Programming)
+[comment]: <> (## Q&A)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
