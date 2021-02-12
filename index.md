@@ -29,11 +29,11 @@ I co-hosted [Stranger Jam (19-26 June 2020)](https://itch.io/jam/strangerjam2020
 19 games were submitted by over 40 participants. A [playthrough of Stranger Jam](https://www.youtube.com/playlist?list=PLjG0A3RTjh1Ti58VQ9hNe1alV4P7opc-N) submissions is available as a YouTube Playlist, courtesy of *The Wandering Shadow*.
 
 #### Collaborations:
-* [A Little Planet Called Chokka](https://efegiller.itch.io/a-little-planet-called-chokka)(LOWREZJAM 2019)
+* [A Little Planet Called Chokka](https://efegiller.itch.io/a-little-planet-called-chokka) (LOWREZJAM 2019)
 * [Le Bouc Émissaire](https://efegiller.itch.io/le-bouc-emissaire)
 
 #### Solo Games:
-* [Here, Fishy Fishy!](https://themadprogramer.itch.io/here-fishy-fishy)(Ludum Dare 46 Compo)
+* [Here, Fishy Fishy!](https://themadprogramer.itch.io/here-fishy-fishy) (Ludum Dare 46 Compo)
 
 ## Competitive Programming
 
