@@ -4,3 +4,4 @@ description: Homepage of Ahmet Akkoç
 show_downloads: false
 google_analytics: G-R837Q71KDZ
 theme: jekyll/minima
+plugins: jekyll-remote-theme
