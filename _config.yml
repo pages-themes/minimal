@@ -3,6 +3,6 @@ logo:
 description: Homepage of Ahmet Akkoç
 show_downloads: false
 google_analytics: G-R837Q71KDZ
-remote_theme: jekyll/minimal
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
