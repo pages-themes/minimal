@@ -90,6 +90,8 @@ Mizuno S, Iijima R, Ogishima S, Kikuchi M, Matsuoka Y, Ghosh S, Miyamoto T, Miya
 
 ### Comprehensive pathway maps
 
+Nishi A, Ohbuchi K, Kaifuchi N, Shimobori C, Kushida H, Yamamoto M, Kita Y, Tokuoka SM, Yachie A, Matsuoka Y, Kitano H. LimeMap: a comprehensive map of lipid mediator metabolic pathways. NPJ Syst Biol Appl. 2021 Jan 27;7(1):6. [doi: 10.1038/s41540-020-00163-5](https://doi.org/10.1038/s41540-020-00163-5). [PMID: 33504811](https://www.ncbi.nlm.nih.gov/pubmed/33504811).
+
 Caron E, Ghosh S, Matsuoka Y, Ashton-Beaucage D, Therrien M, Lemieux S, Perreault C, Roux PP, Kitano H. A comprehensive map of the mTOR signaling network. Mol Syst Biol. 2010 Dec 21;6:453. [doi: 10.1038/msb.2010.108](https://doi.org/10.1038/msb.2010.108). Review. [PMID: 21179025](https://www.ncbi.nlm.nih.gov/pubmed/21179025).
 
 Oda K, Kitano H. A comprehensive map of the toll-like receptor signaling network. Mol Syst Biol. 2006;2:2006.0015. [doi: 10.1038/msb4100057](https://doi.org/10.1038/msb4100057). Epub 2006 Apr 18. [PMID: 16738560](https://www.ncbi.nlm.nih.gov/pubmed/16738560).
