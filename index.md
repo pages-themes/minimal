@@ -11,36 +11,11 @@ layout: default
 <font color="#ce4c47">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interaction mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</font>
 </td>
 </tr>
-<!--<tr>
-<td style="color:#ce4c47">
-Website: <br />
-Forum: <br />
-Contribute: 
-</td>
-<td valign="top">
-<a href="https://covid.pages.uni.lu/map_curation" target="_blank">https://covid.pages.uni.lu</a><br />
-<a href="https://groups.google.com/forum/#!forum/covid-19-map" target="_blank">COVID-19 Disease Map Mailing List</a><br />
-<a href="https://docs.google.com/spreadsheets/d/1dBd7zhgw10ZvPnyCeFKnlamUEfqzYUPX9Noh4kIdpOg/edit#gid=0" target="_blank">Contributors - Google Sheets</a>
-</td>
-</tr>-->
 </table> 
 
-<!--<p style="color:#ce4c47">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interaction mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>
-<p style="color:#ce4c47">
-Website: <a href="https://covid.pages.uni.lu/map_curation" target="_blank">https://covid.pages.uni.lu</a><br />
-Main discussion forum: <a href="https://groups.google.com/forum/#!forum/covid-19-map" target="_blank">COVID-19 Disease Map Mailing List</a><br />
-Suggest contribution: <a href="https://docs.google.com/spreadsheets/d/1dBd7zhgw10ZvPnyCeFKnlamUEfqzYUPX9Noh4kIdpOg/edit#gid=0" target="_blank">Contributors - Google Sheets</a>
-</p>-->
 
-<!--<p style="color:#DD493E">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interactions mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</p>-->
+<!--UPCOMING EVENT: The **[Disease Maps Community Meeting 2021](../events)** (DMCM2021) is scheduled 27-29 October in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).-->
 
-<!--<p>PUBLICATION: <strong> COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms.</strong> Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pico AR, Willighagen EL, Evelo CT, Hasenauer J, Schreiber F, Dräger A, Demir E, Wolkenhauer O, Furlong LI, Barillot E, Dopazo J, Orta-Resendiz A, Messina F, Valencia A, Funahashi A, Kitano H, Auffray C, Balling R, Schneider R. Sci Data. 2020 May 5;7(1):136. <a href="https://doi.org/10.1038/s41597-020-0477-8">doi: 10.1038/s41597-020-0477-8</a>. PubMed <a href="https://www.ncbi.nlm.nih.gov/pubmed/32371892">PMID: 32371892</a></p>-->
-        
-<!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2020">Disease Maps Community Meeting 2020</a></strong> (DMCM2020) is scheduled 12-14 November 2020 as a web conference and is dedicated to the <a href="https://covid.pages.uni.lu/map_curation">COVID-19 Disease Map</a> project.</p>-->
-
-UPCOMING EVENT: The **[Disease Maps Community Meeting 2021](../events)** (DMCM2021) is scheduled 27-29 October in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).
-
-<!--<p>UPCOMING EVENT: The <strong><a href="/DMCM2021">Disease Maps Community Meeting 2021</a></strong> (DMCM2021) is scheduled 27-29 October 2021 in Berlin and is organised by the team of Olaf Wolkenhauer, <a href="https://www.sbi.uni-rostock.de/team">University of Rostock</a>.</p>-->
 
 <br />
         
