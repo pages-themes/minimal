@@ -8,9 +8,9 @@ permalink: /cysticfibrosis
 
 # Cystic fibrosis
 
-## Cystic Fibrosis Map (CF-MAP)
+## Cystic Fibrosis Map (CyFi-MAP)
 
-The Cystic Fibrosis Map project (CF-MAP) is an effort focused on high-quality description of cystic fibrosis mechanisms and building a predictive computational model based on this description.
+The Cystic Fibrosis Map project (CyFi-MAP) is an effort focused on high-quality description of cystic fibrosis mechanisms and building a predictive computational model based on this description.
 
 ### The map of cystic fibrosis mechanisms
 
@@ -41,28 +41,28 @@ We welcome collaboration and would be happy to join efforts with similar project
 <!-- <td><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira" /></td> -->
 <td style="width: 110px;"><img src="../images/team/CatarinaPereira.jpg" alt="Catarina Pereira" /></td>
 <td><strong>Catarina Pereira, MSc</strong><br />
-<strong>University of Lisbon, Portugal</strong><br />PhD Student, Leader of the CF-MAP project</td>
+<strong>University of Lisbon, Portugal</strong><br />PhD Student, Leader of the CyFi-MAP project</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreFalcao.jpg" alt="André Falcão" /></td>
 <td><strong>André Falcão, PhD</strong><br />
 <strong>University of Lisbon, Portugal</strong><br />Assistant Professor, Department of Informatics, Faculty of Sciences<br />
-Supervisor of the CF-MAP PhD project</td>
+Supervisor of the CyFi-MAP PhD project</td>
 </tr>
 <tr>
 <td><img src="../images/team/MargaridaDAmaral.jpg" alt="Margarida D. Amaral" /></td>
 <td><strong>Margarida D. Amaral, PhD</strong><br />
 <strong>University of Lisbon, Portugal</strong><br />Professor, Chemistry and Biochemistry Department, Faculty of Sciences
-<br />Co-supervisor of the CF-MAP PhD project</td>
+<br />Co-supervisor of the CyFi-MAP PhD project</td>
 </tr>
 <tr>
 <td><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></td>
 <td><strong>Alexander Mazein, PhD</strong><br /><strong>Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</strong><br />Researcher<br />
-Co-supervisor of the CF-MAP PhD project</td>
+Co-supervisor of the CyFi-MAP PhD project</td>
 </tr>
 </table>
 
-### CF-MAP Editorial Panel
+### CyFi-MAP Editorial Panel
 
 The list of domain experts is being confirmed.
 
