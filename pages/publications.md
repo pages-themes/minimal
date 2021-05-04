@@ -56,7 +56,7 @@ Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps
 
 ### Applications of disease maps
 
-Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2018 May 3. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
+Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2019 Mar 25;20(2):701-716. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
 
 Jdey W, Thierry S, Russo C, Devun F, Al Abo M, Noguiez-Hellin P, Sun JS, Barillot E, Zinovyev A, Kuperstein I, Pommier Y, Dutreix M. Drug-Driven Synthetic Lethality: Bypassing Tumor Cell Genetics with a Combination of AsiDNA and PARP Inhibitors. Clin Cancer Res. 2017 Feb 15;23(4):1001-1011. [doi: 10.1158/1078-0432.CCR-16-1193](https://doi.org/10.1158/1078-0432.CCR-16-1193). Epub 2016 Aug 24. [PMID: 27559053](https://www.ncbi.nlm.nih.gov/pubmed/27559053).  
 
