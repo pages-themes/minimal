@@ -1,49 +1,43 @@
 ---
 layout: default
 ---
+Elona Shatri 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Link to another page](elonashatri.co.uk).
+Hello there!
 
-[Link to another page](./another-page.html).
+I'm a PhD candidate at the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM). I am part of Centre for Digital Music (C4DM) research group at Queen Mary University of London. 
 
-There should be whitespace between paragraphs.
+My research interest is mainly Optial Music Recogntion as well as other MIR related subfields. My goal is to have computers read sheet music computationally. I started working in this problem in September 2019 when I was granted the studentship from QMUL and Steinberg GmBH with which we collaborate closely. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My work focuses on how can we bring new machine learning solutions to the field of OMR and achieve an end-to-end solution to the problem.
 
-# Header 1
+
+# Conferences
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Papers
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   OPTICAL MUSIC RECOGNITION: STATE OF THE ART AND MAJOR CHALLENGES
+*   DoReMi: First glance at a universal OMR dataset
 
-### Header 3
+## Blogposts
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*   What is Optical Music Recognition?
+*   A review on Super-Resolution
+*   A review of Generative Adversarial Networks
+*   Optical Music Recognition: State of the Art and Major Challenges
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+#### Affiliations
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [UKRI Centre for Doctoral Training in Artificial Intelligence and Music](https://aim.qmul.ac.uk/) 
+*   [Centre for Digital Msusic](http://c4dm.eecs.qmul.ac.uk/)
+*   [Centre for Intelligent Sensing](http://cis.eecs.qmul.ac.uk/)
+*   [Steinberg](https://www.steinberg.net/en/home.html)
 
-##### Header 5
+<!-- ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
@@ -101,23 +95,17 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Definition lists can be used with HTML syntax. -->
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Elona</dt>
+<dd>Shatri</dd>
+<dt>PhD student</dt>
+<dd>Queen Mary University of London</dd>
+<dd>London</dd>
+<dt>United Kingdoms</dt>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact
+e.shatri1@gmail.com
+e.shatri@qmul.ac.uk
