@@ -1,4 +1,7 @@
-on: push
+on: 
+  push:
+  pull_request:
+    types: [opened, synchronize]
 jobs:
   build:
     runs-on: ubuntu-latest
