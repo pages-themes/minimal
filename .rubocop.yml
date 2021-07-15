@@ -5,6 +5,7 @@ inherit_gem:
 AllCops:
   Exclude:
     - _site/**/*
+    - vendor/**/*
 
 Layout/LineLength:
   Enabled: false
