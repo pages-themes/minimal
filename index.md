@@ -2,7 +2,8 @@
 layout: default
 ---
 
-블로그 리스트를 보여줍니다.
+여기에 블로그 리스트를 보여줍니다.
+
 
 ### [머신러닝 서비스를 만들기 위한 MLOps Vol.1](./another-page.html).
 
