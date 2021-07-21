@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[머신러닝 서비스를 만들기 위한 MLOps Vol.1](./another-page.html).
 
 There should be whitespace between paragraphs.
 
