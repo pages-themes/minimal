@@ -13,8 +13,8 @@ permalink: /events
 <td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2021"><img src="../images/places/Berlin.png"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2021">6th Disease Maps Community Meeting</a></strong><br />
-27-29 October 2021, Berlin, Germany<br />
-The 2021 community meeting is hosted by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of Rostock, Germany</a>.
+29 November - 1 December 2021<br />
+The 2021 community meeting is organsied as a web conference by the <a href="https://www.sbi.uni-rostock.de//">Department of Systems Biology and Bioinformatics, University of Rostock, Germany</a>.
 </td>
 </tr>
 </table>
