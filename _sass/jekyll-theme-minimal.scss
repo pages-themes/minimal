@@ -1,16 +1,17 @@
 @import "fonts";
 @import "rouge-github";
+@import "colors"
 
 body {
-  background-color: #fff;
+  background-color: var(--clr-bg);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color: --clr-text;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: var(--clr-h1);
   margin:0 0 20px;
 }
 
@@ -27,11 +28,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color: var(--clr-h2);
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color: var(--clr-h-3-6);
 }
 
 a {
@@ -69,7 +70,7 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color: var(--clr-code-text);
 }
 
 pre {
