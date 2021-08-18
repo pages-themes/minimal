@@ -14,7 +14,17 @@ hvr -> hover
 */
 
 body {
+  
+  // NORMAL COLOURS	
 
+  // luminosity (brightness)
+   
+  // buttons
+  --L-acnt: 30%;
+  --L-on-acnt: 100%;
+  --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+
+  // light
   @media (prefers-color-scheme: light)& {
     --L-h1: 13%;
     --L-h2: 22%;
@@ -24,20 +34,8 @@ body {
     --L-grey: 85%;
     --L-fg-keep-clr: 20%;
   }
-
 	
-  //h1 colors
-
-  //h2 acnt color
-  //h3 acnt color hues
-  --H-1: 190;
-  --H-2: calc(var(--H-1) + 40);
-  //h3 acnt color lightnesses
-  --L-acnt: 30%;
-  --L-on-acnt: 100%;
-  --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
-
-  //h2 lightnesses
+  // dark
   --L-h1: 90%;
   --L-h2: 83%;
   --L-h-3-6: 76%;
@@ -45,24 +43,19 @@ body {
   --L-bg: 10%;
   --L-grey: 20%;//this clolor is used for elements like dropdowns uncoloured buttons and popups
   --L-fg-keep-clr: 80%;
-
-  //h2 clrs
-  --clr-acnt: hsl(var(--H-acnt), 100%, var(--L-acnt));
-  --clr-acnt-real: var(
-    --clr-acnt,
-    hsl(0, 0%, var(--L-acnt))
-  ); // incase H acnt isnt defined
-  --clr-on-acnt: hsl(0, 0%, var(--L-on-acnt));
   
+  //definitions
+  --clr-primary: hsl(200, 100%, var(--L-acnt));
+  --clr-on-primary: hsl(0, 0%, var(--L-on-acnt));
   --clr-h1: hsl(0, 0%, var(--L-h1));
   --clr-h2: hsl(0, 0%, var(--L-h2));
   --clr-h-3-6: hsl(0, 0%, var(--L-3-6));
   --clr-text: hsl(0, 0%, var(--L-text));
-	
   --clr-bg: hsl(0, 0%, var(--L-bg));
   --clr-grey: hsl(0, 0%, var(--L-grey));
   --clr-keep-clr: hsl(0, 0%, var(--L-fg-keep-clr));
   --clr-lighten: hsla(0, 0%, var(--L-fg), 10%);
   --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
-	--popup-bg: hsla(0, 0%, 0%, 0.5);
+	
+  // CODE COLOURS (colors for code boxes)
 }
