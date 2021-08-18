@@ -1,27 +1,29 @@
 /*
-  This code is from a old repo that i no longer maintained and has no documentation https://github.com/godalming123/importable-css-js/blob/master/css/utilities/variables/_variables.scss
 
-  H -> hue
-	L -> luminosity
-	S -> saturation
-	acnt -> accent
-	clr -> color
-	fg -> foreground
-	bg -> background
-	hvr -> hover*/
+This code is from a old repo that i no longer maintained and has no documentation https://github.com/godalming123/importable-css-js/blob/master/css/utilities/variables/_variables.scss
 
-// my attempt at using animatable variables
-// @function addVariable($name, $sytax: none, $initial-value: none, $inherits: true) {
-//   @property $name {
-//     syntax: $syntax;
-//     inherits: $inherits;
-//     initial-value: $initial-value;
-//   }
-// }
-// addVariable(--name,	"<color>", rgb(0, 0, 0), true);
+H -> hue
+L -> luminosity
+S -> saturation
+acnt -> accent
+clr -> color
+fg -> foreground
+bg -> background
+hvr -> hover*/
+
 body {
-  scroll-behavior: smooth;
 
+  @media (prefers-color-scheme: light)& {
+    --L-h1: 13%;
+    --L-h2: 22%;
+    --L-h-3-6: 29%;
+    --L-text: 45%;
+    --L-bg: 100%;
+    --L-grey: 85%;
+    --L-fg-keep-clr: 20%;
+  }
+
+	
   //h1 colors
 
   //h2 acnt color
@@ -61,20 +63,4 @@ body {
   --clr-lighten: hsla(0, 0%, var(--L-fg), 10%);
   --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
 	--popup-bg: hsla(0, 0%, 0%, 0.5);
-}
-
-@media (prefers-color-scheme: light) {
-  *, *::before, *::after {
-    --L-h1: 13%;
-    --L-h2: 22%;
-    --L-h-3-6: 29%;
-    --L-text: 45%;
-    --L-bg: 100%;
-    --L-grey: 85%;
-    --L-fg-keep-clr: 20%;
-  }
-
-  .acnt-grey {
-    --L-acnt-hover-change: 1.2 !important;
-  }
 }
