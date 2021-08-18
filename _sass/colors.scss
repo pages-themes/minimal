@@ -1,0 +1,69 @@
+/*
+  This code is from a old repo that i no longer maintained and has no documentation https://github.com/godalming123/importable-css-js/blob/master/css/utilities/variables/_variables.scss
+
+  H -> hue
+	L -> luminosity
+	S -> saturation
+	acnt -> accent
+	clr -> color
+	fg -> foreground
+	bg -> background
+	hvr -> hover*/
+
+// my attempt at using animatable variables
+// @function addVariable($name, $sytax: none, $initial-value: none, $inherits: true) {
+//   @property $name {
+//     syntax: $syntax;
+//     inherits: $inherits;
+//     initial-value: $initial-value;
+//   }
+// }
+// addVariable(--name,	"<color>", rgb(0, 0, 0), true);
+body {
+  scroll-behavior: smooth;
+
+  //h1 colors
+
+  //h2 acnt color
+  //h3 acnt color hues
+  --H-1: 190;
+  --H-2: calc(var(--H-1) + 40);
+  //h3 acnt color lightnesses
+  --L-acnt: 30%;
+  --L-on-acnt: 100%;
+  --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+
+  //h2 lightnesses
+  --L-fg: 100%;
+  --L-bg: 10%;
+  --L-grey: 20%;//this clolor is used for elements like dropdowns uncoloured buttons and popups
+  --L-fg-keep-clr: 80%;
+
+  //h2 clrs
+  --clr-acnt: hsl(var(--H-acnt), 100%, var(--L-acnt));
+  --clr-acnt-real: var(
+    --clr-acnt,
+    hsl(0, 0%, var(--L-acnt))
+  ); // incase H acnt isnt defined
+  --clr-on-acnt: hsl(0, 0%, var(--L-on-acnt));
+  --clr-fg: hsl(0, 0%, var(--L-fg));
+  --clr-bg: hsl(0, 0%, var(--L-bg));
+  --clr-grey: hsl(0, 0%, var(--L-grey));
+  --clr-keep-clr: hsl(0, 0%, var(--L-fg-keep-clr));
+  --clr-lighten: hsla(0, 0%, var(--L-fg), 10%);
+  --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
+	--popup-bg: hsla(0, 0%, 0%, 0.5);
+}
+
+@media (prefers-color-scheme: light) {
+  *, *::before, *::after {
+    --L-fg: 0%;
+    --L-bg: 100%;
+    --L-grey: 85%;
+    --L-fg-keep-clr: 20%;
+  }
+
+  .acnt-grey {
+    --L-acnt-hover-change: 1.2 !important;
+  }
+}
