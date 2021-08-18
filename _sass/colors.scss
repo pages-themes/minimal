@@ -34,7 +34,10 @@ body {
   --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
 
   //h2 lightnesses
-  --L-fg: 100%;
+  --L-h1: 90%;
+  --L-h2: 83%;
+  --L-h-3-6: 76%;
+  --L-text: 70%;
   --L-bg: 10%;
   --L-grey: 20%;//this clolor is used for elements like dropdowns uncoloured buttons and popups
   --L-fg-keep-clr: 80%;
@@ -46,7 +49,12 @@ body {
     hsl(0, 0%, var(--L-acnt))
   ); // incase H acnt isnt defined
   --clr-on-acnt: hsl(0, 0%, var(--L-on-acnt));
-  --clr-fg: hsl(0, 0%, var(--L-fg));
+  
+  --clr-h1: hsl(0, 0%, var(--L-h1));
+  --clr-h2: hsl(0, 0%, var(--L-h2));
+  --clr-h-3-6: hsl(0, 0%, var(--L-3-6));
+  --clr-text: hsl(0, 0%, var(--L-text));
+	
   --clr-bg: hsl(0, 0%, var(--L-bg));
   --clr-grey: hsl(0, 0%, var(--L-grey));
   --clr-keep-clr: hsl(0, 0%, var(--L-fg-keep-clr));
@@ -57,7 +65,10 @@ body {
 
 @media (prefers-color-scheme: light) {
   *, *::before, *::after {
-    --L-fg: 0%;
+    --L-h1: 13%;
+    --L-h2: 22%;
+    --L-h-3-6: 29%;
+    --L-text: 45%;
     --L-bg: 100%;
     --L-grey: 85%;
     --L-fg-keep-clr: 20%;
