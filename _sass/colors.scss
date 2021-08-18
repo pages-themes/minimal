@@ -24,24 +24,24 @@ body {
   --L-on-acnt: 100%;
   --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
 
-  // light
-  @media (prefers-color-scheme: light)& {
-    --L-h1: 13%;
-    --L-h2: 22%;
-    --L-h-3-6: 29%;
-    --L-text: 45%;
-    --L-bg: 100%;
-    --L-grey: 85%;
-    --L-fg-keep-clr: 20%;
+  // dark
+  @media (prefers-color-scheme: dark)& {
+    --L-h1: 90%;
+    --L-h2: 83%;
+    --L-h-3-6: 76%;
+    --L-text: 70%;
+    --L-bg: 10%;
+    --L-fg-keep-clr: 80%;
   }
 	
-  // dark
-  --L-h1: 90%;
-  --L-h2: 83%;
-  --L-h-3-6: 76%;
-  --L-text: 70%;
-  --L-bg: 10%;
-  --L-fg-keep-clr: 80%;
+  // light
+  --L-h1: 13%;
+  --L-h2: 22%;
+  --L-h-3-6: 29%;
+  --L-text: 45%;
+  --L-bg: 100%;
+  --L-grey: 85%;
+  --L-fg-keep-clr: 20%;
   
   //definitions
   --clr-primary: hsl(200, 100%, var(--L-acnt));
