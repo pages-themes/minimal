@@ -41,7 +41,6 @@ body {
   --L-h-3-6: 76%;
   --L-text: 70%;
   --L-bg: 10%;
-  --L-grey: 20%;//this clolor is used for elements like dropdowns uncoloured buttons and popups
   --L-fg-keep-clr: 80%;
   
   //definitions
@@ -58,4 +57,14 @@ body {
   --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
 	
   // CODE COLOURS (colors for code boxes)
+  //dark
+  --L-code-text: 80%;
+  //light
+  @media (prefers-color-scheme: light)& {
+    --L-code-text: 20%
+  }
+  //definitions
+  --clr-code-text: hsl(0, 0, var(--L-code-text));
+
+ 
 }
