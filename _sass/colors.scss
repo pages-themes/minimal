@@ -29,10 +29,10 @@ hvr -> hover
   --clr-text-bold: hsl(0, 0%, var(--L-text-bold));
   --clr-text: hsl(0, 0%, var(--L-text));
   // code blocks
-  --clr-code-text: hsl(0, 0, var(--L-code-text));
-  --clr-code-bg: hsl(0, 0, var(--L-code-bg));
-  --clr-code-border: hsl(0, 0, var(--L-code-border));
-  --clr-code-bold-text: hsl(0, 0, var(--L-code-bold-text));
+  --clr-code-text: hsl(0, 0%, var(--L-code-text));
+  --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
+  --clr-code-border: hsl(0, 0%, var(--L-code-border));
+  --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
   // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
   --clr-grey: hsl(0, 0%, var(--L-grey));
