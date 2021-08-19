@@ -16,7 +16,7 @@ hvr -> hover
 
 // dark
 @media (prefers-color-scheme: dark) {
-  body {
+  :root {
     --L-h1: 90%;
     --L-h2: 83%;
     --L-h-3-6: 76%;
@@ -68,7 +68,7 @@ hvr -> hover
 
 //dark
 @media (prefers-color-scheme: dark) {
-  body {
+  :root {
     --L-code-text: 80%
   }
 }
