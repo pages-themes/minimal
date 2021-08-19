@@ -19,6 +19,7 @@ hvr -> hover
   // COLOR DEFINISTIONS
   // buttons
   --clr-primary: hsl(200, 100%, var(--L-acnt));
+  --clr-a-hvr: hsl(200, 100%, calc(var(--L-acnt) * var(--L-acnt-hover-change)));
   --clr-on-primary: hsl(0, 0%, var(--L-on-acnt));
   // headers + text
   --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
