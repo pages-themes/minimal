@@ -13,64 +13,64 @@ hvr -> hover
 
 */
 
-
-// dark
-@media (prefers-color-scheme: dark) {
-  :root {
-    --L-h1-and-bold: 90%;
-    --L-h2: 83%;
-    --L-h-3-6: 76%;
-    --L-text: 70%;
-    --L-bg: 10%;
-    --L-fg-keep-clr: 80%;
-  }
-}
-
 :root {
   
-  // NORMAL COLOURS	
-
-  // luminosity (brightness)
-   
+  // COLOR DEFINISTIONS
   // buttons
-  --L-acnt: 30%;
-  --L-on-acnt: 100%;
-  --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
-	
-  // light
-  --L-h1-and-bold: 13%;
-  --L-h2: 22%;
-  --L-h-3-6: 29%;
-  --L-text-bold: 36%;
-  --L-text: 45%;
-  --L-bg: 100%;
-  --L-grey: 85%;
-  --L-fg-keep-clr: 20%;
-  
-  //definitions
   --clr-primary: hsl(200, 100%, var(--L-acnt));
   --clr-on-primary: hsl(0, 0%, var(--L-on-acnt));
+  // headers + text
   --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
   --clr-h2: hsl(0, 0%, var(--L-h2));
   --clr-h-3-6: hsl(0, 0%, var(--L-3-6));
   --clr-text-bold: hsl(0, 0%, var(--L-text-bold));
   --clr-text: hsl(0, 0%, var(--L-text));
+  // code blocks
+  --clr-code-text: hsl(0, 0, var(--L-code-text)); 
+  // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
   --clr-grey: hsl(0, 0%, var(--L-grey));
   --clr-keep-clr: hsl(0, 0%, var(--L-fg-keep-clr));
   --clr-lighten: hsla(0, 0%, var(--L-fg), 10%);
   --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
 	
-  // CODE COLOURS (colors for code boxes)
-  //light
+  // THEME INDEPENDENT LUMINOSITYS
+  // buttons
+  --L-acnt: 30%;
+  --L-on-acnt: 100%;
+  --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+	
+  // LIGHT COLORS LUMINOSITYS
+  // headers + text
+  --L-h1-and-bold: 13%;
+  --L-h2: 22%;
+  --L-h-3-6: 29%;
+  --L-text-bold: 36%;
+  --L-text: 45%;
+  // code blocks
   --L-code-text: 20%;
-  //definitions
-  --clr-code-text: hsl(0, 0, var(--L-code-text)); 
+  // misilainius
+  --L-bg: 100%;
+  --L-grey: 85%;
+  --L-fg-keep-clr: 20%;
 }
 
-//dark
+// if you are wondering why I put the dark colors below its because of importance.
+// for some reason this media query below has the same importance as the styling above.
+// So you have to put this one below so it overrides the one above when the theme changes.
+
+// DARK COLORS LUMINOSITYS
 @media (prefers-color-scheme: dark) {
   :root {
+    // headers + text
+    --L-h1-and-bold: 90%;
+    --L-h2: 83%;
+    --L-h-3-6: 76%;
+    --L-text: 70%;
+    // code blocks  
     --L-code-text: 80%
+    // misilainius
+    --L-bg: 10%;
+    --L-fg-keep-clr: 80%;    
   }
 }
