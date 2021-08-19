@@ -47,6 +47,8 @@ hvr -> hover
   --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
 	
   // LIGHT COLORS LUMINOSITYS
+  // buttons
+  --L-buttons-main: 96%;
   // headers + text
   --L-h1-and-bold: 13%;
   --L-h2: 22%;
@@ -72,6 +74,8 @@ hvr -> hover
 // DARK COLORS LUMINOSITYS
 @media (prefers-color-scheme: dark) {
   :root {
+    // buttons
+    --L-buttons-main: 17%;
     // headers + text
     --L-h1-and-bold: 90%;
     --L-h2: 83%;
