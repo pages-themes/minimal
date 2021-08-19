@@ -17,10 +17,9 @@ hvr -> hover
 // dark
 @media (prefers-color-scheme: dark) {
   :root {
-    --L-h1: 90%;
+    --L-h1-and-bold: 90%;
     --L-h2: 83%;
     --L-h-3-6: 76%;
-    --L-text-bold: 73%;
     --L-text: 70%;
     --L-bg: 10%;
     --L-fg-keep-clr: 80%;
@@ -39,7 +38,7 @@ hvr -> hover
   --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
 	
   // light
-  --L-h1: 13%;
+  --L-h1-and-bold: 13%;
   --L-h2: 22%;
   --L-h-3-6: 29%;
   --L-text-bold: 36%;
@@ -51,7 +50,7 @@ hvr -> hover
   //definitions
   --clr-primary: hsl(200, 100%, var(--L-acnt));
   --clr-on-primary: hsl(0, 0%, var(--L-on-acnt));
-  --clr-h1: hsl(0, 0%, var(--L-h1));
+  --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
   --clr-h2: hsl(0, 0%, var(--L-h2));
   --clr-h-3-6: hsl(0, 0%, var(--L-3-6));
   --clr-text-bold: hsl(0, 0%, var(--L-text-bold));
