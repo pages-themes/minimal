@@ -2,6 +2,7 @@
 layout: default
 ---
 
+Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
