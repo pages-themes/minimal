@@ -75,7 +75,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: var(--clr-code-bg);
   border-radius:5px;
   border:1px solid var(--clr-code-border);
   overflow-x: auto;
