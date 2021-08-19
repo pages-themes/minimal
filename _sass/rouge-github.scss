@@ -67,15 +67,15 @@
   font-weight: bold;
 }
 .highlight .kn {
-  color: #000000;
+  color: var(--clr-code-bold-text);
   font-weight: bold;
 }
 .highlight .kp {
-  color: #000000;
+  color: var(--clr-code-bold-text);
   font-weight: bold;
 }
 .highlight .kr {
-  color: #000000;
+  color: var(--clr-code-bold-text);
   font-weight: bold;
 }
 .highlight .kt {
@@ -83,7 +83,7 @@
   font-weight: bold;
 }
 .highlight .k, .highlight .kv {
-  color: #000000;
+  color: var(--clr-code-bold-text);
   font-weight: bold;
 }
 .highlight .mf {
