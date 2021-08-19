@@ -60,14 +60,15 @@ hvr -> hover
   --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
 	
   // CODE COLOURS (colors for code boxes)
-  //dark
-  --L-code-text: 80%;
   //light
-  @media (prefers-color-scheme: light)& {
-    --L-code-text: 20%
-  }
+  --L-code-text: 20%;
   //definitions
-  --clr-code-text: hsl(0, 0, var(--L-code-text));
+  --clr-code-text: hsl(0, 0, var(--L-code-text)); 
+}
 
- 
+//dark
+@media (prefers-color-scheme: dark) {
+  body {
+    --L-code-text: 80%
+  }
 }
