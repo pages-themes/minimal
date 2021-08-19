@@ -23,6 +23,7 @@ hvr -> hover
   // headers + text
   --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
   --clr-h2: hsl(0, 0%, var(--L-h2));
+  --clr-table-header: hsl(0, 0%, var(--L-table-header));
   --clr-h-3-6: hsl(0, 0%, var(--L-3-6));
   --clr-text-bold: hsl(0, 0%, var(--L-text-bold));
   --clr-text: hsl(0, 0%, var(--L-text));
@@ -45,6 +46,7 @@ hvr -> hover
   // headers + text
   --L-h1-and-bold: 13%;
   --L-h2: 22%;
+  --L-table-header: 27%;
   --L-h-3-6: 29%;
   --L-text-bold: 36%;
   --L-text: 45%;
@@ -66,6 +68,7 @@ hvr -> hover
     // headers + text
     --L-h1-and-bold: 90%;
     --L-h2: 83%;
+    --L-table-header: 90%;
     --L-h-3-6: 76%;
     --L-text: 70%;
     // code blocks  
