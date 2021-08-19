@@ -162,7 +162,7 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+  color: var(--clr-buttons-main-text-hover);
   font-weight:bold;
 }
 
@@ -183,7 +183,7 @@ strong {
 .downloads a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:var(--clr-h1-and-bold);
 }
 
 section {
