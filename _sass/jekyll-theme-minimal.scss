@@ -41,7 +41,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color: var(--clr-text-bold);
   font-weight: bold;
 }
 
