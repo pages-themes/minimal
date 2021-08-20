@@ -20,7 +20,7 @@ hvr -> hover
   // buttons
   --clr-a-text: hsl(200, 100%, var(--L-a-text));
   --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
-  --clr-buttons-main: hsl(0, 0%, var(--L-buttons-main));
+  --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));//the buttons in the main section at the top titled "download zip" "download tarbell" "veiw on github"
   --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
   --clr-buttons-main-text-hover: hsl(0, 6%, var(--L-buttons-main-text-hover));
@@ -28,34 +28,30 @@ hvr -> hover
   --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
   --clr-h2: hsl(0, 0%, var(--L-h2));
   --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
-  --clr-text-bold: hsl(0, 0%, var(--L-text-bold));
   --clr-text: hsl(0, 0%, var(--L-text));
   // code blocks
   --clr-code-text: hsl(0, 0%, var(--L-code-text));
   --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
   --clr-code-border: hsl(0, 0%, var(--L-code-border));
   --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
-  //tables
-  --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt));
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
   --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
-  --clr-kbd-border-bottom-and-shadow: hsl(210, 8.2%, var(--L-kbd-border-bottom-and-shadow));
+  --clr-kbd-border-bottom-and-shadow: hsl(210, 8.2%, var(--L-kbd-border-bottom-and-shadow));// akbd elemnts border bottom and its shadow color
   --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
   // miselainies
-  --clr-bg: hsl(0, 0%, var(--L-bg));
-  --clr-splitter-blockquote-and-section: hsl(0, 0%, var(--L-splitter-blockquote-and-section));
-  --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));
+  --clr-bg: hsl(0, 0%, var(--L-bg));//the bg of the page
+  --clr-splitter-blockquote-and-section: hsl(0, 0%, var(--L-splitter-blockquote-and-section));//a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
+  --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));//the color for small elements in a's this color is used on the veiw on github button above the download buttons
+  --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt)); //more info on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
 	
-  // THEME INDEPENDENT LUMINOSITYS
-  // buttons
-  --L-a-text: 35%;
-  --L-on-acnt: 100%;
+  // A VARIABLE THAT ALWAYS STAYS THE SAME
   --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
 	
   // LIGHT COLORS LUMINOSITYS
   // buttons
-  --L-buttons-main: 96%;
+  --L-a-text: 35%;
+  --L-buttons-main-bg: 96%;
   --L-buttons-main-border: 88%;
   --L-buttons-main-text: 40%;
   --L-buttons-main-text-hover: 38%;
@@ -91,7 +87,7 @@ hvr -> hover
   :root {
     // buttons
     --L-a-text: 60%;
-    --L-buttons-main: 17%;
+    --L-buttons-main-bg: 17%;
     --L-buttons-main-border: 26%;
     --L-buttons-main-text: 76%;
     --L-buttons-main-text-hover: 80%;
@@ -105,7 +101,6 @@ hvr -> hover
     --L-code-bg: 3%;
     --L-code-border: 5%;
     --L-code-bold-text: 100%;
-    //tables
     //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
     --L-kbd-bg: 30%;
     --L-kbd-border: 45%;
