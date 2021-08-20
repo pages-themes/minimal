@@ -36,10 +36,11 @@ hvr -> hover
   --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
   --clr-code-border: hsl(0, 0%, var(--L-code-border));
   --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
+  //tables
+  --clr-table-header: hsl(0, 0%, var(--L-table-header));
   // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
-  --clr-table-header: hsl(0, 0%, var(--L-table-header));
-  --clr-table-splitter: hsl(0, 0%, var(--L-table-splitter));
+  --clr-splitter: hsl(0, 0%, var(--L-splitter));
 	
   // THEME INDEPENDENT LUMINOSITYS
   // buttons
@@ -66,9 +67,10 @@ hvr -> hover
   --L-code-bold-text: 0%;
   //tables
   --L-table-header: 27%;
-  --L-table-splitter: 90%;
   // misilainius
   --L-bg: 100%;
+  --L-splitter: 90%;//for elements like hr
+
 }
 
 // if you are wondering why I put the dark colors below its because of importance.
@@ -96,8 +98,8 @@ hvr -> hover
     --L-code-bold-text: 100%;
     //tables
     --L-table-header: 90%;
-    --L-table-splitter: 15%;
     // misilainius
+    --L-splitter: 15%;// for elements like hr
     --L-bg: 10%;
   }
 }
