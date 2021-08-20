@@ -41,7 +41,7 @@ hvr -> hover
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
   --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
-  --clr-kbd-border-bottom-and-shadow: hsl(210,8.2%,61.6%);
+  --clr-kbd-border-bottom-and-shadow: hsl(210,8.2%, var(--border));
   --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
   // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
@@ -80,7 +80,7 @@ hvr -> hover
   // misilainius
   --L-bg: 100%;
   --L-splitter: 90%;//for elements like hr
-
+  --L-small-in-a: 47%;
 }
 
 // if you are wondering why I put the dark colors below its because of importance.
@@ -116,5 +116,6 @@ hvr -> hover
     // misilainius
     --L-splitter: 15%;// for elements like hr
     --L-bg: 10%;
+    --L-small-in-a: 60%;
   }
 }
