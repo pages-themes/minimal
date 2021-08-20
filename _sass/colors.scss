@@ -18,9 +18,8 @@ hvr -> hover
   
   // COLOR DEFINISTIONS
   // buttons
-  --clr-primary: hsl(200, 100%, var(--L-acnt));
-  --clr-a-hvr: hsl(200, 100%, calc(var(--L-acnt) * var(--L-acnt-hover-change)));
-  --clr-on-primary: hsl(0, 0%, var(--L-on-acnt));
+  --clr-a-text: hsl(200, 100%, var(--L-a-text));
+  --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
   --clr-buttons-main: hsl(0, 0%, var(--L-buttons-main));
   --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
@@ -50,9 +49,9 @@ hvr -> hover
 	
   // THEME INDEPENDENT LUMINOSITYS
   // buttons
-  --L-acnt: 35%;
+  --L-a-text: 35%;
   --L-on-acnt: 100%;
-  --L-acnt-hover-change: 0.8;//the number that --L-acnt gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+  --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
 	
   // LIGHT COLORS LUMINOSITYS
   // buttons
@@ -91,7 +90,7 @@ hvr -> hover
 @media (prefers-color-scheme: dark) {
   :root {
     // buttons
-    --L-acnt: 60%;
+    --L-a-text: 60%;
     --L-buttons-main: 17%;
     --L-buttons-main-border: 26%;
     --L-buttons-main-text: 76%;

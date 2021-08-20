@@ -36,12 +36,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:var(--clr-primary);
+  color:var(--clr-a-text);
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color: var(--clr-a-hvr);
+  color: var(--clr-a-text-hvr);
   font-weight: bold;
 }
 
@@ -282,6 +282,6 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#444;
+    color:#444 !important;
   }
 }
