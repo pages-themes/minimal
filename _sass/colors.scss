@@ -1,22 +1,15 @@
 /*
 
-This code is from a old repo that i no longer maintained and has no documentation https://github.com/godalming123/importable-css-js/blob/master/css/utilities/variables/_variables.scss
-
 H -> hue
 L -> luminosity
 S -> saturation
-acnt -> accent
 clr -> color
-fg -> foreground
 bg -> background
 hvr -> hover
 
 */
 
-:root {
-  transition: 0.1s; //a transition for changing the theme
-  
-  // COLOR DEFINISTIONS
+@mixin colors {  
   // buttons
   --clr-a-text: hsl(200, 100%, var(--L-a-text));
   --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
@@ -44,11 +37,9 @@ hvr -> hover
   --clr-splitter-blockquote-and-section: hsl(0, 0%, var(--L-splitter-blockquote-and-section));//a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
   --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));//the color for small elements in a's this color is used on the veiw on github button above the download buttons
   --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt)); //more info on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
-	
-  // A VARIABLE THAT ALWAYS STAYS THE SAME
-  --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
-	
-  // LIGHT COLORS LUMINOSITYS
+}
+
+@mixin light-colors {
   // buttons
   --L-a-text: 35%;
   --L-buttons-main-bg: 96%;
@@ -78,13 +69,7 @@ hvr -> hover
   --L-table-header-and-dt: 27%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
 }
 
-// if you are wondering why I put the dark colors below its because of importance.
-// for some reason this media query below has the same importance as the styling above.
-// So you have to put this one below so it overrides the one above when the theme changes.
-
-// DARK COLORS LUMINOSITYS
-@media (prefers-color-scheme: dark) {
-  :root {
+@mixin dark-colors {
     // buttons
     --L-a-text: 60%;
     --L-buttons-main-bg: 17%;
@@ -111,5 +96,15 @@ hvr -> hover
     --L-bg: 10%;
     --L-small-in-a: 60%;
     --L-table-header-and-dt: 90%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
-  }
+}
+
+:root {
+    @include colors;
+    @include light-colors;
+}
+
+@media (prefers-color-scheme: dark) and (screen) {//we would not like to apply dark mode if content is on printer as that would use a lot of ink
+    :root{
+        @include dark-colors;
+    }
 }
