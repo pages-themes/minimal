@@ -38,6 +38,11 @@ hvr -> hover
   --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
   //tables
   --clr-table-header: hsl(0, 0%, var(--L-table-header));
+  //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
+  --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
+  --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
+  --clr-kbd-border-bottom-and-shadow: hsl(210,8.2%,61.6%);
+  --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
   // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
   --clr-splitter: hsl(0, 0%, var(--L-splitter));
@@ -67,6 +72,11 @@ hvr -> hover
   --L-code-bold-text: 0%;
   //tables
   --L-table-header: 27%;
+  //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
+  --L-kbd-bg: 98%;
+  --L-kbd-border: 80%;
+  --L-kbd-border-bottom-and-shadow: 62%;
+  --L-kbd-text: 30%;
   // misilainius
   --L-bg: 100%;
   --L-splitter: 90%;//for elements like hr
@@ -98,6 +108,11 @@ hvr -> hover
     --L-code-bold-text: 100%;
     //tables
     --L-table-header: 90%;
+    //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
+    --L-kbd-bg: 30%;
+    --L-kbd-border: 45%;
+    --L-kbd-border-bottom-and-shadow: 60%;
+    --L-kbd-text: 100%;
     // misilainius
     --L-splitter: 15%;// for elements like hr
     --L-bg: 10%;
