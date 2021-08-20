@@ -56,7 +56,6 @@ hvr -> hover
   // headers + text
   --L-h1-and-bold: 13%;
   --L-h2: 22%;
-  --L-table-header: 27%;
   --L-h-3-6: 29%;
   --L-text-bold: 36%;
   --L-text: 45%;
@@ -65,9 +64,11 @@ hvr -> hover
   --L-code-bg: 97%;
   --L-code-border: 90%;
   --L-code-bold-text: 0%;
+  //tables
+  --L-table-header: 27%;
+  --L-table-splitter: 90%;
   // misilainius
   --L-bg: 100%;
-  --L-table-splitter: 90%;
 }
 
 // if you are wondering why I put the dark colors below its because of importance.
@@ -86,7 +87,6 @@ hvr -> hover
     // headers + text
     --L-h1-and-bold: 90%;
     --L-h2: 83%;
-    --L-table-header: 90%;
     --L-h-3-6: 76%;
     --L-text: 70%;
     // code blocks  
@@ -94,8 +94,10 @@ hvr -> hover
     --L-code-bg: 3%;
     --L-code-border: 5%;
     --L-code-bold-text: 100%;
+    //tables
+    --L-table-header: 90%;
+    --L-table-splitter: 15%;
     // misilainius
     --L-bg: 10%;
-    --L-table-splitter: 15%;
-}
+  }
 }
