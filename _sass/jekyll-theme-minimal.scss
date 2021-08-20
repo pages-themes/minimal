@@ -62,7 +62,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid var(--clr-splitter-and-blockquote);
+  border-left:1px solid var(--clr-splitter-blockquote-and-section);
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -89,7 +89,7 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid var(--clr-splitter-and-blockquote);
+  border-bottom:1px solid var(--clr-splitter-blockquote-and-section);
 }
 
 dt {
@@ -198,7 +198,7 @@ small {
 
 hr {
   border:0;
-  background:var(--clr-splitter-and-blockquote);
+  background:var(--clr-splitter-blockquote-and-section);
   height:1px;
   margin:0 0 20px;
 }
