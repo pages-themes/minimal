@@ -28,7 +28,6 @@ hvr -> hover
   // headers + text
   --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
   --clr-h2: hsl(0, 0%, var(--L-h2));
-  --clr-table-header: hsl(0, 0%, var(--L-table-header));
   --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
   --clr-text-bold: hsl(0, 0%, var(--L-text-bold));
   --clr-text: hsl(0, 0%, var(--L-text));
@@ -39,10 +38,8 @@ hvr -> hover
   --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
   // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
-  --clr-grey: hsl(0, 0%, var(--L-grey));
-  --clr-keep-clr: hsl(0, 0%, var(--L-fg-keep-clr));
-  --clr-lighten: hsla(0, 0%, var(--L-fg), 10%);
-  --clr-background-lighten: hsla(0, 0%, var(--L-grey), 70%);
+  --clr-table-header: hsl(0, 0%, var(--L-table-header));
+  --clr-table-splitter: hsl(0, 0%, var(--L-table-splitter));
 	
   // THEME INDEPENDENT LUMINOSITYS
   // buttons
@@ -70,8 +67,7 @@ hvr -> hover
   --L-code-bold-text: 0%;
   // misilainius
   --L-bg: 100%;
-  --L-grey: 85%;
-  --L-fg-keep-clr: 20%;
+  --L-table-splitter: 90%;
 }
 
 // if you are wondering why I put the dark colors below its because of importance.
@@ -100,6 +96,6 @@ hvr -> hover
     --L-code-bold-text: 100%;
     // misilainius
     --L-bg: 10%;
-    --L-fg-keep-clr: 80%;    
-  }
+    --L-table-splitter: 15%;
+}
 }
