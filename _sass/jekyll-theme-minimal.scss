@@ -93,12 +93,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:var(--clr-table-header-and-dt);
   font-weight:700;
 }
 
 th {
-  color:var(--clr-table-header);
+  color:var(--clr-table-header-and-dt);
 }
 
 img {

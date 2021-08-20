@@ -37,7 +37,7 @@ hvr -> hover
   --clr-code-border: hsl(0, 0%, var(--L-code-border));
   --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
   //tables
-  --clr-table-header: hsl(0, 0%, var(--L-table-header));
+  --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt));
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
   --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
@@ -71,8 +71,6 @@ hvr -> hover
   --L-code-bg: 97%;
   --L-code-border: 90%;
   --L-code-bold-text: 0%;
-  //tables
-  --L-table-header: 27%;
   //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
   --L-kbd-bg: 98%;
   --L-kbd-border: 80%;
@@ -82,6 +80,7 @@ hvr -> hover
   --L-bg: 100%;
   --L-splitter: 90%;//for elements like hr
   --L-small-in-a: 47%;
+  --L-table-header-and-dt: 27%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
 }
 
 // if you are wondering why I put the dark colors below its because of importance.
@@ -108,7 +107,6 @@ hvr -> hover
     --L-code-border: 5%;
     --L-code-bold-text: 100%;
     //tables
-    --L-table-header: 90%;
     //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
     --L-kbd-bg: 30%;
     --L-kbd-border: 45%;
@@ -118,5 +116,6 @@ hvr -> hover
     --L-splitter: 15%;// for elements like hr
     --L-bg: 10%;
     --L-small-in-a: 60%;
+    --L-table-header-and-dt: 90%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
   }
 }
