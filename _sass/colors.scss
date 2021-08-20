@@ -45,7 +45,7 @@ hvr -> hover
   --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
   // miselainies
   --clr-bg: hsl(0, 0%, var(--L-bg));
-  --clr-splitter: hsl(0, 0%, var(--L-splitter));
+  --clr-splitter-and-blockquote: hsl(0, 0%, var(--L-splitter-and-blockquote));
   --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));
 	
   // THEME INDEPENDENT LUMINOSITYS
@@ -78,7 +78,7 @@ hvr -> hover
   --L-kbd-text: 30%;
   // misilainius
   --L-bg: 100%;
-  --L-splitter: 90%;//for elements like hr
+  --L-splitter-and-blockquote: 90%;//for elements like hr + blockquote
   --L-small-in-a: 47%;
   --L-table-header-and-dt: 27%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
 }
@@ -113,7 +113,7 @@ hvr -> hover
     --L-kbd-border-bottom-and-shadow: 55%;
     --L-kbd-text: 100%;
     // misilainius
-    --L-splitter: 15%;// for elements like hr
+    --L-splitter-and-blockquote: 15%;// for elements like hr and blockquote
     --L-bg: 10%;
     --L-small-in-a: 60%;
     --L-table-header-and-dt: 90%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
