@@ -1,9 +1,9 @@
 ---
 ---
 
-@use "colors";
+@import "colors";
 
 :root {
-  @include colors.colors;
-  @include colors.light-colors;
+  @include colors;
+  @include light-colors;
 }
