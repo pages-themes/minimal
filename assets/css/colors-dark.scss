@@ -1,0 +1,6 @@
+@use "colors";
+
+:root {
+  @include colors.colors;
+  @include colors.dark-colors;
+}
