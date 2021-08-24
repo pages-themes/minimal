@@ -40,6 +40,7 @@ Additionally, you may choose to set the following optional variables:
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
+color-scheme: ["dark", "light", "auto" or "auto-deafualt-dark" auto is deafault setting and changes theme based on device theme, auto-deafualt-dark is the same except if you device does not support changing theme based on device theme it will deafault to dark and the others are fairly explanetory.]
 ```
 
 ### Stylesheet
