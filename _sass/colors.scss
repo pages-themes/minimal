@@ -35,6 +35,7 @@ hvr -> hover
 
 @mixin colors {  
     // buttons
+    --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
     --clr-a-text: hsl(200, 100%, var(--L-a-text));
     --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
     --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));//the buttons in the main section at the top titled "download zip" "download tarbell" "veiw on github"
@@ -120,16 +121,4 @@ hvr -> hover
   --L-bg: 10%;
   --L-small-in-a: 60%;
   --L-table-header-and-dt: 90%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
-}
-
-:root {
-  --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
-  @include colors;
-  @include light-colors;
-}
-  
-@media screen and (prefers-color-scheme: dark) {//we would not like to apply dark mode if content is on printer as that would use a lot of ink
-    :root{
-        @include dark-colors;
-    }
 }

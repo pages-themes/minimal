@@ -1,0 +1,15 @@
+---
+---
+
+@import "colors";
+
+:root {
+  @include colors;
+  @include dark-colors;
+}
+
+@media print {
+  :root {
+    @include light-colors;
+  }
+}

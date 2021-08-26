@@ -1,0 +1,17 @@
+---
+---
+
+//this mode is like colors-auto but if the device does not support @media prefers-color-scheme it will deafault to dark mode
+
+@import "colors";
+
+:root {
+    @include colors;
+    @include dark-colors;
+  }
+    
+@media print, (prefers-color-scheme: light) {//we would not like to apply dark mode if content is on printer as that would use a lot of ink
+  :root {
+    @include light-colors;
+  }
+}
