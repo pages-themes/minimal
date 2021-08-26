@@ -1,9 +1,13 @@
-{% case site.color-scheme %}
-  {% when "" %}
-    {% assign ColorScheme = "auto" %}
-  {% else %}
-    {% assign ColorScheme = site.color-scheme %}
-{% endcase %}
+{%
+  assign ColorScheme =
+  {% case site.color-scheme %}
+    {% when "" %}
+      "auto"
+    {% else %}
+      {{site.color-scheme}}
+  {% endcase %}
+%}
+
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
