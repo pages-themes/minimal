@@ -2,23 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Data Filtering and Visualisation
 
-FIlter of un-necessary information form ICC cricket data and visualisation of different metrics from it.
+Filter of un-necessary information form ICC cricket data and visualisation of different metrics from it.
 
-## Header 2
+## Visualisation of cricket Data
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Visualise data using Histogram, Pi-chart, pairplot, correlation etc.
 
 ### Header 3
 
