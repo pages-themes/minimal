@@ -85,7 +85,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: CyFi-MAP<br />
+        Resource: Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
         Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
         </p></td>   
