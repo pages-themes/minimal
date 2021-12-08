@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Fraud Detection
 
 
-## Class Room Training 
+# Class Room Training
 Create Resume using github
 
 ### Header 3
