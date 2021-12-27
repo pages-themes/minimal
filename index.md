@@ -1,20 +1,14 @@
 ---
 layout: default
 ---
+**Welcome to my data science portfolio.**
+This portfolio contains my work on data science on Kaggle, or for my other courses and job interviews.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Latent Dirichlet allocation on job listings
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Tableau Portfolio on taxi data in Chicago
 
 > This is a blockquote following a header.
 >
