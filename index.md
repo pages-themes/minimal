@@ -10,6 +10,7 @@ Believing that job listings all contains certain keywords which are specifically
 
 
 [Link to Github repository](https://github.com/bengcheo/NLP-Work/blob/main/Topic_Modelling_on_Job_Adverts.ipynb)
+
 ![Branching](./assets/img/wordcloud.png).
 
 # Tableau Portfolio on taxi data in Chicago
