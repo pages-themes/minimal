@@ -19,7 +19,12 @@ Believing that job listings all contains certain keywords which are specifically
 
 ## Tableau Portfolio on taxi data in Chicago
 
+_Published: 5th-Aug-2021_
+_Updated: 5th-Aug-2021_
 
+In this project, I used the open data base from Google BigQuery in which I analyzed the market share and market trend for taxi companies in Chicago, by comparing the yearly market share and trends of the individual taxi companies, and the impact of lockdown from the pandemic has had on the taxi companies. I have found the taxi companies have been merging to consolidate resources in these challenging times with much fewer companies today in Chicago than in previous years.
+
+[Link to Tableau Public](https://public.tableau.com/app/profile/sebastian5987/viz/chicago_taxi_16276463455580/Story1?publish=yes)
 
 ## Real or Not NLP with Disaster Tweets
 
