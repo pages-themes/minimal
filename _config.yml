@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Welcome to my Data Science portfolio.
 logo: /assets/img/pic.png
-description: Minimal is a theme for GitHub Pages.
+description: This blog is a collection of all the Data Science work. It includes my work on Kaggle for data science competititons, or for my courses or job interviews which I have done since 2017.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
