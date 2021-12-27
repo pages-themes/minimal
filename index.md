@@ -6,9 +6,9 @@ This portfolio contains my work on data science on Kaggle, or for my other cours
 
 # Latent Dirichlet allocation on job listings
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Believing that job listings all contains certain keywords which are specifically written for the profession, in this project, I attempted to use Latent Dirichlet allocation (LDA) to extract the common keywords and themes associated with each job listing, so that we can use an unsupervised approach in classifying each of the job listings into each various themes.
 
-## Tableau Portfolio on taxi data in Chicago
+# Tableau Portfolio on taxi data in Chicago
 
 > This is a blockquote following a header.
 >
