@@ -8,6 +8,9 @@ This portfolio contains my work on data science on Kaggle, or for my other cours
 
 Believing that job listings all contains certain keywords which are specifically written for the profession, in this project, I attempted to use Latent Dirichlet allocation (LDA) to extract the common keywords and themes associated with each job listing, so that we can use an unsupervised approach in classifying each of the job listings into each various themes.
 
+
+[Link to Github repository](./https://github.com/bengcheo/NLP-Work/blob/main/Topic_Modelling_on_Job_Adverts.ipynb).
+
 # Tableau Portfolio on taxi data in Chicago
 
 > This is a blockquote following a header.
