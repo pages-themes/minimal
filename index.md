@@ -6,9 +6,9 @@ This portfolio contains my work on data science on Kaggle, or for my other cours
 
 ## Latent Dirichlet allocation on job listings
 
-Published: 30th-Sept-2021
+_Published: 30th-Sept-2021_
 
-Updated: 30th-Sep-2021
+_Updated: 30th-Sep-2021_
 
 Believing that job listings all contains certain keywords which are specifically written for the profession, in this project, I attempted to use Latent Dirichlet allocation (LDA) to extract the common keywords and themes associated with each job listing, so that we can use an unsupervised approach in classifying each of the job listings into each various themes.
 
