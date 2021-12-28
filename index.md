@@ -43,3 +43,5 @@ A Kaggle Data Science project in which I used feature engineering to pick out fe
 ## Kaggle Competition Data Science for Good, City of Los Angeles
 
 A Kaggle Data Science project in which we tried to find if the job listing contains any types of biasness. We first parsed the job listings into a dataframe before applying text analytics, in which we attempted to find which job listing contains more masculine words, and which job listing contains more feminine words.
+
+[Link to Github](https://github.com/bengcheo/LetssaveLA)
