@@ -26,6 +26,8 @@ In this project, I used the open data base from Google BigQuery in which I analy
 
 [Link to Tableau Public](https://public.tableau.com/app/profile/sebastian5987/viz/chicago_taxi_16276463455580/Story1?publish=yes)
 
+![Branching](./assets/img/chicago.png).
+
 ## Real or Not NLP with Disaster Tweets
 
 ## Kaggle Competition Data Science for Good, City of Los Angeles
