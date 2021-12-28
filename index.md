@@ -29,6 +29,14 @@ In this project, I used the open data base from Google BigQuery in which I analy
 ![Branching](./assets/img/chicago.png).
 
 ## Real or Not NLP with Disaster Tweets
+_Published: 21st-Mar-2020_
+
+A Kaggle Data Science project in which I used feature engineering to pick out features, such as number of punctuation, sentence length etc., in order to build a model in which disaster and non-disaster tweets can be separated. Achieved a Training accuracy of 79% and a Test accuracy of 76% through the use of feature engineering. 
+
+[Link to Kaggle](https://www.kaggle.com/theyellowboots/real-or-not-nlp-with-disaster-tweets?scriptVersionId=30563775)
+
+[Link to Github](https://github.com/bengcheo/Real-or-Not-NLP-with-disaster-tweets)
+
 
 ## Kaggle Competition Data Science for Good, City of Los Angeles
 
