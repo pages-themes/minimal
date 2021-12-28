@@ -39,6 +39,7 @@ A Kaggle Data Science project in which I used feature engineering to pick out fe
 
 [Link to Github](https://github.com/bengcheo/Real-or-Not-NLP-with-disaster-tweets)
 
+![Branching](./assets/img/disaster.png).
 
 ## Kaggle Competition Data Science for Good, City of Los Angeles
 
