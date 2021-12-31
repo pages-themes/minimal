@@ -21,7 +21,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.hide_description_in_side_bar != true %}
+        {% assign visible_description = site.show_description | default: true %}
+        {% if visible_description %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
 

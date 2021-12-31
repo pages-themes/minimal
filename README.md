@@ -38,6 +38,7 @@ description: [A short description of your site's purpose]
 Additionally, you may choose to set the following optional variables:
 
 ```yml
+show_description: ["true" or "false" (unquoted) to indicate whether to show or hide the description in the side bar - defaults to "true"]
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
