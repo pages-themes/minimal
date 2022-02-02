@@ -10,18 +10,31 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# OBJECTIVE
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Sound numerate, analytical, and organizational skills with ability to work under pressure on multiple tasks. Outstanding mathematics and writing skills. Good team player with ability to also work independently
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Customer Support Executive
+iMocha Pvt. Ltd. Pune, India.
 
-### Header 3
 
+> Primary task is to provide support to B2B and B2C clients ensuring 
+quality resolutions in timely manner.
+Assisting other team members with extracting data and preparing 
+reports using various utility tools.
+Focused on customer satisfaction and troubleshooting.
+Maintaining daily track of workflow and active participation in 
+process improvement.
+
+### Operations Associate
+Compucom CSI Pvt. Ltd. Pune, India.
+
+Managed and monitored daily workflows in multiple ticketing
+systems including Clarify CRM and BMC Remedy
+Analyzed and made recommendations with ongoing problem 
+identification and process improvements
+Performed a variety of operations functions following preestablished procedures
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -37,12 +50,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### E D U C A T I O N
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
+G.H.R.I.E.T. PUNE 
+UNIVERSITY.
+Bachelors of Engineering
+2016
+1st Clas
 ##### Header 5
 
 1.  This is an ordered list following a header.
