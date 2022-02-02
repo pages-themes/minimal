@@ -1,6 +1,23 @@
-title: Minimal theme
+title: <p align="center"> Kapil Jain </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kapiljain878/">LinkedIn</a> |
+  <a href="https://github.com/kapiljain2825">GitHub</a>
+  
+  <br>   
+3+ years experienced professional software development engineer gained hands-on experience in designing,
+implementing, and installing software solutions and developing high-quality software designs & architecture.
+Adept at brainstorming & creating various applications by producing efficient code, conducting systems analysis
+to improve operations, and automating tasks through appropriate tools & scripting. Proficient in interacting with
+the clients to successfully execute multiple big-ticket projects within the stipulated time while ensuring 100%
+client satisfaction. Proficient in Agile model and always challenge the status quo of strategies/methodologies to
+safeguard the product
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
