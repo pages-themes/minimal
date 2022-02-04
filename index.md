@@ -8,7 +8,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/fraud_detection.jpg"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
@@ -20,7 +20,7 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="assets/img/financial_modeling.jpg"/></center>
 
 ---
 ### LSTM Neural Network for Time Series Prediction
@@ -47,7 +47,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="images/machine_learning.jpg"/></center>
+<center><img src="assets/img/machine_learning.jpg"/></center>
 
 ---
 ### Gesture Recognizer
@@ -60,7 +60,7 @@ Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 
 
 Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
 
-<center><img src="images/gesture_recognition.jpg"/></center>
+<center><img src="assets/img/gesture_recognition.jpg"/></center>
 
 ---
 ### Human Activity Recognition
