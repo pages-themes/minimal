@@ -38,7 +38,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-<center><img src="images/text_classification.png"/></center>
+<center><img src="assets/img/text_classification.png"/></center>
 
 ---
 ### Awesome Machine Learning
