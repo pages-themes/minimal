@@ -1,11 +1,6 @@
-title: <p align="center"> Prashant Tandale </p>
+title: Minimal theme
 logo: /assets/img/logo.png
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/prashant-tandale-2a50623a">LinkedIn</a> |
-  <a href="https://github.com/prashtandale">GitHub</a>
-  
-  </p>
-
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
