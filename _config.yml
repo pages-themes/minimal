@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Prashant Tandale </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/prashant-tandale-2a50623a">LinkedIn</a> |
+  <a href="https://github.com/prashtandale">GitHub</a>
+  
+  <br>   
+  Experienced Senior Embedded Software Engineer with a demonstrated history of working in the research industry.
+  Skilled in Embedded Software, C and Embedded Systems.
+  <br>
+  </p>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
