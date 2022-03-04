@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Ali Ibrahim </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/aliqizalbash/">LinkedIn</a> |
+  <a href="https://github.com/aliqizalbash">GitHub</a>
+  
+  <br>   
+A seasoned analytical professional with a proven background in complementing business strategy through customer, marketing & business insights and analytics. Having worked for a marketing research organisation, internet based start-ups, a multinational retail-wholesale business conglomerate and a public sector organisation in a career spanning over 10+ years; I come with a diverse skill set.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
