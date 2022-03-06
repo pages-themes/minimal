@@ -1,6 +1,10 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Priya Kumari
+logo: /assets/img/Polish_Cutout_20210412_125248074.png
+description:
+<a href = "https://www.linkedin.com/in/priya-kumari-ds/"> LinkedIN </a>
+| <a href = "https://github.com/priyak950">Github</a>
+| <a href = "https://github.com/priyak950/minimal/blob/master/docs/Priya's%20Resume.pdf"> RESUME</a>
+</br> I am data science enthusiastic.</br> Present working as a Data Modeler at HARMAN Kardon for Retailer company and completing my Master's in Data Science from The University of Arizona.</br> Previously done internship as a big data engineer at Numerify Software (now digital.ai).
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
