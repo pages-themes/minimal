@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="centre"> Pranjal Jha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+  <p align="centre">
+  <a href="https://www.linkedin.com/in/pranjal-jha-73473516/">LinkedIn</a>
+  
+  
+  
+  <br>
+  
+  Digital Global Presales & Solutioning Leader - IoT,AI,ML,Analytics,Innovation and Blockchain Enthusiast - Digital transformation Chapters for
+  Digital Transformation Center
+  DTC - Bangalore of DXC Technologies.In DTC responsible for driving critical Digital,IoT,ML,Analytics,Cloud,AR/VR opportunities and managing Digital Solution Architects 
+  and Technical architects for building RFP and RFI response and building digital offerings and He is an Solution Integrator and responsible for Steaching the digital solution.
+  Expertise and passion in IoT,AI,Computer vision,Bots,Speech & Behaviour Analytics by using ML/AI ,Autonomous Vehicle and Machines.Managed and owned creation of joint IP with Manufacturing customer in Autonomous Crane System by using Machine Learning,AI,IoT,Computer vision & Lidar. 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
