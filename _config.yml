@@ -1,6 +1,12 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Amit Ahuja </p>
+logo: /assets/img/Amit.jpg
+description: 
+<p align="center">
+
+<p href="pdf/resume.pdf">Resume</a>
+<a href="https://www.linkedin.com/in/amit-ahuja-b1784b8/>LinkedIn</a>
+<a href="https://github.com/foramitahuja">GitHub</a>
+
+</p>
+
 theme: jekyll-theme-minimal
