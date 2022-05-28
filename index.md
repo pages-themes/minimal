@@ -13,11 +13,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1
 Retails Services
 
-## Project 2
+# Project 2
 
 Real Estate
 
-### Project 3
+# Project 3
 
 ```js
 // Javascript code with syntax highlighting.
