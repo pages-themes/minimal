@@ -11,19 +11,19 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Project 1
-Retails Services
+   ## Worked on Retails Services domain specific project
 
 # Project 2
 
-Real Estate
+  ##  Worked on Real Estate  domain specific project
 
 # Project 3
 
-Wealth Management
+   ## Worked on Wealth Management domain specific project
 
 # Project 4
 
-Capital Market
+  ##  Worked on Capital Market domain specific project
 
 ##### Header 5
 
