@@ -10,7 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Nescat Project:
+# Data Science Profile
+<br>
+## Machine Learning
+
+# Fraud detection: 
    ## Worked on Retails Services domain specific project
 
 # Service Source Project:
