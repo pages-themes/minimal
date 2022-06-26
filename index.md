@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Fraud Detection
 
-Project involves finding out & preventing fraudulent credit card transactions from taking place
+Project involves finding out & preventing fraudulent credit card transactions from taking place in real world operations
 
 ## Header 2
 
