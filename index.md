@@ -10,11 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Mahesh Das
+# Data Science Portfolio
 
-Mahesh Das is a Technology Evangelist, Big Data, SAP MDG Certified & AWS Certified Cloud Solution Architect with global experience of more than 17 years in managing large transformational projects and offering successful solutions. He has worked in leading IT consulting organizations and has led several ERP implementation projects for various Fortune 500 clients from different business domains such as Manufacturing, FMCG, Engineering & Constructions, Oil & Gas, Managed Print Services and Metals & Mining. With experience in several functional domains such as Sales & Distribution, Finance & Manufacturing, Mahesh is a go getter for innovative solutions involving digital skills with strong leadership skills
-
-## Header 2
+## Machine Learning
 
 > This is a blockquote following a header.
 >
