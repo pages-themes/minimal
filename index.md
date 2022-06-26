@@ -1,32 +1,10 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Data Science Portfolio
-
+---
 ## Machine Learning
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Fraud Detection
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Fraud Detection is a set of processes and analysis that allow businesses to identify and prevent unauthorized activity. This can include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more
 
 ```ruby
 # Ruby code with syntax highlighting
