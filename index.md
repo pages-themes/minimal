@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Project involves finding out & preventing fraudulent credit card transactions from taking place in real world operations
 
-## Header 2
+# Project 2
 
 > This is a blockquote following a header.
 >
