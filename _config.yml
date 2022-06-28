@@ -1,6 +1,22 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Gyanesh Gulshan </p>
+logo: /assets/img/Gyanesh_dp.jpg
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/gyaneshgulshan/">LinkedIn</a> |
+  <a href="https://github.com/ergyanesh">GitHub</a>
+  
+  <br>   
+  I am pursuing an Executive Post Graduate Programme 
+  in Machine Learning and Artificial Intelligence
+  from IIIT Bangalore, India.
+  <br>
+  I have more than 10 years of experience in different industries.
+  My last organization was Concentrix CVG, Malaysia, where I was
+  working as an Advisor for Facebook Ad sales.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
