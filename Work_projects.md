@@ -22,6 +22,6 @@ layout: default
 - R&D into [Kyber, Dilithium, Sphincs+ , Rainbow and BIKE](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions)      integrated algorithms into Openssl, [TSS2](https://www.mankier.com/package/tss2) & [Libtpms](https://github.com/stefanberger/libtpms).
 
 ### Defence company - July to September 2019
--Intern Sec analyst.
+- Intern Sec analyst.
 I was on a three month placment. 
 - Network investigation, threat hunting and penetration testing.
