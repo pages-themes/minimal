@@ -9,7 +9,7 @@ This is a page of write ups (CTFS) anything I have found interesting and not str
 
 ### CTFS 
 
-- From the Pwnabke.kr 
+#### Pwnabke.kr 
 
 [Brain Fuck](https://github.com/HBLocker/Pwnablekr/blob/main/BrainFuck.md)
 
@@ -20,7 +20,7 @@ This is a page of write ups (CTFS) anything I have found interesting and not str
 [Ascii easy](https://github.com/HBLocker/Pwnablekr/blob/main/rootkit.md)
 
 
-### Research related topics 
+## Research 
 
 #### Trustzone and Android kernel 
 I started to find the linux kernel really interesting then I found the Android kernel even more interesting. So I found a libary which talsk to the trustzone and wanted to see 
