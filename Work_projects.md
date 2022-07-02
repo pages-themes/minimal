@@ -6,7 +6,7 @@ layout: default
 
 ### [Mbition](https://group.mercedes-benz.com/careers/about-us/ ) - Current
 
-- Operating system security, vulnerability management, static code analysis, R&D (TrustZone, Linux), reverse engineering, Fuzz testing.
+- Operating system security, vulnerability management, static code analysis, R&D (TrustZone, Linux), CI/CD.
 
 ### [Klevoya](https://klevoya.com)- March to July 2021
 #### Researched deep learning and applied generative models for random seed generation. 
