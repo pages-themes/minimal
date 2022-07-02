@@ -4,7 +4,7 @@ layout: default
 
 # My professional Work
 
-## [Mbition](https://group.mercedes-benz.com/careers/about-us/ ) - Current
+### [Mbition](https://group.mercedes-benz.com/careers/about-us/ ) - Current
 
 - Operating system security, vulnerability management, static code analysis, R&D (TrustZone, Linux), reverse engineering, Fuzz testing.
 
