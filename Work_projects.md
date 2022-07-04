@@ -17,8 +17,7 @@ layout: default
 
 ### [Royal Holloway University of London](https://www.royalholloway.ac.uk) - May 2019 to January 2021 
 -Research Assistant. 
-
-##### Contributor for the [FutureTPM](https://futuretpm.eu/index.php/home/technical-approach) project.
+#### Contributor for the [FutureTPM](https://futuretpm.eu/index.php/home/technical-approach) project.
 - R&D into [Kyber, Dilithium, Sphincs+ , Rainbow and BIKE](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions)      integrated algorithms into Openssl, [TSS2](https://www.mankier.com/package/tss2) & [Libtpms](https://github.com/stefanberger/libtpms).
 
 ### Defence company - July to September 2019
