@@ -5,4 +5,4 @@ Welcome to my page, I am currently a security engineer living in Berlin, Germany
 
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
-- [Prosessional](./Work_projects.html)
+- [Professional(./Work_projects.html)
