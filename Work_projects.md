@@ -11,7 +11,7 @@ layout: default
 
 ### [Klevoya](https://klevoya.com)- March to July 2021
 -Security researcher. 
-#### Researched deep learning and applied generative models for random seed generation. 
+
 [Preposed research document](https://www.dropbox.com/s/4kvo6rlfgpdpbui/TextGenFuzz.pdf?dl=0)
 -  Applied research, Tensorflow Deep learning model development. Fuzz testing blockchain applications
 
