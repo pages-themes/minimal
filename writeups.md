@@ -23,10 +23,6 @@ This is a page of write ups (CTFS) anything I have found interesting and not str
 ## Research 
 
 
-### Discussion: What are the challenges facing law enforcement in terms of mobile forensics with ephemeral applications on Android Devices?
-Part of a module on mobile forensics at uni, this is what sparked my interest in the Android/Linux kernel
-[What are the challenges facing law enforcement in terms of mobile forensics with ephemeral applications on Android Devices? ](https://www.dropbox.com/s/27iouu8lwkcocfg/Discussion_%20What%20are%20the%20challenges%20facing%20law%20enforcement%20in%20terms%20of%20mobile%20forensics%20with%20ephemeral%20applications%20on%20Android%20Devices_.pdf?dl=0)
-
 #### Trustzone and Android kernel 
 I find the linux kernel and the android kernel really interesting as a topic, they are an area which I like to read about and see how it all works together. 
 
@@ -36,9 +32,27 @@ I hope to write more on this as I find this facinating.
 
 
 
+
+
+
+### Sumary of Salsa20
+I really enjoy reading crypto papers and here is a sumary of all the main componants of how it works.
+
+[Salsa how it works ](https://github.com/HBLocker/Salsa-ChaCha/blob/main/SalsaWriteUp.md)
+
+
+
 #### Deep Phishing Dissertation
 My dissertation on NLP detection for Phishing emails for Bsc(Hons)
 
 [Dissertation](https://github.com/HBLocker/NLP-Phish-Dissertation-)
+
+
+
+### Discussion: What are the challenges facing law enforcement in terms of mobile forensics with ephemeral applications on Android Devices?
+Part of a module on mobile forensics at uni, this is what sparked my interest in the Android/Linux kernel
+[What are the challenges facing law enforcement in terms of mobile forensics with ephemeral applications on Android Devices? ](https://www.dropbox.com/s/27iouu8lwkcocfg/Discussion_%20What%20are%20the%20challenges%20facing%20law%20enforcement%20in%20terms%20of%20mobile%20forensics%20with%20ephemeral%20applications%20on%20Android%20Devices_.pdf?dl=0)
+
+
 
 
