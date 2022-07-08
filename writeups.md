@@ -23,23 +23,19 @@ This is a page of write ups (CTFS) anything I have found interesting and not str
 ## Research 
 
 
-#### Trustzone and Android kernel 
-I find the linux kernel and the android kernel really interesting as a topic, they are an area which I like to read about and see how it all works together. 
-
-I hope to write more on this as I find this facinating.
-
-[Diving into the trust zone ](https://github.com/HBLocker/Diving-into-the-Trust-Zone)
-
-
-
-
-
 
 ### Sumary of Salsa20
 I really enjoy reading crypto papers and here is a sumary of all the main componants of how it works.
 
 [Salsa how it works ](https://github.com/HBLocker/Salsa-ChaCha/blob/main/SalsaWriteUp.md)
 
+
+#### Trustzone and Android kernel 
+I find the linux kernel and the android kernel really interesting as a topic, they are an area which I like to read about and see how it all works together. 
+
+I hope to write more on this as I find this facinating.
+
+[Diving into the trust zone ](https://github.com/HBLocker/Diving-into-the-Trust-Zone)
 
 
 #### Deep Phishing Dissertation
