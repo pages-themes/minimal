@@ -15,7 +15,7 @@ layout: default
 [Preposed research document](https://www.dropbox.com/s/4kvo6rlfgpdpbui/TextGenFuzz.pdf?dl=0)
 -  Applied research, Tensorflow Deep learning model development. Fuzz testing blockchain applications
 
-### [Royal Holloway University of London](https://www.royalholloway.ac.uk) - May 2019 to January 2021 
+### [Royal Holloway University of London]( https://pure.royalholloway.ac.uk/portal/en/persons/harry-lockyer(a92576eb-dc5a-4229-8774-a7346ee61649).html) - May 2019 to January 2021 
 -Research Assistant. 
 #### Contributor for the [FutureTPM](https://futuretpm.eu/index.php/home/technical-approach) project.
 - R&D into [Kyber, Dilithium, Sphincs+ , Rainbow and BIKE](https://csrc.nist.gov/Projects/post-quantum-cryptography/post-quantum-cryptography-standardization/round-3-submissions)      integrated algorithms into Openssl, [TSS2](https://www.mankier.com/package/tss2) & [Libtpms](https://github.com/stefanberger/libtpms).
