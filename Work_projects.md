@@ -13,7 +13,7 @@ layout: default
 
 ### [Klevoya](https://klevoya.com)- March to July 2021
 -Security researcher. 
-#### Research Title Deep Learning for  Seed Generation Against EOSIO smart contracts
+#### Research Title:  Deep Learning for  Seed Generation Against EOSIO smart contracts
 
 -  Applied research, Tensorflow Deep learning model development. Fuzz testing blockchain applications
 
