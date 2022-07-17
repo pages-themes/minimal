@@ -13,8 +13,8 @@ layout: default
 
 ### [Klevoya](https://klevoya.com)- March to July 2021
 -Security researcher. 
+#### Research Title Deep Learning for  Seed Generation Against EOSIO smart contracts
 
-[Preposed research document](https://www.dropbox.com/s/4kvo6rlfgpdpbui/TextGenFuzz.pdf?dl=0)
 -  Applied research, Tensorflow Deep learning model development. Fuzz testing blockchain applications
 
 ### [Royal Holloway University of London](https://s3lab.isg.rhul.ac.uk/) - May 2019 to January 2021 
