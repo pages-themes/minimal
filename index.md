@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-Welcome to my page, I am currently a security engineer living in Berlin, Germany working at Mercades Benz innovation lab. I enjoy cryptography,offensive security and some types of machine learning/deep learning. 
+Welcome to my page, I am currently a security engineer living in Berlin,working at Mercades Benz innovation lab. 
+I enjoy cryptography,offensive security and some types of machine learning/deep learning. 
 
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
