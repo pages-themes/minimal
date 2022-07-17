@@ -19,5 +19,4 @@ Welcome to my page, I am currently a security engineer living in Berlin,working 
 
 - plumbers conference 2022 (online)
 - Fuzz con 2022 (online)
-- Linux foundation 2022 (online)
 - Offensivecon Berlin
