@@ -1,12 +1,7 @@
 ---
 layout: default
 ---
-Welcome to my page, I am currently a security engineer living in Berlin,working at Mercades Benz innovation lab. 
-- I enjoy cryptography and reading a lot of papers I can't exactly word why just it's a topic I really have really been obsessed with.
- 
-- Offensive security in application's I'm a huge fan of write ups and CTFS.
-
-
+ I am currently a security engineer living in Berlin,working at Mercades Benz innovation lab. I like cryptography and offensive security related topics.
 
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
