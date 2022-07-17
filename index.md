@@ -6,7 +6,6 @@ Welcome to my page, I am currently a security engineer living in Berlin,working 
  
 - Offensive security in application's I'm a huge fan of write ups and CTFS.
 
-- Linux I've been using Linux as my default for 10+ years now, I really like the Kernel level.
 
 
 - [Writeups](./writeups.md)
