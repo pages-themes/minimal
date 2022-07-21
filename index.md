@@ -4,7 +4,7 @@ layout: default
 
 
 
-[My Linkedin](https://www.linkedin.com/in/satyajit-chaudhuri-05.html).
+[My Linkedin](https://www.linkedin.com/in/satyajit-chaudhuri-05).
 
 
 
