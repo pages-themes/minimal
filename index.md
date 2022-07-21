@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[My Linkedin](./another-page.html).
+
+[My Linkedin]([https://www.linkedin.com/in/satyajit-chaudhuri-05).
 
 
 
@@ -14,13 +14,13 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Header 2
+## Project Under Progress
 
-> This is a blockquote following a header.
+> Soon going to be updated.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Project Under Progress
 
 ```js
 // Javascript code with syntax highlighting.
