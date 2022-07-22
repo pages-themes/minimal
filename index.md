@@ -14,7 +14,11 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-## Project Under Progress
+## National-Health-Survey-EDA
+This an exploratory data analysis study on the "National Family Health Survey" dataset.
+Source Dataset: All India and State/UT-wise Factsheets of National Family Health Survey (NFHS) - 5, 2019-2021
+
+Link:https://github.com/Satyajit-Chaudhuri/National-Health-Survey-EDA
 
 > Soon going to be updated.
 >
