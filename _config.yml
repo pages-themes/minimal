@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Satyajit Chaudhuri
+logo: /assets/img/self.png
+description: A data enthusiast who loves to deep dive into the processes and gather meaningful insights from the business numbers and design strategies to optimize them.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile

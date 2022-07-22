@@ -2,25 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+[My Linkedin](https://www.linkedin.com/in/satyajit-chaudhuri-05.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Fraud Detection Project
 
-## Header 2
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-> This is a blockquote following a header.
+<center><img src="images/fraud_detection.jpg"/></center>
+
+## National-Health-Survey-EDA
+This an exploratory data analysis study on the "National Family Health Survey" dataset.
+Source Dataset: All India and State/UT-wise Factsheets of National Family Health Survey (NFHS) - 5, 2019-2021
+
+Link:https://github.com/Satyajit-Chaudhuri/National-Health-Survey-EDA
+
+> Soon going to be updated.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Project Under Progress
 
 ```js
 // Javascript code with syntax highlighting.
