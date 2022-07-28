@@ -1,21 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Himanshu Garg
-
-Data Scientist with experience of 6+ years, having good understanding of Statistical and Machine Learning
-techniques. Aspiring to utilize my strong prioritization skills and analytical ability to charter mutually beneficial
-growth.
-
 # Data Science Portfolio
 
 ---
