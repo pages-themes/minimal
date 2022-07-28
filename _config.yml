@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Himanshu Garg </p>
+logo: /assets/img/Photo Himanshu.jpg
+
+description:
+  <p align="center">
+  <a href="assets/img/Himanshu_Garg_On_HDFC_Joining.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/himanshu-garg-3ba068117/">LinkedIn</a> |
+  <a href="https://github.com/HimanshuGarg008">GitHub</a>
+  
+  <br>   
+  Data Scientist with experience of 6+ years, having good understanding of Statistical and Machine Learning techniques. Aspiring to utilize my strong prioritization skills and analytical ability to charter mutually beneficial growth.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
