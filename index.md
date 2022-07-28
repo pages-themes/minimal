@@ -10,11 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Himanshu Garg
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+Data Scientist with experience of 6+ years, having good understanding of Statistical and Machine Learning
+techniques. Aspiring to utilize my strong prioritization skills and analytical ability to charter mutually beneficial
+growth.
 
 # Data Science Portfolio
 
