@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Fraud detection
 
 Dummy project for practicing git VCS
-[Link to another page](https://github.com/vivekprahlada/Fraud_detection.git).
+[GitHub Repo](https://github.com/vivekprahlada/Fraud_detection.git).
 
 
 ## Header 2
