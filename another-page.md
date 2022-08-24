@@ -5,6 +5,11 @@ layout: default
 ## Personal project and fun 
 
 
+## Kyber OpenSSL
+
+I starteed adding kyber into OpenSSL and Plan to do a write up at some point. Fork of OpenSSL. 
+[Openssl_kyber](https://github.com/HBLocker/openssl-1)
+
 
 
 I decided to do a little project a few years back on injecting into a procsess to see how it works as I wanted to understand more on malicious code. 
