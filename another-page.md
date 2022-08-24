@@ -5,6 +5,9 @@ layout: default
 ## Personal project and fun 
 
 
+This is mainly coding related projects I have worked on in my free time, I have been quite busy so some of my code is quite old.  
+
+
 ### Kyber OpenSSL
 
 I starteed adding kyber into OpenSSL and Plan to do a write up at some point. Fork of OpenSSL. 
@@ -12,7 +15,7 @@ I starteed adding kyber into OpenSSL and Plan to do a write up at some point. Fo
 
 
 
-I decided to do a little project a few years back on injecting into a procsess to see how it works as I wanted to understand more on malicious code. 
+
 
 ### Hash Based Signature
 [Hash Based Signatures](https://github.com/HBLocker/Hash-Based-Signatures)
@@ -27,8 +30,6 @@ I was reading a paper on this and deicded to try implement it based from the pap
 I began to really enjoy reading papers and want to understand them more so I chose to write these in c, they are not 100% accurate with thier outputs but it is somewhat an example of how they work. Please dont use them for any real world project that would be silly now. 
 
 
-
-This is mainly coding related projects I have worked on in my free time, I have been quite busy so some of my code is quite old. 
 
 #### Procsess injection
  [Procsess injection example](https://github.com/HBLocker/procsss-Injection/blob/master/README.md)
