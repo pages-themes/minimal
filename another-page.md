@@ -24,7 +24,7 @@ I was reading a paper on this and deicded to try implement it based from the pap
 
 
 #### SALSA and CHACH 
-[SALSA and CHACHA](https://github.com/HBLocker/Salsa-ChaCha)
+- [SALSA and CHACHA](https://github.com/HBLocker/Salsa-ChaCha)
 
 
 I began to really enjoy reading papers and want to understand them more so I chose to write these in c, they are not 100% accurate with thier outputs but it is somewhat an example of how they work. Please dont use them for any real world project that would be silly now. 
