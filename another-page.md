@@ -5,7 +5,7 @@ layout: default
 ## Personal project and fun 
 
 
-## Kyber OpenSSL
+### Kyber OpenSSL
 
 I starteed adding kyber into OpenSSL and Plan to do a write up at some point. Fork of OpenSSL. 
 [Openssl_kyber](https://github.com/HBLocker/openssl-1)
