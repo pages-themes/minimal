@@ -3,6 +3,5 @@ logo: /assets/img/logo.jpg
 description:
   <p align="center">|
   <a href="https://github.com/pranalim23">GitHub</a>
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
