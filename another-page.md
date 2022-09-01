@@ -12,8 +12,6 @@ This is mainly coding related projects I have worked on in my free time, I have 
 
 I starteed adding kyber into OpenSSL and Plan to do a write up at some point. Fork of OpenSSL. 
 #### This is not finished yet it needs a lot of work, WOP! 
-
-- [First main commit ](https://github.com/HBLocker/openssl-1/commit/41ed6553a1c232be8553b1ea1dc8477e71f22078)
 - [Openssl_kyber](https://github.com/HBLocker/openssl-1)
 
 
