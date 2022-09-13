@@ -11,7 +11,7 @@ This is mainly coding related projects I have worked on in my free time, I have 
  
  
  
- ### Isogeny 
+### Isogeny 
 ##### Work in Progress
  [SIDH](https://github.com/HBLocker/Isogeny-/blob/main/sidh.py)
 
