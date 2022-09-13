@@ -7,18 +7,6 @@ layout: default
 
 This is mainly coding related projects I have worked on in my free time, I have been quite busy so some of my code is quite old.  
 
-
-### Kyber OpenSSL
-
-I starteed adding kyber into OpenSSL and Plan to do a write up at some point. Fork of OpenSSL. 
-#### This is not finished yet it needs a lot of work, WOP! 
-- [Openssl_kyber](https://github.com/HBLocker/openssl-1)
-
-
-
-
-
-
 ### Hash Based Signature
 - [Hash Based Signatures](https://github.com/HBLocker/Hash-Based-Signatures)
 
