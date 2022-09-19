@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
- I am currently a security engineer living in Berlin,working at Mercades Benz innovation lab. I like cryptography and offensive security related topics.
-
+I am open for work, I was worrking for Mercades Benz on the Gen20X operating system implemeting security solutuions and partaking in offensive secueity research. I based within the UK.
+ 
+ 
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
 - [Professional](./Work_projects.html)
