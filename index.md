@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-I am open for work, I was worrking for Mercades Benz on the Gen20X operating system implemeting security solutuions and partaking in offensive secueity research. I based within the UK.
+I am open for work.
+
+I was worrking for Mercades Benz on the Gen20X operating system implemeting security solutuions and partaking in offensive secueity research.
  
  
 - [Writeups](./writeups.md)
