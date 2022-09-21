@@ -7,11 +7,11 @@ layout: default
 ### [Mbition](https://group.mercedes-benz.com/karriere/ueber-uns/standorte/standort-detailseite-240192.html) - August 2021 - October 2022
 -Security Engineer.
 #### Security related related topics for the Gen20x [MB.OS](https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system/)
- - Facilitated in implementing Security mechanisms (DAC).
- - Performed CICD CVE scanner, automating security assessments.
- - Facilitated defect management for the Gen20x.
- - Facilitated in security research into the Trust zone.
- - Performed reverse engineering and fuzz testing.
+ - Preformed  code review, AppArmor review. 
+ - Created automated tests to review the security of the Gen20x. 
+ -  Performed defect management for the Gen20x security bugs. 
+ - Research into attack vectors into the Gen20x.
+ - Reverse engineering and fuzz testing.
 
 
 ### [Klevoya](https://klevoya.com)- March to July 2021
