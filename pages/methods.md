@@ -4,6 +4,6 @@ layout: default
 permalink: /methods
 ---
 
-# Events
+# Methods
 
 ## Section
