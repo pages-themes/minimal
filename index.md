@@ -14,6 +14,7 @@ layout: default
 </table> 
 
 
+
 <!--UPCOMING EVENT: The **[Disease Maps Community Meeting 2021](../events)** (DMCM2021) is scheduled 27-29 October in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).-->
 
 
