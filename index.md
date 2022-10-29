@@ -16,7 +16,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Fraud Detection
 
-> (https://github.com/charankumarhs/fraud_detection.git)
+![Fraud Detection](https://github.com/charankumarhs/fraud_detection.git)
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
