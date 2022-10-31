@@ -10,11 +10,21 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Cloud
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## AWS
 
-## Header 2
+Used SES API to send out emails from the application, this has cutdown the need for using the In-House Exchange server.
+
+## Google
+
+Used Firebase DB and Google Functions to implement a distributed DB system.
+
+## Azure
+
+Used Azure computer vision to get tag ids from pictures taken by Sales reps in the OR room and so the reps can avoid typing the tags.
+
+# Application Development
 
 > This is a blockquote following a header.
 >
