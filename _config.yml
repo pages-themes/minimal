@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Ahmed Hussain </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://github.com/Ahmed-AIML">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Data Transfomration problems
+  Also handing the Big Data from real-time transaction data.
+  Worked with Lineage Logistics at Big Data Analytics team.
+  Working in Banking domain for 6 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
