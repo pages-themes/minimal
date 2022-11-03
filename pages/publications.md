@@ -34,9 +34,9 @@ Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pi
  
 ### Disease maps
 
-Pereira C, Mazein A, Farinha CM, Gray MA, Kunzelmann K, Ostaszewski M, Balaur I, Amaral MD, Falcao AO. CyFi-MAP: an interactive pathway-based resource for cystic fibrosis. Sci Rep. 2021 Nov 15;11(1):22223. [doi: 10.1038/s41598-021-01618-3](https://doi.org/10.1038/s41598-021-01618-3). [PMID: 34782688](https://www.ncbi.nlm.nih.gov/pubmed/34782688).
+Zerrouk N, Aghakhani S, Singh V, Augé F, Niarakis A. A Mechanistic Cellular Atlas of the Rheumatic Joint. Front. Syst. Biol. 2022 2:925791. [doi: 10.3389/fsysb.2022.925791](https://doi.org/10.3389/fsysb.2022.925791). Available at [https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full).
 
-Miagoux Q, Singh V, de Mézquita D, Chaudru V, Elati M, Petit-Teixeira E, Niarakis A. Inference of an Integrative, Executable Network for Rheumatoid Arthritis Combining Data-Driven Machine Learning Approaches and a State-of-the-Art Mechanistic Disease Map. J Pers Med. 2021 Aug 12;11(8):785. [doi: 10.3390/jpm11080785](https://doi.org/10.3390/jpm11080785). [PMID: 34442429](https://www.ncbi.nlm.nih.gov/pubmed/34442429).
+Pereira C, Mazein A, Farinha CM, Gray MA, Kunzelmann K, Ostaszewski M, Balaur I, Amaral MD, Falcao AO. CyFi-MAP: an interactive pathway-based resource for cystic fibrosis. Sci Rep. 2021 Nov 15;11(1):22223. [doi: 10.1038/s41598-021-01618-3](https://doi.org/10.1038/s41598-021-01618-3). [PMID: 34782688](https://www.ncbi.nlm.nih.gov/pubmed/34782688).
 
 Mazein A, Ivanova O, Balaur I, Ostaszewski M, Berzhitskaya V, Serebriyskaya T, Ligon T, Hasenauer J, De Meulder B, Overall RW, Roy L, Knowles RG, Wheelock CE, Dahlen SE, Chung KF, Adcock IM, Roberts G, Djukanovic R, Pellet J, Gawron P, Balling R, Maitland-van der Zee AH, Schneider R, Sterk PJ, Auffray C; U-BIOPRED Study Group and the eTRIKS Consortium. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [doi: 10.1016/j.jaci.2020.11.032](https://doi.org/10.1016/j.jaci.2020.11.032). Epub ahead of print. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
 
@@ -61,6 +61,8 @@ Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Per
 Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. [doi:10.1093/database/bay036](https://doi.org/10.1093/database/bay036). [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
 
 ### Applications of disease maps
+
+Miagoux Q, Singh V, de Mézquita D, Chaudru V, Elati M, Petit-Teixeira E, Niarakis A. Inference of an Integrative, Executable Network for Rheumatoid Arthritis Combining Data-Driven Machine Learning Approaches and a State-of-the-Art Mechanistic Disease Map. J Pers Med. 2021 Aug 12;11(8):785. [doi: 10.3390/jpm11080785](https://doi.org/10.3390/jpm11080785). [PMID: 34442429](https://www.ncbi.nlm.nih.gov/pubmed/34442429).
 
 Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2019 Mar 25;20(2):701-716. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
 
