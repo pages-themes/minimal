@@ -4,17 +4,21 @@ layout: default
 permalink: /architecture
 ---
 
-# Map architecture
+# Designing map architecture
 
 Text
 
 ![](../images/guidelines/design1.png)
 
-Text
+**Figure 1.** Text
+
+/br
 
 ![](../images/guidelines/design2.png)
-Text
+**Figure 2.** Text
+
+/br
 
 ![](../images/guidelines/design3.png)
 
-Text
+**Figure 3.** Text
