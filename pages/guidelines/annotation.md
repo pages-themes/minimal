@@ -16,7 +16,7 @@ Text
 
 Text
 
-**Table 1.** Text
+**Table 1.** Text  
 
 | Biochemical entity | Naming | Identifier |
 |--------------------|--------|------------|
