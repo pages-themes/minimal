@@ -17,7 +17,6 @@ Text
 ![](../images/guidelines/design2.png)
 **Figure 2.** Text
 
-\
 
 ![](../images/guidelines/design3.png)
 
