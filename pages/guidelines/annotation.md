@@ -8,12 +8,12 @@ permalink: /annotation
 
 Text
 
-## Map information
+### Map information
 
 Text
 
-## Entities
+### Entities
 
 Text
 
-## Interactions
+### Interactions
