@@ -21,7 +21,6 @@ Text
 ![](../images/guidelines/design3.png)
 **Figure 3.** Text
 <br/>
-<br/>
 
 ![](../images/guidelines/designexamples.png)
 **Figure 4.** Text
