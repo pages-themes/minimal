@@ -42,9 +42,11 @@ APPLYING
 We aim at making maps available in various formats including [SBGN](http://sbgn.org) (Systems Biology Graphical Notation), [SBML](http://sbml.org) (Systems Biology Markup Language) and  [BioPAX](http://www.biopax.org) (Biological Pathway Exchange), and also in the original format of the tool in which the map was developed, for example, the default CellDesigner’s XML format or the yEd Graph Editor's GraphML format.  
 
 
-### Useful publications
+### Recommnded publications
 
-1. Thiele I, Palsson BØ. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010 Jan;5(1):93-121. doi: 10.1038/nprot.2009.203. Epub 2010 Jan 7. PubMed PMID: 20057383.  
+Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018:bay036. doi: 10.1093/database/bay036. [PMID: 29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/).
+
+Thiele I, Palsson BØ. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010 Jan;5(1):93-121. doi: 10.1038/nprot.2009.203. Epub 2010 Jan 7. [PMID: 20057383](https://pubmed.ncbi.nlm.nih.gov/20057383/).  
 
 
 
