@@ -9,15 +9,12 @@ permalink: /architecture
 Text
 
 ![](../images/guidelines/design1.png)
-
 **Figure 1.** Text
-
-<br/>
 
 ![](../images/guidelines/design2.png)
 **Figure 2.** Text
 
+<br/>
 
 ![](../images/guidelines/design3.png)
-
 **Figure 3.** Text
