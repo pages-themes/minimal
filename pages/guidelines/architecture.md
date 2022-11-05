@@ -22,6 +22,6 @@ Text
 **Figure 3.** Text
 <br/>
 
-![](../images/guidelines/designexamples.png)
+![](../images/guidelines/7maps.png)
 **Figure 4.** Text
 
