@@ -27,7 +27,7 @@ CURATION
 5. Developing an overview map and start determining the content in close communication with the domain experts. An overview map outlines the main modules that are to be included and essentially reviews the future content of the detailed representation of disease mechanisms.  
 6. Developing the first version of the map reusing information from other disease maps and pathway databases as much as possible to speed up the process of map construction.  
 
-PUBLISHING ONLIE
+PUBLISHING ONLINE
 
 7. Making the map accessible via publishing it in one of the online map navigation platforms.  
 8. Collecting feedback and regularly updating the map.
