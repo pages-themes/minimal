@@ -18,7 +18,7 @@ Text
 
 **Table 1.** Text  
 
-| Biochemical entity | Naming | Identifier |
+| Biochemical entity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Naming &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Identifier &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------|------------|
 | Protein | HGNC official symbol | UniProt / HGNC |
 | RNA | HGNC official symbol | HGNC |
