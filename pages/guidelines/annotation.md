@@ -17,6 +17,7 @@ Text
 Text
 
 **Table 1.** Text
+
 | Biochemical entity | Naming | Identifier |
 |--------------------|--------|------------|
 | Protein | HGNC official symbol | UniProt / HGNC |
