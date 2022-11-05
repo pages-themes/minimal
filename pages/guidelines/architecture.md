@@ -12,12 +12,12 @@ Text
 
 **Figure 1.** Text
 
-\br
+<br/>
 
 ![](../images/guidelines/design2.png)
 **Figure 2.** Text
 
-\br
+\
 
 ![](../images/guidelines/design3.png)
 
