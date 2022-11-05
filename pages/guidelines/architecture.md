@@ -16,6 +16,6 @@ Text
 
 Text
 
-![](/figures/guidelines/design3.png)
+![](./figures/guidelines/design3.png)
 
 Text
