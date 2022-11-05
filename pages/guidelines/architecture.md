@@ -8,11 +8,11 @@ permalink: /architecture
 
 Text
 
-![](/figures/guidelines/design1.png)
+![](..figures/guidelines/design1.png)
 
 Text
 
-![](/figures/guidelines/design2.png)
+![](../figures/guidelines/design2.png)
 
 Text
 
