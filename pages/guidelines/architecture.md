@@ -25,5 +25,4 @@ Text
 
 ![](../images/guidelines/designexamples.png)
 **Figure 4.** Text
-<br/>
-<br/>
+
