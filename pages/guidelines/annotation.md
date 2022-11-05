@@ -16,4 +16,24 @@ Text
 
 Text
 
+| Biochemical entity | Naming | Identifier |
+|--------------------|------|-----------|
+| Test | Test | Test |
+| Entity | Naming | Identifier |
+
+Text
+
+| Biochemical entity | Naming | Identifier |
+|--------------------|:------:|-----------:|
+| Biochemical entity | Naming | Identifier |
+| Biochemical entity | Naming | Identifier |
+
+Text
+
+| Biochemical entity | Naming | Identifier |
+|:--------------------:|:------:|:-----------:|
+| Biochemical entity | Naming | Identifier |
+| Biochemical entity | Naming | Identifier |
+
+
 ### Interactions
