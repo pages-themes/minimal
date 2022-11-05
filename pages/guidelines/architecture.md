@@ -8,7 +8,7 @@ permalink: /architecture
 
 Text
 
-![](..images/guidelines/design1.png)
+![](../images/guidelines/design1.png)
 
 Text
 
@@ -16,6 +16,6 @@ Text
 
 Text
 
-![](/images/guidelines/design3.png)
+![](../images/guidelines/design3.png)
 
 Text
