@@ -4,7 +4,7 @@ layout: default
 permalink: /architecture
 ---
 
-# Architecture
+# Map architecture
 
 Text
 
@@ -13,7 +13,6 @@ Text
 Text
 
 ![](../images/guidelines/design2.png)
-
 Text
 
 ![](../images/guidelines/design3.png)
