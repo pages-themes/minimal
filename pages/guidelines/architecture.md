@@ -28,7 +28,7 @@ More than one approach is possible. Depending on a project it is recommended to 
 <br/>
 
 ![](../images/guidelines/design3.png)
-**Figure 4.** A variation with the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available. Estimated resources required for builind versions A and B: one curator for 6-12 months with the support of domain experts.
+**Figure 4.** A variation with the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available. Estimated resources required for building up to version C: one curator for 6-12 months with the support of domain experts.
 <br/>
 
 ![](../images/guidelines/top.png)
