@@ -10,7 +10,7 @@ We propose to design a map starting with a single diagram in SBGN Process Descri
 
 ### Recommended design options
 
-More than one approch is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resourses it might be more efficient to start from an AF diagram and a top-level view.
+More than one approch is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resourses it might be more efficient to start from an AF diagram and a top-level view. The option to choose depends on the research topic, linked projects, resources dedicated, availability of similar disease maps and their structure, availability of needed information in pathway databases and in the literature. 
 
 ![](../images/guidelines/design1.png)
 **Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice with adequate resources available: depending on a project - one experienced curator for two years with the support of domain experts.
