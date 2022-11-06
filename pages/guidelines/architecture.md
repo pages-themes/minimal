@@ -17,7 +17,7 @@ More than one approch is possible. Depending on a project it is recommended to s
 <br/>
 <br/> 
 
-![](../images/guidelines/design1.png)
+![](../images/guidelines/afpd.png)
 **Figure 2.** A variation with the focus on maintaining PD and AF layers first.
 <br/>
 <br/>
