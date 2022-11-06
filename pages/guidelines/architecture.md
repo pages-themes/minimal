@@ -34,6 +34,8 @@ More than one approch is possible. Depending on a project it is recommended to s
 ![](../images/guidelines/top.png)
 **Figure 5.** A variation that starts with building a top-level view first.
 <br/>
+<br/>
+<br/>
 
 ### Examples
 
