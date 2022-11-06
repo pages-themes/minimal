@@ -6,14 +6,14 @@ permalink: /architecture
 
 # Designing map architecture
 
-We propose to design a map starting with a single diagram in SBGN Process Description (PD) or SBGN Activity Flow (AF) and gradually creating a more advanced architecture. This way each version of the map is a fully functional resource ready exploration and applications. The multi-layered structure with multiple maps in PD and AF layers aims to solve the complexity management problem when the network becomes increasingly more extensive and hard to manage.
+We propose to design a map starting with a single diagram in SBGN Process Description (PD) or SBGN Activity Flow (AF) and gradually creating a more advanced architecture. This way each version of the map is a fully functional resource ready for exploration and applications. The multi-layered structure with multiple maps in PD and AF layers aims to solve the complexity management problem when the network becomes increasingly more extensive and hard to manage.
 
 ### Recommended design options
 
 More than one approach is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resources it might be more efficient to start from an AF diagram and a top-level view. The option to choose depends on the research topic, linked projects  or the umbrella project, resources dedicated, availability of similar disease maps and their structure, availability of needed information in pathway databases and in the literature. 
 
 ![](../images/guidelines/design1.png)
-**Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice with adequate resources available: depending on a project - one experienced curator for two years with the support of domain experts.
+**Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice. Adequate resources: depending on the topic - one experienced curator for two years with the support of domain experts.
 <br/>
 <br/> 
 
