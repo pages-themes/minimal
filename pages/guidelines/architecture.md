@@ -31,10 +31,14 @@ More than one approch is possible. Depending on a project it is recommended to s
 **Figure 4.** A variation with on the focus on the AF layer with multiple diagrams.
 <br/>
 
+![](../images/guidelines/top.png)
+**Figure 5.** A variation that starts with building a top-level view first.
+<br/>
+
 ### Examples
 
-Here we present design structures of the published disease maps. 
+Architecture of the published disease maps varies from a signle map in PD or AF to multi-layered hierarchically-organisded structures with maltiple separate diagrams in a layer. 
 
 ![](../images/guidelines/7maps.png)
-**Figure 5.** Examples of map architecture of the published resources.
+**Figure 6.** Examples of map architecture of the published resources.
 
