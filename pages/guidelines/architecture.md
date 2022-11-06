@@ -15,7 +15,9 @@ We propose to design a map starting with a single diagram in SBGN Process Descri
 <br/>
 <br/> 
 
-<font size="-1">This is smaller text.</font>
+<font size="-1"><b>This text is bold</b> This is smaller text.</font>
+
+<font size="-2"><b>This text is bold</b> This is smaller text.</font>
 
 ![](../images/guidelines/design1.png)
 **Figure 2.** A variation with the focus on maintaining PD and AF layers first.
