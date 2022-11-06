@@ -35,7 +35,7 @@ More than one approach is possible. Depending on a project it is recommended to 
 **Figure 5.** A variation that starts with building a top-level view first. This option looks intuitive for planning the content first and then adding more details but it is more demanding in terms of experience in building disease maps.
 <br/>
 <br/>
-<br/>
+
 
 ### Examples
 
