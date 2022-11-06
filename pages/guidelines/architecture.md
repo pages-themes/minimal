@@ -10,7 +10,7 @@ We propose to design a map starting with a single diagram in SBGN Process Descri
 
 ### Recommended design options
 
-More than one approch is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resourses it might be more efficient to start from an AF diagram and a top-level view. The option to choose depends on the research topic, linked projects, resources dedicated, availability of similar disease maps and their structure, availability of needed information in pathway databases and in the literature. 
+More than one approach is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resources it might be more efficient to start from an AF diagram and a top-level view. The option to choose depends on the research topic, linked projects  or the umbrella project, resources dedicated, availability of similar disease maps and their structure, availability of needed information in pathway databases and in the literature. 
 
 ![](../images/guidelines/design1.png)
 **Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice with adequate resources available: depending on a project - one experienced curator for two years with the support of domain experts.
@@ -28,7 +28,7 @@ More than one approch is possible. Depending on a project it is recommended to s
 <br/>
 
 ![](../images/guidelines/design3.png)
-**Figure 4.** A variation with on the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available.
+**Figure 4.** A variation with the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available.
 <br/>
 
 ![](../images/guidelines/top.png)
@@ -39,8 +39,8 @@ More than one approch is possible. Depending on a project it is recommended to s
 
 ### Examples
 
-The architecture of the published disease maps varies from a signle map in PD or AF to multi-layered hierarchically-organisded structures with multiple separate diagrams in a layer. 
+The architecture of the published disease maps varies from a single map in PD or AF to multi-layered hierarchically-organised structures with multiple separate diagrams in a layer. 
 
 ![](../images/guidelines/7maps.png)
 **Figure 6.** Examples of map architecture of the published resources. **A.** A single PD diagram. **B.** One PD diagram with a matching AF represetation. **C.** One PD diagram with a top-level view. **D.** An extensive PD network with parts designed and maintained as separate diagrams, with a top-level view. 
-**E.** PD, AF and top-level view leyers, with AF as split diagrams that are partly covered in the corresponding PD diagrams. The top-level view works as a "unifying" diagram to create a single virtual network. **F.** Split PD diagrams with a top-level view to unify them into a single virtual network. **G.**  A single AF diagram. 
+**E.** PD, AF and top-level view layers, with AF as split diagrams that are partly covered in the corresponding PD diagrams. The top-level view works as a "unifying" diagram to create a single virtual network. **F.** Split PD diagrams with a top-level view to unify them into a single virtual network. **G.**  A single AF diagram. 
