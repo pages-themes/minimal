@@ -42,5 +42,5 @@ More than one approch is possible. Depending on a project it is recommended to s
 The architecture of the published disease maps varies from a signle map in PD or AF to multi-layered hierarchically-organisded structures with multiple separate diagrams in a layer. 
 
 ![](../images/guidelines/7maps.png)
-**Figure 6.** Examples of map architecture of the published resources.
-
+**Figure 6.** Examples of map architecture of the published resources. **A.** A single PD diagram. **B.** One PD diagram with a matching AF represetation. **C.** One PD diagram with a top-level view. **D.** An extensive PD network with parts designed and maintained as separate diagrams, with a top-level view. 
+**E.** PD, AF and top-level view leyers, with AF as split diagrams that are partly covered in the corresponding PD diagrams. The top-level view works as a "unifying" diagram to create a single virtual network. **F.** Split PD diagrams with a top-level view to unify them into a single virtual network. **G.**  A single AF diagram. 
