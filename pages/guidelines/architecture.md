@@ -13,7 +13,7 @@ We propose to design a map starting with a single diagram in SBGN Process Descri
 More than one approach is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resources it might be more efficient to start from an AF diagram and a top-level view. The option to choose depends on the research topic, linked projects  or the umbrella project, resources dedicated, availability of similar disease maps and their structure, availability of needed information in pathway databases and in the literature. 
 
 ![](../images/guidelines/design1.png)
-**Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice. Adequate resources: depending on the topic - one experienced curator for two years with the support of domain experts.
+**Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice. Estimated resources required: depending on the topic - one experienced curator for two years with the support of domain experts.
 <br/>
 <br/> 
 
@@ -28,7 +28,7 @@ More than one approach is possible. Depending on a project it is recommended to 
 <br/>
 
 ![](../images/guidelines/design3.png)
-**Figure 4.** A variation with the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available.
+**Figure 4.** A variation with the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available. Estimated resources required for builind versions A and B: one curator for 6-12 months with the support of domain experts.
 <br/>
 
 ![](../images/guidelines/top.png)
