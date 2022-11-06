@@ -39,7 +39,7 @@ More than one approch is possible. Depending on a project it is recommended to s
 
 ### Examples
 
-Architecture of the published disease maps varies from a signle map in PD or AF to multi-layered hierarchically-organisded structures with maltiple separate diagrams in a layer. 
+The architecture of the published disease maps varies from a signle map in PD or AF to multi-layered hierarchically-organisded structures with maltiple separate diagrams in a layer. 
 
 ![](../images/guidelines/7maps.png)
 **Figure 6.** Examples of map architecture of the published resources.
