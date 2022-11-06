@@ -13,7 +13,7 @@ We propose to design a map starting with a single diagram in SBGN Process Descri
 More than one approch is possible. Depending on a project it is recommended to start from a single PD diagram and step by step build a multi-layered structure. In case of extensive coverage of biological functions or limited resourses it might be more efficient to start from an AF diagram and a top-level view.
 
 ![](../images/guidelines/design1.png)
-**Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view.
+**Figure 1.** A recommended way of gradually developing a multi-layered structure starting from one PD diagram and a top-level view. This option is suggested as the first choice with adequate resources available.
 <br/>
 <br/> 
 
@@ -28,7 +28,7 @@ More than one approch is possible. Depending on a project it is recommended to s
 <br/>
 
 ![](../images/guidelines/design3.png)
-**Figure 4.** A variation with on the focus on the AF layer with multiple diagrams.
+**Figure 4.** A variation with on the focus on the AF layer with multiple diagrams. This option is advised in case of extensive coverage of biological functions or limited time/resources available.
 <br/>
 
 ![](../images/guidelines/top.png)
