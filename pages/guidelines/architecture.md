@@ -32,7 +32,7 @@ More than one approach is possible. Depending on a project it is recommended to 
 <br/>
 
 ![](../images/guidelines/top.png)
-**Figure 5.** A variation that starts with building a top-level view first. This option looks intuitive for planning the content first and then adding more details but it is more demanding in terms of experience in building disease maps. Otherwise it is safer to start from drawing priority pathways as an AF or PD diagram.
+**Figure 5.** A variation that starts with building a top-level view first. This option looks intuitive for planning the content first and then adding more details but it is more demanding in terms of experience in building disease maps.
 <br/>
 <br/>
 <br/>
