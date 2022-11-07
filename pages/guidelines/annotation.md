@@ -10,13 +10,33 @@ Text
 
 ### Map information
 
-Text
+Map information annotation for disease maps has been considered optional but with the demand for consistent identifiers and description for pathway maps and models [REFs] and practices used by Reactome and other databases, we propose annotating the fields listed in Table 1.
+
+**Table 1.** Proposed fields for map information, required and optional.
+
+| Map annotation field | Comment |
+|----------------------|---------|
+| Map ID* | A short string of letters and numbers. It will be part of the map URL as well |
+| Map name* | The title of the map. For example: Altzheimer’s Disease Map |
+| Authors* | Authors’ names with affiliations and ORCIDs |
+| Taxonomy (Organism)* | For human diseases: NCBI:txid9606 |
+| Disease name* | For example: Alzheimer’s disease |
+| Disease ID* | Example IDs: MESH:D000544 with possible links to other databases and ontologies DOID:10652,  EFO:0000249, ICD10CM:G30, ICD9CM:331.0, KEGG:05010, MESH:D000544, NCI:C2866, UMLS_CUI:C0002395 |
+| Licence* | Recommended licence for disease maps: ... |
+| Version | Optional field. Recommended default value: Not specified |
+| Version history (Derived from) | Optional field. Recommended default value: Not specified. Important for referring to the previous version or to the source of information the map is derived from. For example: AlzPathway 2.0 |
+| Description | Optional description of the map: purpose, linked projects, objectives, etc. |
+| DOI | If available. Stable address for online browsing and exploration |
+| Project homepage | If available. Map project homepage URL |
+| References | PMIDs |
+
+
 
 ### Entities
 
 Text
 
-**Table 1.** Text  
+**Table 2.** Text  
 
 | Biochemical entity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Naming &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Identifier &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------|------------|
