@@ -14,7 +14,7 @@ Map information annotation for disease maps has been considered optional but wit
 
 **Table 1.** Proposed fields for map information, required and optional.
 
-| Map annotation field | Comment |
+| Map annotation field &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |----------------------|---------|
 | Map ID* | A short string of letters and numbers. It will be part of the map URL as well |
 | Map name* | The title of the map. For example: Altzheimer’s Disease Map |
