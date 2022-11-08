@@ -6,7 +6,7 @@ permalink: /annotation
 
 # Annotation
 
-Text
+Annotation includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map such as proteins, RNA, genes, metabolites, and 3) providing evidence for the interactions between map entities.
 
 ### Map information
 
