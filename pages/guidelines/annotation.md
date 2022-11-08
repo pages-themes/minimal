@@ -10,9 +10,9 @@ Text
 
 ### Map information
 
-Map information annotation for disease maps has been considered optional but with the demand for consistent identifiers and description for pathway maps and models [REFs] and practices used by Reactome and other databases, we propose annotating the fields listed in Table 1.
+Suggested fileds for map annotation are listed in table below. 
 
-**Table 1.** Proposed fields for map information, required and optional.
+**Table 1.** Suggested fields for map information, required* and optional.
 
 | Map annotation field | Comment |
 |----------------------|---------|
