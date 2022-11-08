@@ -23,9 +23,9 @@ Suggested fileds for map annotation are listed in table below.
 | Disease name* | For example: Alzheimer’s disease |
 | Disease ID* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Example IDs: [MESH:D000544](https://www.ncbi.nlm.nih.gov/mesh/D000544) with possible links to other databases and ontologies [DOID:10652](http://www.informatics.jax.org/disease/DOID:10652),  [EFO:0000249](https://www.ebi.ac.uk/ols/ontologies/efo/terms?short_form=EFO_0000249), ICD10CM:G30, ICD9CM:331.0, [KEGG:05010](https://www.genome.jp/dbget-bin/www_bget?map05010), [NCI:C2866](https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=C2866), UMLS_CUI:C0002395 |
 | Licence* | Recommended licence for disease maps is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Version | Optional field. Recommended default value: Not specified |
-| Version history (Derived from) | Optional field. Recommended default value: Not specified. Important for referring to the previous version or to the source of information the map is derived from |
-| Description | Optional description of the map: purpose, linked projects, objectives, etc. |
+| Version | Specifies map version |
+| Version history (Derived from) | For referring to the previous version or to the source the map is derived from |
+| Description | Map description: purpose, linked projects, objectives, content etc. |
 | DOI | If available. Stable address for online browsing and exploration |
 | Project homepage | If available. Map project homepage URL |
 | References | PMIDs |
