@@ -22,7 +22,7 @@ Suggested fileds for map annotation are listed in table below.
 | Taxonomy (Organism)* | For human diseases: NCBI:txid9606 |
 | Disease name* | For example: Alzheimer’s disease |
 | Disease ID* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Example IDs: MESH:D000544 with possible links to other databases and ontologies DOID:10652,  EFO:0000249, ICD10CM:G30, ICD9CM:331.0, KEGG:05010, MESH:D000544, NCI:C2866, UMLS_CUI:C0002395 |
-| Licence* | Recommended licence for disease maps: ... |
+| Licence* | Recommended licence for disease maps is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Version | Optional field. Recommended default value: Not specified |
 | Version history (Derived from) | Optional field. Recommended default value: Not specified. Important for referring to the previous version or to the source of information the map is derived from. For example: AlzPathway 2.0 |
 | Description | Optional description of the map: purpose, linked projects, objectives, etc. |
