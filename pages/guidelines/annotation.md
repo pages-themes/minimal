@@ -21,7 +21,7 @@ Map information annotation for disease maps has been considered optional but wit
 | Authors* | Authors’ names with affiliations and ORCIDs |
 | Taxonomy (Organism)* | For human diseases: NCBI:txid9606 |
 | Disease name* | For example: Alzheimer’s disease |
-| Disease ID* | Example IDs: MESH:D000544 with possible links to other databases and ontologies DOID:10652,  EFO:0000249, ICD10CM:G30, ICD9CM:331.0, KEGG:05010, MESH:D000544, NCI:C2866, UMLS_CUI:C0002395 |
+| Disease ID* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Example IDs: MESH:D000544 with possible links to other databases and ontologies DOID:10652,  EFO:0000249, ICD10CM:G30, ICD9CM:331.0, KEGG:05010, MESH:D000544, NCI:C2866, UMLS_CUI:C0002395 |
 | Licence* | Recommended licence for disease maps: ... |
 | Version | Optional field. Recommended default value: Not specified |
 | Version history (Derived from) | Optional field. Recommended default value: Not specified. Important for referring to the previous version or to the source of information the map is derived from. For example: AlzPathway 2.0 |
