@@ -14,7 +14,7 @@ Map information annotation for disease maps has been considered optional but wit
 
 **Table 1.** Proposed fields for map information, required and optional.
 
-| Map annotation field &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comment |
+| Map annotation field | Comment |
 |----------------------|---------|
 | Map ID* | A short string of letters and numbers. It will be part of the map URL as well |
 | Map name* | The title of the map. For example: Altzheimer’s Disease Map |
@@ -29,6 +29,7 @@ Map information annotation for disease maps has been considered optional but wit
 | DOI | If available. Stable address for online browsing and exploration |
 | Project homepage | If available. Map project homepage URL |
 | References | PMIDs |
+
 <br/>
 
 
@@ -49,6 +50,7 @@ Text
 | Compartment | Appropriate term from Cell Ontology, BRENDA, Cellosaurus, or a specific name from literature | Cell Ontology / BRENDA / Cellosaurus |
 | Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
+
 <br/>
 
 Text
