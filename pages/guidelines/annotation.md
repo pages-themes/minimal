@@ -32,7 +32,6 @@ Suggested fileds for map annotation are listed in table below.
 
 <br/>
 
-
 ### Entities
 
 Text
@@ -50,8 +49,6 @@ Text
 | Compartment | Appropriate term from Cell Ontology, BRENDA, Cellosaurus, or a specific name from literature | Cell Ontology / BRENDA / Cellosaurus |
 | Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
-
-<br/>
 
 Text
 <br/>
