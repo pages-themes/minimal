@@ -25,7 +25,7 @@ Suggested fileds for map annotation are listed in table below. In CellDesigner t
 | Licence* | Recommended licence for disease maps is [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
 | Version | Specifies map version |
 | Last updated | The date of the last update of the map
-| Version history (Derived from) | If applicable - the source the map is derived from |
+| Derived from | If applicable - the source the map is derived from |
 | Description | Map description: purpose, linked projects, objectives, content etc. |
 | DOI | If available. Stable address for online browsing and exploration |
 | Project homepage | If available. Map project homepage URL |
