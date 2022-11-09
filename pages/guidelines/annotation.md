@@ -50,7 +50,7 @@ Text
 | Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
 
-In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in attempt to show all possible specific entities and the corresponding processes. 
+In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
 <br/>
 
 ### Interactions
