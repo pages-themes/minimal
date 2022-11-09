@@ -10,7 +10,7 @@ Annotation includes 1) information about the map such as the title, authorship a
 
 ### Map information
 
-Suggested fileds for map annotation are listed in table below. 
+Suggested fileds for map annotation are listed in table below. In CellDesigner this type of annotation can be added via Component > Model Information, Component > Model Description, Component > Model MIRIAM Info and Component > Model Notes.
 
 **Table 1.** Suggested fields for map information, required* and optional.
 
