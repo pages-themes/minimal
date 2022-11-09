@@ -29,7 +29,6 @@ Suggested fileds for map annotation are listed in table below. In CellDesigner t
 | Description | Map description: purpose, linked projects, objectives, content etc. |
 | DOI | If available. Stable address for online browsing and exploration |
 | Project homepage | If available. Map project homepage URL |
-| References | PMIDs |
 
 <br/>
 
