@@ -18,7 +18,7 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 |----------------------|---------|
 | Map ID* | A short string of letters and numbers. It will be part of the map URL as well |
 | Map name* | The title of the map. For example: Altzheimer’s Disease Map |
-| Authors* | Authors’ names, affiliations, ORCIDs |
+| Authors* | Authors’ names, affiliations, ORCIDs, contact email |
 | Taxonomy (Organism)* | For human diseases: [NCBI:txid9606](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=9606) |
 | Disease name* | For example: Alzheimer’s disease |
 | Disease ID* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | For example, for Alzheimer’s disease: [MESH:D000544](https://www.ncbi.nlm.nih.gov/mesh/D000544) ([DOID:10652](http://www.informatics.jax.org/disease/DOID:10652),  [EFO:0000249](https://www.ebi.ac.uk/ols/ontologies/efo/terms?short_form=EFO_0000249), [ICD10CM:G30](https://www.icd10data.com/ICD10CM/Codes/G00-G99/G30-G32/G30-/G30), [ICD9CM:331.0](http://www.icd9data.com/2015/Volume1/320-389/330-337/331/331.0.htm), [KEGG:05010](https://www.genome.jp/dbget-bin/www_bget?map05010)) |
