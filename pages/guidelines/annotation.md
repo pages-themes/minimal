@@ -10,7 +10,7 @@ Annotation of a disease map includes 1) information about the map such as the ti
 
 ### Map information
 
-Suggested fileds for map annotation are listed in table below. In CellDesigner this type of annotation can be added via Component > Model Information, Component > Model Description, Component > Model MIRIAM Info and Component > Model Notes. Some fields can be annotated on upload to MINERVA: map ID, map name, taxonomy ID, disease ID and map version.
+Suggested fileds for map annotation are listed in the table below. In CellDesigner this type of annotation can be added via Component > Model Information, Component > Model Description, Component > Model MIRIAM Info and Component > Model Notes. Some fields can be annotated on upload to MINERVA: map ID, map name, taxonomy ID, disease ID and map version.
 
 **Table 1.** Suggested fields for map information, required* and optional.
 
