@@ -6,7 +6,7 @@ permalink: /annotation
 
 # Annotation
 
-Annotation includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites), and 3) providing evidence for the interactions between map entities - references to publications.
+Annotation of a disease map includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites), and 3) providing evidence for the interactions between map entities - references to publications.
 
 ### Map information
 
