@@ -34,7 +34,7 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 
 ### 2. Entities
 
-Differnt types of entities in SBGN diagrams with the corresponding recommended annotation are shown in the table below.
+Different types of entities in SBGN diagrams with the corresponding recommended annotation are shown in the table below.
 
 **Table 2.** Recommended annotation of map entities. Resources:  [HGNC](https://www.genenames.org), [UniProt](https://www.uniprot.org), [Complex Portal](https://www.ebi.ac.uk/complexportal), [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov), [ChEMBL](https://www.ebi.ac.uk/chembl), [DrugBank](https://go.drugbank.com), [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), [BRENDA](https://www.brenda-enzymes.org), [Cellosaurus](https://www.cellosaurus.org), [Gene Ontology](http://geneontology.org) and [MeSH](https://www.ncbi.nlm.nih.gov/mesh).
 
@@ -52,17 +52,17 @@ Differnt types of entities in SBGN diagrams with the corresponding recommended a
 
 #### Protein, RNA, gene
 
-Protein ("macromolecule" glyph in SBGN PD specification, or "generic protein" in CellDesigner) should be annotated with UniProt ID and named acoording to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "UniProt Knowledgebase" in the DataType field, and then add value in the ID field, for example "P23219" for MAPK3 (ERK1).
+Protein (“macromolecule” glyph in SBGN PD specification, or “generic protein” in CellDesigner) should be annotated with UniProt ID and named according to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click “Add relation” > from the drop-down menu choose “bqmodel:isDescribedBy” in the Relation field > then from the drop-down menu choose “UniProt Knowledgebase” in the DataType field, and then add value in the ID field, for example “P23219” for MAPK3 (ERK1).
 
-With the use of the MINERVA automatic annotation functionality, mannually adding UniPort IDs can be skipped as soon HGNC offical names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
+With the use of the MINERVA automatic annotation functionality, manually adding UniPort IDs can be skipped as soon HGNC official names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
 
 In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
 
 #### Metabolite
 
-Metabolite ("simple chemial" glyph in SBGN PD specification, or "simple molecule" in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "ChEBI" in the DataType field, and then add value in the ID field, for example "CHEBI:15843" for arachidonic acid.
+Metabolite (“simple chemical” glyph in SBGN PD specification, or “simple molecule” in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click “Add relation” > from the drop-down menu choose “bqmodel:isDescribedBy” in the Relation field > then from the drop-down menu choose “ChEBI” in the DataType field, and then add value in the ID field, for example “CHEBI:15843” for arachidonic acid.
 
-In case of metabolites manual annotation is advised. Automatic annotation funcitonallity in MINERVA works for metabolites to some extend but normally there are too many synonyms, and a proper way to idenfity a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
+In the case of metabolites manual annotation is advised. Automatic annotation functionality in MINERVA works for metabolites to some extent but normally there are too many synonyms, and a proper way to identify a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
 <br/>
 
 ### 3. Interactions
