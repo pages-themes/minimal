@@ -34,7 +34,7 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 
 ### Entities
 
-Differnt types of entities in SBGN diagrams are shown in the table.
+Differnt types of entities in SBGN diagrams with the corresponding recommended annotation are shown in the table below.
 
 **Table 2.** Recommended annotation of map entities. Resources:  [HUGO Gene Nomenclature Committee (HGNC)](https://www.genenames.org), [UniProt](https://www.uniprot.org), [Complex Portal](https://www.ebi.ac.uk/complexportal), [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov), [ChEMBL](https://www.ebi.ac.uk/chembl), [DrugBank](https://go.drugbank.com), [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), [BRENDA](https://www.brenda-enzymes.org), [Cellosaurus](https://www.cellosaurus.org), [Gene Ontology (GO)](http://geneontology.org) and [MeSH](https://www.ncbi.nlm.nih.gov/mesh).
 
