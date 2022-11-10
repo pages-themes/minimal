@@ -52,7 +52,7 @@ Differnt types of entities in SBGN diagrams with the corresponding recommended a
 
 ##### Protein, RNA, gene
 
-Protein ("macromolecule" glyph in SBGN PD specification, or "Generic Protein" in CellDesigner) should be annotated with UniProt ID and named acoording to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "UniProt Knowledgebase" in the DataType field, and then add value in the ID field, for example "P23219" for MAPK3 (ERK1).
+Protein ("macromolecule" glyph in SBGN PD specification, or "generic protein" in CellDesigner) should be annotated with UniProt ID and named acoording to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "UniProt Knowledgebase" in the DataType field, and then add value in the ID field, for example "P23219" for MAPK3 (ERK1).
 
 With the use of the MINERVA automatic annotation functionality, mannually adding UniPort IDs can be skipped as soon HGNC offical names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
 
@@ -60,7 +60,7 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 
 ##### Metabolite
 
-Metabolite ("simple chemial" glyph in SBGN PD specification, or "Simple Molecule" in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "ChEBI" in the DataType field, and then add value in the ID field, for example "CHEBI:15843" for arachidonic acid.
+Metabolite ("simple chemial" glyph in SBGN PD specification, or "simple molecule" in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "ChEBI" in the DataType field, and then add value in the ID field, for example "CHEBI:15843" for arachidonic acid.
 
 In case of metabolites manual annotation is advised. Automatic annotation funcitonallity in MINERVA works for metabolites to some extend but normally there are too many synonyms, and a proper way to idenfity a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
 <br/>
