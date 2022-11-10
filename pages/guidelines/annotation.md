@@ -36,7 +36,7 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 
 Differnt types of entities in SBGN diagrams with the corresponding recommended annotation are shown in the table below.
 
-**Table 2.** Recommended annotation of map entities. Resources:  [HUGO Gene Nomenclature Committee (HGNC)](https://www.genenames.org), [UniProt](https://www.uniprot.org), [Complex Portal](https://www.ebi.ac.uk/complexportal), [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov), [ChEMBL](https://www.ebi.ac.uk/chembl), [DrugBank](https://go.drugbank.com), [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), [BRENDA](https://www.brenda-enzymes.org), [Cellosaurus](https://www.cellosaurus.org), [Gene Ontology (GO)](http://geneontology.org) and [MeSH](https://www.ncbi.nlm.nih.gov/mesh).
+**Table 2.** Recommended annotation of map entities. Resources:  [HGNC](https://www.genenames.org), [UniProt](https://www.uniprot.org), [Complex Portal](https://www.ebi.ac.uk/complexportal), [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov), [ChEMBL](https://www.ebi.ac.uk/chembl), [DrugBank](https://go.drugbank.com), [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), [BRENDA](https://www.brenda-enzymes.org), [Cellosaurus](https://www.cellosaurus.org), [Gene Ontology](http://geneontology.org) and [MeSH](https://www.ncbi.nlm.nih.gov/mesh).
 
 | Biochemical entity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Naming &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Identifier &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------|------------|
