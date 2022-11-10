@@ -61,6 +61,8 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 #### Metabolite
 
 Metabolite ("simple chemial" glyph in SBGN PD specification, or "Simple Molecule" in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "ChEBI" in the DataType field, and then add value in the ID field, for example "CHEBI:15843" for arachidonic acid.
+
+In case of metabolites manual annotation is advised. Automatic annotation funcitonallity in MINERVA works for metabolites to some extend but normally there are too many synonyms, and a proper way to idenfity a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
 <br/>
 
 ### Interactions
