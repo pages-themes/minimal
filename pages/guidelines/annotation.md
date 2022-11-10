@@ -8,7 +8,7 @@ permalink: /annotation
 
 Annotation of a disease map includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites), and 3) providing evidence for the interactions between map entities - references to publications.
 
-### Map information
+### 1. Map information
 
 Suggested fileds for map annotation are listed in the table below. In CellDesigner this type of annotation can be added via Component > Model Information, Component > Model Description, Component > Model MIRIAM Info and Component > Model Notes. Some fields can be annotated on upload to MINERVA in the [Add project](https://minerva.pages.uni.lu/doc/admin_manual/v16.0/index/#fields-of-the-add-project-window) window: map ID, map name, taxonomy ID, disease ID and map version.
 
@@ -32,7 +32,7 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 
 <br/>
 
-### Entities
+### 2. Entities
 
 Differnt types of entities in SBGN diagrams with the corresponding recommended annotation are shown in the table below.
 
@@ -65,7 +65,7 @@ Metabolite ("simple chemial" glyph in SBGN PD specification, or "simple molecule
 In case of metabolites manual annotation is advised. Automatic annotation funcitonallity in MINERVA works for metabolites to some extend but normally there are too many synonyms, and a proper way to idenfity a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
 <br/>
 
-### Interactions
+### 3. Interactions
 
 Interactions should be annotated with references in the form of PMIDs or DOIs in case PMIDs are not available. These references provide evidence that the interaction exists in the context of the diseases. Three references should be provided for each interaction (Kondratova et al, 2018 [PMID:29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/)). 
 
