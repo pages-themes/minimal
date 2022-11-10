@@ -34,9 +34,9 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 
 ### Entities
 
-Text
+Differnt types of entities in SBGN diagrams are shown in the table.
 
-**Table 2.** Text  
+**Table 2.** Recommended annotation of map entities. Resources:  [HUGO Gene Nomenclature Committee (HGNC)](https://www.genenames.org), [UniProt](https://www.uniprot.org), [Complex Portal](https://www.ebi.ac.uk/complexportal), [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov), [ChEMBL](https://www.ebi.ac.uk/chembl), [DrugBank](https://go.drugbank.com), [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), [BRENDA](https://www.brenda-enzymes.org), [Cellosaurus](https://www.cellosaurus.org), [Gene Ontology (GO)](http://geneontology.org) and [MeSH](https://www.ncbi.nlm.nih.gov/mesh).
 
 | Biochemical entity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Naming &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Identifier &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------|------------|
@@ -55,7 +55,9 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 
 ### Interactions
 
-Text
+Interactions should be annotated with references in the form of PMIDs or DOIs in case PMIDs are not available. These references provide evidence that the interaction exists in the context of the diseases. Three references should be provided for each interaction (Kondratova et al, 2018 [PMID:29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/)). 
+
+If provided evidence are built on cell or animal models, it is important to annotate the corresponding interactions and annotate them with the NCBI taxon ID for the non-human organism. For example, if the phosphorylation of STAT3 by JAK2 was determined in mice, the NCBI Taxon [NCBI:txid10090](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=10090) should be added. 
 
 ### Recommended publications
 
