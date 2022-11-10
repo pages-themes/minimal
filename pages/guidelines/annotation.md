@@ -50,7 +50,17 @@ Differnt types of entities in SBGN diagrams with the corresponding recommended a
 | Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
 
+#### Protein / gene / RNA
+
+Protein ("macromolecule" glyph in SBGN PD specification, or "Generic Protein" in CellDesigner) should be annotated with UniProt ID and named acoording to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "UniProt Knowledgebase" in the DataType field, and then add value in the ID field, for example "P23219" for MAPK3 (ERK1).
+
+With the use of the MINERVA automatic annotation functionality, mannually adding UniPort IDs can be skipped as soon HGNC offical names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
+
 In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
+
+#### Metabolite
+
+Metabolite ("simple chemial" glyph in SBGN PD specification, or "Simple Molecule" in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "ChEBI" in the DataType field, and then add value in the ID field, for example "CHEBI:15843" for arachidonic acid.
 <br/>
 
 ### Interactions
