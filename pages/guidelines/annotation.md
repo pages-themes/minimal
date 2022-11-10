@@ -16,7 +16,7 @@ Suggested fileds for map annotation are listed in the table below. In CellDesign
 
 | Map annotation field | Comment |
 |----------------------|---------|
-| Map ID* | A short string of letters and numbers. It will be part of the map URL as well |
+| Map ID* | A short string of letters and numbers. It will be part of the map URL |
 | Map name* | The title of the map. For example: Altzheimer’s Disease Map |
 | Authors* | Authors’ names, affiliations, ORCIDs, contact email |
 | Taxonomy (Organism)* | For human diseases: [NCBI:txid9606](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=9606) |
