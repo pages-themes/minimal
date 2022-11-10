@@ -50,7 +50,7 @@ Differnt types of entities in SBGN diagrams with the corresponding recommended a
 | Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
 
-**Protein, RNA, gene**
+*Protein, RNA, gene*
 
 Protein ("macromolecule" glyph in SBGN PD specification, or "generic protein" in CellDesigner) should be annotated with UniProt ID and named acoording to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click "Add relation" > from the drop-down menu choose "bqmodel:isDescribedBy" in the Relation field > then from the drop-down manu choose "UniProt Knowledgebase" in the DataType field, and then add value in the ID field, for example "P23219" for MAPK3 (ERK1).
 
