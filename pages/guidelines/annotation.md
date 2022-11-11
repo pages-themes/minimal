@@ -101,7 +101,7 @@ This section is in preparation
 
 #### Phenotype
 
-Phenotype ("phenotype" in SBGN and "phenotype" in CellDesigner) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but can be used also as a trigger or as a reference to a submap in CellDesigner - correspondingly "perturbing agent" and "submap" in SBGN PD. To annotate phenotype as a biological processes, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
+Phenotype ("phenotype" in SBGN and "phenotype" in CellDesigner) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but in CellDesigner can be used also as a trigger or as a reference to a submap (correspondingly "perturbing agent" glyph and "submap" glyph in SBGN PD). To annotate phenotype in CellDesigner as a biological processes, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
 <br/>
 
 ### Interactions
