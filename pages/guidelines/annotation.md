@@ -8,14 +8,14 @@ permalink: /annotation
 
 [Map information](#map-information)  
 [Entities](#entities)  
-&nbsp; &nbsp; &nbsp; [Protein](#protein)
-&nbsp; &nbsp; &nbsp; [RNA](#rna)
-&nbsp; &nbsp; &nbsp; [Gene](#gene)
-&nbsp; &nbsp; &nbsp; [Metabolite](#metabolite)
-&nbsp; &nbsp; &nbsp; [Drug](#drug)
-&nbsp; &nbsp; &nbsp; [Complex](#compled)
-&nbsp; &nbsp; &nbsp; [Compartment](#compartment)
-&nbsp; &nbsp; &nbsp; [Phenotype](#phenotype)
+&nbsp; &nbsp; &nbsp; [Protein](#protein)  
+&nbsp; &nbsp; &nbsp; [RNA](#rna)  
+&nbsp; &nbsp; &nbsp; [Gene](#gene)  
+&nbsp; &nbsp; &nbsp; [Metabolite](#metabolite)  
+&nbsp; &nbsp; &nbsp; [Drug](#drug)  
+&nbsp; &nbsp; &nbsp; [Complex](#compled)  
+&nbsp; &nbsp; &nbsp; [Compartment](#compartment)  
+&nbsp; &nbsp; &nbsp; [Phenotype](#phenotype)  
 [Interactions](#interactions)  
 
 
