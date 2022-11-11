@@ -6,9 +6,13 @@ permalink: /annotation
 
 # Annotation
 
-[Map information](#map-information)
-[Entities](#entities)
-[Interactions](#interactions)
+[Map information](#map-information)  
+[Entities](#entities)  
+&nbsp; &nbsp; &nbsp; [Protein](#protein)
+&nbsp; &nbsp; &nbsp; [RNA](#rna)
+&nbsp; &nbsp; &nbsp; [Gene](#gene)
+&nbsp; &nbsp; &nbsp; [Metabolite](#metabolite)
+[Interactions](#interactions)  
 
 
 Annotation of a disease map includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites), and 3) providing evidence for the interactions between map entities - references to publications.
@@ -55,13 +59,21 @@ Different types of entities in SBGN diagrams with the corresponding recommended 
 | Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
 
-#### Protein, RNA, gene
+#### Protein
 
 Protein (“macromolecule” glyph in SBGN PD specification, or “generic protein” in CellDesigner) should be annotated with UniProt ID and named according to HUGO Gene Nomenclature Committee (HGNC) names. To add a UniProt ID to a protein in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click “Add relation” > from the drop-down menu choose “bqmodel:isDescribedBy” in the Relation field > then from the drop-down menu choose “UniProt Knowledgebase” in the DataType field, and then add value in the ID field, for example “P23219” for MAPK3 (ERK1).
 
 With the use of the MINERVA automatic annotation functionality, manually adding UniPort IDs can be skipped as soon HGNC official names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
 
 In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
+
+#### RNA
+
+Text
+
+#### Gene
+
+Text
 
 #### Metabolite
 
