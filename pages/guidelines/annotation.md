@@ -12,6 +12,10 @@ permalink: /annotation
 &nbsp; &nbsp; &nbsp; [RNA](#rna)
 &nbsp; &nbsp; &nbsp; [Gene](#gene)
 &nbsp; &nbsp; &nbsp; [Metabolite](#metabolite)
+&nbsp; &nbsp; &nbsp; [Drug](#drug)
+&nbsp; &nbsp; &nbsp; [Complex](#compled)
+&nbsp; &nbsp; &nbsp; [Compartment](#compartment)
+&nbsp; &nbsp; &nbsp; [Phenotype](#phenotype)
 [Interactions](#interactions)  
 
 
@@ -52,12 +56,12 @@ Different types of entities in SBGN diagrams with the corresponding recommended 
 | Protein | HGNC official symbol | UniProt / HGNC |
 | RNA | HGNC official symbol | HGNC |
 | Gene | HGNC official symbol | HGNC |
-| Complex | Specific name from literature or listing complex components: Element A:Element B | Not required. If available: Complex Portal |
 | Metabolite | ChEBI / PubChem recommended name | ChEBI / PubChem |
 | Drug | ChEBI / PubChem recommended name | ChEBI / PubChem / ChEMBL / DrugBank |
+| Complex | Specific name from literature or listing complex components: Element A:Element B | Not required. If available: Complex Portal |
 | Compartment | Appropriate term from Cell Ontology, BRENDA, Cellosaurus, or a specific name from literature | Cell Ontology / BRENDA / Cellosaurus |
-| Phenotypes (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
-| Phenotypes (symptom, disease state) | Appropriate MeSH term if available | MeSH |
+| Phenotype (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
+| Phenotype (symptom, disease state) | Appropriate MeSH term if available | MeSH |
 
 #### Protein
 
@@ -69,17 +73,33 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 
 #### RNA
 
-Text
+Section is in preparation
 
 #### Gene
 
-Text
+Section is in preparation
 
 #### Metabolite
 
 Metabolite (“simple chemical” glyph in SBGN PD specification, or “simple molecule” in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click “Add relation” > from the drop-down menu choose “bqmodel:isDescribedBy” in the Relation field > then from the drop-down menu choose “ChEBI” in the DataType field, and then add value in the ID field, for example “CHEBI:15843” for arachidonic acid.
 
 In the case of metabolites manual annotation is advised. Automatic annotation functionality in MINERVA works for metabolites to some extent but normally there are too many synonyms, and a proper way to identify a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
+
+#### Drug
+
+Section is in preparation
+
+#### Complex
+
+Section is in preparation
+
+#### Conpartment
+
+Section is in preparation
+
+#### Phenotype
+
+Section is in preparation
 <br/>
 
 ### Interactions
