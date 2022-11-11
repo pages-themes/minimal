@@ -19,7 +19,9 @@ permalink: /annotation
 [Interactions](#interactions)  
 
 
-Annotation of a disease map includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites), and 3) providing evidence for the interactions between map entities - references to publications.
+Annotation of a disease map includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites, etc.), and 3) providing evidence for the interactions between map entities - references to publications.
+
+In practice, because most entities in signalling pathways are proteins and in metabolic pathways - metabolites, the main attention should be directed to naming proteins according to [HUGO Gene Nomenclature Committee](https://www.genenames.org/) (HGNC) names (it allows automatic annotation in MINERVA), and to manual annotation of metabolites, as well as to adding evidence for interactions.
 
 ### Map information
 
@@ -73,11 +75,11 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 
 #### RNA
 
-Section is in preparation
+This section is in preparation
 
 #### Gene
 
-Section is in preparation
+This section is in preparation
 
 #### Metabolite
 
@@ -87,19 +89,19 @@ In the case of metabolites manual annotation is advised. Automatic annotation fu
 
 #### Drug
 
-Section is in preparation
+This section is in preparation
 
 #### Complex
 
-Section is in preparation
+This section is in preparation
 
 #### Conpartment
 
-Section is in preparation
+This section is in preparation
 
 #### Phenotype
 
-Section is in preparation
+This section is in preparation
 <br/>
 
 ### Interactions
