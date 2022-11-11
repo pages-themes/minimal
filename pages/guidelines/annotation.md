@@ -65,7 +65,7 @@ Different types of entities in SBGN diagrams with the corresponding recommended 
 | Phenotype (biological processes) | Appropriate Gene Ontology (GO) Biological Process (BP) term if available | GO Biological Process |
 | Phenotype (symptom, disease state) | Appropriate MeSH term if available | MeSH |
 
-To add MIRIAM annotation to entities in CellDesigner, please use the MIRIAM tab in the bottom panel of CellDesigner. For example, as instructed in [CellDesigner Help](https://www.celldesigner.org/help/CDH_NotesMiriam_02.html), to add a UniProt ID to a protein in CellDesigner, click “Add relation” and then from the drop-down menu choose “bqbiol:isVersionOf” in the Relation field, then from the drop-down menu choose “UniProt” in the DataType field, and then add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+To add MIRIAM annotation to entities in CellDesigner, please use the MIRIAM tab in the bottom panel of CellDesigner. For example, as instructed in [CellDesigner Help](https://www.celldesigner.org/help/CDH_NotesMiriam_02.html), to add a UniProt ID to a protein in CellDesigner, click “Add relation” and then in the Relation field from the drop-down menu choose “bqbiol:isVersionOf”, then in the DataType field from the drop-down menu choose “UniProt”, and finally in the ID field add value, for example “P23219” for MAPK3 (ERK1).
 
 #### Protein
 
