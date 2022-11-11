@@ -21,7 +21,7 @@ permalink: /annotation
 
 Annotation of a disease map includes 1) information about the map such as the title, authorship and licence, 2) identification of entities on the map (proteins, RNAs, genes, metabolites, etc.), and 3) providing evidence for the interactions between map entities - references to publications.
 
-In practice, because most entities in signalling pathways are proteins and in metabolic pathways - metabolites, the main attention should be directed to naming proteins according to [HUGO Gene Nomenclature Committee](https://www.genenames.org/) (HGNC) names (it allows automatic annotation in MINERVA), and to manual annotation of metabolites, as well as to adding evidence for interactions.
+In practice, because most entities in signalling pathways are proteins and in metabolic pathways &ndash; metabolites, the main attention should be directed to naming proteins according to [HUGO Gene Nomenclature Committee](https://www.genenames.org/) (HGNC) names (it allows automatic annotation in MINERVA), and to manual annotation of metabolites, as well as to adding evidence for interactions.
 
 ### Map information
 
