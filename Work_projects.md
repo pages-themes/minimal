@@ -4,6 +4,12 @@ layout: default
 
 # My professional Work
 
+
+### [Pen Test Partners](https://www.pentestpartners.com/) - Current
+- Hardware Security Consoltant & Security Researcher.
+
+
+
 ### [Mbition](https://group.mercedes-benz.com/karriere/ueber-uns/standorte/standort-detailseite-240192.html) - August 2021 - October 2022
 -Security Engineer.
 #### Security related related topics for the Gen20x [MB.OS](https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system/)
