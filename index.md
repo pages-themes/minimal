@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-I am open for work.
 
-I was worrking for Mercades Benz on the Gen20X operating system implemeting security solutuions and partaking in offensive secueity research.
- 
+I am a security consultant focusing on hardware and firmware related security, I have worked in automotive and research for RHUL's S3 lab. My interests are mainly focused on practical aspects on security mainly on cryptographic protocols and uses and application security. 
+
+
  
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
