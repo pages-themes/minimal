@@ -77,11 +77,11 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 
 #### RNA
 
-RNA ("nucleic acid feature" in SBGN PD specification with unit of information "RNA", or "RNA" in CellDesigner) should be annotated with HGNC ID. To skip manual annotation, please name RNAs using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
+RNA ("nucleic acid feature" in SBGN PD specification with unit of information "ct:RNA", or "RNA" in CellDesigner) should be annotated with HGNC ID. To skip manual annotation, please name RNAs using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
 
 #### Gene
 
-Gene ("nucleic acid feature" in SBGN PD specification with unit of information "gene", or "gene" in CellDesigner) should be annotated with HGNC ID. To skip manual annotation, please name genes using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
+Gene ("nucleic acid feature" in SBGN PD specification with unit of information "ct:gene", or "gene" in CellDesigner) should be annotated with HGNC ID. To skip manual annotation, please name genes using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
 
 #### Metabolite
 
