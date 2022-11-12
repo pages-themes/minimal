@@ -13,7 +13,7 @@ permalink: /annotation
 &nbsp; &nbsp; &nbsp; [Gene](#gene)  
 &nbsp; &nbsp; &nbsp; [Metabolite](#metabolite)  
 &nbsp; &nbsp; &nbsp; [Drug](#drug)  
-&nbsp; &nbsp; &nbsp; [Complex](#compled)  
+&nbsp; &nbsp; &nbsp; [Complex](#complex)  
 &nbsp; &nbsp; &nbsp; [Compartment](#compartment)  
 &nbsp; &nbsp; &nbsp; [Phenotype](#phenotype)  
 [Interactions](#interactions)  
