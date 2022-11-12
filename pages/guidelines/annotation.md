@@ -95,11 +95,11 @@ Drug (dedicated "drug" element or "generic protein", "simple molecule" or "unkon
 
 #### Complex
 
-This section is in preparation
+Complex ("complex" in CellDesigner; "complex" in SBGN PD specification) should be named according to its content, for example “FCER1A:FCER1G:MS4A2”, unless there is a special name for a particular complex, for example “FcεR1”. Additional annnotation is optional and for that GO Cellular Component (CC) term or [Complex Portal](https://www.ebi.ac.uk/complexportal/home) identifier can be used.
 
 #### Compartment
 
-This section is in preparation
+Compartment ("compartment" in CellDesigner; "compartment" in SBGN PD specification) refers to a subcellular location or cell type and should be annotated with [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), for example, Cell Ontology GO:0005737 for "cytoplasm".
 
 #### Phenotype
 
