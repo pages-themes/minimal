@@ -25,7 +25,7 @@ In practice, because most entities in signalling pathways are proteins and in me
 
 ### Map information
 
-Suggested fileds for map annotation are listed in the table below. In CellDesigner this type of annotation can be added via Component > Model Information, Component > Model Description, Component > Model MIRIAM Info and Component > Model Notes. Some fields can be annotated on upload to MINERVA in the [Add project](https://minerva.pages.uni.lu/doc/admin_manual/v16.0/index/#fields-of-the-add-project-window) window: map ID, map name, taxonomy ID, disease ID and map version.
+Suggested fields for map annotation are listed in the table below. In CellDesigner this type of annotation can be added via Component > Model Information, Component > Model Description, Component > Model MIRIAM Info and Component > Model Notes. Some fields can be annotated on upload to MINERVA in the [Add project](https://minerva.pages.uni.lu/doc/admin_manual/v16.0/index/#fields-of-the-add-project-window) window: map ID, map name, taxonomy ID, disease ID and map version.
 
 **Table 1.** Suggested fields for map information, required* and optional.
 
@@ -71,7 +71,7 @@ To add MIRIAM annotation to entities in CellDesigner, please use the MIRIAM tab 
 
 Protein (“generic protein” in CellDesigner; “macromolecule” glyph in SBGN PD specification) should be annotated with UniProt ID and named according to HUGO Gene Nomenclature Committee (HGNC) names.
 
-With the use of the MINERVA automatic annotation functionality, manually adding UniPort IDs in CellDesiger can be skipped as soon HGNC official names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
+With the use of the MINERVA automatic annotation functionality, manually adding UniPort IDs in CellDesigner can be skipped as soon HGNC official names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
 
 In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
 
@@ -91,11 +91,11 @@ In the case of metabolites manual annotation is advised. Automatic annotation fu
 
 #### Drug
 
-Drug (dedicated "drug" element or "generic protein", "simple molecule" or "unkonwn" in CellDesigner; "macromolecule", "simple chemical" or "unspecified entity" glyphs in SBGN PD specification) should be annotated with an ID from a drug databases such as [DrugBank](https://go.drugbank.com), or metabolic databases such as [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov) or [ChEMBL](https://www.ebi.ac.uk/chembl). 
+Drug (dedicated "drug" element or "generic protein", "simple molecule" or "unknown" in CellDesigner; "macromolecule", "simple chemical" or "unspecified entity" glyphs in SBGN PD specification) should be annotated with an ID from a drug databases such as [DrugBank](https://go.drugbank.com), or metabolic databases such as [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov) or [ChEMBL](https://www.ebi.ac.uk/chembl). 
 
 #### Complex
 
-Complex ("complex" in CellDesigner; "complex" in SBGN PD specification) should be named according to its content, for example “FCER1A:FCER1G:MS4A2”, unless there is a special name for a particular complex, for example “FcεR1”. Additional annnotation is optional and for that GO Cellular Component (CC) term or [Complex Portal](https://www.ebi.ac.uk/complexportal/home) identifier can be used.
+Complex ("complex" in CellDesigner; "complex" in SBGN PD specification) should be named according to its content, for example “FCER1A:FCER1G:MS4A2”, unless there is a special name for a particular complex, for example “FcεR1”. Additional annotation is optional and for that GO Cellular Component (CC) term or [Complex Portal](https://www.ebi.ac.uk/complexportal/home) identifier can be used.
 
 #### Compartment
 
@@ -103,7 +103,7 @@ Compartment ("compartment" in CellDesigner; "compartment" in SBGN PD specificati
 
 #### Phenotype
 
-Phenotype ("phenotype" in CellDesigner; "phenotype" in SBGN PD specification) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but in CellDesigner can be used also as a trigger or as a reference to a submap (correspondingly "perturbing agent" glyph and "submap" glyph in SBGN PD). To annotate phenotype in CellDesigner as a biological processes, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
+Phenotype ("phenotype" in CellDesigner; "phenotype" in SBGN PD specification) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but in CellDesigner can be used also as a trigger or as a reference to a submap (correspondingly "perturbing agent" glyph and "submap" glyph in SBGN PD). To annotate phenotype in CellDesigner as a biological process, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
 <br/>
 
 ### Interactions
