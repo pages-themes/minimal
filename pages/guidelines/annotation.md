@@ -69,7 +69,7 @@ To add MIRIAM annotation to entities in CellDesigner, please use the MIRIAM tab 
 
 #### Protein
 
-Protein (“macromolecule” glyph in SBGN PD specification, or “generic protein” in CellDesigner) should be annotated with UniProt ID and named according to HUGO Gene Nomenclature Committee (HGNC) names.
+Protein (“generic protein” in CellDesigner; “macromolecule” glyph in SBGN PD specification) should be annotated with UniProt ID and named according to HUGO Gene Nomenclature Committee (HGNC) names.
 
 With the use of the MINERVA automatic annotation functionality, manually adding UniPort IDs in CellDesiger can be skipped as soon HGNC official names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
 
@@ -77,11 +77,11 @@ In some cases it is not possible or not convenient to provide entity ID. One cas
 
 #### RNA
 
-RNA ("nucleic acid feature" in SBGN PD specification with unit of information "ct:RNA", or "RNA" in CellDesigner) should be annotated with HGNC ID. To skip manual annotation, please name RNAs using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
+RNA ("RNA" in CellDesigner; "nucleic acid feature" in SBGN PD specification with unit of information "ct:RNA") should be annotated with HGNC ID. To skip manual annotation, please name RNAs using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
 
 #### Gene
 
-Gene ("nucleic acid feature" in SBGN PD specification with unit of information "ct:gene", or "gene" in CellDesigner) should be annotated with HGNC ID. To skip manual annotation, please name genes using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
+Gene ("gene" in CellDesigner; "nucleic acid feature" in SBGN PD specification with unit of information "ct:gene") should be annotated with HGNC ID. To skip manual annotation, please name genes using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
 
 #### Metabolite
 
@@ -91,7 +91,7 @@ In the case of metabolites manual annotation is advised. Automatic annotation fu
 
 #### Drug
 
-This section is in preparation
+Drug (dedicated "drug" element or "generic protein", "simple molecule" or "unkonwn" in CellDesigner; "macromolecule", "simple chemical" or "unspecified entity" glyphs in SBGN PD specification) should be annotated with an ID from a drug databases such as [DrugBank](https://go.drugbank.com), or metabolic databases such as [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov) or [ChEMBL](https://www.ebi.ac.uk/chembl). 
 
 #### Complex
 
@@ -103,7 +103,7 @@ This section is in preparation
 
 #### Phenotype
 
-Phenotype ("phenotype" in SBGN and "phenotype" in CellDesigner) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but in CellDesigner can be used also as a trigger or as a reference to a submap (correspondingly "perturbing agent" glyph and "submap" glyph in SBGN PD). To annotate phenotype in CellDesigner as a biological processes, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
+Phenotype ("phenotype" in CellDesigner; "phenotype" in SBGN PD specification) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but in CellDesigner can be used also as a trigger or as a reference to a submap (correspondingly "perturbing agent" glyph and "submap" glyph in SBGN PD). To annotate phenotype in CellDesigner as a biological processes, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
 <br/>
 
 ### Interactions
