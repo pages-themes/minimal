@@ -33,4 +33,4 @@ PUBLISHING ONINE
 8. Collecting feedback and updating the map
 
 APPLICATIONS  
-9. Applying the resource for data visualisation, modelling, hypothesis generation  
+&nbsp; &nbsp; &nbsp; 9. Applying the resource for data visualisation, modelling, hypothesis generation  
