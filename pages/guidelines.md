@@ -6,7 +6,7 @@ permalink: /guidelines
 
 # Guidelines
 
-[Architecture][../architecture]
+[Designing map architecture][../architecture]
 [Annotation][../annotation]
 
 
