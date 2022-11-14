@@ -7,7 +7,9 @@ permalink: /guidelines
 # Guidelines
 
 &#8594; [Designing map architecture](../architecture)   
-&rarr; [Annotation](../annotation)
+&rarr; [Annotation](../annotation)  
+&#8618;  
+&#8627;	 
 
 
 The provided guidelines are based on our collective experience of building representations of disease mechanisms, the work by Maria Kondratova and coauthors (Kondratova et al., 2018, [PMID:29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/)), descriptions of [published disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps).  
