@@ -77,7 +77,7 @@ Protein (“generic protein” in CellDesigner; “macromolecule” glyph in SBG
 
 With the use of the MINERVA automatic annotation functionality, manually adding UniPort IDs in CellDesigner can be skipped as soon HGNC official names are used for naming proteins. The same rules can be applied for annotating genes and RNAs.
 
-In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intentionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
+In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
 
 <!--
 Manual annotation in CellDesigner (optional): in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
