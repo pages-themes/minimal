@@ -67,6 +67,10 @@ Different types of entities in SBGN diagrams with the corresponding recommended 
 
 To add MIRIAM annotation to entities in CellDesigner, please use the MIRIAM tab in the bottom panel of CellDesigner. For example, as instructed in [CellDesigner Help](https://www.celldesigner.org/help/CDH_NotesMiriam_02.html), to add a UniProt ID to a protein in CellDesigner, click “Add relation” and then in the Relation field from the drop-down menu choose “bqbiol:isVersionOf”, then in the DataType field from the drop-down menu choose “UniProt”, and finally in the ID field add value, for example “P23219” for MAPK3 (ERK1).
 
+<!--
+To add MIRIAM annotation to entities in CellDesigner, please use the MIRIAM tab in the bottom panel of CellDesigner. Instructions and examples can be found in [CellDesigner Help](https://www.celldesigner.org/help/CDH_NotesMiriam_02.html).
+-->
+
 #### Protein
 
 Protein (“generic protein” in CellDesigner; “macromolecule” glyph in SBGN PD specification) should be annotated with UniProt ID and named according to HUGO Gene Nomenclature Committee (HGNC) names.
