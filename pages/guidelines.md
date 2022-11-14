@@ -16,6 +16,8 @@ In each case, a resource is designed while taking into account the goals and obj
 
 ### Disease map development workflow
 
+The development workflow consists of nine steps in four phases: planning, curation, publishing and application.
+
 PLANNING AND DESIGN  
 1. Determining map purpose and type  
 2. Defining coverage of biological functions  
