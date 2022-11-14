@@ -75,42 +75,78 @@ With the use of the MINERVA automatic annotation functionality, manually adding 
 
 In some cases it is not possible or not convenient to provide entity ID. One case is when a "generic entity" is used. For example, ERK1/2 can be used instead of showing two specific proteins: ERK1 (MAPK3, [UniProt:P27361](https://www.uniprot.org/uniprotkb/P27361/entry)) and ERK2 (MAPK1, [UniProt:P28482](https://www.uniprot.org/uniprotkb/P28482/entry)). This could happen if information is incomplete or, intensionally, for creating a compact representation and avoiding combinatorial explosion in an attempt to show all possible specific entities and the corresponding processes. 
 
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
+
 #### RNA
 
 RNA ("RNA" in CellDesigner; "nucleic acid feature" in SBGN PD specification with unit of information "ct:RNA") should be annotated with HGNC ID. To skip manual annotation, please name RNAs using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
+
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
 
 #### Gene
 
 Gene ("gene" in CellDesigner; "nucleic acid feature" in SBGN PD specification with unit of information "ct:gene") should be annotated with HGNC ID. To skip manual annotation, please name genes using HGNC names, and the entities will be automatically annotated on upload to MINERVA.
 
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
+
 #### Metabolite
 
 Metabolite (“simple chemical” glyph in SBGN PD specification, or “simple molecule” in CellDesigner) should be annotated with ChEBI ID. To add a ChEBI ID to a metabolite in CellDesigner, select the MIRIAM tab in the bottom panel of CellDesigner > click “Add relation” > from the drop-down menu choose “bqmodel:isDescribedBy” in the Relation field > then from the drop-down menu choose “ChEBI” in the DataType field, and then add value in the ID field, for example “CHEBI:15843” for arachidonic acid.
 
-In the case of metabolites manual annotation is advised. Automatic annotation functionality in MINERVA works for metabolites to some extent but normally there are too many synonyms, and a proper way to identify a metabolite is via finding it in a metabolic database via synonyms or, if needed, via its structure.
+Manual annotation is advised for metabolites. Automatic annotation functionality in MINERVA works for metabolites to some extent but normally there are many synonyms and the only proper way to identify a metabolite is by finding it in a metabolic database via synonyms or via its structure.
+
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
 
 #### Drug
 
 Drug (dedicated "drug" element or "generic protein", "simple molecule" or "unknown" in CellDesigner; "macromolecule", "simple chemical" or "unspecified entity" glyphs in SBGN PD specification) should be annotated with an ID from a drug databases such as [DrugBank](https://go.drugbank.com), or metabolic databases such as [ChEBI](https://www.ebi.ac.uk/chebi), [PubChem](https://pubchem.ncbi.nlm.nih.gov) or [ChEMBL](https://www.ebi.ac.uk/chembl). 
 
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
+
 #### Complex
 
 Complex ("complex" in CellDesigner; "complex" in SBGN PD specification) should be named according to its content, for example “FCER1A:FCER1G:MS4A2”, unless there is a special name for a particular complex, for example “FcεR1”. Additional annotation is optional and for that GO Cellular Component (CC) term or [Complex Portal](https://www.ebi.ac.uk/complexportal/home) identifier can be used.
 
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
+
 #### Compartment
 
 Compartment ("compartment" in CellDesigner; "compartment" in SBGN PD specification) refers to a subcellular location or cell type and should be annotated with [Cell Ontology](https://www.ebi.ac.uk/ols/ontologies/cl), for example, Cell Ontology GO:0005737 for "cytoplasm".
+
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
 
 #### Phenotype
 
 Phenotype ("phenotype" in CellDesigner; "phenotype" in SBGN PD specification) is considered a type of process in SBGN PD (see the [PD Reference Cards](https://sbgn.github.io/referencecards)) but in CellDesigner can be used also as a trigger or as a reference to a submap (correspondingly "perturbing agent" glyph and "submap" glyph in SBGN PD). To annotate phenotype in CellDesigner as a biological process, please use appropriate GO Biological Process term and GO Biological Process identifier. To annotate phenotype as a symptom or a disease state, please use appropriate MeSH term and MeSH identifier.
 <br/>
 
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
+
 ### Interactions
 
 Interactions should be annotated with references in the form of PMIDs or DOIs in case PMIDs are not available. These references provide evidence that the interaction exists in the context of the diseases. Three references should be provided for each interaction (Kondratova et al, 2018 [PMID:29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/)). 
 
 If provided evidence are built on cell or animal models, it is important to annotate the corresponding interactions and annotate them with the NCBI taxon ID for the non-human organism. For example, if the phosphorylation of STAT3 by JAK2 was determined in mice, the NCBI Taxon [NCBI:txid10090](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=10090) should be added. 
+
+<!--
+Annotation in CellDesigner: in the MIRIAM tab in the bottom panel of CellDesigner select “Add relation”, choose “bqbiol:isVersionOf” for Relation, choose “UniProt” for DataType, and add value in the ID field, for example “P23219” for MAPK3 (ERK1).
+-->
 
 ### Recommended publications
 
