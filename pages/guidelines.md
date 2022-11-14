@@ -21,18 +21,18 @@ In each case, a resource is designed while taking into account the goals and obj
 The development workflow consists of nine steps in four phases: planning, curation, publishing and application.
 
 PLANNING AND DESIGN  
-1. Determining map purpose and type  
-2. Defining coverage of biological functions  
-3. Choosing a graphical standard and an editor  
-4. Designing map architecture  
+&nbsp; &nbsp; &nbsp; 1. Determining map purpose and type  
+&nbsp; &nbsp; &nbsp; 2. Defining coverage of biological functions  
+&nbsp; &nbsp; &nbsp; 3. Choosing a graphical standard and an editor  
+&nbsp; &nbsp; &nbsp; 4. Designing map architecture  
 
 CURATION  
-5. Formalising knowledge from literature and databases  
-6. Annotating map entities and interactions  
+&nbsp; &nbsp; &nbsp; 5. Formalising knowledge from literature and databases  
+&nbsp; &nbsp; &nbsp; 6. Annotating map entities and interactions  
 
 PUBLISHING ONINE  
-7. Visualising in a navigable tool  
-8. Collecting feedback and updating the map
+&nbsp; &nbsp; &nbsp; 7. Visualising in a navigable tool  
+&nbsp; &nbsp; &nbsp; 8. Collecting feedback and updating the map
 
 APPLICATIONS  
 &nbsp; &nbsp; &nbsp; 9. Applying the resource for data visualisation, modelling, hypothesis generation  
