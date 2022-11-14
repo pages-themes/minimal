@@ -21,10 +21,14 @@ PLANNING AND DESIGN
 2. Defining coverage of biological functions  
 3. Choosing a graphical standard and an editor  
 4. Designing map architecture  
+
 CURATION  
 5. Formalising knowledge from literature and databases  
 6. Annotating map entities and interactions  
+
 PUBLISHING ONINE  
 7. Visualising in a navigable tool  
+8. Collecting feedback and updating the map
+
 APPLICATIONS  
 9. Applying the resource for data visualisation, modelling, hypothesis generation  
