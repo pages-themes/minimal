@@ -16,15 +16,15 @@ In each case, a resource is designed while taking into account the goals and obj
 
 ### Disease map development workflow
 
-PLANNING AND DESIGN
-1. Determining map purpose and type
-2. Defining coverage of biological functions
-3. Choosing a graphical standard and an editor
-4. Designing map architecture
-CURATION
-5. Formalising knowledge from literature and databases
-6. Annotating map entities and interactions
-PUBLISHING ONINE
-7. Visualising in a navigable tool
-APPLICATIONS
-9. Applying the resource for data visualisation, modelling, hypothesis generation
+PLANNING AND DESIGN  
+1. Determining map purpose and type  
+2. Defining coverage of biological functions  
+3. Choosing a graphical standard and an editor  
+4. Designing map architecture  
+CURATION  
+5. Formalising knowledge from literature and databases  
+6. Annotating map entities and interactions  
+PUBLISHING ONINE  
+7. Visualising in a navigable tool  
+APPLICATIONS  
+9. Applying the resource for data visualisation, modelling, hypothesis generation  
