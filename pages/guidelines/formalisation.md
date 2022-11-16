@@ -43,8 +43,6 @@ How to draw an initial diagram based on the text, how to examine the diagram and
 
 ### Pathway databases
 
-This section is in preparation. Example of contextualisation.
-
-Reusing information from well-curated pathway databases such as [Reactome](https://reactome.org/), [PANTHER](http://www.pantherdb.org/pathway/) and [KEGG](https://www.genome.jp/kegg/https://www.genome.jp/kegg/) is possible with additional contextualisation via confirmation with disease-related publications and updating the pathway is needed.
+Reusing information from well-curated pathway databases such as [Reactome](https://reactome.org/), [PANTHER](http://www.pantherdb.org/pathway/) and [KEGG](https://www.genome.jp/kegg/https://www.genome.jp/kegg/) is possible with additional contextualisation via confirmation with disease-related publications and updating the pathways if needed.
 
 
