@@ -33,7 +33,7 @@ Figures in published articles are a special and very useful resource for develop
 
 ### Figure to SBGN
 
-How to transform a static cartoon figure from a paper to a standard representation in SBGN is demostrated in the [Figure to SBGN](https://sbgn.github.io/figuretosbgn) project available the Systems Biology Graphical Notation website.
+How to transform a static cartoon figure from a paper to a standard representation in SBGN is demostrated in the [Figure to SBGN](https://sbgn.github.io/figuretosbgn) project available on the Systems Biology Graphical Notation website.
 
 ### Text to SBGN
 
