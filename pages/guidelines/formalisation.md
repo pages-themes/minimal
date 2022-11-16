@@ -35,7 +35,7 @@ asthma AND (mechanisms OR pathway OR pathways)
 
 The use of quotation marks allows search for exact phrases when needed, for example:
 
-"asthma mechanisms" OR "mechanisms of asthma".
+"asthma mechanisms" OR "mechanisms of asthma"
 
 ### PMC full-text search
 
