@@ -10,7 +10,7 @@ permalink: /formalisation
 [Figure search](#figure-search)  
 [Figure-to-SBGN](#figure-to-sbgn)  
 [Text-to-SBGN](#text-to-sbgn)  
-[Pathway databases](#reusing-information-from-pathway-databases)  
+[Pathway databases](#pathway-databases)  
 
 
 In the context of developing disease maps, "knowledge formalisation" refers to the practice of transforming textual information and figures in publications to the structured format of the [Systems Biology Graphical Notation](https://sbgn.github.io/) (SBGN) standard ([PMID: 19668183](https://www.ncbi.nlm.nih.gov/pubmed/19668183)). Scattered information about disease mechanisms from hundreds of scientific articles is integrated into a single conceptual disease model.
@@ -33,12 +33,18 @@ Figures in published articles are a special and very useful resource for develop
 
 ### Figure to SBGN
 
-This section is in preparation. Useful resource: [Figure to SBGN](https://sbgn.github.io/figuretosbgn)
+How to transform a static cartoon figure from a paper to a standard representation in SBGN is demostrated in the [Figure to SBGN](https://sbgn.github.io/figuretosbgn) project available the Systems Biology Graphical Notation website.
 
 ### Text to SBGN
 
-This section is in preparation. How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
+This section is in preparation. 
 
-### Reusing information from pathway databases
+How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
+
+### Pathway databases
 
 This section is in preparation. Example of contextualisation.
+
+Reusing information from well-curated pathway databases such as [Reactome](https://reactome.org/), [PANTHER](http://www.pantherdb.org/pathway/) and [KEGG](https://www.genome.jp/kegg/https://www.genome.jp/kegg/) is possible with additional contextualisation via confirmation with disease-related publications and updating the pathway is needed.
+
+
