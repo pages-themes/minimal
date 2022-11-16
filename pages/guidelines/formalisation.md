@@ -13,7 +13,8 @@ permalink: /formalisation
 [Reusing information from pathway databases](#reusing-information-from-pathway-databases)  
 
 
-This section is in preparation. Brief introduction. What is knowledge formalisation. Initial consideration.
+
+In the context of developing disease maps, the "knowledge formalisation" term refers to the practice of transforming textual information and figures in publications to the structured format of the [Systems Biology Graphical Notation](https://sbgn.github.io/) (SBGN) standard [PMID: 19668183](https://www.ncbi.nlm.nih.gov/pubmed/19668183). Scattered information about disease mechanims from hundreds of scientific articles is combined into single conceptual disease model.
 
 ### PubMed search
 
