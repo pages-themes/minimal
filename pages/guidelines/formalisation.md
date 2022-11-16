@@ -25,7 +25,7 @@ To organise publications found, a reference manager such as Zotero can be used. 
 
 Figures in published articles are a special and very useful resource for developing disease maps. While they are not in a standard or machine-readable format, the understanding of mechanisms is often very well conveyed and there is a lot of work and expertise behind these conceptual representations and graphical summaries. A good figure from a review paper can be the key starting point for creating a disease map or a top-level overview layer of a disease map.
 
-[PMC Image Search](https://www.ncbi.nlm.nih.gov/pmc/) is a good way to find such figures in PubMed Central. The way it works is described in the [NLM Technical Bulletinthe](https://www.nlm.nih.gov/pubs/techbull/ja11/ja11_pmc.html) in the "Direct Access to Images" section and Figures 7-11.
+[PMC Image Search](https://www.ncbi.nlm.nih.gov/pmc/) is a good way to find such figures in PubMed Central. The way it works is described in the [NLM Technical Bulletin](https://www.nlm.nih.gov/pubs/techbull/ja11/ja11_pmc.html) in the "Direct Access to Images" section and Figures 7-11.
 
 <!--
 [UAMS Library](https://libguides.uams.edu/image-resources/pmc) 
