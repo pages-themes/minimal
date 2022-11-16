@@ -27,7 +27,7 @@ Figures in published articles are a special and very useful resource for develop
 
 [PMC Image Search](https://www.ncbi.nlm.nih.gov/pmc/) is a good way to find such figures in PubMed Central. The way it works is described, for example, on pages of the [UAMS Library](https://libguides.uams.edu/image-resources/pmc) or the [University of Pittsburgh Library](https://info.hsls.pitt.edu/updatereport/2011/october-2011/need-images-try-pubmed-central/). 
 
-[Google Images](https://images.google.com/) is another quick and convenient search. For example, search for "asthma mechanisms" will immediately offer relevant images from scientific publications. Adding "nature.com" to the search will narrow it down to the publications in Nature journals. 
+[Google Images](https://images.google.com/) is another efficient and convenient search. For example, search for "asthma mechanisms" will immediately offer relevant images from scientific publications. Adding "nature.com" to the search will narrow it down to the publications in Nature journals. 
 
 [Cell SnapShot](https://www.cell.com/snapshots) is one more interesting resource with many useful visualisations including those dedicated to various diseases. 
 
