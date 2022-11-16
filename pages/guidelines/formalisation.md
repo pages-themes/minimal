@@ -7,6 +7,7 @@ permalink: /formalisation
 # Knowledge formalisation
 
 [PubMed search](#pubmed-search)  
+[Reference manager](#reference-manager)
 [Figure search](#figure-search)  
 [Figure-to-SBGN](#figure-to-sbgn)  
 [Text-to-SBGN](#text-to-sbgn)  
@@ -18,6 +19,8 @@ In the context of developing disease maps, "knowledge formalisation" refers to t
 ### PubMed search
 
 This section is in preparation. Example search.
+
+### Reference manager
 
 To organise publications found, a reference manager such as Zotero can be used. It is well-integrated in various browsers and papers can be easily saved individually or in bulk. Introductions to Zotero functionalities are available at many university websites and easy to find. One useful functionality is a shared library many users can access. We also suggest creating folders and subfolders for references. They work as tags and one paper can appear in several folders. This way, when revisiting, during map development and annotation, it is easier to find publications relevant to a certain topic or a subpathway.
 
