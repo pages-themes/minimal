@@ -18,7 +18,7 @@ This section is in preparation.
 
 ### Figure-to-SBGN example
 
-This section is in preparation. Also: [Figure to SBGN](https://sbgn.github.io/figuretosbgn)
+This section is in preparation. Useful resource: [Figure to SBGN](https://sbgn.github.io/figuretosbgn)
 
 ### Text-to-SBGN example
 
