@@ -34,7 +34,7 @@ Figures in published articles are a special and very useful resource for develop
 
 [Google Images](https://images.google.com/) is another efficient and convenient search. For example, search for "asthma mechanisms" will immediately offer relevant images from scientific publications. Adding "nature.com" to the search will narrow it down to the publications in Nature journals. 
 
-[Cell SnapShot](https://www.cell.com/snapshots) is one more interesting resource with many useful visualisations including those dedicated to various diseases. 
+[Cell SnapShot](https://www.cell.com/snapshots) is one more interesting resource with many useful visualisations including ones dedicated to various diseases. 
 
 ### Figure to SBGN
 
