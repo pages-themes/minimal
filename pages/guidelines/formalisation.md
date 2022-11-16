@@ -22,7 +22,7 @@ This section is in preparation. Example search.
 
 ### Figure search
 
-Figures in published articles are a special very useful resource for developing disease maps. While it might not be a standard or machine-readable format, the understadning of mechanisms is often very well expressed by experts in the correpsonding fileds and there is a lot of work behind these conceptual representations and graphical summaries. Sometimes, a good figure from a review paper can be the key starting point for creating a disease map or a top-level overview layer of a disease map.
+Figures in published articles are a special very useful resource for developing disease maps. While they are not in a standard or machine-readable format, the understadning of mechanisms is often very well conveyed and there is a lot of work and expertise behind these conceptual representations and graphical summaries. A good figure from a review paper can be the key starting point for creating a disease map or a top-level overview layer of a disease map.
 
 One of possible ways to find such figures from publications is to use [PMC Image Search](https://www.ncbi.nlm.nih.gov/pmc/) as described, for example, on pages of the [UAMS Library](https://libguides.uams.edu/image-resources/pmc) and the [University of Pittsburgh Library](https://info.hsls.pitt.edu/updatereport/2011/october-2011/need-images-try-pubmed-central/). Another quick and convenient search is [Google Images Search](https://images.google.com/). For example Google Image Search for "asthma mechanisms" will immediatly offer relevant images from scrientific publications. Adding "nature.com" to the search will narrow it dowin to publication in Nature journals. 
 
