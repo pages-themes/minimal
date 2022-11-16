@@ -47,7 +47,9 @@ How to transform a static cartoon figure from a paper to a standard representati
 
 This section is in preparation. 
 
+<!--
 How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
+-->
 
 ### Pathway databases
 
