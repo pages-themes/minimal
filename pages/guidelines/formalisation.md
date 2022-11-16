@@ -33,7 +33,7 @@ Figures in published articles are a special and very useful resource for develop
 
 ### Figure to SBGN
 
-How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project available on the Systems Biology Graphical Notation website.
+How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project accessible on the Systems Biology Graphical Notation website. The "γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression" diagram was created based on the [graphical abstract](https://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) from the paper by Ma et al, Cell, 2014 ([PMID: 25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)). Both Process Description and Activity Flow versions are available. 
 
 ### Text to SBGN
 
