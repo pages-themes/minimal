@@ -20,6 +20,34 @@ In the context of developing disease maps, "knowledge formalisation" refers to t
 
 This section is in preparation. Example search.
 
+PubMed search for asthma mechanisms (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or search query we have fewer search results and can choose a manageable number of highly relevant publications to start from so they can be checked, shortlisted and read.
+
+| Search query | Filters | Search results |
+-------------------------------------------
+| asthma mechanisms | no filters | 21,012 results | 
+| asthma mechanisms | Article Type: Review | 7,072 results |
+| asthma mechanisms | Article Type: Review, Publication Date: 5 Years | 1,900 results | 
+| asthma[title] mechanisms | Article Type: Review, Publication Date: 5 Years | 623 results | 
+| asthma[title] mechanisms[title] | Article Type: Review, Publication Date: 5 Years | 63 results | 
+
+The search query itself can be made more sophisticated, especially with the use of the [Advanced Search](https://pubmed.ncbi.nlm.nih.gov/advanced/), though normally it is sufficient to use a combiation of OR and AND logic operators, where AND is to be used for combined search of terms and OR for any of the listed terms, for example synonyms. Example query: 
+
+asthma AND (mechanisms OR pathway OR pathways)
+
+The use of quatation marks allows search for exact phrases when needed, for example:
+
+"asthma mechanisms" OR "mechanisms of asthma".
+
+Finally, in case of a very specific topic and limited information, there is an option to search in full-text papers in [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) (PMC). Please note that PMC has approximately 40% of articles in full text in comparison to the number of articles in PubMed. The difference between PubMed and PMC is explained in a recent review [Williamson 2019 PMID:30598645] and discussed at https://www.nlm.nih.gov/bsd/difference.html. To compare the current content of PubMed and PMC,  please type “1800:2100[dp]” or “all[sb]” in the search bar. Since we are interested mainly in publications since 2010 (accessed 2022-11-16):  
+search “2010:2100[dp]” in PubMed returns 14,934,340 articles (100%);  
+search “2010:2100[dp]” in PMC returns 6,053,618 full-text articles (40.53%).  
+
+<!--
+Since 2015:  
+search “2015:2100[dp]” in PubMed returns 10,250,215 articles (100%);  
+search “2015:2100[dp]” in PMC returns 4,587,211 full-text articles (44.75%).  
+-->
+
 ### Reference manager
 
 To organise publications found, a reference manager such as Zotero can be used. It is well-integrated in various browsers and papers can be easily saved individually or in bulk. Introductions to Zotero functionalities are available at many university websites and easy to find. One useful functionality is a shared library many users can access. We also suggest creating folders and subfolders for references. They work as tags and one paper can appear in several folders. This way, when revisiting, during map development and annotation, it is easier to find publications relevant to a certain topic or a subpathway.
