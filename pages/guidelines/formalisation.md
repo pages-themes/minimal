@@ -6,15 +6,21 @@ permalink: /formalisation
 
 # Knowledge formalisation
 
+[PubMed search](#pubmed-search)  
+[Figure search](#figure-search)  
+[Figure-to-SBGN example](#figure-to-sbgn-example)  
+[Text-to-SBGN example](#text-to-sbgn-example)  
+[Reusing information from pathway databases](#reusing-information-from-pathway-databases)  
+
 This section is in preparation. Brief introduction. What is knowledge formalisation. Initial consideration.
 
-### PubMed search example
+### PubMed search
 
-This section is in preparation.
+This section is in preparation. Example search.
 
-### Figure search example
+### Figure search
 
-This section is in preparation.
+This section is in preparation. Example search. Preference to figures from journal articles.
 
 ### Figure-to-SBGN example
 
