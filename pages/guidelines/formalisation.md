@@ -21,13 +21,13 @@ In the context of developing disease maps, "knowledge formalisation" refers to t
 
 To effiently search for articles of interest in PubMed, it is important to know basic search strategies for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or search query we have fewer search results and can choose a manageable number of highly relevant publications to start from, so they can be checked, shortlisted and read.
 
-| Search query | Filters | Search results |
--------------------------------------------
-| asthma mechanisms | no filters | 21,012 results | 
-| asthma mechanisms | Article Type: Review | 7,072 results |
-| asthma mechanisms | Article Type: Review, Publication Date: 5 Years | 1,900 results | 
-| asthma[title] mechanisms | Article Type: Review, Publication Date: 5 Years | 623 results | 
-| asthma[title] mechanisms[title] | Article Type: Review, Publication Date: 5 Years | 63 results | 
+| Search query | Filters | Search results |  
+-------------------------------------------  
+| asthma mechanisms | no filters | 21,012 results |  
+| asthma mechanisms | Article Type: Review | 7,072 results |  
+| asthma mechanisms | Article Type: Review, Publication Date: 5 Years | 1,900 results |  
+| asthma[title] mechanisms | Article Type: Review, Publication Date: 5 Years | 623 results |  
+| asthma[title] mechanisms[title] | Article Type: Review, Publication Date: 5 Years | 63 results |  
 
 The search query itself can be made more sophisticated, especially with the use of the [Advanced Search](https://pubmed.ncbi.nlm.nih.gov/advanced/), though normally it is sufficient to use a combiation of OR and AND logic operators, where AND is to be used for combined search of terms and OR for any of the listed terms, for example synonyms. Example query: 
 
