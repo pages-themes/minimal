@@ -7,6 +7,7 @@ permalink: /formalisation
 # Knowledge formalisation
 
 [PubMed search](#pubmed-search)  
+[PMC full-text search](#pmc-full-text-search)
 [Reference manager](#reference-manager)  
 [Figure search](#figure-search)  
 [Figure-to-SBGN](#figure-to-sbgn)  
@@ -38,7 +39,9 @@ The use of quatation marks allows search for exact phrases when needed, for exam
 
 "asthma mechanisms" OR "mechanisms of asthma".
 
-Finally, in case of a very specific topic and limited information, there is an option to search in full-text papers in [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) (PMC). Please note that PMC has approximately 40% of articles in full text in comparison to the number of articles in PubMed. The difference between PubMed and PMC is explained in a recent review (Williamson & Minter, 2019, [PMID: 30598645](https://pubmed.ncbi.nlm.nih.gov/30598645/)) and discussed at https://www.nlm.nih.gov/bsd/difference.html. To compare the current content of PubMed and PMC,  please type “1800:2100[dp]” or “all[sb]” in the search bar. Since we are interested mainly in recent publications since 2010 (accessed 2022-11-16):  
+### PMC full-text search
+
+In case of a very specific topic and limited information, there is an option to search in full-text papers in [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) (PMC). Please note that PMC has approximately 40% of full-text articles in comparison to the number of articles in PubMed. The difference between PubMed and PMC is explained in a recent review by Williamson & Minter, 2019 ([PMID: 30598645](https://pubmed.ncbi.nlm.nih.gov/30598645/)) and also discussed at https://www.nlm.nih.gov/bsd/difference.html. To compare the current content of PubMed and PMC,  please type “1800:2100[dp]” or “all[sb]” in the search bar. Since we are interested mainly in recent publications since 2010 (accessed 2022-11-16):  
 search “2010:2100[dp]” in PubMed returns 14,934,340 articles (100%);  
 search “2010:2100[dp]” in PMC returns 6,053,618 full-text articles (40.53%).  
 
