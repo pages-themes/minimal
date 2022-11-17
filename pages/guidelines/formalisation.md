@@ -22,7 +22,7 @@ In the context of developing disease maps, "knowledge formalisation" refers to t
 To effiently search for articles of interest in PubMed, it is important to know basic search techniques for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or the search query we have fewer search results and can choose a fairly small number of highly relevant publications to start from, so they can be selected and read.
 
 | Search query | Filters | Search results |  
-|--------------|---------|----------------|  
+|--------------|---------|----------------:|  
 | asthma mechanisms | no filters | 21,012 results |  
 | asthma mechanisms | Article Type: Review | 7,072 results |  
 | asthma mechanisms | Article Type: Review, Publication Date: 5 years | 1,900 results |  
