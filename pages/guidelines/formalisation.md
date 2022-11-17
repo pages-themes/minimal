@@ -19,7 +19,7 @@ In the context of developing disease maps, "knowledge formalisation" refers to t
 
 ### Text to SBGN
 
-An example of how textual information from an article is being transformed into a diagram in SBGN Proceess Description format in CellDesigner is shown on a dedicated ["Text to SBGN"](../text-to-sbgn) page.  
+An example of how textual information from an article is being transformed into a diagram in the SBGN Proceess Description format in CellDesigner is shown on a dedicated ["Text to SBGN"](../text-to-sbgn) page.  
 
 <!--
 How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
