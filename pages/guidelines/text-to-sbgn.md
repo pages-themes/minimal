@@ -20,7 +20,7 @@ After omitting some words and keeping close to the original text, the key points
 4. We further showed that parkin deficiency mice have pronounced loss of tyrosine hydroxylase positive neurons.  
 5. These results suggest that p62 are subjected to parkin mediated proteasomal degradation and implicate that the dysregulation of parkin/p62 axis may involve in the selective vulnerability of neuronal cells during the onset of PD pathogenesis.  
 
-Point #3 gives enough information for drawing a detailed Process Description diagram in CellDesigner (Figure 1). Other points provide information about the cell type (neuron) and the context (Parkinson's disease). Point #4 can be potentially explored to link these mechanisms to tyrosine hydroxylase (TH, [UniProt:P07101](https://www.uniprot.org/uniprotkb/P07101/entry), [HGNC:11782](https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11782) in the context of Pakinson's disease but for that more information is required.
+Point #3 gives enough information for drawing a detailed Process Description diagram in CellDesigner (Figure 1). Other points provide information about the cell type (neuron) and the context (Parkinson's disease). Point #4 can be potentially explored to link these mechanisms to tyrosine hydroxylase (TH, [UniProt:P07101](https://www.uniprot.org/uniprotkb/P07101/entry), [HGNC:11782](https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11782)) in the context of Pakinson's disease but for that more information is required.
 
 ![](../images/guidelines/PARK2.png){:width="500"}
 
