@@ -14,6 +14,14 @@ permalink: /formalisation2
 [Figure search](#figure-search)  
 [Pathway databases](#pathway-databases)  
   
+[PubMed search](#pubmed-search)  
+[PMC full-text search](#pmc-full-text-search)  
+[Reference manager](#reference-manager)  
+[Figure search](#figure-search)  
+[Figure-to-SBGN](#figure-to-sbgn)  
+[Text-to-SBGN](#text-to-sbgn)  
+[Pathway databases](#pathway-databases)  
+
 
 In the context of developing disease maps, "knowledge formalisation" refers to the practice of transforming textual information and figures in publications to the structured format of the [Systems Biology Graphical Notation](https://sbgn.github.io/) (SBGN) standard ([PMID: 19668183](https://www.ncbi.nlm.nih.gov/pubmed/19668183)). Scattered information about disease mechanisms from hundreds of scientific articles is integrated into a single conceptual disease model.
 
