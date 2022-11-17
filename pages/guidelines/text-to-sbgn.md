@@ -1,5 +1,5 @@
 ---
-title: Annotation
+title: Text to SBGN
 layout: default
 permalink: /text-to-sbgn
 ---
