@@ -6,6 +6,14 @@ permalink: /formalisation
 
 # Knowledge formalisation
 
+[Text-to-SBGN](#text-to-sbgn)  
+[Figure-to-SBGN](#figure-to-sbgn)  
+[PubMed search](#pubmed-search)  
+[PMC full-text search](#pmc-full-text-search)  
+[Reference manager](#reference-manager)  
+[Figure search](#figure-search)  
+[Pathway databases](#pathway-databases)  
+
 [PubMed search](#pubmed-search)  
 [PMC full-text search](#pmc-full-text-search)  
 [Reference manager](#reference-manager)  
@@ -19,7 +27,11 @@ In the context of developing disease maps, "knowledge formalisation" refers to t
 
 ### PubMed search
 
-To effiently search for articles of interest in PubMed, it is important to know basic search techniques for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or the search query we have fewer search results and can choose a fairly small number of highly relevant publications to start from, so they can be selected and read.
+To effiently search for articles of interest in PubMed, it is important to know basic search techniques for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. 
+
+#### An example search for reviewging disease mechanisms
+
+PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or the search query we have fewer search results and can choose a fairly small number of highly relevant publications to start from, so they can be selected and read.
 
 | Search query | Filters | Search results |  
 |--------------|---------|----------------:|  
@@ -36,6 +48,12 @@ asthma AND (mechanisms OR pathway OR pathways)
 The use of quotation marks allows to search for exact phrases when needed, for example:
 
 "asthma mechanisms" OR "mechanisms of asthma"
+
+#### Search to confirm a connection or find a specific detail
+
+Often the objective is not to systematically review for all relevant papers but to find out about a specific connection or a specific detail. For example, to find what site is phosphorylated during protein activation, it is enough to find a small number of publications with the required information. 
+
+#### Search for related articles
 
 After finding a good paper, a useful tactic is to explore related publication by finding at the bottomm of the page the "Similar articles" section and then clicking "See all similar articles".
 
