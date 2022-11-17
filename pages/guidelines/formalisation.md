@@ -31,7 +31,7 @@ How to transform a static cartoon figure from a paper to a standard representati
 
 ### PubMed search
 
-To effiently search for articles of interest in PubMed, it is important to know basic search techniques for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. 
+To efficiently search for articles of interest in PubMed, it is important to know basic search techniques for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. 
 
 #### An example search for reviewing disease mechanisms
 
