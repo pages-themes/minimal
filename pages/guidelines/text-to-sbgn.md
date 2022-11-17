@@ -22,7 +22,11 @@ After omitting some words and keeping it close to the original text, the key poi
 
 Point #3 gives enough information for drawing a detailed Process Description diagram in CellDesigner (Figure 1). Other points provide information about the cell type (neuron) and the context (Parkinson's disease). Point #4 can be potentially explored to link these mechanisms to tyrosine hydroxylase (TH, [UniProt:P07101](https://www.uniprot.org/uniprotkb/P07101/entry), [HGNC:11782](https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11782)) in the context of Parkinson's disease but for that more information is required.
 
+<!--
 ![](../images/guidelines/PARK2.png){:width="500"}
+-->
+
+![](../images/guidelines/parkin.png){:width="500"}
 
 **Figure 1.** The process of SQSTM1 ubiquitination at lysine 13 activated by PRKN, followed by the process of degradation of the ubiquitinated SQSTM1.
 
