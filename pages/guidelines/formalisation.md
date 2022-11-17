@@ -73,7 +73,7 @@ search “2015:2100[dp]” in PMC returns 4,587,211 full-text articles (44.75%).
 
 ### Reference manager
 
-To organise publications found, a reference manager such as Zotero can be used. It is well-integrated in various browsers and papers can be easily saved individually or in bulk. Introductions to Zotero functionalities are available at many university websites and easy to find. One useful functionality is a shared library many users can access. We also suggest creating folders and subfolders for references. They work as tags and one paper can appear in several folders. This way, when revisiting, during map development and annotation, it is easier to find publications relevant to a certain topic or a subpathway.
+To organise publications found, a reference manager such as Zotero can be used. It is well-integrated in various browsers and papers can be easily saved individually or in bulk. Introductions to Zotero functionalities are available at many university websites and easy to find. One useful functionality is a shared library many users can access. We also suggest creating a system folders and subfolders for references. They work as tags and one paper can appear in several folders. This way, when revisiting, during map development and annotation, it is easier to find publications relevant to a certain topic or a subpathway.
 
 ### Figure search
 
