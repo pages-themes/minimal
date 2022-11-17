@@ -6,14 +6,6 @@ permalink: /formalisation
 
 # Knowledge formalisation
 
-[Text-to-SBGN](#text-to-sbgn)  
-[Figure-to-SBGN](#figure-to-sbgn)  
-[PubMed search](#pubmed-search)  
-[PMC full-text search](#pmc-full-text-search)  
-[Reference manager](#reference-manager)  
-[Figure search](#figure-search)  
-[Pathway databases](#pathway-databases)  
-
 [PubMed search](#pubmed-search)  
 [PMC full-text search](#pmc-full-text-search)  
 [Reference manager](#reference-manager)  
