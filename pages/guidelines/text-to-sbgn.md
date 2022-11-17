@@ -14,11 +14,11 @@ The complete abstract text from PubMed for this paper is here:
 
 After omitting some words, the key points for our diagram are these:
 
-**#1** *"Mutations . . . of parkin . . . are associated with . . . Parkinson’s disease (PD), . . . selective vulnerability of neuronal cells in substantia nigra (SN) and striatum (STR) . . . "*.  
-**#2** *"Here we report that p62 . . . is a new substrate of parkin. P62 levels were increased in the SN and STR regions . . . in parkin knockout mice"*.  
-**#3** *"Parkin directly interacts with and ubiquitinates p62 at the K13 to promote proteasomal degradation of p62 . . . "*.  
-**#4** *"We further showed that parkin deficiency mice have pronounced loss of tyrosine hydroxylase positive neurons . . . "*.  
-**#5** *"These results suggest that . . . p62 are subjected to parkin mediated proteasomal degradation and implicate that the dysregulation of parkin/p62 axis may involve in the selective vulnerability of neuronal cells during the onset of PD pathogenesis"*.  
+**#1:** *"Mutations . . . of parkin . . . are associated with . . . Parkinson’s disease (PD), . . . selective vulnerability of neuronal cells in substantia nigra (SN) and striatum (STR) . . . "*.  
+**#2:** *"Here we report that p62 . . . is a new substrate of parkin. P62 levels were increased in the SN and STR regions . . . in parkin knockout mice"*.  
+**#3:** *"Parkin directly interacts with and ubiquitinates p62 at the K13 to promote proteasomal degradation of p62 . . . "*.  
+**#4:** *"We further showed that parkin deficiency mice have pronounced loss of tyrosine hydroxylase positive neurons . . . "*.  
+**#5:** *"These results suggest that . . . p62 are subjected to parkin mediated proteasomal degradation and implicate that the dysregulation of parkin/p62 axis may involve in the selective vulnerability of neuronal cells during the onset of PD pathogenesis"*.  
 
 These points are then converted to the SBGN diagram in CellDesigner:
 
