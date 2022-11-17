@@ -18,7 +18,7 @@ After omitting some words and keeping it close to the original text, the key poi
 2. Here we report that p62 is a new substrate of parkin. p62 levels were increased in the SN and STR regions in parkin knockout mice.  
 3. Parkin directly interacts with and ubiquitinates p62 at the K13 to promote proteasomal degradation of p62.  
 4. We further showed that parkin deficiency mice have pronounced loss of tyrosine hydroxylase positive neurons.  
-5. These results suggest that p62 are subjected to parkin mediated proteasomal degradation and implicate that the dysregulation of parkin/p62 axis may involve in the selective vulnerability of neuronal cells during the onset of PD pathogenesis.  
+5. These results suggest that p62 are subjected to parkin mediated proteasomal degradation and implicate that the dysregulation of the parkin/p62 axis may be involved in the selective vulnerability of neuronal cells during the onset of PD pathogenesis.  
 
 Point #3 gives enough information for drawing a detailed Process Description diagram in CellDesigner (Figure 1). Other points provide information about the cell type (neuron) and the context (Parkinson's disease). Point #4 can be potentially explored to link these mechanisms to tyrosine hydroxylase (TH, [UniProt:P07101](https://www.uniprot.org/uniprotkb/P07101/entry), [HGNC:11782](https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11782)) in the context of Parkinson's disease but for that more information is required.
 
