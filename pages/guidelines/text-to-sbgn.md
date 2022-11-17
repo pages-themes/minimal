@@ -22,18 +22,6 @@ After omitting some words, the key points for our diagram are these:
 
 These points are then converted to the SBGN diagram in CellDesigner:
 
-
-
-4
-
-![](../images/guidelines/PARK2.png){:width="300"}
-
-5
-
-![](../images/guidelines/PARK2.png)
-
-6
-
-<img src="../images/guidelines/PARK2.png" width="300" />
+![](../images/guidelines/PARK2.png){:width="500"}
 
 Please note that we used the official [HUGO Gene Nomenclature Committee](https://www.genenames.org/)(HGNC) names for proteins: for that "parkin" is replaced with the official "PRKN" ([UniProt:O60260](https://www.uniprot.org/uniprotkb/O60260/entry), [HGNC:8607](https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:8607), previously PARK2)  and "p62" is replaced with the official "SQSTM1" ([UniProt:Q13501](https://www.uniprot.org/uniprotkb/Q13501/entry), [HGNC:11280](https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11280)).
