@@ -22,11 +22,27 @@ After omitting some words, the key points for our diagram are these:
 
 These points are then converted to the SBGN diagram in CellDesigner:
 
+1
+
 ![](../images/guidelines/PARK2.png =x250)
+
+2
 
 ![](../images/guidelines/PARK2.png){ width=50% }
 
+3
+
+![](../images/guidelines/PARK2.png){:height="36px" }
+
+4
+
+![](../images/guidelines/PARK2.png){:width="36"}
+
+5
+
 ![](../images/guidelines/PARK2.png)
+
+6
 
 <img src="../images/guidelines/PARK2.png" width="250" />
 
