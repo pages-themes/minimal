@@ -6,22 +6,34 @@ permalink: /formalisation
 
 # Knowledge formalisation
 
+[Text-to-SBGN](#text-to-sbgn)  
+[Figure-to-SBGN](#figure-to-sbgn)  
 [PubMed search](#pubmed-search)  
 [PMC full-text search](#pmc-full-text-search)  
 [Reference manager](#reference-manager)  
 [Figure search](#figure-search)  
-[Figure-to-SBGN](#figure-to-sbgn)  
-[Text-to-SBGN](#text-to-sbgn)  
 [Pathway databases](#pathway-databases)  
 
 
 In the context of developing disease maps, "knowledge formalisation" refers to the practice of transforming textual information and figures in publications to the structured format of the [Systems Biology Graphical Notation](https://sbgn.github.io/) (SBGN) standard ([PMID: 19668183](https://www.ncbi.nlm.nih.gov/pubmed/19668183)). Scattered information about disease mechanisms from hundreds of scientific articles is integrated into a single conceptual disease model.
 
+### Text to SBGN
+
+This section is in preparation. 
+
+<!--
+How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
+-->
+
+### Figure to SBGN
+
+How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project accessible on the Systems Biology Graphical Notation website. The "γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression" diagram was created based on the [graphical abstract](https://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) from the paper by Ma et al, Cell, 2014 ([PMID: 25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)). Both Process Description and Activity Flow versions are available. 
+
 ### PubMed search
 
 To effiently search for articles of interest in PubMed, it is important to know basic search techniques for prioritising publications and focusing on a manageable number of highly relevant papers and then explore from there. 
 
-#### An example search for reviewging disease mechanisms
+#### An example search for reviewing disease mechanisms
 
 PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or the search query we have fewer search results and can choose a fairly small number of highly relevant publications to start from, so they can be selected and read.
 
@@ -41,7 +53,7 @@ The use of quotation marks allows to search for exact phrases when needed, for e
 
 "asthma mechanisms" OR "mechanisms of asthma"
 
-#### Search to confirm a connection or find a specific detail
+#### Search to confirm a connection or to find a specific detail
 
 Often the objective is not to systematically review for all relevant papers but to find out about a specific connection or a specific detail. For example, to find what site is phosphorylated during protein activation, it is enough to find a small number of publications with the required information. 
 
@@ -78,20 +90,8 @@ Figures in published articles are a special and very useful resource for develop
 
 [Cell SnapShot](https://www.cell.com/snapshots) is one more interesting resource with many useful visualisations including ones dedicated to various diseases. 
 
-### Figure to SBGN
-
-How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project accessible on the Systems Biology Graphical Notation website. The "γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression" diagram was created based on the [graphical abstract](https://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) from the paper by Ma et al, Cell, 2014 ([PMID: 25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)). Both Process Description and Activity Flow versions are available. 
-
-### Text to SBGN
-
-This section is in preparation. 
-
-<!--
-How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
--->
-
 ### Pathway databases
 
-Reusing information from well-curated pathway databases such as [Reactome](https://reactome.org/), [PANTHER](http://www.pantherdb.org/pathway/) and [KEGG](https://www.genome.jp/kegg/https://www.genome.jp/kegg/) is possible with additional contextualisation via confirmation with disease-related publications and updating the pathways if needed.
+Reusing information from well-curated pathway databases such as [Reactome](https://reactome.org/), [PANTHER](http://www.pantherdb.org/pathway/) and [KEGG](https://www.genome.jp/kegg/https://www.genome.jp/kegg/) is possible with additional contextualisation via confirmation with disease-related publications and modifying the original pathway if needed.
 
 
