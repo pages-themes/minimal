@@ -37,6 +37,8 @@ The use of quotation marks allows to search for exact phrases when needed, for e
 
 "asthma mechanisms" OR "mechanisms of asthma"
 
+After finding a good paper, a useful tactic is to explore related publication by finding at the bottomm of the page the "Similar articles" section and then clicking "See all similar articles".
+
 ### PMC full-text search
 
 In case of a very specific topic and limited information, there is an option to search in full-text papers in [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) (PMC). Please note that PMC has approximately 40% of full-text articles in comparison to the number of articles in PubMed. The differences between PubMed and PMC are explained in the review by Williamson & Minter, 2019 ([PMID: 30598645](https://pubmed.ncbi.nlm.nih.gov/30598645/)) and also discussed [here](https://www.nlm.nih.gov/bsd/difference.html). To compare the current content of PubMed and PMC,  please type “1800:2100[dp]” or “all[sb]” in the search bar. Since we are interested mainly in recent publications after 2010 (accessed 2022-11-16): search “2010:2100[dp]” in PubMed returns 14,934,340 articles (100%), and search “2010:2100[dp]” in PMC returns 6,053,618 full-text articles (40.53%).  
