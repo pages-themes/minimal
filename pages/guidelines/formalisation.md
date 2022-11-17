@@ -55,7 +55,7 @@ The use of quotation marks allows to search for exact phrases when needed, for e
 
 #### Search to confirm a connection or to find a specific detail
 
-Often the objective is not to systematically review for all relevant papers but to find out about a specific connection or a specific detail. For example, to find what site is phosphorylated during protein activation, it is enough to find a small number of publications with the required information. 
+Often the objective is not to systematically review all relevant publications but to find out about a specific connection or a specific detail. For example, to find what site is phosphorylated during protein activation, it is enough to find a small number of papers with the required information. 
 
 #### Search for related articles
 
