@@ -37,6 +37,8 @@ To effiently search for articles of interest in PubMed, it is important to know 
 
 PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the table below. With every new change in the search parameters or the search query we have fewer search results and can choose a fairly small number of highly relevant publications to start from, so they can be selected and read.
 
+**Table 1.** An example of optimising search query and search filters for finding and shortlisting relevant publications.
+
 | Search query | Filters | Search results |  
 |--------------|---------|----------------:|  
 | asthma mechanisms | no filters | 21,012 results |  
