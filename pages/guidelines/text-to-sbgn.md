@@ -24,6 +24,8 @@ These points are then converted to the SBGN diagram in CellDesigner:
 
 ![](../images/guidelines/PARK2.png =x250)
 
+![](../images/guidelines/PARK2.png){ width=50% }
+
 ![](../images/guidelines/PARK2.png)
 
 <img src="../images/guidelines/PARK2.png" width="250" />
