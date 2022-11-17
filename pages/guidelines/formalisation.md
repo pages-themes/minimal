@@ -7,7 +7,7 @@ permalink: /formalisation
 # Knowledge formalisation
 
 [PubMed search](#pubmed-search)  
-[PMC full-text search](#pmc-full-text-search)
+[PMC full-text search](#pmc-full-text-search)  
 [Reference manager](#reference-manager)  
 [Figure search](#figure-search)  
 [Figure-to-SBGN](#figure-to-sbgn)  
