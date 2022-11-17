@@ -13,17 +13,21 @@ permalink: /formalisation2
 [Reference manager](#reference-manager)  
 [Figure search](#figure-search)  
 [Pathway databases](#pathway-databases)  
-
-[PubMed search](#pubmed-search)  
-[PMC full-text search](#pmc-full-text-search)  
-[Reference manager](#reference-manager)  
-[Figure search](#figure-search)  
-[Figure-to-SBGN](#figure-to-sbgn)  
-[Text-to-SBGN](#text-to-sbgn)  
-[Pathway databases](#pathway-databases)  
-
+  
 
 In the context of developing disease maps, "knowledge formalisation" refers to the practice of transforming textual information and figures in publications to the structured format of the [Systems Biology Graphical Notation](https://sbgn.github.io/) (SBGN) standard ([PMID: 19668183](https://www.ncbi.nlm.nih.gov/pubmed/19668183)). Scattered information about disease mechanisms from hundreds of scientific articles is integrated into a single conceptual disease model.
+
+### Text to SBGN
+
+This section is in preparation. 
+
+<!--
+How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
+-->
+
+### Figure to SBGN
+
+How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project accessible on the Systems Biology Graphical Notation website. The "γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression" diagram was created based on the [graphical abstract](https://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) from the paper by Ma et al, Cell, 2014 ([PMID: 25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)). Both Process Description and Activity Flow versions are available. 
 
 ### PubMed search
 
@@ -89,14 +93,6 @@ Figures in published articles are a special and very useful resource for develop
 ### Figure to SBGN
 
 How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project accessible on the Systems Biology Graphical Notation website. The "γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression" diagram was created based on the [graphical abstract](https://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) from the paper by Ma et al, Cell, 2014 ([PMID: 25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)). Both Process Description and Activity Flow versions are available. 
-
-### Text to SBGN
-
-This section is in preparation. 
-
-<!--
-How to draw an initial diagram based on the text, how to examine the diagram and ask questions, how to identify missing information (missing transport when connectors cross subcellular locations, unclear state of an active enzyme - phosphorylated, maybe dimer), and how to find missing information in other publications.
--->
 
 ### Pathway databases
 
@@ -190,10 +186,6 @@ Figures in published articles are a special and very useful resource for develop
 [Google Images](https://images.google.com/) is another efficient and convenient search. For example, search for "asthma mechanisms" will immediately offer relevant images from scientific publications. Adding "nature.com" to the search will narrow it down to the publications in Nature journals. 
 
 [Cell SnapShot](https://www.cell.com/snapshots) is one more interesting resource with many useful visualisations including ones dedicated to various diseases. 
-
-### Figure to SBGN
-
-How to transform a static cartoon figure from a paper to a standard representation in SBGN is demonstrated in the ["Figure to SBGN"](https://sbgn.github.io/figuretosbgn) project accessible on the Systems Biology Graphical Notation website. The "γCaMKII shuttles Ca²⁺/CaM to the nucleus to trigger CREB phosphorylation and gene expression" diagram was created based on the [graphical abstract](https://www.sciencedirect.com/science/article/pii/S0092867414011684#fx1) from the paper by Ma et al, Cell, 2014 ([PMID: 25303525](http://www.ncbi.nlm.nih.gov/pubmed/25303525)). Both Process Description and Activity Flow versions are available. 
 
 ### Text to SBGN
 
