@@ -61,7 +61,7 @@ Often the objective is not to systematically review all relevant publications bu
 
 #### Search via related articles
 
-After finding a good paper, another useful tactic is to explore related publication by finding at the bottomm of the page the "Similar articles" section and then clicking "See all similar articles". 
+After finding a good paper, another useful tactic is to explore related publications by finding at the bottom of the page the “Similar articles” section and then clicking “See all similar articles”. 
 
 ### PMC full-text search
 
