@@ -47,7 +47,7 @@ PubMed search for "asthma mechanisms" (accessed 2022-11-16) is shown in the tabl
 | asthma[title] mechanisms | Article Type: Review, Publication Date: 5 years | 623 results |  
 | asthma[title] mechanisms[title] | Article Type: Review, Publication Date: 5 years | 63 results |  
 
-The search query itself can be made more sophisticated, especially with the use of the [Advanced Search](https://pubmed.ncbi.nlm.nih.gov/advanced/), though normally it is sufficient to use a combiation of Boolean operators AND, OR and NOT (must be entered in UPPERCASE), where AND is to be used for combined search of terms and OR for any of the listed terms, for example synonyms. Example query: 
+The search query itself can be made more sophisticated, especially with the use of the [Advanced Search](https://pubmed.ncbi.nlm.nih.gov/advanced/), though normally it is sufficient to use a combination of Boolean operators AND, OR and NOT (must be entered in UPPERCASE), where AND is to be used for combined search of terms and OR for any of the listed terms, for example synonyms. Example query: 
 
 asthma AND (mechanisms OR pathway OR pathways)
 
