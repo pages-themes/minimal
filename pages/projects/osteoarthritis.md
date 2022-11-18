@@ -61,13 +61,8 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </strong><br />Head of the Bioinformatics Core at the Luxembourg Centre for Systems Biomedicine<br /></td>
 </tr>
 <tr>
-<td><img src="../images/team/KonstantinCesnulevicius.jpg" alt="Konstantin Cesnulevicius" /></td>
-<td><strong>Konstantin Cesnulevicius, MD, PhD</strong><br /><strong>Heel GmbH, Germany
-</strong><br />Senior Medical Advisor Systems Biology/Systems Medicine, Department of Medical Affairs & Research<br /></td>
-</tr>
-<tr>
 <td><img src="../images/team/KathrinHemmer.jpg" alt="Kathrin Hemmer" /></td>
-<td><strong>Kathrin Hemmer, PhD</strong><br /><strong>Heel GmbH, Germany
+<td><strong>Kathrin Weyer, PhD</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Preclinical Project Manager, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
@@ -79,6 +74,11 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 <td><img src="../images/team/MyronSchultz.jpg" alt="Myron Schultz" /></td>
 <td><strong>Myron Schultz, MDipH</strong><br /><strong>Heel GmbH, Germany
 </strong><br />Head of Medicine, Department of Medical Affairs & Research<br /></td>
+</tr>
+<tr>
+<td><img src="../images/team/KonstantinCesnulevicius.jpg" alt="Konstantin Cesnulevicius" /></td>
+<td><strong>Konstantin Cesnulevicius, MD, PhD</strong><br /><strong>Heel GmbH, Germany
+</strong><br />Senior Medical Advisor Systems Biology/Systems Medicine, Department of Medical Affairs & Research<br /></td>
 </tr>
 <tr>
 <td><img src="../images/team/BerndSeilheimer.jpg" alt="Bernd Seilheimer" /></td>
