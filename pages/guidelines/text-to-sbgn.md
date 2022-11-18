@@ -6,7 +6,7 @@ permalink: /text-to-sbgn
 
 # Text to SBGN
 
-For this example we chose an article by Song and co-authors "Parkin promotes proteasomal degradation of p62: implication of selective vulnerability of neuronal cells in the pathogenesis of Parkinson's disease" published in Protein Cell in 2016 ([PMID: 26746706](https://pubmed.ncbi.nlm.nih.gov/26746706/)).
+For an example we chose the paper by Song and co-authors "Parkin promotes proteasomal degradation of p62: implication of selective vulnerability of neuronal cells in the pathogenesis of Parkinson's disease" published in Protein Cell in 2016 ([PMID: 26746706](https://pubmed.ncbi.nlm.nih.gov/26746706/)).
 
 The complete abstract text from PubMed for this paper is here:
 
