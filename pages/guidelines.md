@@ -6,13 +6,10 @@ permalink: /guidelines
 
 # Guidelines
 
-The provided guidelines are based on our collective experience of building representations of disease mechanisms, the work by Maria Kondratova and coauthors (Kondratova et al., 2018, [PMID:29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/)), descriptions of [published disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps). In each case, a resource is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.  
-Training materials and examples for different stages of map development are available at the following pages:
+The provided guidelines are based on our collective experience of building representations of disease mechanisms, the work by Maria Kondratova and coauthors (Kondratova et al., 2018, [PMID:29688383](https://pubmed.ncbi.nlm.nih.gov/29688383/)), descriptions of [published disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps). In each case, a resource is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.    
+Training materials and examples for different stages of map development are available at the following pages:  
 
 [Knowledge formalisation](../formalisation)  
-&nbsp; &nbsp; &nbsp; [Learning SBGN](https://sbgn.github.io/learning)  
-&nbsp; &nbsp; &nbsp; [Text to SBGN](../text-to-sbgn)  
-&nbsp; &nbsp; &nbsp; [Figure to SBGN](https://sbgn.github.io/figuretosbgn)  
 [Annotation](../annotation)  
 [Designing map architecture](../architecture)  
 <br />
