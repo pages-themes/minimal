@@ -10,7 +10,7 @@ This page lists published disease map projects and provides links to their homep
 
 **Table 1.** Published disease maps listed in reverse order according to their publication date (last update 2022 Nov 23).
 
-| Disease map name | Disease | Publication | Homepage | Online browsing |
+| Map name | Disease | Publication | Homepage | Online browsing |
 |------------------|---------|-------------|----------|-----------------|
 | RA-Atlas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Rheumatoid arthritis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Zerrouk et al., Front Syst Biol 2022](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full) | Not available | [MINERVA](https://ramap.uni.lu/minerva/) |  
 | CyFi-MAP | Cystic fibrosis | [Pereira et al., 2021](https://doi.org/10.1038/s41598-021-01618-3) | [https://cysticfibrosis..](https://cysticfibrosismap.github.io/) | [MINERVA](https://pathwaylab.elixir-luxembourg.org/minerva/index.xhtml?id=F508del_cp21) |  
