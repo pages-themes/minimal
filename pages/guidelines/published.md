@@ -12,7 +12,7 @@ This page lists published disease map projects and provides links to their homep
 
 | Map name | Disease | Publication | Homepage | Online browsing |
 |------------------|---------|-------------|----------|-----------------|
-| RA-Atlas | Rheumatoid arthritis &nbsp; | [Zerrouk et al., 2022](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full) | Not available | [MINERVA](https://ramap.uni.lu/minerva/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
+| RA-Atlas | Rheumatoid arthritis &nbsp; | [Zerrouk et al., 2022](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Not available | [MINERVA](https://ramap.uni.lu/minerva/) |  
 | CyFi-MAP | Cystic fibrosis | [Pereira et al., 2021](https://doi.org/10.1038/s41598-021-01618-3) | [https://cysticfibrosis..](https://cysticfibrosismap.github.io/) | [MINERVA](https://pathwaylab.elixir-luxembourg.org/minerva/index.xhtml?id=F508del_cp21) |  
 | COVID-19 Disease Map | COVID-19 | [Ostaszewski et al., 2021](https://doi.org/10.15252/msb.202110387) | [https://covid.pages..](https://covid.pages.uni.lu/) | [MINERVA](https://covid19map.elixir-luxembourg.org/minerva/) |  
 | AsthmaMap | Asthma | [Mazein et al., 2020](https://doi.org/10.1016/j.jaci.2020.11.032) | [https://asthma-map..](https://asthma-map.org/) | [MINERVA](https://asthma.uni.lu/minerva/) |  
