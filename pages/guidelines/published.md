@@ -23,5 +23,5 @@ This page lists published disease map projects and provides links to their homep
 | Parkinson’s Disease Map | Parkinson’s disease | [Fujita et al., Mol Neurobiol 2014](https://www.ncbi.nlm.nih.gov/pubmed/23832570) | [https://wwwen.uni.lu/..](https://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map) | [MINERVA](https://pdmap.uni.lu/minerva/) |  
 | AlzPathway | Alzheimer's disease | [Mizuno et al., BMC Syst Biol 2012](https://doi.org/10.1186/1752-0509-6-52) | [http://alzpathway.org](http://alzpathway.org/AlzPathway.html) | Payao** |  
 
-\* See RA-Atlas
-\*\* See the project homepage for links and instructions.
+\*See RA-Atlas.
+\*\*See the project homepage for links and instructions.
