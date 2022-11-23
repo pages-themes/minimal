@@ -12,7 +12,7 @@ This page lists published diseease map projects and provides links to their home
 
 | Disease map name | Disease | Publication | Homepage | Online browsing |
 |------------------|---------|-------------|----------|-----------------|
-| RA-Atlas | Rheumatoid arthritis | [Zerrouk et al., Front Syst Biol 2022](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full) | URL | URL |  
+| RA-Atlas | Rheumatoid arthritis | [Zerrouk et al., Front Syst Biol 2022](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full) | URL | [MINERVA](https://ramap.uni.lu/minerva/) |  
 | CyFi-MAP | Cystic fibrosis | [Pereira et al., Sci Rep 2021](https://doi.org/10.1038/s41598-021-01618-3) | [http://alzpathway.org](http://alzpathway.org/AlzPathway.html) | [https://cysticfibrosismap.github.io](https://cysticfibrosismap.github.io/) |  
 | COVID-19 Disease Map | COVID-19 | [Ostaszewski et al., Mol Syst Biol 2021](https://doi.org/10.15252/msb.202110387) | [https://covid.pages.uni.lu](https://covid.pages.uni.lu/) | [MINERVA](https://covid19map.elixir-luxembourg.org/minerva/) |  
 | AlzPathway | Alzheimer's disease | PubMed | [http://alzpathway.org](http://alzpathway.org/AlzPathway.html) | URL |  
