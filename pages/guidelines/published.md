@@ -12,6 +12,7 @@ This page lists published diseease map projects and provides links to their home
 
 | Disease map name | Disease | Publication | Homepage | Online browsing |
 |------------------|---------|-------------|----------|-----------------|
+| FluMap | Influenza A virus | [Zerrouk et al., Front. Syst. Biol., 2022](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full) | URL | URL |  
 | FluMap | Influenza A virus | PubMed | URL | URL |  
-| Parkinson’s Disease Map | Parkinson’s disease | [Fujita et al. Mol Neurobiol. 2014](https://www.ncbi.nlm.nih.gov/pubmed/23832570) | [URL](https://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map) | [MINERVA](https://pdmap.uni.lu/minerva/) |  
+| Parkinson’s Disease Map | Parkinson’s disease | [Fujita et al., Mol. Neurobiol., 2014](https://www.ncbi.nlm.nih.gov/pubmed/23832570) | [URL](https://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map) | [MINERVA](https://pdmap.uni.lu/minerva/) |  
 | AlzPathway | Alzheimer's disease | PubMed | URL | URL |  
