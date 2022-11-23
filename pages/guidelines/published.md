@@ -24,6 +24,8 @@ This page lists published diseease map projects and provides links to their home
 | AlzPathway | Alzheimer's disease | PubMed | URL | URL |  
 | AlzPathway | Alzheimer's disease | PubMed | URL | URL |  
 | AlzPathway | Alzheimer's disease | PubMed | URL | URL |  
-| FluMap | Influenza A virus | [Matsuoka et al., BMC Syst Biol 2013](https://doi.org/10.1186/1752-0509-7-97) | [https://www.jst.go.jp/..](https://www.jst.go.jp/erato/kawaoka/flumap/index.html) | [iPathways+](http://ipathwaysplus.unit.oist.jp/W0Ff6IA) |  
+| FluMap | Influenza A virus | [Matsuoka et al., BMC Syst Biol 2013](https://doi.org/10.1186/1752-0509-7-97) | [https://www.jst.go.jp/..](https://www.jst.go.jp/erato/kawaoka/flumap/index.html) | iPathways+* |  
 | Parkinson’s Disease Map | Parkinson’s disease | [Fujita et al., Mol Neurobiol 2014](https://www.ncbi.nlm.nih.gov/pubmed/23832570) | [https://wwwen.uni.lu/..](https://wwwen.uni.lu/lcsb/research/parkinson_s_disease_map) | [MINERVA](https://pdmap.uni.lu/minerva/) |  
-| AlzPathway | Alzheimer's disease | [Mizuno et al., BMC Syst Biol 2012](https://doi.org/10.1186/1752-0509-6-52) | [http://alzpathway.org](http://alzpathway.org/AlzPathway.html) | [Payao](http://sblab.celldesigner.org:18080/Payao11/bin/) |  
+| AlzPathway | Alzheimer's disease | [Mizuno et al., BMC Syst Biol 2012](https://doi.org/10.1186/1752-0509-6-52) | [http://alzpathway.org](http://alzpathway.org/AlzPathway.html) | Payao* |  
+
+\*See the project homepage for links and instructions.
