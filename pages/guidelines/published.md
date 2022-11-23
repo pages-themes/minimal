@@ -8,7 +8,7 @@ permalink: /published
 
 This page lists published diseease map projects and provides links to their homepages and browsable online maps. 
 
-**Table 1.** Published disease maps listed in reverse order according to their publication date. Last updated 23-11-2022.
+**Table 1.** Published disease maps listed in reverse order according to their publication date (last update 23-11-2022).
 
 | Disease map name | Disease | Publication | Homepage | Online browsing |
 |------------------|---------|-------------|----------|-----------------|
