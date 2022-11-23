@@ -1,10 +1,10 @@
 ---
-title: Published disease maps
+title: Published maps
 layout: default
 permalink: /published
 ---
 
-# Published maps
+# Published disease maps
 
 This page lists published disease map projects and provides links to their homepages and browsable online maps. 
 
