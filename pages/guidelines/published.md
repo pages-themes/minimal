@@ -1,5 +1,5 @@
 ---
-title: Annotation
+title: Published disease maps
 layout: default
 permalink: /published
 ---
