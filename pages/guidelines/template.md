@@ -8,6 +8,18 @@ permalink: /template
 
 ![[download](../downloads/template.docx)](../images/guidelines/docx_icon.svg){:width="28"} &nbsp; [Download Template](../downloads/template.docx)
 
+<table>
+    <tr>
+      <td style="width: 30px;" align="center"><a href="../downloads/template.docx"><img src="../images/guidelines/docx_icon.svg" style="border: #c6c6c6 1px solid; width: 28px;"/></a></td>
+      <td style="vertical-align:middle"> <a href="../downloads/template.docx"> &nbsp; Download template</a>
+</font> </td>
+    </tr>
+</table>
+
+<!--
+<td style="vertical-align:middle"> ... </td>
+-->
+
 This document is intended as a template for planning the content of a disease map. It can be adjusted to a specifc case depending on the topic, project objectives and input from domain experts. The overal purpose of this document is to help to start map development by focusing on priority pathways and by quickly organising initial information. It can be maintained throughout the project or discontinued as soon as more advanced management tools are used, for example, a map in MINERVA with a possibility of exporting all molecules and interactions included, analytical tools, Neo4j Graph Database for advanced access and management, list of pathways included, etc.
 
 ### Table of contents
