@@ -8,7 +8,7 @@ permalink: /template
 
 ![](../images/guidelines/docx_icon.svg){:width="24"} &nbsp; [Download Template](../downloads/template.docx)
 
-This document is intended as a template for planning a disease map project. It can be adjusted to a specifc case depending on the topic, project objectives and input from domain experts. The overal purpose of this document is to help to start map development by focusing on priority pathways and by quickly organising initial information. It can be maintained throughout the project or discontinued as soon as more advanced management tools are used, for example, a map in MINERVA with a possibility of exporting all molecules and interactions included, analytical tools, Neo4j Graph Database for advanced access and management, list of pathways included, etc.
+This document is intended as a template for planning the content of a disease map. It can be adjusted to a specifc case depending on the topic, project objectives and input from domain experts. The overal purpose of this document is to help to start map development by focusing on priority pathways and by quickly organising initial information. It can be maintained throughout the project or discontinued as soon as more advanced management tools are used, for example, a map in MINERVA with a possibility of exporting all molecules and interactions included, analytical tools, Neo4j Graph Database for advanced access and management, list of pathways included, etc.
 
 ### Table of contents
 
