@@ -9,11 +9,10 @@ permalink: /template
 ![[download](../downloads/template.docx)](../images/guidelines/docx_icon.svg){:width="28"} &nbsp; [Download template in .docx format](../downloads/template.docx)
 
 <table>
-    <tr>
-      <td style="width: 30px;" align="center"><a href="../downloads/template.docx"><img src="../images/guidelines/docx_icon.svg" style="width: 28px;"/></a></td>
-      <td style="vertical-align:middle"> <a href="../downloads/template.docx"> Download template</a>
-</font> </td>
-    </tr>
+<tr>
+<td style="width: 30px;" align="center"><a href="../downloads/template.docx"><img src="../images/guidelines/docx_icon.svg" style="width: 28px;"/></a></td>
+<td style="vertical-align:middle"> <a href="../downloads/template.docx"> Download template</a></td>
+</tr>
 </table>
 
 <!--
