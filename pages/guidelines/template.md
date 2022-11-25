@@ -6,7 +6,7 @@ permalink: /template
 
 # Map ontology template
 
-![[download](../downloads/template.docx)](../images/guidelines/docx_icon.svg){:width="28"} &nbsp; [Download Template](../downloads/template.docx)
+![[download](../downloads/template.docx)](../images/guidelines/docx_icon.svg){:width="28"} &nbsp; [Download template in .docx format](../downloads/template.docx)
 
 <table>
     <tr>
