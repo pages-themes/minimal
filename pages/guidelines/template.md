@@ -21,7 +21,7 @@ This document is intended as a template for planning the content of a disease ma
 
 ### Table of contents
 
-[Suggested search terms](#suggested-search-terms)  
+[Search terms](#search-terms)  
 [Disease identifiers](#disease-identifiers)  
 [Related diseases](#related-diseases)  
 [Disease subtypes](#disease-subtypes)  
@@ -33,7 +33,7 @@ This document is intended as a template for planning the content of a disease ma
 [Outcomes](#outcomes)  
 [Treatment](#treatment)  
 
-### Suggested search terms
+### Search terms
 
 Here we collect search terms suggested by the experts or identified while reading key review papers.
 
