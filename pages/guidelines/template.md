@@ -17,12 +17,6 @@ permalink: /template
 </tr>
 </table>
 
-<!--
-<td style="vertical-align:middle"> ... </td>
--->
-
-# Map ontology template
-
 This document is intended as a template for planning the content of a disease map. It can be adjusted to a specific project depending on the topic, objectives and input from domain experts. The overall purpose of this document is to initiate a quick start of map development by focusing on priority pathways and by conveniently organising initial information. It can be maintained throughout the project or discontinued when more advanced management tools are employed, for example, a map in MINERVA with a possibility of exporting all molecules and interactions, analytical tools, Neo4j graph database for advanced access and management, etc.
 
 ### Table of contents
