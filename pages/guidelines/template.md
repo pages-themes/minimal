@@ -21,21 +21,27 @@ permalink: /template
 <td style="vertical-align:middle"> ... </td>
 -->
 
-This document is intended as a template for planning the content of a disease map. It can be adjusted to a specifc case depending on the topic, project objectives and input from domain experts. The overal purpose of this document is to help to start map development by focusing on priority pathways and by quickly organising initial information. It can be maintained throughout the project or discontinued as soon as more advanced management tools are used, for example, a map in MINERVA with a possibility of exporting all molecules and interactions included, analytical tools, Neo4j Graph Database for advanced access and management, list of pathways included, etc.
+# Map ontology template
+
+This document is intended as a template for planning the content of a disease map. It can be adjusted to a specific project depending on the topic, objectives and input from domain experts. The overall purpose of this document is to initiate a quick start of map development by focusing on priority pathways and by conveniently organising initial information. It can be maintained throughout the project or discontinued when more advanced management tools are employed, for example, a map in MINERVA with a possibility of exporting all molecules and interactions, analytical tools, Neo4j graph database for advanced access and management, etc.
 
 ### Table of contents
 
-Disease identifiers
-Related diseases
-Suggested search terms
-Organs, tissues and cell types involved
-Pathways involved
-Molecules involved
-Aetiology
-Disease mechanisms: modules/hallmarks to include
-Outcomes
-Treatment
-Recovery mechanisms
+[Suggested search terms](#suggested-searchterms)  
+Disease identifiers  
+Related diseases  
+Disease subtypes  
+Cell types involved  
+Pathways involved  
+Molecules involved  
+Modules/hallmarks  
+Causes  
+Outcomes  
+Treatment  
+
+### Suggested search terms
+
+Here we collect search terms suggested by the experts or identified while reading key review papers.
 
 ### Disease identifiers
 
@@ -43,40 +49,36 @@ Disease identifiers can be searched via the Disease Ontology (https://disease-on
 
 ### Related diseases
 
-Working with diseese identifiers might help to determine the focus of the map, explore related diseases and comorbidies. For example, for asthma, related diseases are chronic obstructive pulmonary disease (COPD) and obesity, and also the diseases of the “atopic march” - progression from atopic dermatitis to allergic rhinitis and asthma. Parasite infections can be studied in connection to asthma to understand the role of Immunoglobulin E (IgE) in asthma. Knowing the topic in perspective can lead to interesting hypotheses and collaborative projects. 
+Working with disease identifiers might help to determine the focus of the map, explore related diseases and comorbidities. For example, for asthma, related diseases are chronic obstructive pulmonary disease (COPD) and obesity, and also the diseases of the “atopic march” - progression from atopic dermatitis to allergic rhinitis and asthma. Parasite infections can be studied in connection to asthma to understand the role of Immunoglobulin E (IgE) in asthma. Knowing the topic in perspective can lead to interesting hypotheses and collaborations. 
 
-### Suggested search terms
+### Disease subtypes
 
-List of initial search terms suggested by the experts or identified after reading key review papers.
+This section lists disease phenotypes (observable characteristics, without direct implication of specific mechanisms) and, if such information available, endotypes (distinct molecular mechanisms), discussed in the literature and suggested by domain experts.
 
-### Organs, tissues and cell types involved
+### Cell types involved
 
-Text
+This section helps to gradually build a list of tissues and cell types involved in disease mechanisms, with the corresponding collection of evidence in publications.
 
 ### Pathways involved
 
-At initial stages it is important to identify priority pathways to start developing the map while more information is collected and the mad design is determined.
+At initial stages it is important to identify priority pathways to start developing the first version of the map while more information is collected and the design of the map is determined.
 
-### Molecules involved
+### Molecules involved  
 
-Molecules involved can be found and prioritised accournding to the literature. Also, databases such as Open Targets Platform (https://platform.opentargets.org). For example, for allergic asthma: https://platform.opentargets.org/disease/MONDO_0004784/associations.
+Molecules involved can be found in the literature and prioritised according to their role in the disease. Databases such as Open Targets Platform (https://platform.opentargets.org) can be used. For example, for allergic asthma: https://platform.opentargets.org/disease/MONDO_0004784/associations.
 
-### Aetiology
+### Modules/hallmarks
 
-Text
+This section helps planning larger-scale building blocks (map modules) that reflect hallmarks of a disease. For example modules of the Atlas of Cancer Signalling Networks ACSN) include angiogenesis, innate immunity, adaptive immunity, regulated cell death, cancer-associated fibroblast, etc. (https://acsn.curie.fr/ACSN2/downloads.html). For learning more about the concept of disease hallmarks, please review “The hallmarks of cancer” (Hanahan & Weinberg, 2000, PMID: 10647931) and “Hallmarks of cancer: the next generation” (Hanahan & Weinberg, 2011, PMID: 21376230). Modules can also be shaped according to the role of different cell types involved.
 
-### Disease mechanisms: modules/hallmarks to include
+### Causes
 
-Text
+Information about disease aetiology helps to reconstruct the order of molecular events and to organise map modules.
 
 ### Outcomes
 
-Text
+Similarly to the “Causes” section, listing disease outcomes helps to reconstruct the order of molecular events and to organise map modules. Often disease outcomes are visualised as phenotype entities in diagrams. For example: bronchospasm, hyperplasia, airway inflammation, airflow obstruction, fibrosis, plasma leakage in the AsthmaMap top-level view version 1.2.02 (https://asthma-map.org/ci3)
 
 ### Treatment
 
-Relevant treatment is to be llisted, especially medication that is routinely prescribed, continuously used by patients and therefore is likely to affect disease mechanisms.
-
-### Recovery mechanisms
-
-Text
+Relevant treatment is to be listed, especially medications that are routinely prescribed and continuously used by patients. The effects of drugs can be included in the description of disease mechanisms.
