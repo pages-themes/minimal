@@ -43,7 +43,7 @@ Disease identifiers can be searched via the [Disease Ontology](https://disease-o
 
 ### Related diseases
 
-Working with disease identifiers might help to determine the focus of the map, explore related diseases and comorbidities. For example, for asthma, related diseases are chronic obstructive pulmonary disease (COPD) and obesity, and also the diseases of the “atopic march” - progression from atopic dermatitis to allergic rhinitis and asthma. Parasite infections can be studied in connection to asthma to understand the role of immunoglobulin E in asthma. Knowing the topic in perspective can lead to interesting hypotheses and collaborations. 
+Working with disease identifiers might help to determine the focus of the map and connect related diseases and comorbidities. For example, for asthma, related diseases are chronic obstructive pulmonary disease (COPD) and obesity, and also the diseases of the “atopic march” - progression from atopic dermatitis to allergic rhinitis and asthma. Parasite infections can be studied in connection to asthma to understand the role of immunoglobulin E (IgE) in asthma. Exploring these aspects can lead to interesting hypotheses and collaborations.  
 
 ### Disease subtypes
 
