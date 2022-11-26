@@ -35,7 +35,7 @@ This document is intended as a template for planning the content of a disease ma
 
 ### Search terms
 
-Here we collect search terms suggested by the experts or identified while reading key review papers. Example search queries are provided on the [Knowledge formalisation](https://disease-maps.org/formalisation#pubmed-search) page.
+Here we collect search terms suggested by the experts or identified while reading key review papers. Example search queries are provided on the [knowledge formalisation](https://disease-maps.org/formalisation#pubmed-search) page.
 
 ### Disease identifiers
 
