@@ -45,7 +45,7 @@ Here we collect search terms suggested by the experts or identified while readin
 
 ### Disease identifiers
 
-Disease identifiers can be searched via the Disease Ontology (https://disease-ontology.org). For example, for asthma: DOID:2841, EFO:0000270, GARD:10246, ICD10CM:J45, ICD9CM:493, KEGG:05310, MESH:D001249, NCI:C28397, OMIM:600807, UMLS_CUI:C0004096. For allergic asthma as a subtype of asthma: DOID:9415, ICD10CM:J45, ICD9CM:493.0, UMLS_CUI:C0155877. 
+Disease identifiers can be searched via the [Disease Ontology](https://disease-ontology.org). For example, for asthma: DOID:2841, EFO:0000270, GARD:10246, ICD10CM:J45, ICD9CM:493, KEGG:05310, MESH:D001249, NCI:C28397, OMIM:600807, UMLS_CUI:C0004096. For allergic asthma as a subtype of asthma: DOID:9415, ICD10CM:J45, ICD9CM:493.0, UMLS_CUI:C0155877. 
 
 ### Related diseases
 
@@ -65,11 +65,11 @@ At initial stages it is important to identify priority pathways to start develop
 
 ### Molecules involved  
 
-Molecules involved can be found in the literature and prioritised according to their role in the disease. Databases such as Open Targets Platform (https://platform.opentargets.org) can be used. For example, for allergic asthma: https://platform.opentargets.org/disease/MONDO_0004784/associations.
+Molecules involved can be found in the literature and prioritised according to their role in the disease. Databases such as [Open Targets Platform](https://platform.opentargets.org) can be used. For example, for allergic asthma: [MONDO_0004784](https://platform.opentargets.org/disease/MONDO_0004784/associations).
 
 ### Modules/hallmarks
 
-This section helps planning larger-scale building blocks (map modules) that reflect hallmarks of a disease. For example modules of the Atlas of Cancer Signalling Networks ACSN) include angiogenesis, innate immunity, adaptive immunity, regulated cell death, cancer-associated fibroblast, etc. (https://acsn.curie.fr/ACSN2/downloads.html). For learning more about the concept of disease hallmarks, please review “The hallmarks of cancer” (Hanahan & Weinberg, 2000, PMID: 10647931) and “Hallmarks of cancer: the next generation” (Hanahan & Weinberg, 2011, PMID: 21376230). Modules can also be shaped according to the role of different cell types involved.
+This section helps planning larger-scale building blocks (map modules) that reflect hallmarks of a disease. For example modules of the [Atlas of Cancer Signalling Networks](https://acsn.curie.fr/ACSN2/downloads.html) (ACSN) include angiogenesis, innate immunity, adaptive immunity, regulated cell death, cancer-associated fibroblast, etc. For learning more about the concept of disease hallmarks, please review “The hallmarks of cancer” (Hanahan & Weinberg, 2000, [PMID: 10647931](https://pubmed.ncbi.nlm.nih.gov/10647931/)) and “Hallmarks of cancer: the next generation” (Hanahan & Weinberg, 2011, [PMID: 21376230](https://pubmed.ncbi.nlm.nih.gov/21376230/)). Modules can also be shaped according to the role of different cell types involved.
 
 ### Causes
 
@@ -77,7 +77,7 @@ Information about disease aetiology helps to reconstruct the order of molecular 
 
 ### Outcomes
 
-Similarly to the “Causes” section, listing disease outcomes helps to reconstruct the order of molecular events and to organise map modules. Often disease outcomes are visualised as phenotype entities in diagrams. For example: bronchospasm, hyperplasia, airway inflammation, airflow obstruction, fibrosis, plasma leakage in the AsthmaMap top-level view version 1.2.02 (https://asthma-map.org/ci3)
+Similarly to the “Causes” section, listing disease outcomes helps to reconstruct the order of molecular events and to organise map modules. Often disease outcomes are visualised as phenotype entities in diagrams. For example: bronchospasm, hyperplasia, airway inflammation, airflow obstruction, fibrosis, plasma leakage in the AsthmaMap top-level view [Version 1.2.02](https://asthma-map.org/ci3).
 
 ### Treatment
 
