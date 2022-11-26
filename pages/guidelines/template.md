@@ -27,17 +27,17 @@ This document is intended as a template for planning the content of a disease ma
 
 ### Table of contents
 
-[Suggested search terms](#suggested-searchterms)  
-Disease identifiers  
-Related diseases  
-Disease subtypes  
-Cell types involved  
-Pathways involved  
-Molecules involved  
-Modules/hallmarks  
-Causes  
-Outcomes  
-Treatment  
+[Suggested search terms](#suggested-search-terms)  
+[Disease identifiers](#disease-identifiers)  
+[Related diseases](#related-diseases)  
+[Disease subtypes](#disease-subtypes)  
+[Cell types involved](#cell-types-involved)  
+[Pathways involved](#pathways-involved)  
+[Molecules involved](#molecules-involved)  
+[Modules/hallmarks](#modules-hallmarks)  
+[Causes](#causes)  
+[Outcomes](#outcomes)  
+[Treatment](#treatment)  
 
 ### Suggested search terms
 
