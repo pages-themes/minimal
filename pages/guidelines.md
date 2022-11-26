@@ -10,6 +10,7 @@ The provided guidelines are based on our collective experience of building repre
 
 Training materials and examples for different stages of map development are available at the following pages:  
 
+[Map ontology template](../template)  
 [Knowledge formalisation](../formalisation)  
 [Annotation](../annotation)  
 [Designing map architecture](../architecture)  
