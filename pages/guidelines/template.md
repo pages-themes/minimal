@@ -71,7 +71,7 @@ Information about disease aetiology helps to reconstruct the order of molecular 
 
 ### Outcomes
 
-Similarly to the “Causes” section, listing disease outcomes helps to reconstruct the order of molecular events and to organise map modules. Often disease outcomes are visualised as phenotype entities in diagrams. For example: bronchospasm, hyperplasia, airway inflammation, airflow obstruction, fibrosis, plasma leakage in the AsthmaMap top-level view [Version 1.2.02](https://asthma-map.org/ci3).
+Similarly to the “Causes” section, listing disease outcomes helps to reconstruct the order of molecular events and to organise map modules. Often disease outcomes are visualised as phenotype entities in diagrams. For example: bronchospasm, hyperplasia, airway inflammation, airflow obstruction, fibrosis, plasma leakage in the AsthmaMap top-level view [version 1.2.02](https://asthma-map.org/ci3).
 
 ### Treatment
 
