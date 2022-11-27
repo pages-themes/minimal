@@ -23,7 +23,7 @@ This document is intended as a template for planning the content of a disease ma
 
 [Map purpose](#map-purpose)  
 [Scope](#scope)  
-[Level of granularity](#level-of-granularity)  
+[Granularity](#granularity)  
 [Domain experts](#domain-experts)   
 [Sustainability plan](#sustainability-plan)  
 [Resources](#resources)  
@@ -48,7 +48,7 @@ This section should highlight motivation for map development and intended applic
 
 Initial description of what the scope of the map might be and what would be sufficient to include in the first version.
 
-### Level of granularity
+### Granularity
 
 It is possible to choose from Process Description (most detailed), Activity Flow (middle level of details) and top-level view in Activity Flow (minimal details and many omitted interactions). The top-level view often takes the form of a cellular interaction diagram, especially for immune system disorders (for example, https://asthma-map.org/ci).
 
