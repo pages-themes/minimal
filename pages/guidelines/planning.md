@@ -13,7 +13,7 @@ permalink: /planning
 <table>
 <tr>
 <td style="width: 32px;" align="center"><a href="../downloads/planningtemplate.docx"><img src="../images/guidelines/docx_icon.svg" style="width: 32px;"/></a></td>
-<td style="vertical-align:middle"> <a href="../downloads/template.docx">Download template</a></td>
+<td style="vertical-align:middle"> <a href="../downloads/planningtemplate.docx">Download template</a></td>
 </tr>
 </table>
 
