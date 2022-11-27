@@ -50,7 +50,7 @@ Initial description of what the scope of the map might be and what would be suff
 
 ### Granularity
 
-It is possible to choose from Process Description (most detailed), Activity Flow (middle level of details) and top-level view in Activity Flow (minimal details and many omitted interactions). The top-level view often takes the form of a cellular interaction diagram, especially for immune system disorders (for example, https://asthma-map.org/ci).
+It is possible to choose from Process Description (most detailed), Activity Flow (middle level of details) and top-level view in Activity Flow (minimal details and many omitted interactions). The top-level view often takes the form of a cellular interaction diagram, especially for immune system disorders (for example, [AsthmaMap Cellular Interactions](https://asthma-map.org/ci)).
 
 ### Domain experts
 
