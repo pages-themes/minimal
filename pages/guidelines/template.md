@@ -4,7 +4,7 @@ layout: default
 permalink: /template
 ---
 
-# Map ontology template
+# Map planning template
 
 <!--
 ![[download](../downloads/template.docx)](../images/guidelines/docx_icon.svg){:width="28"} &nbsp; [Download template in .docx format](../downloads/template.docx)
