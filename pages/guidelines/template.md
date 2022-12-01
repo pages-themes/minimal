@@ -48,7 +48,7 @@ This section outlines main decisions for map setup including map purpose, its sc
 
 ### Development team
 
-Please list authors of the map, with names, affiliations, ORCIDs and contact emails. Please mark the contact details of the lead developer.
+Please list authors of the map, with names, affiliations, ORCIDs and contact emails. Please mark contact details of the lead developer.
 
 ### Domain experts
 
