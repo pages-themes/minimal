@@ -19,7 +19,7 @@ permalink: /template
 
 This document is intended as a template for planning the content of a disease map. It can be adjusted to a specific project depending on the topic, objectives and input from domain experts. The overall purpose of this document is to initiate a quick start of map development by focusing on priority pathways and by conveniently organising initial information. It can be maintained throughout the project or discontinued when more advanced management tools are employed, for example, a map in MINERVA with a possibility of exporting all molecules and interactions, analytical tools, Neo4j graph database for advanced access and management, etc.
 
-### Table of contents
+## Table of contents
 
 [Map setup](#map-setup)  
 &nbsp; &nbsp; &nbsp; [Map purpose](#map-purpose)  
@@ -91,11 +91,11 @@ Working with disease identifiers might help to determine the focus of the map an
 
 ### Disease subtypes
 
-This section lists disease phenotypes (observable characteristics, without direct implication of specific mechanisms) and, if such information available, endotypes (distinct molecular mechanisms), discussed in the literature and suggested by domain experts.
+This section lists disease phenotypes (observable characteristics, without direct implication of specific mechanisms) and, if such information available, endotypes (distinct molecular mechanisms), discussed in the literature and suggested by domain experts.  
 
-## Map content
+## Map content  
 
-Text
+Text  
 
 ### Cell types involved
 
