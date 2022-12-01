@@ -21,24 +21,33 @@ This document is intended as a template for planning the content of a disease ma
 
 ### Table of contents
 
-[Map purpose](#map-purpose)  
-[Scope](#scope)  
-[Granularity](#granularity)  
-[Domain experts](#domain-experts)   
-[Sustainability plan](#sustainability-plan)  
-[Resources](#resources)  
-[Search terms](#search-terms)  
-[Disease identifiers](#disease-identifiers)  
-[Related diseases](#related-diseases)  
-[Disease subtypes](#disease-subtypes)  
-[Cell types involved](#cell-types-involved)  
-[Pathways involved](#pathways-involved)  
-[Molecules involved](#molecules-involved)  
-[Modules/hallmarks](#modules-hallmarks)  
-[Causes](#causes)  
-[Outcomes](#outcomes)  
-[Treatment](#treatment)  
-[Recovery mechanisms](#recovery-mechanisms)
+[Map setup](#)
+&nbsp; &nbsp; &nbsp; [Map purpose](#map-purpose)  
+&nbsp; &nbsp; &nbsp; [Scope](#scope)  
+&nbsp; &nbsp; &nbsp; [Granularity](#granularity)  
+&nbsp; &nbsp; &nbsp; [Domain experts](#domain-experts)   
+&nbsp; &nbsp; &nbsp; [Sustainability plan](#sustainability-plan)  
+&nbsp; &nbsp; &nbsp; [Resources](#resources)  
+[](#)
+&nbsp; &nbsp; &nbsp; [Disease search terms](#disease-search-terms)  
+&nbsp; &nbsp; &nbsp; [Disease identifiers](#disease-identifiers)  
+&nbsp; &nbsp; &nbsp; [Related diseases](#related-diseases)  
+&nbsp; &nbsp; &nbsp; [Disease subtypes](#disease-subtypes) 
+[](#)
+&nbsp; &nbsp; &nbsp; [Cell types involved](#cell-types-involved)  
+&nbsp; &nbsp; &nbsp; [Pathways involved](#pathways-involved)  
+&nbsp; &nbsp; &nbsp; [Molecules involved](#molecules-involved)  
+&nbsp; &nbsp; &nbsp; [Modules/hallmarks](#modules-hallmarks)  
+[](#)
+&nbsp; &nbsp; &nbsp; [Causes](#causes)  
+&nbsp; &nbsp; &nbsp; [Outcomes](#outcomes)  
+[](#)
+&nbsp; &nbsp; &nbsp; [Treatment](#treatment)  
+&nbsp; &nbsp; &nbsp; [Recovery mechanisms](#recovery-mechanisms)
+
+## Map setup
+
+Text
 
 ### Map purpose
 
@@ -64,7 +73,11 @@ The sustainability plan should include map storage and online access, map mainte
 
 This section describes resources available for the map development, or, if at a proposal stage - resources required. It is important to make sure that adequate resources are allocated. An initial estimation can be one researcher for two years but it depends on the topic, the scope, the level of granularity, availability of domain experts involved, sustainability plan and intended applications such as possible computational modelling and hypothesis verification experiments. Expected expertise of map developers: biology, bioinformatics or other related fields. 
 
-### Search terms
+## Map content planning
+
+Text
+
+### Disease search terms
 
 Here we collect search terms suggested by the experts or identified while reading key review papers. Example search queries are provided on the [knowledge formalisation](https://disease-maps.org/formalisation#pubmed-search) page.
 
@@ -96,6 +109,10 @@ Molecules involved can be found in the literature and prioritised according to t
 
 This section helps to plan larger-scale building blocks (map modules) that reflect hallmarks of a disease. For example modules of the [Atlas of Cancer Signalling Networks](https://acsn.curie.fr/ACSN2/downloads.html) (ACSN) include angiogenesis, innate immunity, adaptive immunity, regulated cell death, cancer-associated fibroblast, etc. For learning more about the concept of disease hallmarks, please review “The hallmarks of cancer” (Hanahan & Weinberg, 2000, [PMID: 10647931](https://pubmed.ncbi.nlm.nih.gov/10647931/)) and “Hallmarks of cancer: the next generation” (Hanahan & Weinberg, 2011, [PMID: 21376230](https://pubmed.ncbi.nlm.nih.gov/21376230/)). Modules can also be shaped according to the role of different cell types involved.
 
+## Couses and outcomes
+
+This part focuses on a larger-scale physiological-level penomena that in diagrams are normally present in the form of phenotype entities.
+
 ### Causes
 
 Information about disease aetiology helps to reconstruct the order of molecular events and to organise map modules.
@@ -103,6 +120,10 @@ Information about disease aetiology helps to reconstruct the order of molecular 
 ### Outcomes
 
 Similarly to the “Causes” section, listing disease outcomes helps to reconstruct the order of molecular events and to organise map modules. Often disease outcomes are visualised as phenotype entities in diagrams. For example: bronchospasm, hyperplasia, airway inflammation, airflow obstruction, fibrosis, plasma leakage in the AsthmaMap top-level view [version 1.2.02](https://asthma-map.org/ci3).
+
+## Treatment and recovery
+
+Text
 
 ### Treatment
 
