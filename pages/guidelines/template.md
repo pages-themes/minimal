@@ -32,7 +32,7 @@ This document is intended as a template for planning the content of a disease ma
 &nbsp; &nbsp; &nbsp; [Disease search terms](#disease-search-terms)  
 &nbsp; &nbsp; &nbsp; [Disease identifiers](#disease-identifiers)  
 &nbsp; &nbsp; &nbsp; [Related diseases](#related-diseases)  
-&nbsp; &nbsp; &nbsp; [Disease subtypes](#disease-subtypes) 
+&nbsp; &nbsp; &nbsp; [Disease subtypes](#disease-subtypes)  
 [Map content](#map-content)  
 &nbsp; &nbsp; &nbsp; [Cell types involved](#cell-types-involved)  
 &nbsp; &nbsp; &nbsp; [Pathways involved](#pathways-involved)  
