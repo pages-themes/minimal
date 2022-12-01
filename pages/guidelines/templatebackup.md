@@ -1,7 +1,7 @@
 ---
 title: Map ontology template
 layout: default
-permalink: /template
+permalink: /templatebackup
 ---
 
 # Map planning template
