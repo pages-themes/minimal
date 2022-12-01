@@ -47,7 +47,11 @@ This document is intended as a template for planning the content of a disease ma
 
 ## Map setup
 
-This section outlines main decisions for map setup inluding map purpose, its scope and the data model chosen.
+This section outlines main decisions for map setup including map purpose, its scope and the data model chosen.
+
+### Domain experts
+
+It is advised to have three-twelve members in the panel of domain experts involved in the map development, normally clinicians, immunologists and bench scientists. This way it is possible to develop a consensus view on disease mechanisms and shape a conceptual disease model adequately represented and practically applicable in preclinical research.
 
 ### Map purpose
 
@@ -60,10 +64,6 @@ Initial description of what the scope of the map might be and what would be suff
 ### Granularity
 
 It is possible to choose from Process Description (most detailed), Activity Flow (middle level of details) and top-level view in Activity Flow (minimal details and many omitted interactions). The top-level view often takes the form of a cellular interaction diagram, especially for immune system disorders (for example, [AsthmaMap Cellular Interactions](https://asthma-map.org/ci)).
-
-### Domain experts
-
-It is advised to have three-twelve members in the panel of domain experts involved in the map development, normally clinicians, immunologists and bench scientists. This way it is possible to develop a consensus view on disease mechanisms and shape a conceptual disease model adequately represented and practically applicable in preclinical research.
 
 ### Sustainability plan
 
