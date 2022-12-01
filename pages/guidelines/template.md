@@ -41,9 +41,9 @@ This document is intended as a template for planning the content of a disease ma
 [Causes and outcomes](#causes-and-outcomes)  
 &nbsp; &nbsp; &nbsp; [Causes](#causes)  
 &nbsp; &nbsp; &nbsp; [Outcomes](#outcomes)  
-[Treatment and recovery](#treatment-and-recovery)
+[Treatment and recovery](#treatment-and-recovery)  
 &nbsp; &nbsp; &nbsp; [Treatment](#treatment)  
-&nbsp; &nbsp; &nbsp; [Recovery mechanisms](#recovery-mechanisms)
+&nbsp; &nbsp; &nbsp; [Recovery mechanisms](#recovery-mechanisms)  
 
 ## Map setup
 
