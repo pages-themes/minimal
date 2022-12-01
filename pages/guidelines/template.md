@@ -1,7 +1,7 @@
 ---
 title: Planning template
 layout: default
-permalink: /planning
+permalink: /template
 ---
 
 # Planning template
@@ -21,27 +21,27 @@ This document is intended as a template for planning the content of a disease ma
 
 ### Table of contents
 
-[Map setup](#)
+[Map setup](#map-setup)
 &nbsp; &nbsp; &nbsp; [Map purpose](#map-purpose)  
 &nbsp; &nbsp; &nbsp; [Scope](#scope)  
 &nbsp; &nbsp; &nbsp; [Granularity](#granularity)  
 &nbsp; &nbsp; &nbsp; [Domain experts](#domain-experts)   
 &nbsp; &nbsp; &nbsp; [Sustainability plan](#sustainability-plan)  
 &nbsp; &nbsp; &nbsp; [Resources](#resources)  
-[](#)
+[Disease description](#disease-description)
 &nbsp; &nbsp; &nbsp; [Disease search terms](#disease-search-terms)  
 &nbsp; &nbsp; &nbsp; [Disease identifiers](#disease-identifiers)  
 &nbsp; &nbsp; &nbsp; [Related diseases](#related-diseases)  
 &nbsp; &nbsp; &nbsp; [Disease subtypes](#disease-subtypes) 
-[](#)
+[Map content](#map-content)
 &nbsp; &nbsp; &nbsp; [Cell types involved](#cell-types-involved)  
 &nbsp; &nbsp; &nbsp; [Pathways involved](#pathways-involved)  
 &nbsp; &nbsp; &nbsp; [Molecules involved](#molecules-involved)  
 &nbsp; &nbsp; &nbsp; [Modules/hallmarks](#modules-hallmarks)  
-[](#)
+[Causes and outcomes](#causes-and-outcomes)
 &nbsp; &nbsp; &nbsp; [Causes](#causes)  
 &nbsp; &nbsp; &nbsp; [Outcomes](#outcomes)  
-[](#)
+[Treatment and recovery](#treatment-and-recovery)
 &nbsp; &nbsp; &nbsp; [Treatment](#treatment)  
 &nbsp; &nbsp; &nbsp; [Recovery mechanisms](#recovery-mechanisms)
 
@@ -73,7 +73,7 @@ The sustainability plan should include map storage and online access, map mainte
 
 This section describes resources available for the map development, or, if at a proposal stage - resources required. It is important to make sure that adequate resources are allocated. An initial estimation can be one researcher for two years but it depends on the topic, the scope, the level of granularity, availability of domain experts involved, sustainability plan and intended applications such as possible computational modelling and hypothesis verification experiments. Expected expertise of map developers: biology, bioinformatics or other related fields. 
 
-## Map content planning
+## Disease description
 
 Text
 
@@ -92,6 +92,10 @@ Working with disease identifiers might help to determine the focus of the map an
 ### Disease subtypes
 
 This section lists disease phenotypes (observable characteristics, without direct implication of specific mechanisms) and, if such information available, endotypes (distinct molecular mechanisms), discussed in the literature and suggested by domain experts.
+
+## Map content
+
+Text
 
 ### Cell types involved
 
