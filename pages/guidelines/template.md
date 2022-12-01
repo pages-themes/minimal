@@ -22,10 +22,10 @@ This document is intended as a template for planning the content of a disease ma
 ## Table of contents
 
 [Map setup](#map-setup)  
+&nbsp; &nbsp; &nbsp; [Domain experts](#domain-experts)  
 &nbsp; &nbsp; &nbsp; [Map purpose](#map-purpose)  
 &nbsp; &nbsp; &nbsp; [Scope](#scope)  
-&nbsp; &nbsp; &nbsp; [Granularity](#granularity)  
-&nbsp; &nbsp; &nbsp; [Domain experts](#domain-experts)   
+&nbsp; &nbsp; &nbsp; [Granularity](#granularity)    
 &nbsp; &nbsp; &nbsp; [Sustainability plan](#sustainability-plan)  
 &nbsp; &nbsp; &nbsp; [Resources](#resources)  
 [Disease description](#disease-description)  
