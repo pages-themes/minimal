@@ -17,7 +17,8 @@ This document is intended as a template for planning the content of a disease ma
 
 ## Table of contents
 
-[Map setup](#map-setup)  
+[Map setup](#map-setup)
+&nbsp; &nbsp; &nbsp; [Development team](#development-team)  
 &nbsp; &nbsp; &nbsp; [Domain experts](#domain-experts)  
 &nbsp; &nbsp; &nbsp; [Map purpose](#map-purpose)  
 &nbsp; &nbsp; &nbsp; [Scope](#scope)  
@@ -44,6 +45,10 @@ This document is intended as a template for planning the content of a disease ma
 ## Map setup
 
 This section outlines main decisions for map setup including map purpose, its scope and the data model chosen.
+
+### Development team
+
+Please list authors of the map, with names, affiliations, ORCIDs and contact emails. Please mark the contact details of the lead developer.
 
 ### Domain experts
 
