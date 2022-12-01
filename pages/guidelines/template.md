@@ -47,7 +47,7 @@ This document is intended as a template for planning the content of a disease ma
 
 ## Map setup
 
-Text
+This section outlines main decisions for map setup inluding listing developers and experts involved, map purpose, its scope and the data model chosen.
 
 ### Map purpose
 
@@ -75,7 +75,7 @@ This section describes resources available for the map development, or, if at a 
 
 ## Disease description
 
-Text
+Disease identifiers and search terms help determininng the focus and put the topic in the context of related diseases and comorbidities.
 
 ### Disease search terms
 
@@ -95,7 +95,7 @@ This section lists disease phenotypes (observable characteristics, without direc
 
 ## Map content  
 
-Text  
+This part can be adjusted to a specific project and normally lists such map components as key molecules, pathways and cell types envolved, as well as outlines largere-scale modules planned.  
 
 ### Cell types involved
 
@@ -127,7 +127,7 @@ Similarly to the “Causes” section, listing disease outcomes helps to reconst
 
 ## Treatment and recovery
 
-Text
+Introducing treatment and recovery mechanisms are advanced options that can be considered. 
 
 ### Treatment
 
