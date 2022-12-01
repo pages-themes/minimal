@@ -6,14 +6,10 @@ permalink: /template
 
 # Planning template
 
-<!--
-![[download](../downloads/template.docx)](../images/guidelines/docx_icon.svg){:width="28"} &nbsp; [Download template in .docx format](../downloads/template.docx)
--->
-
 <table>
 <tr>
-<td style="width: 32px;" align="center"><a href="../downloads/planningtemplate.docx"><img src="../images/guidelines/docx_icon.svg" style="width: 32px;"/></a></td>
-<td style="vertical-align:middle"> <a href="../downloads/planningtemplate.docx">Download template</a></td>
+<td style="width: 32px;" align="center"><a href="../downloads/template.docx"><img src="../images/guidelines/docx_icon.svg" style="width: 32px;"/></a></td>
+<td style="vertical-align:middle"> <a href="../downloads/template.docx">Download template</a></td>
 </tr>
 </table>
 
