@@ -8,7 +8,7 @@ permalink: /glossary
 
 **Entity** (or map entity), a map element that represents, for example, different classes of material entities in PD: metabolite, protein, RNA, gene, multimer or complex. In AF it represents the corresponding activities.  
 
-**Curation** (or pathway curation, or map curation), a process of selecting, organising and integrating information from scientific literature and databases to build a representation of a biological system.  
+**Curation** (or map curation), a process of selecting, organising and integrating information from scientific literature and databases to build a representation of a biological system.  
 
 **Disease map**, a conceptual model of disease mechanisms represented in a standard format as a network that consists of interconnected pathway diagrams relevant to a specific disease.  
 
