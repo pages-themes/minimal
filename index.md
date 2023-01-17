@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a security consultant focusing on hardware and firmware related security, I have worked in automotive and research for RHUL's S3 lab. My interests are mainly focused on practical aspects on security mainly on cryptographic protocols and uses and application security. 
+ My interests are mainly focused on practical aspects on security mainly on cryptographic protocols and uses and application security. 
 
 
  
