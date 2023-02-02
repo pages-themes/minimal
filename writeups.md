@@ -22,7 +22,7 @@ This is a page of write ups (CTFS) anything I have found interesting and not str
 
 ## Research 
 
-## RSA exponant attack and a CTF
+## RSA exponent attack and a CTF
 I was brushing up with CTFS and decided to try a hard crypto CTF. It took me about a week to obtain the flag. 
 
 [RSA small exponant attack](https://github.com/HBLocker/Pwnablekr/blob/main/Quick_maffs.md)
