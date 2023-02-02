@@ -10,6 +10,17 @@ permalink: /events
 
 <table>
 <tr>
+<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2021"><img src="../images/places/Maastricht.png"/></a></td>
+<td valign="top">
+<strong><a href="/DMCM2023">7th Disease Maps Community Meeting</a></strong><br />
+3-5 April 2023<br />
+The 2023 community meeting is organsied as a face-to-face event at Maastricht University in the Netherlands. The theme is "The Disease Maps Alliance: Bringing Experts Together"</a>.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2021"><img src="../images/places/Berlin.png"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2021">6th Disease Maps Community Meeting</a></strong><br />
