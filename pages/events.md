@@ -10,7 +10,7 @@ permalink: /events
 
 <table>
 <tr>
-<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2021"><img src="../images/places/Maastricht.png"/></a></td>
+<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2021"><img src="../images/places/Maastricht.jpg"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2023">7th Disease Maps Community Meeting</a></strong><br />
 3-5 April 2023<br />
