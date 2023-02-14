@@ -21,7 +21,7 @@ permalink: /coronaryarterydisease
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/DanielaBörnigen.jpg" alt="Daniela Börnigen" /></td>
+<td style="width: 100px;"><img src="../images/team/DanielaBornigen.jpg" alt="Daniela Börnigen" /></td>
 <td><strong>Daniela Börnigen, PhD</strong><br />
 <strong>University Medical Center Hamburg-Eppendorf, Germany</strong>
 <br />Senior Researcher
