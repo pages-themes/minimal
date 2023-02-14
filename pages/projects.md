@@ -152,10 +152,10 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
+        <strong><a href="../diabeteskidneydisease" target="_blank">Diabetes kidney disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Anaphylaxis Map<br />
-        Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
+        Resource: Diabetes kidney disease Map<br />
+        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
@@ -202,7 +202,13 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Anaphylaxis Map<br />
+        Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
+        </p></td>
 </tr>
 </table>    
 
