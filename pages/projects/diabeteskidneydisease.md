@@ -71,7 +71,7 @@ Altogether, this international collaboration aims to construct a holistic map of
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/NiloufarBorhani.jpg" alt="Niloufar Borhani" /></td>
+<td style="width: 100px;"><img src="../images/team/NiloofarBorhani.jpg" alt="Niloufar Borhani" /></td>
 <td><strong>Niloufar Borhani, PhD Candidate</strong>
 <br />Regenerative Medicine Research Center, Department of Medicine
 <br />Isfahan University of Medical Sciences, Isfahan, Iran</td>
