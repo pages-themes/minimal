@@ -3,16 +3,8 @@ layout: default
 ---
 
 ## Personal project and fun 
-
-
-
-
 This is mainly coding related projects I have worked on in my free time, I have been quite busy so some of my code is quite old.  
  
- 
- 
-### Isogeny 
-
 ### Hash Based Signature
 - [Hash Based Signatures](https://github.com/HBLocker/Hash-Based-Signatures)
 
