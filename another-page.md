@@ -12,11 +12,6 @@ This is mainly coding related projects I have worked on in my free time, I have 
  
  
 ### Isogeny 
-##### Work in Progress
- [SIDH](https://github.com/HBLocker/Isogeny-/blob/main/sidh.py)
-
-I decided to try understand how [SIDH](https://blog.cloudflare.com/sidh-go/) works and implement it in python based off the [Microsoft implemtation](https://github.com/microsoft/PQCrypto-SIDH)  written in c.
-
 
 ### Hash Based Signature
 - [Hash Based Signatures](https://github.com/HBLocker/Hash-Based-Signatures)
