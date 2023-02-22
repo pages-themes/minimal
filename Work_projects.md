@@ -5,6 +5,13 @@ layout: default
 # My professional Work
 
 
+### [PenTest Partners](https://www.pentestpartners.com/) - October 2022 - Febuary 2023 
+- Security Consultant. 
+- Developed fuzzes with both C and Python. 
+- Responsible for reverse engineering ARM, X86 & MIPS binaries.
+- Fuzzing Embedded Software.
+- Documentation and report writing. 
+
 ### [Mbition](https://group.mercedes-benz.com/karriere/ueber-uns/standorte/standort-detailseite-240192.html) - August 2021 - October 2022
 -Security Engineer.
 #### Security related related topics for the Gen20x [MB.OS](https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system/)
