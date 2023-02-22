@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
+A motivated computer science professional with a passion for cryptography and software security. Skilled in developing automated tooling. Currently pursuing a part-time masters at Kings College London in Advanced Cyber Security. 
 
- My interests are mainly focused on practical aspects on security mainly on cryptographic protocols and uses and application security. 
-
-
- 
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
 - [Professional](./Work_projects.html)
@@ -18,4 +15,3 @@ layout: default
 #### 2021
 - plumbers conference 2021 (online)
 - FuzzCon 2021(online)
-
