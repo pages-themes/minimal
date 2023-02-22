@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-A motivated computer science professional with a passion for cryptography and software security. Skilled in developing automated tooling. Currently pursuing a part-time masters at Kings College London in Advanced Cyber Security. 
+A motivated computer science professional with a passion for cryptography and software security. Currently pursuing a part-time masters at Kings College London in Advanced Cyber Security. 
 
 - [Writeups](./writeups.md)
 - [Coding projects](./another-page.html)
