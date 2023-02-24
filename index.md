@@ -1,18 +1,17 @@
+
+# Data Science Portfolio
+
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Machine learning
 
-[Link to another page](./another-page.html).
+### Fraud Detection
 
-There should be whitespace between paragraphs.
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<center><img src="images/fraud_detection.jpg"/></center>
 
 ## Header 2
 
