@@ -4,7 +4,14 @@ layout: default
 
 ## Personal project and fun 
 This is mainly coding related projects I have worked on in my free time, I have been quite busy so some of my code is quite old.  
- 
+
+
+### NTRU 
+
+I have been wanting to try implement a PQC algo for a while, here is a very very basic version of NTRU lattice algorithm. 
+- [NTRU](https://github.com/HBLocker/NRTU) 
+
+
 ### Hash Based Signature
 - [Hash Based Signatures](https://github.com/HBLocker/Hash-Based-Signatures)
 
