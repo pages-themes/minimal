@@ -1,6 +1,20 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Priyanka Jadhav </p>
+logo: /assets/img/pri.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+#   Resume-Priyanka-Tiger
+  <a href="https://www.linkedin.com/in/priyanka-jadhav56/">LinkedIn</a> |
+  <a href="https://github.com/priyanka56jadhav">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science & Machine learning related problems.
+  Also working on the dashboards with the help of Plotly Dash techology.
+  Working with Tiger Analytics.
+  Working in Data Science & Machine Learning domain for 4 years.
+  <br>
+  </p>
+  
+  
 theme: jekyll-theme-minimal
