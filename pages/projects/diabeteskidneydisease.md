@@ -1,19 +1,17 @@
 ---
-title: Diabetes Kidney Disease
+title: Diabetic Kidney Disease
 lyout: default
-redirect_from: "/projects/diabeteskidneydisease/"
-permalink: /diabeteskidneydisease
+redirect_from: "/projects/diabetickidneydisease/"
+permalink: /diabetickidneydisease
 ---
 
-# Diabetes Kidney Disease
+# Diabetic Kidney Disease
 
-## Diabetes Kidney Disease Map
+## Diabetic Kidney Disease Map
 
-Chronic kidney disease (CKD) affects about 9% of the human population and is the 12th leading cause of mortality (GBD Chronic Kidney Disease Collaboration 2020). Diabetes kidney disease (DKD) is the most common type of CKD and accounts for about half of the cases of end-stage renal disease (ESRD) (Samsu 2021). Considering its high burden, the development of more efficient therapies is an urgent need. However, the poor understanding of the underlying molecular mechanisms has slowed down this critical task. Indeed, the complex underlying pathogenic mechanisms cannot be properly approached by reductionist strategies of classical pipelines for drug target identification. The recent emergence of systems biology with its holistic, predictive, and quantitative approaches provides unique game-changing opportunities.
+Chronic kidney disease (CKD) affects about 9% of the human population and is the 12th leading cause of mortality (GBD Chronic Kidney Disease Collaboration 2020). Diabetic kidney disease (DKD) is the most common type of CKD and accounts for about half of the cases of end-stage renal disease (ESRD) (Samsu 2021). Considering its high burden, the development of more efficient therapies is an urgent need. However, the poor understanding of the underlying molecular mechanisms has slowed down this critical task. Indeed, the complex underlying pathogenic mechanisms cannot be properly approached by reductionist strategies of classical pipelines for drug target identification. The recent emergence of systems biology with its holistic, predictive, and quantitative approaches provides unique game-changing opportunities.  
 
-
-This initiative is a collaboration between the [Regenerative Medicine Research Centre](http://rmrc.mui.ac.ir) of Isfahan University of Medical Sciences, the University of Luxembourg under the [Disease Map Consortium](https://disease-maps.org/), and [Natarajan Laboratory, City of Hope, Duarte, CA](https://www.cityofhope.org/research/riggs-institute/diabetes-complications-and-metabolism/natarajan-lab). In this project, the interaction maps related to DKD will be retrieved from the related literature and visualized using CellDesigner software by a team of curators based on a specific guideline. The accuracy of the curated maps will be assessed by a panel of domain experts. In addition, high-quality omics data will be included to compensate for the potential publication bias of literature-driven data. The integration of heterogeneous layers of big data will be performed using previously developed algorithms (Borhani et al. 2022). This project will result in a multi-level, modular, connected, and holistic map of DKD that represents the molecular interactions as well as the relationships between signaling pathways. The computational team will employ this map as a basis for the construction of large-scale dynamic models (Borzou et al. 2022) and the prediction of novel drug targets (Abedi et al. 2021).
-
+This initiative is a collaboration between the [Regenerative Medicine Research Centre](http://rmrc.mui.ac.ir) of Isfahan University of Medical Sciences, the University of Luxembourg under the [Disease Map Consortium](https://disease-maps.org/), and [Natarajan Laboratory, City of Hope, Duarte, CA](https://www.cityofhope.org/research/riggs-institute/diabetes-complications-and-metabolism/natarajan-lab). In this project, the interaction maps related to DKD will be retrieved from the related literature and visualized using CellDesigner software by a team of curators based on a specific guideline. The accuracy of the curated maps will be assessed by a panel of domain experts. In addition, high-quality omics data will be included to compensate for the potential publication bias of literature-driven data. The integration of heterogeneous layers of big data will be performed using previously developed algorithms (Borhani et al. 2022). This project will result in a multi-level, modular, connected, and holistic map of DKD that represents the molecular interactions as well as the relationships between signaling pathways. The computational team will employ this map as a basis for constructing large-scale dynamic models (Borzou et al. 2022) and predicting novel drug targets (Abedi et al. 2021).  
 
 Altogether, this international collaboration aims to construct a holistic map of DKD, which can deepen our understanding of the disease's molecular mechanisms and facilitate the development of more efficient therapeutics.
 
