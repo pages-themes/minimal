@@ -154,7 +154,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../diabetickidneydisease" target="_blank">Diabetic Kidney Disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Diabetes Kidney Disease Map<br />
+        Resource: Diabetic Kidney Disease Map<br />
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
         </p></td>
 <td style="width: 0px;"> </td>
