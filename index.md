@@ -1,15 +1,12 @@
-
-
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Hi, thanks you for visiting my profile. 
+## Hi, thank you for visiting my profile. 
 ### Please feel free to connect me on [LinkedIn](https://www.linkedin.com/in/mayuri-debadwar-504b23135/).
 
-### Profile Under Construction
+### I am working as a Data Analyst from last 4.5 years having experties in SQL, Tableau, Python - (Numpy, Pandas, MatplotLib, Seaborn, Sklearn) 
+### Currently working on a project in E-commerce domain to migrate data from legacy systems to cloud using AWS, SQL, Python & PowerBI.
+### Being an enthusiastic data analyst I would like to grow as a Data Scientist.
+
+#### Note : Profile contruction is in progress. 
+  
 
 ### Header 3
 
