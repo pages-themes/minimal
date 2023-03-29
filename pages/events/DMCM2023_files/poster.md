@@ -7,8 +7,8 @@ permalink: /DMCM2023/Posters
 
 # List of posters
 
-| **Poster**   | **Presenter**       | **Title**                                                |
-|---------------|----------------|-------------------------------------------------------------|
+| **Poster** | **Presenter** | **Title** |
+|---------------|---------------|---------------|
 | P1 | Isabel Wassink | Pathway Models to Study the Role of Immune Cells in Pancreatic Ductal Adenocarcinoma |
 | P2 | Francesco Messina | Integrated analysis of transcriptome in blood cell populations and pathogen’s genome in multidrug-resistant (MDR) bacterial systemic infections |
 | P3 | Friederike Ehrhart | The Dravet Syndrome Disease Map |
