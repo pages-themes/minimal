@@ -31,7 +31,7 @@ permalink: /DMCM2023/Participants
 | Kinza Rian | Andalusian Platform for Computational Medicine |
 | Marcio Acencio | Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg |
 | Marek Ostaszewski | Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg |
-| Marina Esteban Medina	Fundación Pública Andaluza Progreso y Salud
+| Marina Esteban Medina | Fundación Pública Andaluza Progreso y Salud
 | Martina Summer-Kutmon | Maastricht University, Maastricht Centre for Systems Biology (MaCSBio) |
 | Matti Hoch | Department of Systems Biology & Bioinformatics, University of Rostock, Germany |
 | Michael Aichem | University of Konstanz |
