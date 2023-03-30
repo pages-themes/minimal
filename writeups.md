@@ -7,26 +7,20 @@ layout: default
 
 This is a page of write ups (CTFS) anything I have found interesting and not strictly code related. In my free time I sometimes enjoy CTFS. 
 
-### CTFS 
-
-#### Pwnabke.kr 
-
-[Brain Fuck](https://github.com/HBLocker/Pwnablekr/blob/main/BrainFuck.md)
-
-[OTP](https://github.com/HBLocker/Pwnablekr/blob/main/OTP.md)
-
-[Ascii easy](https://github.com/HBLocker/Pwnablekr/blob/main/ascii_easy.md)
-
-[Ascii easy](https://github.com/HBLocker/Pwnablekr/blob/main/rootkit.md)
-
-
 ## Research 
 
-## RSA exponent attack and a CTF
+## 2023 
+### RouterOS intro and overview
+Currently a work in progress and still a rough draft. 
+
+[MicroTick at a glance](https://github.com/HBLocker/RouterOS/blob/main/Readme.md)
+
+### RSA exponent attack and a CTF
 I was brushing up with CTFS and decided to try a hard crypto CTF. It took me about a week to obtain the flag. 
 
 [RSA small exponant attack](https://github.com/HBLocker/Pwnablekr/blob/main/Quick_maffs.md)
 
+## 2020 - 2022 
 ### Sumary of Salsa20
 I really enjoy reading crypto papers and here is a sumary of all the main componants of how it works.
 
@@ -40,6 +34,7 @@ I hope to write more on this as I find this facinating.
 
 [Diving into the trust zone ](https://github.com/HBLocker/Diving-into-the-Trust-Zone)
 
+## 2019 -2020
 
 #### Deep Phishing Dissertation
 My dissertation on NLP detection for Phishing emails for Bsc(Hons)
@@ -52,6 +47,19 @@ My dissertation on NLP detection for Phishing emails for Bsc(Hons)
 Part of a module on mobile forensics at uni, this is what sparked my interest in the Android/Linux kernel
 [What are the challenges facing law enforcement in terms of mobile forensics with ephemeral applications on Android Devices? ](https://www.dropbox.com/s/27iouu8lwkcocfg/Discussion_%20What%20are%20the%20challenges%20facing%20law%20enforcement%20in%20terms%20of%20mobile%20forensics%20with%20ephemeral%20applications%20on%20Android%20Devices_.pdf?dl=0)
 
+
+
+### CTFS 
+
+#### Pwnabke.kr 
+
+[Brain Fuck](https://github.com/HBLocker/Pwnablekr/blob/main/BrainFuck.md)
+
+[OTP](https://github.com/HBLocker/Pwnablekr/blob/main/OTP.md)
+
+[Ascii easy](https://github.com/HBLocker/Pwnablekr/blob/main/ascii_easy.md)
+
+[Ascii easy](https://github.com/HBLocker/Pwnablekr/blob/main/rootkit.md)
 
 
 
