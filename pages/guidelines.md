@@ -10,7 +10,7 @@ The provided guidelines are based on our collective experience of building repre
 
 There are training materials, definitions, templates and examples for different stages of disease map development:  
 
-[Map ontology template](../template)  
+[Map planning template](../template)  
 [Learning SBGN](https://sbgn.github.io/learning)  
 [Knowledge formalisation](../formalisation)  
 [Annotation](../annotation)  
