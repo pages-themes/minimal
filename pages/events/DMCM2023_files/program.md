@@ -32,7 +32,7 @@ The time is shown for Amsterdam: Central European Time (CET) – **UTC/GMT +1 ho
 
 | **Session**   | **Time**       | **Activity**                          |
 |---------------|----------------|---------------------------------------|
-| **Session 6** | 09:00-09:45    | **Keynote 3: Chris Evelo**<br>Maastricht University, NL |
+| **Session 6** | 09:00-09:45    | **Keynote 3: Chris Evelo**<br> Getting to go can take a while, not just in science fiction |
 |               | 09:45-10:05    | **Talk 5: Duygu Dede Sener**<br>Functional integration of host transcriptomics and metabolomics<br>for a better understanding of inflammatory bowel diseases |
 |    <br>       | 10:05-10:25    | **Talk 6: Matti Hoch**<br>Network analyses reveal new insights into the effects of<br>multicomponent Tr14 in an acute inflammation model |
 |    <br>       | 10:30-11:00    | Coffee break                          |
