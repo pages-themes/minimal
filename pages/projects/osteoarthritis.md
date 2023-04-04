@@ -51,6 +51,11 @@ Professor in Molecular and Genetic Epidemiology, Medicine and Health Sciences;<b
 Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
+<td style="width: 105px;"><img src="../images/team/OxanaLopata.jpg" alt="Oxana Lopata" /></td>
+<td><strong>Oxana Lopata, MSc</strong><br /><strong>Information Technology for Translational Medicine (ITTM) S.A., Luxembourg</strong><br />
+Researcher<br /></td>
+</tr>
+<tr>
 <td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
 <td><strong>Andreas Kremer, PhD</strong><br /><strong>Information Technology for Translational Medicine (ITTM) S.A., Luxembourg
 </strong><br />Managing Director<br /></td>
