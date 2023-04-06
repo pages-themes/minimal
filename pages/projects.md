@@ -138,10 +138,10 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
+        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Cognitive Resilience Map<br />
-        Contact: Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
+        Resource: Meniere’s Disease Map<br />
+        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -156,28 +156,6 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Diabetic Kidney Disease Map<br />
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Duchenne Muscular Dystrophy Map<br />
-        Contact: Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Meniere’s Disease Map<br />
-        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
@@ -214,27 +192,11 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 <br />
 
-<!--As a list, in alphabetical order:  
-<ul style="list-style-type:none; line-height:175%;">
-<li><a href="/acutekidneyinjury">Acute kidney injury</a></li>
-<li><a href="/adultneurogenesis">Adult neurogenesis</a></li>
-<li><a href="/anaphylaxis">Anaphylaxis</a></li>
-<li><a href="/asthma">Asthma</a></li>
-<li><a href="/atherosclerosis">Atherosclerosis</a></li>
-<li><a href="/cancer">Cancer</a></li>
-<li><a href="/cysticfibrosis">Cystic fibrosis</a></li>
-<li><a href="/duchenne">Duchenne muscular dystrophy</a></li>
-<li><a href="/lungcancer">Lung cancer</a></li>
-<li><a href="/menieres">Meniere’s disease</a></li>
-<li><a href="/multiplesclerosis">Multiple sclerosis</a></li>
-<li><a href="/parkinsons">Parkinson's disease</a></li>
-<li><a href="/rheumatoidarthritis">Rheumatoid arthritis</a></li>
-<li><a href="/spinalcordinjury">Spinal cord injury</a></li>
-</ul>-->
 
 New projects being discussed:  
 
 <ul style="list-style-type:none; line-height:175%;">
+<li>Adult neurogenesis</li>
 <li>Allergic rhinitis</li>
 <li>Atopic dermatitis</li>
 <li>Autoimmune thrombotic thrombocytopenic purpura</li>
@@ -242,6 +204,7 @@ New projects being discussed:
 <li>Chronic lymphocytic leukaemia</li>
 <li>Chronic obstructive pulmonary disease</li>
 <li>Diabetes mellitus type 2</li>
+<li>Duchenne muscular dystrophy</li>
 <li>Immune system diseases</li>
 <li>Infectious diseases</li>
 <li>Inflammatory bowel disease</li>
