@@ -1,12 +1,12 @@
 ---
 title: Projects
 layout: default
-permalink: /projects2/
+permalink: /projects_backup2023/
 ---
 
 # Projects
         
-The Disease Maps Project consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
+The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
@@ -81,13 +81,14 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Cystic Fibrosis Map<br />
+        Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
         Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
-        </p></td>
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
+        </p></td>   
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
@@ -107,7 +108,7 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acutekidneyinjury" target="_blank">Osteoarthritis of the knee</a></strong></p>
+        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
@@ -151,10 +152,10 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
+        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic Kidney Disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Anaphylaxis Map<br />
-        Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
+        Resource: Diabetic Kidney Disease Map<br />
+        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
@@ -201,7 +202,13 @@ The Disease Maps Project consolidates efforts focused on describing disease mech
         Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Anaphylaxis Map<br />
+        Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
+        </p></td>
 </tr>
 </table>    
 
