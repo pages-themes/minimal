@@ -199,13 +199,7 @@ New projects being discussed:
 <li>Adult neurogenesis</li>
 <li>Allergic rhinitis</li>
 <li>Atopic dermatitis</li>
-<li>Autoimmune thrombotic thrombocytopenic purpura</li>
-<li>Chronic liver disease</li>
-<li>Chronic lymphocytic leukaemia</li>
-<li>Chronic obstructive pulmonary disease</li>
 <li>Diabetes mellitus type 2</li>
 <li>Duchenne muscular dystrophy</li>
-<li>Immune system diseases</li>
-<li>Infectious diseases</li>
 <li>Inflammatory bowel disease</li>
 </ul>
