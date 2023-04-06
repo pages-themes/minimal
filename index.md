@@ -4,6 +4,7 @@ layout: default
 
 <p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
 
+<!--
 <table>
 <tr>
 <td style="width: 105px; height: 105 px; valign=top;"><img src="../images/places/covid-19-dm-logo.png"/></td>
@@ -12,7 +13,7 @@ layout: default
 </td>
 </tr>
 </table> 
-
+-->
 
 
 <!--UPCOMING EVENT: The **[Disease Maps Community Meeting 2021](../events)** (DMCM2021) is scheduled 27-29 October in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).-->
