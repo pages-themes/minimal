@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Fabrício Macena
+logo: /assets/img/me.jpg
+description: > 
+  <br>
+  Estudante em Análise e Desenvolvimento de Sistemas e focando os estudos em Ciência de Dados.
+
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
