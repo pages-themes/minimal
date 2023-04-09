@@ -1,6 +1,11 @@
 title: Fabrício Macena
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+logo: /assets/img/me.jpg
+description: > 
+  <br>
+  Estudante em Análise e Desenvolvimento de Sistemas e focando os estudos em Ciência de Dados. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/fabriciomacena/">Veja meu perfil no LinkdIn</a>
+
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
