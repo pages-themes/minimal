@@ -192,12 +192,6 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 <br />
 
-test  
-&#9733; &#9733;	&#9734;  
-test  
-&#9733;&#9733;&#9734;  
-test
-
 New projects being discussed:  
 
 <ul style="list-style-type:none; line-height:175%;">
