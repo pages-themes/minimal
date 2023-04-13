@@ -10,7 +10,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <br />
 
 Project status:  
-&#9734;&#9734;&#9734;&#9734; New project initiated/funded  
+&#9734;&#9734;&#9734;&#9734; Initiated/funded  
 &#9733;&#9734;&#9734;&#9734; Active development  
 &#9733;&#9733;&#9734;&#9734; Map is available for exploration online  
 &#9733;&#9733;&#9733;&#9734; Published  
