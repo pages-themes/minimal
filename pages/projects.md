@@ -192,9 +192,10 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 <br />
 
--  
+test  
 &#128994; &#x1F7E2; &#128993; &#128308; &#x1F534;  
--  
+test  
+&star; &starf; &bigstar;  
 
 New projects being discussed:  
 
