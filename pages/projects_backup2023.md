@@ -7,6 +7,11 @@ permalink: /projects_backup2023/
 # Projects
         
 The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects.  
+&#9734;&#9734;&#9734;&#9734; New project initiated/funded  
+&#9733;&#9734;&#9734;&#9734; Active development  
+&#9733;&#9733;&#9734;&#9734; Map is available for exploration online
+&#9733;&#9733;&#9733;&#9734; Published
+&#9733;&#9733;&#9733;&#9733; Continuously maintained and improved
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
@@ -36,7 +41,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
+        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map &#9733;&#9733;&#9733;&#9733;</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td>
@@ -45,7 +50,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network &#9733;&#9733;&#9733;&#9733;</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
@@ -58,7 +63,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis</a></strong></p>
+        <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis &#9733;&#9733;&#9733;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
@@ -68,7 +73,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
+        <strong><a href="../asthma" target="_blank">Asthma &#9733;&#9733;&#9733;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -83,7 +88,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis</a></strong></p>
+        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis &#9733;&#9733;&#9733;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
         Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
@@ -92,7 +97,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis &#9733;&#9733;&#9734;</a></strong></p>
+        <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis &#9733;&#9734;&#9733;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
@@ -108,7 +113,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee </a></strong>&#9733;&#9733;&#9734;</p>
+        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee &#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
@@ -116,7 +121,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury</a></strong></p>
+        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
@@ -130,7 +135,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
+        <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Multiple Sclerosis Pathway Map<br />
         Contact: Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany<br />
@@ -152,7 +157,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic Kidney Disease</a></strong></p>
+        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic Kidney Disease &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Diabetic Kidney Disease Map<br />
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
@@ -160,7 +165,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy</a></strong></p>
+        <strong><a href="../duchenne" target="_blank">Duchenne muscular dystrophy &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Duchenne Muscular Dystrophy Map<br />
         Contact: Cecilia Jimenez-Mallebrera, Hospital Sant Joan de Déu, Barcelona, Spain<br />
@@ -174,7 +179,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
+        <strong><a href="../menieres" target="_blank">Meniere’s disease &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Meniere’s Disease Map<br />
         Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
@@ -182,7 +187,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
+        <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Spinal Cord Injury Map<br />
         Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
@@ -196,7 +201,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
+        <strong><a href="../lungcancer" target="_blank">Lung cancer &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Lung Cancer Disease Map<br />
         Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
@@ -204,7 +209,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
+        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Anaphylaxis Map<br />
         Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
