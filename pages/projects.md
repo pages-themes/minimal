@@ -193,9 +193,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <br />
 
 test  
-&star; &starf; &bigstar;  
-test  
-&#9733; &#9733;	&#10025;  
+&#9733; &#9733;	&#9734;  
 test  
 
 New projects being discussed:  
