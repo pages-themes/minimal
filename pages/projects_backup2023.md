@@ -39,18 +39,18 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
+        <strong><a href="../parkinsons" target="_blank">Parkinson's disease &#9733;&#9733;&#9733;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map &#9733;&#9733;&#9733;&#9733;</a><br />
+        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cancer" target="_blank">Cancer</a></strong></p>
+        <strong><a href="../cancer" target="_blank">Cancer &#9733;&#9733;&#9733;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network &#9733;&#9733;&#9733;&#9733;</a><br />
+        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
         </p></td>
