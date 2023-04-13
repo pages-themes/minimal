@@ -195,6 +195,8 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 test  
 &#9733; &#9733;	&#9734;  
 test  
+&#9679; &#9675;  
+test
 
 New projects being discussed:  
 
