@@ -11,7 +11,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 &#9733;&#9734;&#9734;&#9734; Active development  
 &#9733;&#9733;&#9734;&#9734; Map is available for exploration online  
 &#9733;&#9733;&#9733;&#9734; Published  
-&#9733;&#9733;&#9733;&#9733; Continuously maintained and improved  
+&#9733;&#9733;&#9733;&#9733; Continuously maintained and improved / Applications demonstrated  
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
