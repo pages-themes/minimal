@@ -108,7 +108,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee &#9733;&#9733;&#9734;</a></strong></p>
+        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee </a></strong>&#9733; &#9733; &#9734;</p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
