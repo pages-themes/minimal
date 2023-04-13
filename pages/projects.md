@@ -196,6 +196,8 @@ test
 &#128994; &#x1F7E2; &#128993; &#128308; &#x1F534;  
 test  
 &star; &starf; &bigstar;  
+test  
+&#9733; &#9733;	&#10025;	
 
 New projects being discussed:  
 
