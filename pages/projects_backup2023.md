@@ -143,7 +143,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis</a></strong></p>
+        <strong><a href="../adultneurogenesis" target="_blank">Adult neurogenesis &#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Cognitive Resilience Map<br />
         Contact: Rupert Overall, German Center for Neurodegenerative Diseases, Dresden, Germany<br />
