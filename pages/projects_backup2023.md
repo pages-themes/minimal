@@ -17,7 +17,6 @@ Project status progress:
 &#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
 &#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
 
-<br />
 
 <!--
 &#9711;&#9711;&#9711;&#9711;&#9711;  
