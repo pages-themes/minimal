@@ -179,4 +179,6 @@ New projects being discussed:
 <li>Diabetes mellitus type 2</li>
 <li>Duchenne muscular dystrophy</li>
 <li>Inflammatory bowel disease</li>
+<li>Multiple sclerosis</li>
+<li>Spinal cord injury</li>
 </ul>
