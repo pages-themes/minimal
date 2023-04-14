@@ -152,19 +152,13 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../lungcancer" target="_blank">Lung cancer</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Lung Cancer Disease Map<br />
-        Contact: Nathanaël Lemonnier, Institute for Advanced Biosciences, Grenoble, France<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
         <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Anaphylaxis Map<br />
         Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
         </p></td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
 </tr>
 </table>    
 
@@ -179,6 +173,7 @@ New projects being discussed:
 <li>Diabetes mellitus type 2</li>
 <li>Duchenne muscular dystrophy</li>
 <li>Inflammatory bowel disease</li>
+<li>Lung cancer</li>
 <li>Multiple sclerosis</li>
 <li>Spinal cord injury</li>
 </ul>
