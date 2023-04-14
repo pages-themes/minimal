@@ -50,7 +50,7 @@ Project status progress:
 
 <!--The following are the active projects, starting with published maps.-->
 
-<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars.jpg" width="340px"/></a>
+<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars2.jpg" width="340px"/></a>
 
 <table>
 <!--<tr style="height:160px;">
