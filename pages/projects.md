@@ -128,28 +128,6 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../multiplesclerosis" target="_blank">Multiple sclerosis</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Multiple Sclerosis Pathway Map<br />
-        Contact: Julio Saez Rodriguez, Heidelberg University Hospital, Heidelberg, Germany<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Meniere’s Disease Map<br />
-        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../diabetickidneydisease" target="_blank">Diabetic Kidney Disease</a></strong></p>
@@ -160,10 +138,10 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../spinalcordinjury" target="_blank">Spinal cord injury</a></strong></p>
+        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Spinal Cord Injury Map<br />
-        Contact: Ahmed AlBayar, Perelman School of Medicine, University of Pennsylvania, Philadelphia, USA<br />
+        Resource: Meniere’s Disease Map<br />
+        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
