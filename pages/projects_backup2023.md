@@ -19,37 +19,32 @@ Project status progress:
 
 <br />
 
+<!--
 &#9711;&#9711;&#9711;&#9711;&#9711;  
 &#11044;&#9711;&#9711;&#9711;&#9711;  
 &#11044;&#11044;&#9711;&#9711;&#9711;  
 &#11044;&#11044;&#11044;&#9711;&#9711;  
 &#11044;&#11044;&#11044;&#11044;&#9711;  
-
 <br />
-
 <font color="#A7B790">&#11044;</font>
 <font color="#ECB95F">&#11044;</font>
 <font color="#C27677">&#11044;</font>
 <font color="#A74B4A">&#11044;</font>
 <font color="#6F2525">&#9711;</font>  
-
 <br />
-
 <font color="#A0D568">&#11044;</font>
 <font color="#ffbc0a">&#11044;</font>
 <font color="#ec7d10">&#11044;</font>
 <font color="#fc2f00">&#11044;</font>
 <font color="#c200fb">&#11044;</font>   
-
 <br />
-
 <font color="#7bb662">&#11044;</font>
 <font color="#FFCE54">&#11044;</font>
 <font color="#ec7d10">&#11044;</font>
 <font color="#ED5564">&#11044;</font>
 <font color="#c200fb">&#11044;</font>   
-
 <br />
+-->
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
