@@ -17,7 +17,7 @@ Project status:
 &#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
 &#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
 
-<br />
+
 test  
 &#11044;&#x2B24;  
 &#9711;&#x25EF;  
@@ -33,7 +33,7 @@ test
 <font color="#ff5c33">&#9711;</font>
 <font color="#9999ff">&#9711;</font>  
 test  
-<br />
+
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
