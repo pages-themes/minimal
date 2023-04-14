@@ -14,7 +14,7 @@ Project status:
 &#9733;&#9734;&#9734;&#9734;&#9734; Active development  
 &#9733;&#9733;&#9734;&#9734;&#9734; Map is available for exploration online  
 &#9733;&#9733;&#9733;&#9734;&#9734; Published  
-&#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved
+&#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
 &#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
 
 <br />
