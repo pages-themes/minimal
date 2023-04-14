@@ -24,8 +24,10 @@ Project status:
 <font color="#C27677">&#11044;</font>
 <font color="#A74B4A">&#11044;</font>
 <font color="#6F2525">&#11044;</font>  
+
 <font color="#00e673">&#11044;</font><font color="#ffdb4d">&#11044;</font><font color="#ffad33">&#11044;</font><font color="#ff5c33">&#9711;</font><font color="#9999ff">&#9711;</font>  
 
+<br />
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
