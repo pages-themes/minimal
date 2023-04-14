@@ -19,19 +19,14 @@ Project status:
 
 
 test  
-&#11044;&#x2B24;  
-&#9711;&#x25EF;  
+&#11044;&#x2B24;&#9711;&#x25EF;  
 <font color="#00e673">&#11044;</font>
 <font color="#ffdb4d">&#11044;</font>
 <font color="#ffad33">&#11044;</font>
 <font color="#ff5c33">&#11044;</font>
 <font color="#9999ff">&#11044;</font>  
 test  
-<font color="#00e673">&#11044;</font>
-<font color="#ffdb4d">&#11044;</font>
-<font color="#ffad33">&#11044;</font>
-<font color="#ff5c33">&#9711;</font>
-<font color="#9999ff">&#9711;</font>  
+<font color="#00e673">&#11044;</font><font color="#ffdb4d">&#11044;</font><font color="#ffad33">&#11044;</font><font color="#ff5c33">&#9711;</font><font color="#9999ff">&#9711;</font>  
 test  
 
 
