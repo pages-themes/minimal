@@ -34,7 +34,7 @@ Project status:
 
 <br />
 
-<font color="#A0D568">&#11044;</font>
+<font color="#7bb662">&#11044;</font>
 <font color="#FFCE54">&#11044;</font>
 <font color="#ec7d10">&#11044;</font>
 <font color="#ED5564">&#11044;</font>
