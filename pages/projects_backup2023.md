@@ -8,6 +8,17 @@ permalink: /projects_backup2023/
         
 The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
 
+<table>
+<tr style="height: 20px;">
+<td style="width: 320px;"> &#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded <br />
+&#9733;&#9734;&#9734;&#9734;&#9734; Active development <br />
+&#9733;&#9733;&#9734;&#9734;&#9734; Map is available for exploration online</td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> &#9733;&#9733;&#9733;&#9734;&#9734; Published <br />
+&#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved <br />
+&#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated</td>
+</tr>
+</table>
 
 Project status progress:  
 &#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded  
