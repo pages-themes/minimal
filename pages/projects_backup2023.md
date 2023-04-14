@@ -18,10 +18,11 @@ Project status:
 &#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
 
 <br />
-test
-&#11044;; &#x2B24; 
-<font color="#ffdb4d"> &#11044;; &#x2B24;  </font>
-test
+test  
+&#11044;; &#x2B24;  
+&#9711; &#x25EF; &xcirc;  
+<font color="#ffdb4d"> &#11044;; &#x2B24;  </font>  
+test  
 <br />
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
