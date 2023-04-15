@@ -136,30 +136,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Meniere’s Disease Map<br />
-        Contact: Jose Antonio Lopez-Escamez, Instituto Biosanitario Granada, Genyo, Granada, Spain<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
 <td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#F1F5F9;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../anaphylaxis" target="_blank">Anaphylaxis</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Anaphylaxis Map<br />
-        Contact: Feng He, Luxembourg Institute of Health, Luxembourg, Luxembourg<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
 </table>    
 
 <br />
@@ -169,11 +146,13 @@ New projects being discussed:
 <ul style="list-style-type:none; line-height:175%;">
 <li>Adult neurogenesis</li>
 <li>Allergic rhinitis</li>
+<li>Anaphylaxis</li>
 <li>Atopic dermatitis</li>
 <li>Diabetes mellitus type 2</li>
 <li>Duchenne muscular dystrophy</li>
 <li>Inflammatory bowel disease</li>
 <li>Lung cancer</li>
+<li>Meniere’s disease</li>
 <li>Multiple sclerosis</li>
 <li>Spinal cord injury</li>
 </ul>
