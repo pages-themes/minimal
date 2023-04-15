@@ -105,7 +105,7 @@ Project progress status:
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
