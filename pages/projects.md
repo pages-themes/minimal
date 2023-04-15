@@ -140,7 +140,7 @@ Project progress status:
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic Kidney Disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Diabetic Kidney Disease Map<br />
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
