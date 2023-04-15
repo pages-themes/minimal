@@ -9,16 +9,6 @@ permalink: /projects_backup2023/
 The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
 
 
-&#10112;&#10113;&#10114;&#10115;&#10116;&#10117;  
-&#10122;&#10123;&#10124;&#10125;&#10126;&#10127;  
-
-&#11044;&#11044;&#x2B24;&#11044;&#11044;&#11044;  
-&#11044;&#11044;&#11044;&#11044;&#11044;&#9711;  
-&#11044;&#11044;&#x2B24;&#11044;&#9711;&#9711;  
-&#11044;&#11044;&#9711;&#9711;&#9711;&#9711;  
-&#11044;&#9711;&#9711;&#9711;&#9711;&#9711;  
-
-
 **Project progress status:**  
 &#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded  
 &#9733;&#9734;&#9734;&#9734;&#9734; Active development  
@@ -29,6 +19,13 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 
 <!--
+&#10112;&#10113;&#10114;&#10115;&#10116;&#10117;  
+&#10122;&#10123;&#10124;&#10125;&#10126;&#10127;  
+&#11044;&#11044;&#x2B24;&#11044;&#11044;&#11044;  
+&#11044;&#11044;&#11044;&#11044;&#11044;&#9711;  
+&#11044;&#11044;&#x2B24;&#11044;&#9711;&#9711;  
+&#11044;&#11044;&#9711;&#9711;&#9711;&#9711;  
+&#11044;&#9711;&#9711;&#9711;&#9711;&#9711;  
 &#9711;&#9711;&#9711;&#9711;&#9711;  
 &#11044;&#9711;&#9711;&#9711;&#9711;  
 &#11044;&#11044;&#9711;&#9711;&#9711;  
