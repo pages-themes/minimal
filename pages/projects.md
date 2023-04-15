@@ -15,7 +15,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 &#9733;&#9733;&#9734;&#9734;&#9734; Map is available for exploration online  
 &#9733;&#9733;&#9733;&#9734;&#9734; Published  
 &#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
-&#9733;&#9733;&#9733;&#9733;&#9733; Resource applications demonstrated  
+&#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
 
 
 <a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars2.jpg" width="340px"/></a>
