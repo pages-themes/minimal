@@ -137,6 +137,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
+</tr>
 </table>    
 
 <br />
