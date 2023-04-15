@@ -8,7 +8,7 @@ permalink: /projects/
         
 The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
 
-
+<!--
 **Project progress status:**  
 &#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded  
 &#9733;&#9734;&#9734;&#9734;&#9734; Active development  
@@ -16,7 +16,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 &#9733;&#9733;&#9733;&#9734;&#9734; Published  
 &#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
 &#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
-
+-->
 
 Project progress status:
 <table>
