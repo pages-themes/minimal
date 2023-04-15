@@ -18,6 +18,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 &#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
 
 
+Project progress status:
 <table>
 <tr style="height: 20px;">
 <td style="width: 320px;">
