@@ -58,6 +58,8 @@ Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Per
 
 ### Map construction technology
 
+Mazein A, Acencio ML, Balaur I, Rougny A, Welter D, Niarakis A, Ramirez Ardila D, Dogrusoz U, Gawron P, Satagopam V, Gu W, Kremer A, Schneider R, Ostaszewski M. High-quality Reconstruction of Disease Mechanisms: Planning, Development and Maintenance. Preprints 2022, 2022120209. [doi:10.20944/preprints202212.0209.v1](https://doi.org/10.20944/preprints202212.0209.v1).
+
 Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018. [doi:10.1093/database/bay036](https://doi.org/10.1093/database/bay036). [PMID: 29688383](https://www.ncbi.nlm.nih.gov/pubmed/29688383).
 
 ### Applications of disease maps
