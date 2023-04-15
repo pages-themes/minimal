@@ -10,12 +10,12 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 
 **Project progress status:**  
-&#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded  
-&#9733;&#9734;&#9734;&#9734;&#9734; Active development  
-&#9733;&#9733;&#9734;&#9734;&#9734; Map is available for exploration online  
-&#9733;&#9733;&#9733;&#9734;&#9734; Published  
-&#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
-&#9733;&#9733;&#9733;&#9733;&#9733; Resource applications demonstrated  
+<font color="#42639b">&#9734;&#9734;&#9734;&#9734;&#9734;</font> Initiated/funded  
+<font color="#42639b">&#9733;&#9734;&#9734;&#9734;&#9734;</font> Active development  
+<font color="#42639b">&#9733;&#9733;&#9734;&#9734;&#9734;</font> Map is available for exploration online  
+<font color="#42639b">&#9733;&#9733;&#9733;&#9734;&#9734;</font> Published  
+<font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9734;</font> Continuously maintained and improved  
+<font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9733;</font> Resource applications demonstrated  
 
 
 <!--
