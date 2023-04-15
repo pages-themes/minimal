@@ -74,9 +74,9 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
+        <strong><a href="../asthma" target="_blank">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a><br />
+        Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
         </p></td>
