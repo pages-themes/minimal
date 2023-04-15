@@ -144,12 +144,10 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
-</table>    
+</table>
 
-<br />
 
 New projects being discussed:  
-
 <ul style="list-style-type:none; line-height:175%;">
 <li>Adult neurogenesis</li>
 <li>Allergic rhinitis</li>
