@@ -116,9 +116,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../asthma" target="_blank">Asthma</a></strong></p>
-        <p style="margin:10px; font-size:16px;">
-        <strong><a href="../asthma" target="_blank">&#11044;&#11044;&#11044;&#11044;&#9711;&#9711;</a></strong></p>
+        <strong><a href="../asthma" target="_blank">Asthma <br />&#10112;&#10113;&#10114; </a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
