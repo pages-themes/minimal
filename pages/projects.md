@@ -147,6 +147,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 </table>
 
 
+<br />
 New projects being discussed:  
 <ul style="list-style-type:none; line-height:175%;">
 <li>Adult neurogenesis</li>
