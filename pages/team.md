@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
 
 <table>
 <tr>
@@ -122,8 +122,8 @@ This page defines the organisational structure, roles and processes in the  Dise
 <td><strong>Joaquin Dopazo</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Modelling on the basis of disease maps; Organiser of the 4th Disease Maps Community Meeting (DMCM2019); Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain</p></td>
 </tr>
 <tr>
-<td style="width: 110px;"><a id="Matti Hoch"><img src="../images/team/MattiHoch.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
-<td><strong>Joaquin Dopazo</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Medical Biotechnology; Co-organiser of the 6th Disease Maps Community Meeting (DMCM2021); PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany</p></td>
+<td style="width: 110px;"><a id="MattiHoch"><img src="../images/team/MattiHoch.jpg" width="105" alt="Matti Hoch"/></a></td>
+<td><strong>Matti Hoch</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Medical Biotechnology; Co-organiser of the 6th Disease Maps Community Meeting (DMCM2021); PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany</p></td>
 </tr>
 </table>
 
