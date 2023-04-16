@@ -123,7 +123,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 </tr>
 <tr>
 <td style="width: 110px;"><a id="Matti Hoch"><img src="../images/team/MattiHoch.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
-<td><strong>Joaquin Dopazo</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-organiser of the 6th Disease Maps Community Meeting (DMCM2021); PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany</p></td>
+<td><strong>Joaquin Dopazo</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Medical Biotechnology; Co-organiser of the 6th Disease Maps Community Meeting (DMCM2021); PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany</p></td>
 </tr>
 </table>
 
