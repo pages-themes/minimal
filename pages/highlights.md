@@ -12,17 +12,17 @@ Proposed structure for each story:
 - short one-paragraph text  
 - link to the source (or "manuscript in preparation" with a reference to a talk at the DMCM)  
 
-## Title
+### Title
 
-**Application type:** modelling, network analysis
+Application type: modelling, network analysis  
 
 Text  
 
 Link  
 
-## Title
+### Title
 
-**Application type:** hypothesis generation, experimental validation
+Application type: hypothesis generation, experimental validation  
 
 Text  
 
