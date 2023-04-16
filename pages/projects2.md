@@ -100,7 +100,7 @@ Project progress status:
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
         Contact: Matti Hoch, Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany<br />
