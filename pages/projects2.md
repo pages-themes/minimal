@@ -94,7 +94,7 @@ Project progress status:
         <strong><a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
-        Contact: Matti Hoch, Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany<br />
+        Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+35473910+36973809" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 0px;"> </td>
@@ -103,7 +103,7 @@ Project progress status:
         <strong><a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
-        Contact: Matti Hoch, Department of Systems Biology and Bioinformatics, University of Rostock, Rostock, Germany<br />
+        Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
         </p></td>
 </tr>
