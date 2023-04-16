@@ -76,7 +76,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+        <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#11088;&#11088;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -85,7 +85,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+        <strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#11088;&#11088;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
@@ -100,7 +100,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+        <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#11088;&#11088;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
         <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
