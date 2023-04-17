@@ -13,7 +13,12 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 
 **Project progress status:**  
-<font color="#42639b">&#9734;&#9734;&#9734;&#9734;&#9734; </font><font>Initiated</font><br /><font color="#42639b">&#9733;&#9734;&#9734;&#9734;&#9734; </font><font>Active development</font><br /><font color="#42639b">&#9733;&#9733;&#9734;&#9734;&#9734; </font><font>Map is available for exploration online</font><br /><font color="#42639b">&#9733;&#9733;&#9733;&#9734;&#9734; </font><font>Published</font><br /><font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9734; </font><font>Continuously maintained and improved</font><br /><font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9733; </font><font>Resource applications demonstrated</font><br />
+<font color="#42639b">&#9734;&#9734;&#9734;&#9734;&#9734; </font><font>Initiated</font>
+<font color="#42639b">&#9733;&#9734;&#9734;&#9734;&#9734; </font><font>Active development</font>
+<font color="#42639b">&#9733;&#9733;&#9734;&#9734;&#9734; </font><font>Map is available for exploration online</font>
+<font color="#42639b">&#9733;&#9733;&#9733;&#9734;&#9734; </font><font>Published</font>
+<font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9734; </font><font>Continuously maintained and improved</font>
+<font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9733; </font><font>Resource applications demonstrated</font>
 
 
 &#10112;&#10113;&#10114;&#10115;&#10116;&#10117;  
