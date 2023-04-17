@@ -16,7 +16,6 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <font color="#42639b">&#9734;&#9734;&#9734;&#9734;&#9734; </font><font>Initiated/funded</font><br /><font color="#42639b">&#9733;&#9734;&#9734;&#9734;&#9734; </font><font>Active development</font><br /><font color="#42639b">&#9733;&#9733;&#9734;&#9734;&#9734; </font><font>Map is available for exploration online</font><br /><font color="#42639b">&#9733;&#9733;&#9733;&#9734;&#9734; </font><font>Published</font><br /><font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9734; </font><font>Continuously maintained and improved</font><br /><font color="#42639b">&#9733;&#9733;&#9733;&#9733;&#9733; </font><font>Resource applications demonstrated</font><br />
 
 
-<!--
 &#10112;&#10113;&#10114;&#10115;&#10116;&#10117;  
 &#10122;&#10123;&#10124;&#10125;&#10126;&#10127;  
 &#11044;&#11044;&#x2B24;&#11044;&#11044;&#11044;  
@@ -48,7 +47,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <font color="#ED5564">&#11044;</font>
 <font color="#c200fb">&#11044;</font>   
 <br />
--->
+
 
 <!--The growing number of active projects within the Disease Maps Community are led by reasearch groups in Luxembourg, France, Germany, Portugal, Spain, the United Kingdom, the United States, Egypt, with more centers and countries involved via the corresponding networks of domain experts.-->
 
