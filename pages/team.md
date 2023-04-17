@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch), [Martina Summer-Kutmon](#MartinaKutmon)  
 
 <table>
 <tr>
@@ -112,6 +112,10 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="MattiHoch"><img src="../images/team/MattiHoch.jpg" width="105" alt="Matti Hoch"/></a></td>
 <td><strong>Matti Hoch</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Medical Biotechnology; Co-organiser of the 6th Disease Maps Community Meeting (DMCM2021); PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Germany</p></td>
+</tr>
+<tr>
+<td style="width: 110px;"><a id="MartinaKutmon"><img src="../images/team/MartinaKutmon.jpg" width="105" alt="Martina Summer-Kutmon"/></a></td>
+<td><strong>Martina Summer-Kutmon</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Organiser of the 7th Disease Maps Community Meeting (DMCM2023); Assistant Professor at the Maastricht Centre for Systems Biology, Maastricht University, Netherlands</p></td>
 </tr>
 </table>
 
