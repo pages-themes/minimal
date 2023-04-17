@@ -18,6 +18,8 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 &#10112;&#10113;&#10114;&#10115;&#10116;&#10117;  
 &#10122;&#10123;&#10124;&#10125;&#10126;&#10127;  
+
+
 &#11044;&#11044;&#11044;&#11044;&#11044;&#11044;  
 &#11044;&#11044;&#11044;&#11044;&#11044;&#9711;  
 &#11044;&#11044;&#x2B24;&#11044;&#9711;&#9711;  
@@ -124,7 +126,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#11044;&#11044;&#11044;&#11044;&#9711;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
         Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
