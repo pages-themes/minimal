@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Nathanaël Lemonnier](#NathanaelLemonnier), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
 
 <table>
 <tr>
@@ -88,10 +88,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="JulioSaezRodriguez"><img src="../images/team/JulioSaezRodriguez.jpg" width="105" alt="Julio Saez Rodriguez"/></a></td>
 <td><strong>Julio Saez Rodriguez</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Multiple Sclerosis Pathways Map project; Professor of Medical Bioinformatics and Data Analysis, Heidelberg University Hospital, Heidelberg, Germany</p></td>
-</tr>
-<tr>
-<td style="width: 110px;"><a id="NathanaelLemonnier"><img src="../images/team/NathanaelLemonnier.jpg" width="105" alt="Nathanael Lemonnier"/></a></td>
-<td><strong>Nathanaël Lemonnier</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the Lung Cancer Disease Map (LCDMap) project; <br />Systems Biology Research Associate, Institute for Advanced Biosciences, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="CeciliaJimenezMallebrera"><img src="../images/team/CeciliaJimenezMallebrera.jpg" width="105" alt="Cecilia Jimenez Mallebrera"/></a></td>
