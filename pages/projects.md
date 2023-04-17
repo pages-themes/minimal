@@ -182,7 +182,6 @@ New projects being discussed:
 <li>Duchenne muscular dystrophy</li>
 <li>Inflammatory bowel disease</li>
 <li>Lung cancer</li>
-<li>Meniere’s disease</li>
 <li>Multiple sclerosis</li>
 <li>Spinal cord injury</li>
 </ul>
