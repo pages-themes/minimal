@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Bertrand De Meulder](#BertrandDeMeulder), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
 
 <table>
 <tr>
@@ -108,10 +108,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="105" alt="Irina Balaur"/></a></td>
 <td><strong>Irina Balaur</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Neo4j-for-Disease-Maps initiative for the integration of the disease map resources; Lead Developer of the ySBGN tool</p></td>
-</tr>
-<tr>
-<td style="width: 110px;"><a id="BertrandDeMeulder"><img src="../images/team/BertrandDeMeulder.jpg" width="105" alt="Bertrand De Meulder"/></a></td>
-<td><strong>Bertrand De Meulder</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Developer of pipelines for omics data analysis and interpretation through disease maps; Researcher at the European Institute for Systems Biology and Medicine, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="JoaquinDopazo"><img src="../images/team/JoaquinDopazo.jpg" width="105" alt="Joaquin Dopazo"/></a></td>
