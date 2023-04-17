@@ -22,7 +22,7 @@ This page defines the organisational structure, roles and processes in the  Dise
 
 ### Disease Maps Project Team
 
-[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Andre Falcao](#AndreFalcao), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
+[Alexander Mazein](#AlexanderMazein), [Marek Ostaszewski](#MarekOstaszewski), [Inna Kuperstein](#InnaKuperstein), [Anna Niarakis](#AnnaNiarakis), [Charles Auffray](#CharlesAuffray), [Rudi Balling](#RudiBalling), [Reinhard Schneider](#ReinhardSchneider), [Emmanuel Barillot](#EmmanuelBarillot), [Andrei Zinovyev](#AndreiZinovyev), [Steven Watterson](#StevenWatterson), [Ugur Dogrusoz](#UgurDogrusoz), [Jan Hasenauer](#JanHasenauer), [Catarina Pereira](#CatarinaPereira), [Feng He](#FengHe), [Francisco J. Lopez Hernandez](#FranciscoJLopezHernandez), [Julio Saez Rodriguez](#JulioSaezRodriguez), [Cecilia Jimenez Mallebrera](#CeciliaJimenezMallebrera), [Rupert Overall](#RupertOverall), [Jose Antonio Lopez-Escamez](#JoseAntonioLopezEscamez), [Irina Balaur](#IrinaBalaur), [Joaquin Dopazo](#JoaquinDopazo), [Matti Hoch](#MattiHoch)  
 
 <table>
 <tr>
@@ -72,10 +72,6 @@ This page defines the organisational structure, roles and processes in the  Dise
 <tr>
 <td style="width: 110px;"><a id="CatarinaPereira"><img src="../images/team/CatarinaPereira.jpg" width="105" alt="Catarina Pereira"/></a></td>
 <td><strong>Catarina Pereira</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Cystic Fibrosis Map project (CF-MAP); <br />PhD Student at the University of Lisbon, Portugal</p></td>
-</tr>
-<tr>
-<td style="width: 110px;"><a id="AndreFalcao"><img src="../images/team/AndreFalcao.jpg" width="105" alt="Andre Falcao"/></a></td>
-<td><strong>Andre Falcao</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Cystic Fibrosis Map project (CF-MAP); <br />Assistant Professor, Department of Informatics, University of Lisbon, Portugal</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="FengHe"><img src="../images/team/FengHe.jpg" width="105" alt="Feng He"/></a></td>
