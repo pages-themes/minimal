@@ -85,7 +85,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#11088;&#11088;</a></strong></p>
+        <strong><a href="../cancer" target="_blank">Cancer <br />&#9745;&#9745;&#9745;&#9744;&#9744;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
         Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
