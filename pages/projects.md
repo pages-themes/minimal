@@ -36,7 +36,7 @@ Project progress status:
 </table>
 
 
-<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars2.jpg" width="340px"/></a>
+<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
 <table>
 <!--<tr style="height:160px;">
