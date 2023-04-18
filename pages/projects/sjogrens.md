@@ -1,7 +1,6 @@
 ---
 title: Sjogren's syndrome
 layout: default
-redirect_from: "/projects/asthma/"
 permalink: /sjogrens
 ---
 
