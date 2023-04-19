@@ -178,14 +178,15 @@ Project progress status:
 <br />
 New projects being discussed:  
 <ul style="list-style-type:none; line-height:175%;">
-<li>Adult neurogenesis</li>
-<li>Allergic rhinitis</li>
-<li>Anaphylaxis</li>
-<li>Atopic dermatitis</li>
-<li>Diabetes mellitus type 2</li>
-<li>Duchenne muscular dystrophy</li>
-<li>Inflammatory bowel disease</li>
-<li>Lung cancer</li>
-<li>Multiple sclerosis</li>
-<li>Spinal cord injury</li>
+        <li>Adult neurogenesis</li>
+        <li>Allergic rhinitis</li>
+        <li>Anaphylaxis</li>
+        <li>Atopic dermatitis</li>
+        <li>Diabetes mellitus type 2</li>
+        <li>Duchenne muscular dystrophy</li>
+        <li>Inflammatory bowel disease</li>
+        <li>Meniere’s disease</li>
+        <li>Lung cancer</li>
+        <li>Multiple sclerosis</li>
+        <li>Spinal cord injury</li>
 </ul>
