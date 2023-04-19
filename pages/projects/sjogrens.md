@@ -5,6 +5,6 @@ permalink: /sjogrens
 ---
 
 # Sjogren's syndrome
-## Sjogren's Map
+## Sjogren Map
 
 Text
