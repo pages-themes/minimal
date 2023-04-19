@@ -66,6 +66,8 @@ Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps
 
 ### Applications of disease maps
 
+Hoch M, Smita S, Cesnulevicius K, Lescheid D, Schultz M, Wolkenhauer O, Gupta S. Network- and enrichment-based inference of phenotypes and targets from large-scale disease maps. NPJ Syst Biol Appl. 2022 Apr 26;8(1):13. [doi: 10.1038/s41540-022-00222-z](https://doi.org/10.1038/s41540-022-00222-z). [PMID: 35473910](https://www.ncbi.nlm.nih.gov/pubmed/35473910).
+
 Miagoux Q, Singh V, de Mézquita D, Chaudru V, Elati M, Petit-Teixeira E, Niarakis A. Inference of an Integrative, Executable Network for Rheumatoid Arthritis Combining Data-Driven Machine Learning Approaches and a State-of-the-Art Mechanistic Disease Map. J Pers Med. 2021 Aug 12;11(8):785. [doi: 10.3390/jpm11080785](https://doi.org/10.3390/jpm11080785). [PMID: 34442429](https://www.ncbi.nlm.nih.gov/pubmed/34442429).
 
 Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2019 Mar 25;20(2):701-716. [doi: 10.1093/bib/bby031](https://doi.org/10.1093/bib/bby031). [PMID: 29726961](https://www.ncbi.nlm.nih.gov/pubmed/29726961).
