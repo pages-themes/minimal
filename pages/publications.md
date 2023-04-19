@@ -34,6 +34,8 @@ Ostaszewski M, Mazein A, Gillespie ME, Kuperstein I, Niarakis A, Hermjakob H, Pi
  
 ### Disease maps
 
+Hoch M, Ehlers L, Bannert K, Stanke C, Brauer D, Caton V, Lamprecht G, Wolkenhauer O, Jaster R, Wolfien M. In silico investigation of molecular networks linking gastrointestinal diseases, malnutrition, and sarcopenia. Front Nutr. 2022 Nov 4;9:989453. [doi: 10.3389/fnut.2022.989453](https://doi.org/10.3389/fnut.2022.989453). [PMID: 36407505](https://www.ncbi.nlm.nih.gov/pubmed/36407505).
+
 Zerrouk N, Aghakhani S, Singh V, Augé F, Niarakis A. A Mechanistic Cellular Atlas of the Rheumatic Joint. Front. Syst. Biol. 2022 2:925791. [doi: 10.3389/fsysb.2022.925791](https://doi.org/10.3389/fsysb.2022.925791). Available at [https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791](https://www.frontiersin.org/articles/10.3389/fsysb.2022.925791/full).
 
 Pereira C, Mazein A, Farinha CM, Gray MA, Kunzelmann K, Ostaszewski M, Balaur I, Amaral MD, Falcao AO. CyFi-MAP: an interactive pathway-based resource for cystic fibrosis. Sci Rep. 2021 Nov 15;11(1):22223. [doi: 10.1038/s41598-021-01618-3](https://doi.org/10.1038/s41598-021-01618-3). [PMID: 34782688](https://www.ncbi.nlm.nih.gov/pubmed/34782688).
