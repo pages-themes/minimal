@@ -39,6 +39,7 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 <strong> Bicêtre Hospital, National Reference Center for Rare Systemic Autoimmune Diseases, Le Kremlin-Bicêtre, France</strong><br />Rheumatologist, Researcher
 </td>
 </tr>
+</table>
 
 
 ### Funding
