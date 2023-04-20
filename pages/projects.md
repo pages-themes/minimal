@@ -188,20 +188,3 @@ Project progress status:
         Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
         </p></td>
 -->
-
-
-<br />
-
-New projects being discussed:  
-- Acute kidney injury
-- Adult neurogenesis
-- Allergic rhinitis
-- Anaphylaxis
-- Atopic dermatitis
-- Diabetes mellitus type 2
-- Duchenne muscular dystrophy
-- Inflammatory bowel disease
-- Meniere’s disease
-- Lung cancer
-- Multiple sclerosis
-- Spinal cord injury
