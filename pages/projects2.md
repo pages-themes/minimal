@@ -178,7 +178,7 @@ Project progress status:
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../osteoarthritis" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../chronicinflammation" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -190,7 +190,9 @@ Project progress status:
 
 <br />
 
-### Disease maps for adverse outcome pathways (AOPs) in immunotoxicology
+### Disease maps for immunotoxicology
+
+This section includes maps that describe mechanisms of adverse outcomes of various treatmets and are based on the adverse outcome pathways (AOPs) concept in immunotoxicology.  
 
 <table>
 <tr style="height:160px;">
