@@ -8,6 +8,17 @@ permalink: /asthma
 # Asthma
 ## AsthmaMap
 
+**Homepage:** [https://asthma-map.org](https://asthma-map.org)  
+**Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
+**Development status:** First version is complete and published.  
+**How to cite:** Mazein et al. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
+**Sustainable support:** MINERVA platform and the LCSB team  
+**Video tutorials:** [https://asthma-map.org/tutorials](https://asthma-map.org/tutorials/)  
+**Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)
+**Contact:** Alexander Mazein, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, a.mazein@gmail.com 
+
+
+
 [AsthmaMap (http://asthma-map.org)](http://asthma-map.org/) is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).
 
 <p>The objectives are:</p>
