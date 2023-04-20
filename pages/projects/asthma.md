@@ -1,7 +1,6 @@
 ---
 title: Asthma
 layout: default
-redirect_from: "/projects/asthma/"
 permalink: /asthma
 ---
 
@@ -15,7 +14,7 @@ permalink: /asthma
 **Sustainable support:** MINERVA platform and the LCSB team  
 **Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)  
 **How to cite:** Mazein et al. J Allergy Clin Immunol. 2020 Dec. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
-**Contact:** Alexander Mazein, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, a.mazein@gmail.com  
+**Contact:** Alexander Mazein, University of Luxembourg, a.mazein(at)gmail.com  
 
 
 [AsthmaMap (http://asthma-map.org)](http://asthma-map.org/) is a community-driven project initiated as a part of <a href="http://www.europeanlung.org/projects-and-research/projects/u-biopred/home" target="_blank">U-BIOPRED</a> (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes) data analysis and integration platform and then continued within <a href="https://www.etriks.org/" target="_blank">eTRIKS</a> (European Translational Information and Knowledge Management Services).
