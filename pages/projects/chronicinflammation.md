@@ -21,7 +21,13 @@ permalink: /chronicinflammation/
 </tr>
 </table>
 
+### Description
 
+Text
+
+### Fundings
+
+Text
 
 
 
