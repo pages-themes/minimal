@@ -196,7 +196,7 @@ Project progress status:
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../test" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../test" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: CAR T cells AOP Map<br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -204,7 +204,7 @@ Project progress status:
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../test" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../test" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: IL2 Treatment AOP Map<br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br /><br />
