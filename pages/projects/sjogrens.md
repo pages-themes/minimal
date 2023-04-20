@@ -45,8 +45,12 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 
 ### Funding
 
+PhD project [Computational systems biology approaches for deciphering the immune-epithelial cellular interplay in Sjögren syndrome"](https://theses.fr/s348622) is funded by the [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580).
+
+<!--
 <table>
 <tr> 
 <li>PhD project <a href=" https://theses.fr/s348622" target="_blank">"Computational systems biology approaches for deciphering the immune-epithelial cellular interplay in Sjögren syndrome" is funded by the Doctoral School "Structure and Dynamics of Living Systems"</a></li> 
 </tr>
 </table>
+-->
