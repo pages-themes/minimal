@@ -192,7 +192,6 @@ Project progress status:
         Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 </tr>
-</tr>
 <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
