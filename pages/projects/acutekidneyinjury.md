@@ -16,12 +16,10 @@ permalink: /acutekidneyinjury
 <ol>
 <li>To develop and preclinically validate a disease and pharmacological model of interactions among the key regulatory mechanisms and molecular players of systemic and renal hemodynamics, and the associated markers (descriptors) that describe the status of the hemodynamic network, on which drugs exert their effects.</li>
 <li>To develop a computerized mathematical model (algorithm) that, when fed with the values of the descriptors of each individual patient will:
-  
 <ul>
 <li>Describe the status of their hemodynamic network; and based on it,</li>
 <li>Predict the effect of drugs and drug combinations on blood pressure, and renal function.</li>
 </ul>
-
 <li>To carry out clinical validation and adjustment of the computerized model with data from patients subject to drug treatments.</li>
 </ol>
 
