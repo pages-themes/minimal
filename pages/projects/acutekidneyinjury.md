@@ -23,7 +23,8 @@ permalink: /acutekidneyinjury
 <li>To carry out clinical validation and adjustment of the computerized model with data from patients subject to drug treatments.</li>
 </ol>
 
-<p>The project will:</p>
+
+The project will:  
 
 <ol>
 <li>Provide personalized treatment for hypertension and pain based on disease mechanisms knowledge.</li>
