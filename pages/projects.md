@@ -170,22 +170,6 @@ Project progress status:
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
         </p></td>
 </tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury <br />&#9734;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
-        Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
 </table>
 
 <!--
