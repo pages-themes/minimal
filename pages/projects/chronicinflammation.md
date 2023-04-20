@@ -7,19 +7,13 @@ permalink: /chronicinflammation/
 # Chronic inflammation
 ## SYSCID Map
 
-<table>
-<tr>
-<td>
-  <b>Resource name:</b> SYSCID Map
-  <br /><b>Diseases:</b> Inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus
-  <br /><b>Homepage:</b> Not available
-  <br /><b>Online access and exploration:</b>  
-  <br /><b>Funding:</b> 
-  <br /><b>How to cite:</b> Manuscript in preparation
-  <br /><b>Contact:</b> Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg, marcio.acencio@uni.lu
-</td>
-</tr>
-</table>
+**Diseases:** Inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus
+**Resource name:** SYSCID Map
+**Homepage:** Not available
+**Online access and exploration:**  [https://syscid.elixir-luxembourg.org](https://syscid.elixir-luxembourg.org)
+**Funding:** European Union’s Horizon 2020 research and innovation programme (agreement No 733100)
+**How to cite:** Manuscript in preparation
+**Contact:** Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg, marcio.acencio@uni.lu
 
 ### Description
 
@@ -27,22 +21,5 @@ Text
 
 ### Fundings
 
-Text
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 733100.
 
-
-
-<table>
-<tr>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-<p style="margin:10px; font-size:18px;">
-  <b>Resource name:</b> SYSCID Map
-  <br /><b>Diseases:</b> 
-  <br /><b>Homepage:</b> Not available
-  <br /><b>Online access and exploration:</b>  
-  <br /><b>Funding:</b> 
-  <br /><b>How to cite:</b> Manuscript in preparation
-  <br /><b>Contact:</b> Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg, marcio.acencio@uni.lu
-</p>
-</td>
-</tr>
-</table>
