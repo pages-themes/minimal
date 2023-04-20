@@ -188,36 +188,42 @@ Project progress status:
 </tr>
 </table>
 
-<!--
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease <br />&#9734;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Meniere’s Disease Map<br />
-        Contact: Jose Antonio Lopez-Escamez, University of Sydney, Australia<br />
-        </p></td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury <br />&#9734;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
-        Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
-        </p></td>
--->
-
-
 <br />
 
-New projects being discussed:  
-- Acute kidney injury
-- Adult neurogenesis
-- Allergic rhinitis
-- Anaphylaxis
-- Atopic dermatitis
-- Diabetes mellitus type 2
-- Duchenne muscular dystrophy
-- Inflammatory bowel disease
-- Meniere’s disease
-- Lung cancer
-- Multiple sclerosis
-- Spinal cord injury
+### Disease maps for adverse outcome pathways (AOPs) in immunotoxicology
+
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../test" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: CAR T cells AOP Map<br />
+        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../test" target="_blank">recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: IL2 Treatment AOP Map<br />
+        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br /><br />
+        </p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../test" target="_blank">Text <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Text<br />
+        Contact: Text<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+</table>
+
