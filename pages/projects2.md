@@ -184,7 +184,13 @@ Project progress status:
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: CardioMap<br />
+        Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
 </tr>
 </table>
 
