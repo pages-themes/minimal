@@ -192,6 +192,7 @@ Project progress status:
 
 ### Disease maps for adverse outcome pathways (AOPs) in immunotoxicology
 
+<table>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
