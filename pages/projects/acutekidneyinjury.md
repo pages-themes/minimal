@@ -38,7 +38,7 @@ The project will:
 <li>Focus on a complex disease, hypertension, with high prevalence and economic impact.</li>
 </ol>
 
-<h3 id="developersteam">Development Team</h3>
+### Development Team
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ Professor of Applied Mathematics at the University of Waterloo, Waterloo, Canada
 </tr>
 </table>
 
-<h3 id="editorscommittee">Editorial Panel (Domain Experts)</h3>
+### Editorial Panel (Domain Experts)
 
 <table>
 <tr>
