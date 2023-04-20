@@ -36,7 +36,8 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 <tr>
 <td><img src="../images/team/GaetaneNocturne.jpg" alt="Gaetane Nocturne" /></td>
 <td><strong>Gaetane Nocturne, MD, PhD</strong><br />
-<strong> Bicêtre Hospital, National Reference Center for Rare Systemic Autoimmune Diseases, Le Kremlin-Bicêtre, France</strong><br />Rheumatologist, Researcher
+<strong> Bicêtre Hospital, Le Kremlin-Bicêtre, France</strong>
+<br />Rheumatologist, Researcher
 </td>
 </tr>
 </table>
