@@ -7,8 +7,8 @@ permalink: /covid-19
 # COVID-19
 ## COVID-19 Disease Map
 
-**Homepage:** [https://covid.pages.uni.lu/](https://covid.pages.uni.lu/)  
-**Online access and exploration:** [https://covid19map.elixir-luxembourg.org/](https://covid19map.elixir-luxembourg.org/)  
+**Homepage:** [https://covid.pages.uni.lu](https://covid.pages.uni.lu/)  
+**Online access:** [https://covid19map.elixir-luxembourg.org](https://covid19map.elixir-luxembourg.org/)  
 **Development status:** First version is complete and published.  
 **Sustainable support:** MINERVA platform and the LCSB team  
 **Contributors:** [FAIRDOMHub: People](https://fairdomhub.org/projects/190#people)  
