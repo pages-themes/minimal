@@ -24,21 +24,20 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 <td><strong>Sacha E Silva-Saffar, MSc</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Pharmacist, PhD Student
 <br />GenHotel EA3886
-<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
 <td><img src="../images/team/AnnaNiarakis.jpg" alt="Anna Niarakis" /></td>
 <td><strong>Anna Niarakis, PhD</strong><br />
 <strong>University of Evry, University of Paris-Saclay, France</strong><br />Associate Professor, Department of Biology
 <br />GenHotel EA3886
-<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry 
+<br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
 <tr>
 <td><img src="../images/team/GaetaneNocturne.jpg" alt="Gaetane Nocturne" /></td>
 <td><strong>Gaetane Nocturne, MD, PhD</strong><br />
 <strong> Bicêtre Hospital, Le Kremlin-Bicêtre, France</strong>
-<br />Rheumatologist, Researcher
-</td>
+<br />Rheumatologist, Researcher</td>
 </tr>
 </table>
 
