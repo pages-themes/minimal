@@ -11,7 +11,7 @@ permalink: /chronicinflammation/
 <tr>
 <td>
   <b>Resource name:</b> SYSCID Map
-  <br /><b>Diseases:</b> Inflammatory bowel disease, rheumatoid arthritis and inflammatory bowel disease
+  <br /><b>Diseases:</b> Inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus
   <br /><b>Homepage:</b> Not available
   <br /><b>Online access and exploration:</b>  
   <br /><b>Funding:</b> 
