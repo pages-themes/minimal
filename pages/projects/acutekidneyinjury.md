@@ -11,32 +11,26 @@ permalink: /acutekidneyinjury
 
 ### Description
 
-<p><a href="https://trecard.com/akiprev-project/" target="_blank">AKIPREV</a> aims at developing a computerized clinical decision support system (CDSS) that will help physicians to stratify patients, and optimize antihypertensive and analgesic drug treatments. AKIPREV-CDSS works on a conceptually innovative approach that evaluates the individual’s functional phenotype, based on a multiparametric computation of selected analytical parameters and personal data. Objectives of this project are:</p>
+[AKIPREV](https://trecard.com/akiprev-project/) aims at developing a computerized clinical decision support system (CDSS) that will help physicians to stratify patients, and optimize antihypertensive and analgesic drug treatments. AKIPREV-CDSS works on a conceptually innovative approach that evaluates the individual’s functional phenotype, based on a multiparametric computation of selected analytical parameters and personal data. Objectives of this project are:
 
-<ol>
-<li>To develop and preclinically validate a disease and pharmacological model of interactions among the key regulatory mechanisms and molecular players of systemic and renal hemodynamics, and the associated markers (descriptors) that describe the status of the hemodynamic network, on which drugs exert their effects.</li>
-<li>To develop a computerized mathematical model (algorithm) that, when fed with the values of the descriptors of each individual patient will:
-<ul>
-<li>Describe the status of their hemodynamic network; and based on it,</li>
-<li>Predict the effect of drugs and drug combinations on blood pressure, and renal function.</li>
-</ul>
-<li>To carry out clinical validation and adjustment of the computerized model with data from patients subject to drug treatments.</li>
-</ol>
+1. To develop and preclinically validate a disease and pharmacological model of interactions among the key regulatory mechanisms and molecular players of systemic and renal hemodynamics, and the associated markers (descriptors) that describe the status of the hemodynamic network, on which drugs exert their effects.  
+1. To develop a computerized mathematical model (algorithm) that, when fed with the values of the descriptors of each individual patient will:  
+   - Describe the status of their hemodynamic network; and based on it,  
+   - Predict the effect of drugs and drug combinations on blood pressure, and renal function.  
+1. To carry out clinical validation and adjustment of the computerized model with data from patients subject to drug treatments.  
 
 
-The project will:  
+The project will:   
 
-<ol>
-<li>Provide personalized treatment for hypertension and pain based on disease mechanisms knowledge.</li>
-<li>Integrate patient’s multidimensional and longitudinal data.</li>
-<li>Use proteomics and pharmacogenomics, systems biomedicine, network analysis and computational modelling.</li>
-<li>Perform pre-clinical and clinical studies.</li>
-<li>Address sex and gender differences.</li>
-<li>Involve patient associations</li>
-<li>Consider regulatory aspects.</li>
-<li>Develop a dissemination and commercialisation plan.</li>
-<li>Focus on a complex disease, hypertension, with high prevalence and economic impact.</li>
-</ol>
+1. Provide personalized treatment for hypertension and pain based on disease mechanisms knowledge.  
+1. Integrate patient’s multidimensional and longitudinal data.  
+1. Use proteomics and pharmacogenomics, systems biomedicine, network analysis and computational modelling.  
+1. Perform pre-clinical and clinical studies.  
+1. Address sex and gender differences.  
+1. Involve patient associations.  
+1. Consider regulatory aspects.  
+1. Develop a dissemination and commercialisation plan.  
+1. Focus on a complex disease, hypertension, with high prevalence and economic impact.  
 
 ### Development Team
 
