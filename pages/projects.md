@@ -196,21 +196,28 @@ Project progress status:
         Resource: Meniere’s Disease Map<br />
         Contact: Jose Antonio Lopez-Escamez, University of Sydney, Australia<br />
         </p></td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury <br />&#9734;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
+        Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
+        </p></td>
 -->
 
 
 <br />
+
 New projects being discussed:  
-<ul style="list-style-type:none; line-height:175%;">
-        <li>Adult neurogenesis</li>
-        <li>Allergic rhinitis</li>
-        <li>Anaphylaxis</li>
-        <li>Atopic dermatitis</li>
-        <li>Diabetes mellitus type 2</li>
-        <li>Duchenne muscular dystrophy</li>
-        <li>Inflammatory bowel disease</li>
-        <li>Meniere’s disease</li>
-        <li>Lung cancer</li>
-        <li>Multiple sclerosis</li>
-        <li>Spinal cord injury</li>
-</ul>
+- Acute kidney injury
+- Adult neurogenesis
+- Allergic rhinitis
+- Anaphylaxis
+- Atopic dermatitis
+- Diabetes mellitus type 2
+- Duchenne muscular dystrophy
+- Inflammatory bowel disease
+- Meniere’s disease
+- Lung cancer
+- Multiple sclerosis
+- Spinal cord injury
