@@ -14,7 +14,7 @@ permalink: /asthma
 **Development status:** First version is complete and published.  
 **Sustainable support:** MINERVA platform and the LCSB team  
 **Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)  
-**How to cite:** Mazein et al. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
+**How to cite:** Mazein et al. J Allergy Clin Immunol. 2020 Dec. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
 **Contact:** Alexander Mazein, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, a.mazein@gmail.com  
 
 
