@@ -13,12 +13,12 @@ permalink: /chronicinflammation/
   <b>Resource name:</b> AsthmaMap
   <br /><b>Diseases:</b> Asthma
   <br /><b>Homepage:</b> Not available
-  <br /><b>Online access and exploration:</b> 
+  <br /><b>Online access and exploration:</b>  
   <br /><b>Development status:</b> First version is complete and published. Now on hold. Contributions and suggestions for collaboration are welcome.
-  <br /><b>Video tutorials:** 
+  <br /><b>Video tutorials:</b> 
   <br /><b>Funding:</b> 
   <br /><b>How to cite:</b> Reference
-  <br /><b>Contact:** Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
+  <br /><b>Contact:</b> Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
 </p>
 </td>
 </tr>
