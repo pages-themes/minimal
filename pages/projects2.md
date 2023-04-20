@@ -180,7 +180,7 @@ Project progress status:
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../chronicinflammation" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: SYSCID map<br />
+        Resource: SYSCID Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
