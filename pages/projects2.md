@@ -237,7 +237,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../test" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: IL2 Treatment AOP Map<br />
+        Resource: IL-2 AOP Map<br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br /><br />
         </p></td>
 </tr>
