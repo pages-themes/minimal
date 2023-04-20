@@ -6,14 +6,14 @@ permalink: /contact
 
 #  Contact
 
-For suggesting collaboration, contribution to the existing projects or initiation of new disease maps, please use this email address: <a href="mailto:disease-maps-contact@googlegroups.com">disease-maps-contact@googlegroups.com</a>  
+For suggesting collaboration, contribution to the existing projects or initiation of new disease maps, please use this email address: disease-maps-contact(at)googlegroups.com  
 
 ### Disease Maps Project Leaders
 
-Alexander Mazein <a href="mailto:a.mazein@gmail.com">a.mazein@gmail.com</a>  
-Marek Ostaszewski <a href="mailto:marek.ostaszewski@uni.lu">marek.ostaszewski@uni.lu</a>  
-Inna Kuperstein <a href="mailto:inna.kuperstein@curie.fr">inna.kuperstein@curie.fr</a>  
-Anna Niarakis <a href="mailto:anna.niaraki@univ-evry.fr">anna.niaraki@univ-evry.fr</a>  
+Alexander Mazein a.mazein(at)gmail.com  
+Marek Ostaszewski marek.ostaszewski@uni.lu  
+Inna Kuperstein inna.kuperstein(at)curie.fr  
+Anna Niarakis anna.niaraki(at)univ-evry.fr  
 
 ### Disease Maps Discussion List
 
