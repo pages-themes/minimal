@@ -11,7 +11,7 @@ permalink: /acutekidneyinjury
 
 ### Description
 
-[AKIPREV](https://trecard.com/akiprev-project/) aims at developing a computerized clinical decision support system (CDSS) that will help physicians to stratify patients, and optimize antihypertensive and analgesic drug treatments. AKIPREV-CDSS works on a conceptually innovative approach that evaluates the individual’s functional phenotype, based on a multiparametric computation of selected analytical parameters and personal data. Objectives of this project are:
+AKIPREV aims at developing a computerized clinical decision support system (CDSS) that will help physicians to stratify patients, and optimize antihypertensive and analgesic drug treatments. AKIPREV-CDSS works on a conceptually innovative approach that evaluates the individual’s functional phenotype, based on a multiparametric computation of selected analytical parameters and personal data. Objectives of this project are:
 
 1. To develop and preclinically validate a disease and pharmacological model of interactions among the key regulatory mechanisms and molecular players of systemic and renal hemodynamics, and the associated markers (descriptors) that describe the status of the hemodynamic network, on which drugs exert their effects.  
 1. To develop a computerized mathematical model (algorithm) that, when fed with the values of the descriptors of each individual patient will:  
