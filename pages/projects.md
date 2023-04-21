@@ -215,7 +215,7 @@ Project progress status:
 
 ### Disease maps for immunotoxicology
 
-This section includes maps that describe mechanisms of adverse effects of various treatmets and are based on the adverse outcome pathway (AOP) concept in toxicology.  
+This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
 
 <table>
 <tr style="height:160px;">
