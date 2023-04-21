@@ -44,6 +44,11 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 <strong> Bicêtre Hospital, Le Kremlin-Bicêtre, France</strong>
 <br />Rheumatologist, Researcher</td>
 </tr>
+<tr>
+<td><img src="../images/team/noprofile.jpg" alt="Marie Croquet" /></td>
+<td><strong>Marie Croquet, BSc</strong><br /><strong>University of Evry, University of Paris-Saclay</strong><br />Intern</td>
+</tr>
+<tr>
 </table>
 
 
