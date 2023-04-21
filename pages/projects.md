@@ -167,7 +167,7 @@ Project progress status:
         <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: CardioMap<br />
-        Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
+        Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br /><br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
