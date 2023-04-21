@@ -9,8 +9,8 @@ permalink: /il2
 
 **Online access and exploration:** 
   - [Skin rash](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2skinrash)  
-  - [Vascular leakage](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2vascularleakage)
-  - [Hepatotoxicity](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2hepatotoxicity)
+  - [Vascular leakage](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2vascularleakage)  
+  - [Hepatotoxicity](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2hepatotoxicity)  
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases
 **Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
