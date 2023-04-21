@@ -16,10 +16,11 @@ permalink: /cart
 
 ### Description
 
-Chimeric antigen receptor (CAR), or chimeric immunoreceptor, or chimeric T cell receptor is an artificial T cell receptor protein engineered to give T cells an ability to target a specific antigen. This receptor type is named chimeric because it combines antigen-binding and T-cell-activating functions. CAR T-Cell therapy is a form of immunotherapy that uses T cells engineered with CARs to treat cancer. Cytokine release syndrome (CRS) is the most common type of toxicity caused by CAR T cell therapy. 
+Chimeric antigen receptor (CAR), or chimeric immunoreceptor, or chimeric T cell receptor is an artificial T cell receptor protein engineered to give T cells an ability to target a specific antigen. This receptor type is named chimeric because it combines antigen-binding and T-cell-activating functions. CAR T cell therapy is a form of immunotherapy that uses T cells engineered with CARs to treat cancer. Cytokine release syndrome (CRS) is the most common type of toxicity caused by CAR T cell therapy. 
 
-Immune-related adverse outcome pathway (irAOP) of CAR T cell treatment 
+In toxicology, adverse outcome pathway (AOP), or in immunotoxicology - immune-related adverse outcome pathway (irAOP), is a concept that ...
 
+In this project, we use existing irAOP of CRS induced by CAR T cell treatment to build a detailed description of adverse outcome mechanisms. This is done by combining the AOP approach with the disease map approach and focusing on relevant cytokines, receeptors and cell types, as well as on connections between them.
 
 ### Funding
 
