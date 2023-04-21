@@ -9,7 +9,7 @@ permalink: /acuteinflammation
 
 **Homepage:** [https://air.bio.informatik.uni-rostock.de](https://air.bio.informatik.uni-rostock.de/)  
 **Online access and exploration:** [https://air.elixir-luxembourg.org](https://air.elixir-luxembourg.org/)  
-**Video tutorials:** [https://air.bio.informatik.uni-rostock.de/using-the-air/tutorial-videos](https://air.bio.informatik.uni-rostock.de/using-the-air/tutorial-videos)
+**Video tutorials:** [https://air.bio.informatik.uni-rostock.de/using-the-air/tutorial-videos](https://air.bio.informatik.uni-rostock.de/using-the-air/tutorial-videos)  
 **Development status:** First version is complete and published, applications demonstrated  
 **Sustainable support:** University of Rostock  
 **Funding:** The initial version has receeived support from Heel, GmbH, Baden-Baden   
