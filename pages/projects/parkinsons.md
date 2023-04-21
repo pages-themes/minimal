@@ -7,7 +7,14 @@ permalink: /parkinsons
 
 # Parkinson’s disease
 
-## [Parkinson’s Disease Map](https://pdmap.uni.lu/minerva/)
+## Parkinson’s Disease Map
+
+**Homepage:** [https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map)  
+**Online access and exploration:** [https://pdmap.uni.lu](https://pdmap.uni.lu/minerva/)  
+**Development status:** First version is complete and published  
+**Funding:** [Luxembourg Centre for Systems Biomedicine](http://wwwen.uni.lu/lcsb), [L’Œuvre Nationale de Secours Grande-Duchesse Charlotte](http://www.oeuvre.lu/)    
+**How to cite:** Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).  
+**Contact:** Marek Ostaszewski, University of Luxembourg, marek.ostaszewski(at)uni.lu  
 
 <p>Parkinson’s disease (PD) is the second most prevalent neurodegenerative disease in the world. Although many genetic and 
 environmental factors contributing to the risk of PD have been identified, no unique causal mechanism is defined. 
@@ -28,23 +35,11 @@ mitochondrial dysfunction, impaired protein degradation, neuropathobiology of ag
 to diverse research-facilitating functionalities: relevant annotation and links to scientific databases, overlay of experimental 
 data, or identification of drug targets and chemical interactions by dedicated interfaces.</p>
 
-### Access
-
-<a href="https://pdmap.uni.lu" target="_blank">https://pdmap.uni.lu</a>
-
 ### Publications
 
-<ul>
-<li>Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, 
-Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease 
-in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. 
-doi: <a href="https://dx.doi.org/10.1007/s12035-013-8489-4" target="_blank">10.1007/s12035-013-8489-4</a>. Review. 
-PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570" target="_blank">23832570</a>.</li>
-<li>Satagopam V, Gu W, Eifes S, Gawron P, Ostaszewski M, Gebel S, Barbosa-Silva A, Balling R, Schneider R. Integration and Visualization 
-of Translational Medicine Data for Better Understanding of Human Diseases. Big Data. 2016 Jun;4(2):97-108. 
-doi: <a href="https://dx.doi.org/10.1089/big.2015.0057" target="_blank">10.1089/big.2015.0057</a>. 
-PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=27441714" target="_blank">27441714</a>.</li>
-</ul>
+Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).
+
+Satagopam V, Gu W, Eifes S, Gawron P, Ostaszewski M, Gebel S, Barbosa-Silva A, Balling R, Schneider R. Integration and Visualization of Translational Medicine Data for Better Understanding of Human Diseases. Big Data. 2016 Jun;4(2):97-108. [doi: 10.1089/big.2015.0057](https://doi.org/10.1089/big.2015.0057). [PMID: 27441714](https://www.ncbi.nlm.nih.gov/pubmed/27441714).
 
 ### Development Team
 
@@ -93,5 +88,6 @@ Project Manager, the Parkinson's disease map project<br /></td>
 
 <ul>
 <li><a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a> (LCSB): Institutional Funds</li>
-<li>Donation from <a href="http://www.oeuvre.lu/" target="_blank">L’ Œuvre Nationale de Secours Grande-Duchesse Charlotte</a></li>
+<li>Donation from <a href="http://www.oeuvre.lu/" target="_blank">L’Œuvre Nationale de Secours Grande-Duchesse Charlotte</a></li>
 </ul>
+
