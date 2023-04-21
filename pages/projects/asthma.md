@@ -11,10 +11,10 @@ permalink: /asthma
 **Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
 **Video tutorials:** [https://asthma-map.org/tutorials](https://asthma-map.org/tutorials/)  
 **Development status:** First version is complete and published.  
-**Sustainable support:** MINERVA platform and the LCSB team  
+**Sustainable support:** MINERVA platform  
 **Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
-**How to cite:** Mazein et al. J Allergy Clin Immunol. 2020 Dec. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
+**How to cite:** Mazein, et al. J Allergy Clin Immunol. 2020. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
 **Contact:** Alexander Mazein, University of Luxembourg, a.mazein(at)gmail.com  
 
 
@@ -43,15 +43,9 @@ permalink: /asthma
 
 ### Publications
 
-Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
+Mazein A, Ivanova O, Balaur I, Ostaszewski M, Berzhitskaya V, Serebriyskaya T, Ligon T, Hasenauer J, De Meulder B, Overall RW, Roy L, Knowles RG, Wheelock CE, Dahlen SE, Chung KF, Adcock IM, Roberts G, Djukanovic R, Pellet J, Gawron P, Balling R, Maitland-van der Zee AH, Schneider R, Sterk PJ, Auffray C; U-BIOPRED Study Group and the eTRIKS Consortium. AsthmaMap: an interactive knowledge repository for mechanisms of asthma. J Allergy Clin Immunol. 2020 Dec 9:S0091-6749(20)31707-3. [doi: 10.1016/j.jaci.2020.11.032](https://doi.org/10.1016/j.jaci.2020.11.032). Epub ahead of print. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742). 
 
-<!--### Press release
-<ul>
-<li>
-New 'AsthmaMap' could redefine disease and personalize treatment for patients, 12th March 2016, European Lung Foundation. 
-<a href="http://www.europeanlung.org/en/news-and-events/media-centre/press-releases/new-%E2%80%9Casthmamap%E2%80%9D-could-redefine-disease-and-personalise-treatment-for-patients" target="_blank">Read...</a>
-</li>
-</ul>-->
+Mazein A, Knowles RG, Adcock I, Chung KF, Wheelock CE, Maitland-van der Zee AH, Sterk PJ, Auffray C; AsthmaMap Project Team. AsthmaMap: An expert-driven computational representation of disease mechanisms. Clin Exp Allergy. 2018 Aug;48(8):916-918. [doi: 10.1111/cea.13211](https://doi.org/10.1111/cea.13211). PubMed [PMID: 30133857](https://www.ncbi.nlm.nih.gov/pubmed/30133857).
 
 ### AsthmaMap Editorial Panel
 
@@ -209,10 +203,6 @@ Researcher</td>
 </table>
 
 ### Funding
-<!--<ul>
-<li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred" target="_blank">IMI U-BIOPRED n°115010</a></li>
-<li><a href="https://www.imi.europa.eu/projects-results/project-factsheets/etriks" target="_blank">IMI eTRIKS n°115446</a></li>
-</ul>-->
 
 The AsthmaMap project is funded in part by the Innovative Medicines Initiative (IMI) funded by the European Union and the European Federation of Pharmaceutical Industry Associations through [U-BIOPRED](https://www.europeanlung.org/en/projects-and-research/projects/u-biopred/home) (Unbiased Biomarkers for the Prediction of Respiratory Disease Outcomes, n°115010) and [eTRIKS](https://www.etriks.org/) (European Translational Information and Knowledge Management Services, IMI n°115446), the French National Center for Scientific Research (CNRS), the European Institute for Systems Biology and Medicine and the Luxembourg Center for Systems Biomedicine.
 
