@@ -13,5 +13,5 @@ permalink: /acuteinflammation
 **Development status:** First version is complete and published, applications demonstrated  
 **Sustainable support:** University of Rostock  
 **Funding:** The initial version has receeived support from Heel, GmbH, Baden-Baden   
-**How to cite:** Serhan, et al. Mol Aspects Med. 2020 Aug. [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032)  
+**How to cite:** Serhan CN, Gupta SK, Perretti M, Godson C, Brennan E, Li Y, Soehnlein O, Shimizu T, Werz O, Chiurchiù V, Azzi A, Dubourdeau M, Gupta SS, Schopohl P, Hoch M, Gjorgevikj D, Khan FM, Brauer D, Tripathi A, Cesnulevicius K, Lescheid D, Schultz M, Särndahl E, Repsilber D, Kruse R, Sala A, Haeggström JZ, Levy BD, Filep JG, Wolkenhauer O. The Atlas of Inflammation Resolution (AIR). Mol Aspects Med. 2020 Aug;74:100894. [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032)  
 **Contact:** Matti Hoch, University of Rostock, Rostock, Germany, matti.hoch(at)uni-rostock.de   
