@@ -7,7 +7,7 @@ permalink: /sjogrens
 # Sjogren's syndrome
 ## Sjogren Map
 
-**Development status:** Active development within a PhD project.  
+**Development status:** Active development within a PhD project  
 **Sustainable support:** [University of Evry](http://www.univ-evry.fr/en/), [MINERVA platform](https://minerva.pages.uni.lu/)  
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580)  
 **Contact:** Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France, sacha.e-silva-saffar(at)universite-paris-saclay.fr  
