@@ -7,10 +7,7 @@ permalink: /il2
 # Recombinant IL-2 treatment
 ## IL-2 AOP Map
 
-**Online access and exploration:** 
-  - [Skin rash](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2skinrash)  
-  - [Vascular leakage](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2vascularleakage)  
-  - [Hepatotoxicity](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2hepatotoxicity)  
+**Online access and exploration:** [Skin rash map](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2skinrash), [Vascular leakage map](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2vascularleakage), [Hepatotoxicity map](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2hepatotoxicity)  
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases
 **Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
@@ -23,7 +20,7 @@ Recombinant interleukin-2 (IL-2) is a therapeutic used to treat cancer and autoi
 
 An adverse outcome pathway (AOP), or an immune-related adverse outcome pathway (irAOP), is a concept that is used to visualise and study adverse effects of treatments. An irAOP includes a molecular initiating event (MIE), key events (KEs), key event relationships (KERs) and an adverse outcome (AO). KEs are defined by connecting physiological events to test systems and measurable clinical parameters.
 
-In this project, we use a pre-developed irAOP of skin rash, hepatotoxicity and vascular leakage induced by recombinant IL-2 to build a detailed description of adverse outcome mechanisms. We combine the AOP approach with the disease map approach and focusing on relevant cytokines, receptors and cell types, as well as on connections between them.
+In this project, we use irAOPs developed by the [imSAVAR](https://imsavar.eu/) experts for skin rash, hepatotoxicity and vascular leakage induced by recombinant IL-2. On the basis of these irAOPs we build detailed descriptions of adverse outcome mechanisms. For that we combine the AOP approach with the disease map approach and focusing on relevant cytokines, receptors and cell types, as well as on connections between them.
 
 ### Funding
 
