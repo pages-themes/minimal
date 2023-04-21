@@ -11,6 +11,7 @@ permalink: /cart
 **Development status:** First version is complete and published
 **Disease treated:** Cancer  
 **Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Publication:** [Preprint](https://doi.org/10.1101/2023.03.21.533620)  
 **Contact:** Alexander Mazein, University of Luxembourg, alexander.mazein(at)uni.lu  
 
