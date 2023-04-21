@@ -7,11 +7,10 @@ permalink: /acuteinflammation
 # Acute inflammation
 ## Atlas of Inflammation Resolution
 
-**Homepage:** [https://asthma-map.org](https://asthma-map.org)  
-**Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
-**Video tutorials:** [https://asthma-map.org/tutorials](https://asthma-map.org/tutorials/)  
-**Development status:** First version is complete and published.  
-**Sustainable support:** MINERVA platform and the LCSB team  
-**Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)  
-**How to cite:** Mazein et al. J Allergy Clin Immunol. 2020 Dec. [PMID: 33309742](https://www.ncbi.nlm.nih.gov/pubmed/33309742).  
-**Contact:** Alexander Mazein, University of Luxembourg, a.mazein(at)gmail.com 
+**Homepage:** [https://air.bio.informatik.uni-rostock.de](https://air.bio.informatik.uni-rostock.de/)  
+**Online access and exploration:** [https://air.elixir-luxembourg.org](https://air.elixir-luxembourg.org/)  
+**Development status:** First version is complete and published, applications demonstrated  
+**Sustainable support:** University of Rostock  
+**Funding:** The initial version has receeived support from Heel, GmbH, Baden-Baden   
+**How to cite:** Serhan, et al. Mol Aspects Med. 2020 Aug. [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032)  
+**Contact:** Matti Hoch, University of Rostock, Rostock, Germany, matti.hoch(at)uni-rostock.de   
