@@ -13,7 +13,7 @@ permalink: /parkinsons
 **Online access and exploration:** [https://pdmap.uni.lu](https://pdmap.uni.lu/minerva/)  
 **Development status:** First version is complete and published  
 **Funding:** [Luxembourg Centre for Systems Biomedicine](http://wwwen.uni.lu/lcsb), [L’Œuvre Nationale de Secours Grande-Duchesse Charlotte](http://www.oeuvre.lu/)    
-**How to cite:** Fujita KA, Ostaszewski M, Matsuoka Y, Ghosh S, Glaab E, Trefois C, Crespo I, Perumal TM, Jurkowski W, Antony PM, Diederich N, Buttini M, Kodama A, Satagopam VP, Eifes S, Del Sol A, Schneider R, Kitano H, Balling R. Integrating pathways of Parkinson's disease in a molecular interaction map. Mol Neurobiol. 2014 Feb;49(1):88-102. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). Epub 2013 Jul 7. Review. [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570).  
+**How to cite:** Fujita, et al. Mol Neurobiol. 2014. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570)  
 **Contact:** Marek Ostaszewski, University of Luxembourg, marek.ostaszewski(at)uni.lu  
 
 <p>Parkinson’s disease (PD) is the second most prevalent neurodegenerative disease in the world. Although many genetic and 
