@@ -8,7 +8,7 @@ permalink: /il2
 ## IL-2 AOP Map
 
 **Development status:** Active development  
-**Diseases treated:** Cancer, autoimmune diseases
+**Diseases treated:** Cancer, autoimmune diseases  
 **Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
 **Publication:** Manuscript in preparation   
 **Contact:** Alexander Mazein, University of Luxembourg, alexander.mazein(at)uni.lu  
