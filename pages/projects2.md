@@ -222,7 +222,7 @@ Project progress status:
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../atopicdermatitis" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Sjogren Map<br />
         Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
