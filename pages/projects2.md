@@ -245,7 +245,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
         <strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: CAR T cell AOP Map<br />
-        Publication: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a>
+        Publication: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
