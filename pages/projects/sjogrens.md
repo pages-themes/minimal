@@ -7,6 +7,11 @@ permalink: /sjogrens
 # Sjogren's syndrome
 ## Sjogren Map
 
+**Development status:** Active development within a PhD project.  
+**Sustainable support:** [University of Evry](http://www.univ-evry.fr/en/), [MINERVA platform](https://minerva.pages.uni.lu/)  
+**Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580)  
+**Contact:** Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France, sacha.e-silva-saffar(at)universite-paris-saclay.fr  
+
 Sjögren’s syndrome, or Gougerot-Sjögren syndrome, is a systemic autoimmune disease that causes a triad of symptoms: dryness (eyes, mouth, skin), pain (articular, muscular) and fatigue. The onset is still unknown and can happen either spontaneously (primary Sjögren) or set-off during a precedent autoimmune disease such as Rheumatoid Arthritis or systemic lupus erythematosus (secondary Sjögren). The underlying cells interactions and molecular pathways of Sjogren’s pathogenesis are still researched, but the current theory of Sjogren’s syndrome development is the “autoimmune epithelitis” which is characterized by an inflammation of the superficial layer of glands.
 
 Affecting between 0.01% and 0.7% of the population depending on the degree of criteria chosen for the patient inclusions, recent studies in Europe for Primary Sjogren’s disease found the estimation of prevalence to be less than the threshold of orphan diseases, 0.05% (Cornec and Chiche, 2015). The sex-ratio is mostly unbalanced because woman are 9 to 20 times more susceptible to develop the disease. Approximately one third of the patient will develop systemic complications such as vasculitis, peripherical neuropathy, renal involvement or interstitial lung involvement. The most feared systemic complication is the apparition of a low-grade lymphoma (MALT) which occurs for approximately 5-10% of the patients, representing 5 to 15 times more risk than the general population. 
