@@ -1,13 +1,20 @@
 ---
 title: Rheumatoid arthritis
 layout: default
-redirect_from: "/projects/rheumatoidarthritis/"
 permalink: /rheumatoidarthritis
 ---
 
 
 # Rheumatoid arthritis
 ## Rheumatoid Arthritis Map (RA-MAP)
+
+**Online access and exploration:** [https://ramap.uni.lu](https://ramap.uni.lu/)  
+**Development status:** Second version is complete and published, applications demonstrated  
+**Sustainable support:** , [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
+**Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale)  
+**How to cite:** Singh, et al. Genom Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575)  
+**Contact:** Anna Niarakis, University of Evry, University of Paris-Saclay, France, anna.niaraki(at)univ-evry.fr  
 
 Rheumatoid arthritis (RA) is a multifactorial autoimmune disease that causes chronic inflammation of the joints. The etiology of the disease remains still unclear. Patients with autoimmune diseases have an immune system that targets and attacks their own body tissues. Characteristic features of RA include inflammation of the tissue around the joints and hyperplasia (swelling) that can lead to bone erosion and permanent deformity. The disease can affect multiple organs in the body causing inflammation and injury and for this it is considered a systemic illness.
 
@@ -113,10 +120,4 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
   
 ### Funding
 
-<table>
-<tr> 
-<li>PhD project "Integrative Modelling and Analysis of Molecular Pathways dysregulated in Rheumatoid Arthritis" is funded by the <a href="https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale" target="_blank">Doctoral School "Structure and Dynamics of Living Systems"</a>, the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">University of Paris-Saclay</a>.</li> 
-<li><a href="https://www.casym.eu/blog/category/casym-research-exchange-grants/" target="_blank">CASyM research exchange grant</a>, 2015. Awarded project: “Building a unified pathway theory of inflammation across asthma, 
-rheumatoid arthritis and atherosclerosis”.</li>
-</tr>
-</table>
+PhD project "Integrative Modelling and Analysis of Molecular Pathways dysregulated in Rheumatoid Arthritis" is funded by the <a href="https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale" target="_blank">Doctoral School "Structure and Dynamics of Living Systems"</a>, the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">University of Paris-Saclay</a>.
