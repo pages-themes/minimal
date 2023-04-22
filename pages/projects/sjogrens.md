@@ -9,6 +9,7 @@ permalink: /sjogrens
 
 **Development status:** Active development within a PhD project  
 **Sustainable support:** [University of Evry](http://www.univ-evry.fr/en/), [MINERVA platform](https://minerva.pages.uni.lu/)  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580)  
 **Contact:** Sacha E Silva-Saffar, University of Paris-Saclay, sacha.e-silva-saffar(at)universite-paris-saclay.fr  
 
