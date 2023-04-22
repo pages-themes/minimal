@@ -8,6 +8,7 @@ permalink: /rheumatoidarthritis
 # Rheumatoid arthritis
 ## Rheumatoid Arthritis Map (RA-MAP)
 
+<!--
 **Online access and exploration:** [https://ramap.uni.lu](https://ramap.uni.lu/)  
 **Development status:** Second version is complete and published, applications demonstrated  
 **Sustainable support:** [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), [MINERVA Platform](https://minerva.pages.uni.lu/)  
@@ -15,6 +16,7 @@ permalink: /rheumatoidarthritis
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale)  
 **How to cite:** Singh, et al. Genom Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050).   
 **Contact:** Anna Niarakis, Université Paris-Saclay, Evry, France, anna.niaraki(at)univ-evry.fr  
+-->
 
 Rheumatoid arthritis (RA) is a multifactorial autoimmune disease that causes chronic inflammation of the joints. The etiology of the disease remains still unclear. Patients with autoimmune diseases have an immune system that targets and attacks their own body tissues. Characteristic features of RA include inflammation of the tissue around the joints and hyperplasia (swelling) that can lead to bone erosion and permanent deformity. The disease can affect multiple organs in the body causing inflammation and injury and for this it is considered a systemic illness.
 
