@@ -11,6 +11,7 @@ permalink: /cancer
 **Online access and exploration:** [https://acsn.curie.fr/ACSN2/ACSN2.html](https://acsn.curie.fr/ACSN2/ACSN2.html)  
 **Development status:** ACSN 2.0 is complete and published, applications demonstrated  
 **Sustainable support:** [Institut Curie](https://sysbio.curie.fr/), [NaviCell Web Platform](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-100)  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Highlights:** ACSN 2.0 is now connected to the [RECON metabolic network](https://www.vmh.life/)  
 **How to cite:** Kuperstein, et al. Oncogenesis. 2015. [doi: 10.1038/oncsis.2015.19](https://doi.org/10.1038/oncsis.2015.19). [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618)  
 **Contact:** Inna Kuperstein, Institut Curie, Paris, France, inna.kuperstein(at)curie.fr   
