@@ -226,23 +226,46 @@ This section includes projects that focus on comparing and studying disiease mec
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../chronicinflammation" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../chronicinflammation" target="_blank">SYSCID Map <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: SYSCID Map<br />
         Diseases: inflammatory bowel disease, rheumatoid arthritis, systemic lupus erythematosus<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../ulcerativecolitis" target="_blank">Ulcerative colitis vs. atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../ulcerativecolitis" target="_blank">ImmUniverse Map <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: ImmUniverse Map<br />
         Diseases: ulcerative colitis, atopic dermatitis<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 </tr>
 </table>
 
+<br />
 
+### Disease maps for immunotoxicology
+
+This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
+
+<table>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: CAR T cell AOP Map<br />
+        Publication: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a><br />
+        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../il2" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: IL-2 AOP Map<br />
+        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br /><br />
+        </p></td>
+</tr>
+</table>
 
