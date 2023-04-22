@@ -1,14 +1,19 @@
 ---
 title: Cancer
 layout: default
-redirect_from: "/projects/cancer/"
 permalink: /cancer
 ---
 
-
 # Cancer
+## Atlas of Cancer Signalling Network
 
-## [Atlas of Cancer Signalling Network](https://acsn.curie.fr/navicell/maps/acsn/master/index.html)
+**Homepage:** [https://acsn.curie.fr](https://acsn.curie.fr)  
+**Online access and exploration:** [https://acsn.curie.fr/ACSN2/ACSN2.html](https://acsn.curie.fr/ACSN2/ACSN2.html)  
+**Development status:** ACSN 2.0 is complete and published, applications demonstrated  
+**Sustainable support:** [Institut Curie](https://sysbio.curie.fr/), [NaviCell Web Platform](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-100)  
+**Highlights:** ACSN 2.0 is now connected to the [RECON metabolic network](https://www.vmh.life/)  
+**How to cite:** Kuperstein I, Bonnet E, Nguyen HA, Cohen D, Viara E, Grieco L, Fourquet S, Calzone L, Russo C, Kondratova M, Dutreix M, Barillot E, Zinovyev A. Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps. Oncogenesis. 2015 Jul 20;4:e160. doi: 10.1038/oncsis.2015.19. [PMID: 26192618](https://www.ncbi.nlm.nih.gov/pubmed/26192618)  
+**Contact:** Inna Kuperstein, Institut Curie, Paris, France, inna.kuperstein(at)curie.fr   
 
 <h3 id="ACSN purpose">ACSN purpose</h3>
 
