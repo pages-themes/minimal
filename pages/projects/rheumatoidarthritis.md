@@ -111,11 +111,6 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <br />GenHotel EA3886
 <br />European Research Laboratory for Rheumatoid Arthritis, Genopole, Evry</td>
 </tr>
-<tr>
-<td style="width: 100px;"><img src="../images/team/DavidGibson.jpg" alt="David Gibson" /></td>
-<td><strong>David Gibson, PhD</strong><br />
-<strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
-</tr>
 </table>
   
 ### Funding
