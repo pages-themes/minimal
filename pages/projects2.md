@@ -200,7 +200,7 @@ Project progress status:
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../chronicinflammation" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../chronicinflammation" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: SYSCID Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -216,7 +216,7 @@ Project progress status:
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../atopicdermatitis" target="_blank">Atopic dermatitis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../atopicdermatitis" target="_blank">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Psoriasis Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
@@ -224,7 +224,7 @@ Project progress status:
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../ulcerativecolitis" target="_blank">Ulcerative colitis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../ulcerativecolitis" target="_blank">Ulcerative colitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: ImmUniverse Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
