@@ -48,7 +48,6 @@ The [University of Evry](http://www.univ-evry.fr/en/), Paris Saclay is developin
 <td><img src="../images/team/noprofile.jpg" alt="Marie Croquet" /></td>
 <td><strong>Marie Croquet, BSc</strong><br /><strong>University of Evry, University of Paris-Saclay, France</strong><br />Intern</td>
 </tr>
-<tr>
 </table>
 
 
