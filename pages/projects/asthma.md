@@ -11,7 +11,7 @@ permalink: /asthma
 **Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
 **Video tutorials:** [https://asthma-map.org/tutorials](https://asthma-map.org/tutorials/)  
 **Development status:** First version is complete and published  
-**Sustainable support:** MINERVA platform  
+**Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
