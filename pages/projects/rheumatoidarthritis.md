@@ -10,7 +10,7 @@ permalink: /rheumatoidarthritis
 
 **Online access and exploration:** [https://ramap.uni.lu](https://ramap.uni.lu/)  
 **Development status:** Second version is complete and published, applications demonstrated  
-**Sustainable support:** , [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Sustainable support:** [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale)  
 **How to cite:** Singh, et al. Genom Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575)  
