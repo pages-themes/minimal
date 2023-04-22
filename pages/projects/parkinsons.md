@@ -11,7 +11,9 @@ permalink: /parkinsons
 **Homepage:** [https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map)  
 **Online access and exploration:** [https://pdmap.uni.lu](https://pdmap.uni.lu/minerva/)  
 **Development status:** First version is complete and published  
-**Funding:** [Luxembourg Centre for Systems Biomedicine](http://wwwen.uni.lu/lcsb), [L’Œuvre Nationale de Secours Grande-Duchesse Charlotte](http://www.oeuvre.lu/)    
+**Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
+**Funding:** [LCSB Institutional Funds](http://wwwen.uni.lu/lcsb), [L’Œuvre Nationale de Secours Grande-Duchesse Charlotte](http://www.oeuvre.lu/)    
 **How to cite:** Fujita, et al. Mol Neurobiol. 2014. [doi: 10.1007/s12035-013-8489-4](https://doi.org/10.1007/s12035-013-8489-4). [PMID: 23832570](https://www.ncbi.nlm.nih.gov/pubmed/23832570)  
 **Contact:** Marek Ostaszewski, University of Luxembourg, marek.ostaszewski(at)uni.lu  
 
