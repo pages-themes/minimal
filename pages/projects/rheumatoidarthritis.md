@@ -109,16 +109,6 @@ Head of Laboratory of Chronic Infection and Inflammation</td>
 <td><strong>David Gibson, PhD</strong><br />
 <strong>University of Ulster, UK</strong><br />Lecturer in Stratified Medicine, School of Biomedical Sciences</td>
 </tr>
-<tr>
-<td><img src="../images/team/StevenWatterson.jpg" alt="Steven Watterson" /></td>
-<td><strong>Steven Watterson, MPhys, PhD</strong><br />
-<strong>University of Ulster, UK</strong><br />Lecturer in Computational Biology (Hypertension), School of Biomedical Sciences</td>
-</tr>
-<tr>
-<td><img src="../images/team/AndrewParton.jpg" alt="Andrew Parton" /></td>
-<td><strong>Andrew Parton, BSc</strong><br />
-<strong>University of Ulster, UK</strong><br />PhD Student</td>
-</tr>
 </table>
   
 ### Funding
