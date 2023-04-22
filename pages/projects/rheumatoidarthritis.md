@@ -13,7 +13,7 @@ permalink: /rheumatoidarthritis
 **Sustainable support:** [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://www.universite-paris-saclay.fr/en/node/7231#l-ecole-doctorale)  
-**How to cite:** Singh, et al. Genom Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050). [PMID: 29951575](https://www.ncbi.nlm.nih.gov/pubmed/29951575)  
+**How to cite:** Singh, et al. Genom Comput Biol. 2018. [doi: 10.18547/gcb.2018.vol4.iss1.e100050](https://doi.org/10.18547/gcb.2018.vol4.iss1.e100050).   
 **Contact:** Anna Niarakis, University of Evry, University of Paris-Saclay, France, anna.niaraki(at)univ-evry.fr  
 
 Rheumatoid arthritis (RA) is a multifactorial autoimmune disease that causes chronic inflammation of the joints. The etiology of the disease remains still unclear. Patients with autoimmune diseases have an immune system that targets and attacks their own body tissues. Characteristic features of RA include inflammation of the tissue around the joints and hyperplasia (swelling) that can lead to bone erosion and permanent deformity. The disease can affect multiple organs in the body causing inflammation and injury and for this it is considered a systemic illness.
