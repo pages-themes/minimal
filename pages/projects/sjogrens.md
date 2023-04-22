@@ -10,7 +10,7 @@ permalink: /sjogrens
 **Development status:** Active development within a PhD project  
 **Sustainable support:** [University of Evry](http://www.univ-evry.fr/en/), [MINERVA platform](https://minerva.pages.uni.lu/)  
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580)  
-**Contact:** Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France, sacha.e-silva-saffar(at)universite-paris-saclay.fr  
+**Contact:** Sacha E Silva-Saffar, University of Paris-Saclay, France, sacha.e-silva-saffar(at)universite-paris-saclay.fr  
 
 Sjögren’s syndrome, or Gougerot-Sjögren syndrome, is a systemic autoimmune disease that causes a triad of symptoms: dryness (eyes, mouth, skin), pain (articular, muscular) and fatigue. The onset is still unknown and can happen either spontaneously (primary Sjögren) or set-off during a precedent autoimmune disease such as Rheumatoid Arthritis or systemic lupus erythematosus (secondary Sjögren). The underlying cells interactions and molecular pathways of Sjogren’s pathogenesis are still researched, but the current theory of Sjogren’s syndrome development is the “autoimmune epithelitis” which is characterized by an inflammation of the superficial layer of glands.
 
