@@ -220,6 +220,8 @@ Project progress status:
 
 ### Comparison of disease mechanisms
 
+This section includes projects that focus on comparing and studying disiease mechanisms of two or more diseases, identifying common and distinct features in related pathologies.
+
 <table>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
