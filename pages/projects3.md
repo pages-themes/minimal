@@ -248,10 +248,9 @@ This section includes projects that focus on comparing and studying disiease mec
 
 <br />
 
+<!--
 ### Disease maps for immunotoxicology
-
 This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
-
 <table>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
@@ -272,4 +271,5 @@ This section includes maps that describe mechanisms of adverse effects of variou
         </p></td>
 </tr>
 </table>
+-->
 
