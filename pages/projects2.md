@@ -210,6 +210,16 @@ Project progress status:
 </tr>
 </table>
 
+<!--
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../ulcerativecolitis" target="_blank">Ulcerative colitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Ulcerative Colitis Map<br />
+        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+-->
+
 <br />
 
 ### Disease maps for comparing disease mechanisms
