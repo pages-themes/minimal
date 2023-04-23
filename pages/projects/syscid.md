@@ -8,7 +8,6 @@ permalink: /syscid
 ## SYSCID Map
 
 **Diseases:** Inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus  
-**Resource name:** SYSCID Map  
 **Development status:** Active development  
 **Online access and exploration:**  [https://syscid.elixir-luxembourg.org](https://syscid.elixir-luxembourg.org)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
