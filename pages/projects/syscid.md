@@ -14,7 +14,7 @@ permalink: /syscid
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** European Union’s Horizon 2020 [SYSCID No 733100](https://cordis.europa.eu/project/id/733100), [SYSCID](https://syscid.eu/)  
 **How to cite:** Manuscript in preparation  
-**Contact:** Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg, marcio.acencio(at)uni.lu  
+**Contact:** Marcio Luis Acencio, University of Luxembourg, Luxembourg, marcio.acencio(at)uni.lu  
 
 ### Description
 
