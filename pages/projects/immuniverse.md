@@ -13,7 +13,7 @@ permalink: /immuniverse
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 ImmUniverse No 853995](https://www.imi.europa.eu/projects-results/project-factsheets/immuniverse), [ImmUniverse](https://www.immuniverse.eu/)  
-**Contact:** Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg, marcio.acencio(at)uni.lu  
+**Contact:** Marcio Luis Acencio, University of Luxembourg, Luxembourg, marcio.acencio(at)uni.lu  
 
 ### Description
 
