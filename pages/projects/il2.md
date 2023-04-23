@@ -9,6 +9,8 @@ permalink: /il2
 
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases  
+**Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Publication:** Manuscript in preparation   
