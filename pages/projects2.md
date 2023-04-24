@@ -278,7 +278,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 ### Potential synergies between projects
 
-The cases below highlight links for potential collaborations and map-module exchange between projects of the Disease Maps Community:
+The cases below highlight links for potential collaborations and module exchange between projects of the Disease Maps Community:
 
 The rheumatoid arthritis topic within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscid) projects; the SYSCID Map includes inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus components.
 
