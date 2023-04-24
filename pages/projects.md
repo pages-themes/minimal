@@ -36,15 +36,15 @@ Project progress status:
 </table>
 
 
-<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+<a href="../covid-19"_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
 <table>
 <!--<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="white">COVID-19</font></a></strong></p>
+        <strong><a href="../covid-19" target="_blank"><font color="white">COVID-19</font></a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
+        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
         <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
         </p></td>
 <td style="width: 0px;"> </td>
