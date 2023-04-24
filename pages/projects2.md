@@ -276,7 +276,8 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 ### Synergies identified
 
-This list highlights potential links and collaborations between the projects of the Disease Maps Community:
+The list below highlights links for potential collaborations and map module reuse between the projects of the Disease Maps Community:
 
-- Rheumatoid arthritis within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscid) projects;
-- 
+- The rheumatoid arthritis topic within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscid) projects; the SYSCID Map includes inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus components.
+- The ulcerative colitis component within the [SYSCID Map](../syscid) and [ImmUniverse Map](../immuniverse) projects. Ulcerative colitis is an inflammatory bowel disease (IBD) that causes inflammation and ulcers in the digestive tract. The ImmUniverse Map includes ulcerative colitis and atopic dermatitis components; the SYSCID Map includes inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus components.
+- The allergic component of the [AsthmaMap](../asthma) and [ImmUniverse Map](../immuniverse) projects. Allergic rhenitis and asthma belong to the "atopic march", a typical progression of allergic diseases that are likely to share key mechanisms. The ImmUniverse Map includes ulcerative colitis and atopic dermatitis components.
