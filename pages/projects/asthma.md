@@ -1,7 +1,7 @@
 ---
 title: Asthma
 layout: default
-permalink: /asthma
+permalink: /asthma/
 ---
 
 # Asthma
