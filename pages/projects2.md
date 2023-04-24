@@ -274,7 +274,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 </tr>
 </table>
 
-### Synergies identified
+### Potential synergies identified
 
 The list below highlights links for potential collaborations and map module reuse between the projects of the Disease Maps Community:
 
