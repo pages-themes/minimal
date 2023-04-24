@@ -280,7 +280,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 The cases below highlight links for potential collaborations and map module exchange between projects of the Disease Maps Community:
 
-The rheumatoid arthritis topic within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscid) projects. The SYSCID Map includes inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus components.
+The rheumatoid arthritis topic within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscid) projects. The SYSCID Map includes inflammatory bowel disease, _rheumatoid arthritis_ and systemic lupus erythematosus components.
 
 The ulcerative colitis component within the [SYSCID Map](../syscid) and [ImmUniverse Map](../immuniverse) projects. Ulcerative colitis is an inflammatory bowel disease that causes inflammation and ulcers in the digestive tract. The ImmUniverse Map includes _ulcerative colitis_ and atopic dermatitis components. The SYSCID Map includes _inflammatory bowel disease_, rheumatoid arthritis and systemic lupus erythematosus components.
 
