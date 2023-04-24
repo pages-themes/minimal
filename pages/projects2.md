@@ -36,6 +36,12 @@ Project progress status:
 </table>
 
 
+<a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+
+<a href="../covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+
+<a href="https://disease-maps.org/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+
 <a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
 <table>
