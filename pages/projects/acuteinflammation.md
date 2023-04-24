@@ -1,7 +1,7 @@
 ---
 title: Acute inflammation
 layout: default
-permalink: /acuteinflammation
+permalink: /acuteinflammation/
 ---
 
 # Acute inflammation
