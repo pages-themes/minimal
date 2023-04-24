@@ -1,7 +1,7 @@
 --- 
 title: Immune-mediated diseases 
 layout: default 
-permalink: /immuniverse
+permalink: /immuniverse/
 --- 
 
 # Immune-mediated diseases
