@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projectsnew/
+permalink: /projectsnew
 ---
 
 # Projects
