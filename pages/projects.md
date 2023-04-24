@@ -35,7 +35,7 @@ Project progress status:
 </tr>
 </table>
                                                                                                     
-<a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+<a href="../covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
 <a href="https://disease-maps.org/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
