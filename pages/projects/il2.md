@@ -1,7 +1,7 @@
 ---
 title: Recombinant IL-2 treatment
 layout: default
-permalink: /il2
+permalink: /il2/
 ---
 
 # Recombinant IL-2 treatment
