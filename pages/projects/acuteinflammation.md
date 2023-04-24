@@ -20,7 +20,7 @@ permalink: /acuteinflammation/
 
 ### Description
 
-Text
+The [Atlas of Inflammation Resolution](https://air.bio.informatik.uni-rostock.de) (AIR) provides a comprehensive resource focused on acute inflammation, a nonlinear spatio-temporal process for the removal of invading pathogens and the repair of damaged tissues. It covers damage-, and pathogen-associated molecular patterns (DAMPs and PAMPs), relevant signaling events, protein-protein interactions and gene regulatory mechanisms underlying acute inflammatory clinical phenotypes. 
 
 ### References
 
