@@ -1,7 +1,7 @@
 ---
 title: Cancer
 layout: default
-permalink: /cancer
+permalink: /cancer/
 ---
 
 # Cancer
