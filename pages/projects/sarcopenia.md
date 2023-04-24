@@ -1,7 +1,7 @@
 ---
 title: Sarcopenia
 layout: default
-permalink: /sarcopenia
+permalink: /sarcopenia/
 ---
 
 # Sarcopenia
@@ -10,10 +10,10 @@ permalink: /sarcopenia
 **Homepage:** [https://www.sbi.uni-rostock.de/research/projects/detail/73](https://www.sbi.uni-rostock.de/research/projects/detail/73)  
 **Online access and exploration:** [https://www.sbi.uni-rostock.de/minerva/index.xhtml?id=SarcopeniaMap](https://www.sbi.uni-rostock.de/minerva/index.xhtml?id=SarcopeniaMap)  
 **Development status:** First version is complete and published  
-**Sustainable support:** University of Rostock, MINERVA Platform  
+**Sustainable support:** University of Rostock, [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **How to cite:** Hoch, et al. Front Nutr. 2022. [doi: 10.3389/fnut.2022.989453](https://doi.org/10.3389/fnut.2022.989453). [PMID: 36407505](https://www.ncbi.nlm.nih.gov/pubmed/36407505).  
 **Contact:** Matti Hoch, University of Rostock, Rostock, Germany, matti.hoch(at)uni-rostock.de   
-
 
 ### Description
 
