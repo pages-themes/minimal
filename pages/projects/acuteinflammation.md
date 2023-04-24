@@ -11,7 +11,7 @@ permalink: /acuteinflammation
 **Online access and exploration:** [https://air.elixir-luxembourg.org](https://air.elixir-luxembourg.org/)  
 **Video tutorials:** [https://air.bio.informatik.uni-rostock.de/using-the-air/tutorial-videos](https://air.bio.informatik.uni-rostock.de/using-the-air/tutorial-videos)  
 **Development status:** First version is complete and published, applications demonstrated  
-**Sustainable support:** University of Rostock, [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Sustainable support:** [University of Rostock](https://www.sbi.uni-rostock.de/), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** The initial version has receeived support from Heel, GmbH, Baden-Baden   
 **How to cite:** Serhan, et al. Mol Aspects Med. 2020. [doi: 10.1016/j.mam.2020.100894](https://doi.org/10.1016/j.mam.2020.100894). [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032)  
