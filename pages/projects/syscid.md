@@ -1,7 +1,7 @@
 ---
 title: Chronic inflammation
 layout: default
-permalink: /syscid
+permalink: /syscid/
 ---
 
 # Chronic inflammation
