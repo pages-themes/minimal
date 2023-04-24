@@ -1,7 +1,7 @@
 ---
 title: CAR T cell treatment
 layout: default
-permalink: /cart
+permalink: /cart/
 ---
 
 # CAR T cell treatment
