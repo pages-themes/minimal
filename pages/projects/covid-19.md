@@ -20,7 +20,7 @@ permalink: /covid-19
 
 ### Description
 
-Text
+The [COVID-19 Disease Map](https://covid.pages.uni.lu/) project is a broad communnity effort with [200+ contributors](https://fairdomhub.org/projects/190#people). If offers a knowledge repository of molecular mechanisms of COVID-19. The COVID-19 Disease Map is an assembly of molecular interaction diagrams established based on literature evidence. The focus is on host-pathogen interactions specific to the SARS-CoV-2 virus. This work is done in close collaboration with [WikiPathways](https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways) and [Reactome](https://reactome.org/PathwayBrowser/#/R-HSA-9679506).
 
 ### References
 
