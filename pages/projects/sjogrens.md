@@ -1,7 +1,7 @@
 ---
 title: Sjogren's syndrome
 layout: default
-permalink: /sjogrens
+permalink: /sjogrens/
 ---
 
 # Sjogren's syndrome
