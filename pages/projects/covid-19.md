@@ -15,7 +15,7 @@ permalink: /covid-19/
 **Contributors:** [FAIRDOMHub: People](https://fairdomhub.org/projects/190#people)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **How to cite:** Ostaszewski, et al. Mol Syst Biol. 2021. [PMID: 34664389](https://www.ncbi.nlm.nih.gov/pubmed/34664389).  
-**Applications:** [Preprint](https://doi.org/10.1101/2022.12.17.520865)  
+**Applications:** Niarakis, et al. bioRxiv. 2022. Preprint. [doi: 10.1101/2022.12.17.520865](https://doi.org/10.1101/2022.12.17.520865)  
 **Contact:** Marek Ostaszewski, University of Luxembourg, marek.ostaszewski(at)uni.lu  
 
 ### Description
