@@ -1,7 +1,7 @@
 --- 
 title: Atopic dermatitis 
 layout: default 
-permalink: /atopicdermatitis
+permalink: /atopicdermatitis/
 --- 
 
 # Atopic dermatitis
