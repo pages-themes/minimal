@@ -10,7 +10,7 @@ permalink: /atherosclerosis/
 ## Atherosclerosis Map
 
 **Development status:** First version is complete and published  
-**Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
+**Construction tools:** [CellDesigner](https://www.celldesigner.org/)  
 **How to cite:** Parton, et al. Bioinformatics. 2018. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978)  
 **Contact:** Steven Watterson, University of Ulster, UK, s.watterson(at)ulster.ac.uk  
 
