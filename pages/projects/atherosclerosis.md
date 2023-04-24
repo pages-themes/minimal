@@ -1,14 +1,18 @@
 ---
 title: Atherosclerosis
 layout: default
-redirect_from: "/projects/atherosclerosis/"
-permalink: /atherosclerosis
+permalink: /atherosclerosis/
 ---
 
 
 # Atherosclerosis
 
 ## Atherosclerosis Map
+
+**Development status:** First version is complete and published  
+**Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
+**How to cite:** Parton, et al. Bioinformatics. 2018. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978)  
+**Contact:** Steven Watterson, University of Ulster, UK, s.watterson(at)ulster.ac.uk  
 
 <p>Cardiovascular disease (CVD) is the primary cause of death globally and contributes to morbidity and mortality more than any other disorder in the western world. In 2012, CVD was responsible for 31% of deaths worldwide, 47% of all deaths within Europe and 40% of all deaths within the European Union. CVD covers a collection of disorders that can be split into atherosclerotic and non-atherosclerotic categories. Atherosclerotic CVD is responsible for the majority of instances of CVD with a 2012 estimate attributing 71% of all CVD to atherosclerotic forms.</p>
 <p>Despite the growing importance of atherosclerosis and its implications for public health, the pathogenesis of atherosclerosis is not fully understood. Traditionally, atherosclerosis was viewed as a build-up of lipids (including cholesterol) within the innermost layer of the artery wall.  However, our understanding has since developed and atherosclerotic CVD is now predominantly viewed as a chronic inflammatory condition, advanced by lipid build-up and triggered by innate immune responses.</p>
@@ -21,7 +25,7 @@ SBGN-ML and SBML versions of this are available in .xml format from the followin
 
 Parton A, McGilligan V, Chemaly M, O'Kane M, Watterson S. New models of atherosclerosis and multi-drug therapeutic interventions. Bioinformatics. 2018 Dec 6. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). PubMed [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978).
 
-<h3 id="developersteam">Development team</h3>
+### Development team
 
 <table>
 <tr>
