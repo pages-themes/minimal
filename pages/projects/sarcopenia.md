@@ -17,7 +17,7 @@ permalink: /sarcopenia/
 
 ### Description
 
-Sarcopenia Map is developed collaboration with the [Division of Gastroenterology](https://gastro.med.uni-rostock.de/) at the Rostock University Medical Center as part of the [EnErGie](https://www.energie.med.uni-rostock.de/) project. It is an in-depth, standardised and computationally encoded disease map of the molecular interactions regulating muscle growth and function.
+[Sarcopenia Map](https://www.sbi.uni-rostock.de/research/projects/detail/73) is developed collaboration with the [Division of Gastroenterology](https://gastro.med.uni-rostock.de/) at the Rostock University Medical Center as part of the [EnErGie](https://www.energie.med.uni-rostock.de/) project. It is an in-depth, standardised and computationally encoded disease map of the molecular interactions regulating muscle growth and function.
 
 ### References
 
