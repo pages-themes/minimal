@@ -107,7 +107,7 @@ Project progress status:
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+        <strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
         Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
@@ -116,7 +116,7 @@ Project progress status:
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../sarcopenia" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
         Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
