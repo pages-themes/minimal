@@ -1,7 +1,7 @@
 ---
 title: Parkinson’s disease
 layout: default
-permalink: /parkinsons
+permalink: /parkinsons/
 ---
 
 # Parkinson’s disease
