@@ -232,7 +232,7 @@ This section includes projects that focus on comparing and studying disiease mec
         <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: SYSCID Map<br />
-        Diseases: IBD, RA, SLE<br />
+        Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
