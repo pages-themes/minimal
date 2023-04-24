@@ -50,6 +50,20 @@ Project progress status:
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td>
 </tr>
+<tr>
+  <td style="width:260px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
+        <p style="margin:10px; font-size:16px;"><a href="../parkinsons" target="_blank">
+          <strong>Parkinson's disease </strong><br />
+          Parkinson's Disease Map<br />
+          &#9733;&#9733;&#9733;&#9733;&#9733;
+          </a></p>
+  </td>
+<td style="width:380px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
+        <p style="margin:10px;">
+        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
+        </p></td>
+</tr>
 </table>
 
 
