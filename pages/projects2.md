@@ -274,4 +274,9 @@ This section includes maps that describe mechanisms of adverse effects of variou
 </tr>
 </table>
 
+### Synergies identified
 
+This list highlights potential links and collaborations between the projects of the Disease Maps Community:
+
+- Rheumatoid arthritis within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscidmap) projects;
+- 
