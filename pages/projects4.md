@@ -47,7 +47,7 @@ Project progress status:
         </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+        Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td></td>
 </tr>
@@ -56,20 +56,13 @@ Project progress status:
 <td style="width: 320px;"> </td>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a></p>
-        <p style="margin:10px; font-size:18px;">
-        <strong>&#9733;&#9733;&#9733;&#9733;&#9733;</strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
-        </p></td>
+        <p style="font-size:18px;"><strong><a href="../parkinsons" target="_blank">Parkinson's disease</a></strong></p>
+        <p style="font-size:13px;"><a href="../parkinsons" target="_blank">Parkinson's Disease Map</a></p>
+        <p style="font-size:18px;"><a href="../parkinsons" target="_blank">&#9733;&#9733;&#9733;&#9733;&#9733;</a></p>
+        </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <<p style="line-height:160%; margin:10px; font-size:13px;">
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
         </p></td></td>
 </tr>
