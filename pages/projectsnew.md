@@ -40,7 +40,7 @@ Project progress status:
   <td style="width:260px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:16px;"><a href="../parkinsons" target="_blank">
           <strong>Parkinson's disease </strong><br />
-          Parkinson's Disease Map
+          Parkinson's Disease Map<br />
           &#9733;&#9733;&#9733;&#9733;&#9733;
           </a></p>
   </td>
