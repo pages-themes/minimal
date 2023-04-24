@@ -19,7 +19,7 @@ permalink: /syscid/
 
 ### Description
 
-The SYSCID Map is developed within the IMI2 [SYSCID](https://syscid.eu/) project and focuses on inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus.
+The SYSCID Map is developed within the IMI2 [SYSCID](https://syscid.eu/) project and focuses on inflammatory bowel disease (IBD), rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE).
 
 ### Fundings
 
