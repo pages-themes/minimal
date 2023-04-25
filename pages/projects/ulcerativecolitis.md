@@ -6,11 +6,13 @@ permalink: /ulcerativecolitis
 
 # Ulcerative colitis
 
-## ImmUniverse Map
+## Ulcerative Colitis Map
+
+
 
 ### Description
 
-The ImmUniverse Map is developed as part of IMI2 [ImmUniverse](https://www.immuniverse.eu/) project. It focuses on two diseases: atopic dermatitis and ulcerative colitis.
+The Ulcerative Colitis Map is developed as part of IMI2 [ImmUniverse](https://www.immuniverse.eu/) project. 
 
 ### Funding
 
