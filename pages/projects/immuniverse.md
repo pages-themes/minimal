@@ -18,7 +18,7 @@ permalink: /immuniverse/
 
 ### Description
 
-The ImmUniverse Map is developed as part of IMI2 [ImmUniverse](https://www.immuniverse.eu/) project. ImmUniverse focuses on ulcerative colitis and atopic dermatitis towards new insights into disease severity and progression with the ultimate aim of improved diagnostic and therapeutic options for patients.
+The ImmUniverse Map is developed within the IMI2 [ImmUniverse](https://www.immuniverse.eu/) project. The ImmUniverse project focuses on ulcerative colitis and atopic dermatitis towards new insights into disease severity and progression with the ultimate aim of improved diagnostic and therapeutic options for patients.
 
 ### Funding
 
