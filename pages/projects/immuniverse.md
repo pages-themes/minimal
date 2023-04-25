@@ -8,7 +8,7 @@ permalink: /immuniverse/
 
 ## ImmUniverse Map
 
-**Diseases:** Atopic dermatitis and ulcerative colitis  
+**Diseases:** Ulcerative colitis and atopic dermatitis  
 **Development status:** Active development  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
