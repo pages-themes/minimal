@@ -115,7 +115,7 @@ The following information cards connect to the disease maps focused on disease m
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -140,7 +140,7 @@ The following information cards connect to the disease maps focused on disease m
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
         </p></td>   
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -213,7 +213,7 @@ This section includes projects that focus on shared mechanisms of two or more di
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+35473910+36973809" target="_blank">PubMed</a>
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -228,7 +228,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -249,7 +249,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <table>
 <tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
@@ -258,7 +258,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../il2" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
