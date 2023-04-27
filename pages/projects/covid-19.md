@@ -9,7 +9,7 @@ permalink: /covid-19/
 
 **Homepage:** [https://covid.pages.uni.lu](https://covid.pages.uni.lu/)  
 **Map content:** [https://covid.pages.uni.lu/map_contents](https://covid.pages.uni.lu/map_contents)  
-**Online access:** [https://covid19map.elixir-luxembourg.org](https://covid19map.elixir-luxembourg.org/)  
+**Online access and exploration:** [https://covid19map.elixir-luxembourg.org](https://covid19map.elixir-luxembourg.org/)  
 **Development status:** First version is complete and published  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Contributors:** [FAIRDOMHub | People](https://fairdomhub.org/projects/190#people)  
