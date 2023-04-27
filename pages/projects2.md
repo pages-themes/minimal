@@ -51,7 +51,7 @@ Project progress status:
 
 <br />
 
-### Specific diseases
+### Disease maps for specific diseases
 
 <br />
 
