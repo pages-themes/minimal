@@ -6,25 +6,13 @@ permalink: /projects2/
 
 # Projects
         
-The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. The projects are organised into three categories:  
+The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
+
+The projects are organised into these categories:  
 
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
 &nbsp;&nbsp; [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)  
-
-
-New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
-
-
-<!--
-**Project progress status:**  
-&#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded  
-&#9733;&#9734;&#9734;&#9734;&#9734; Active development  
-&#9733;&#9733;&#9734;&#9734;&#9734; Map is available for exploration online  
-&#9733;&#9733;&#9733;&#9734;&#9734; Published  
-&#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
-&#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
--->
 
 Project progress status:
 <table>
@@ -48,16 +36,16 @@ Project progress status:
 ### Disease maps for specific diseases
 
 The following information cards connect to the disease maps focused on disease mechanisms for specific diseases.
-
-<a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+                                                                                                    
+<a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
 <table>
 <!--<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
         <p style="margin:10px; font-size:16px;">
-        <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="white">COVID-19</font></a></strong></p>
+        <strong><a href="../covid-19" target="_blank"><font color="white">COVID-19</font></a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu/map_curation" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
+        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
         <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
         </p></td>
 <td style="width: 0px;"> </td>
@@ -120,7 +108,7 @@ The following information cards connect to the disease maps focused on disease m
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+        <strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
         Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
@@ -129,7 +117,7 @@ The following information cards connect to the disease maps focused on disease m
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../sarcopenia" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
         Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
@@ -177,10 +165,10 @@ The following information cards connect to the disease maps focused on disease m
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Diabetic Kidney Disease Map<br />
-        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
+        Resource: CardioMap<br />
+        Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br /><br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -199,10 +187,10 @@ The following information cards connect to the disease maps focused on disease m
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: CardioMap<br />
-        Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
+        Resource: Diabetic Kidney Disease Map<br />
+        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -222,16 +210,6 @@ The following information cards connect to the disease maps focused on disease m
 <td style="width: 320px;"> </td>
 </tr>
 </table>
-
-<!--
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../ulcerativecolitis" target="_blank">Ulcerative colitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Ulcerative Colitis Map<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-        </p></td>
--->
 
 <br />
 
@@ -290,12 +268,3 @@ This section includes maps that describe mechanisms of adverse effects of variou
 </tr>
 </table>
 
-<br />
-
-<!--
-### Potential synergies between projects
-The cases below highlight links for potential collaborations and map module exchange between projects of the Disease Maps Community:
-The rheumatoid arthritis topic within the [RA-Map](../rheumatoidarthritis) and [SYSCID Map](../syscid) projects. The SYSCID Map includes inflammatory bowel disease, _rheumatoid arthritis_ and systemic lupus erythematosus components.
-The ulcerative colitis component within the [SYSCID Map](../syscid) and [ImmUniverse Map](../immuniverse) projects. Ulcerative colitis is an inflammatory bowel disease that causes inflammation and ulcers in the digestive tract. The ImmUniverse Map includes _ulcerative colitis_ and atopic dermatitis components. The SYSCID Map includes _inflammatory bowel disease_, rheumatoid arthritis and systemic lupus erythematosus components.
-The allergic mechanisms including the IgE signalling within the [AsthmaMap](../asthma) and [ImmUniverse Map](../immuniverse) projects. Allergic rhenitis and asthma belong to the "atopic march", a typical progression of allergic diseases (from atopic dermatitis to allergic rhinitis and then to asthma) that are likely to share key mechanisms. The ImmUniverse Map includes ulcerative colitis and _atopic dermatitis_ components.
--->
