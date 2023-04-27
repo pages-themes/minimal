@@ -221,9 +221,11 @@ Project progress status:
 
 <br />
 
-### Disease maps for comparing disease mechanisms
+### Disease maps for comparing disease mechanisms / Meta-projects
 
-This section includes projects that focus on comparing and studying disiease mechanisms of two or more diseases, identifying common and distinct features in related pathologies.
+This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
+
+<!--This section includes projects that focus on comparing and studying disiease mechanisms of two or more diseases, identifying common and distinct features in related pathologies.-->
 
 <table>
 <tr style="height:160px;">
