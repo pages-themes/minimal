@@ -221,7 +221,7 @@ Project progress status:
 
 <br />
 
-### Meta-projects
+### Cross-disease projects
 
 This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
 
