@@ -6,17 +6,14 @@ permalink: /projects/
 
 # Projects
         
-The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
+The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. The projects are organised into three categories:  
 
-<!--
-**Project progress status:**  
-&#9734;&#9734;&#9734;&#9734;&#9734; Initiated/funded  
-&#9733;&#9734;&#9734;&#9734;&#9734; Active development  
-&#9733;&#9733;&#9734;&#9734;&#9734; Map is available for exploration online  
-&#9733;&#9733;&#9733;&#9734;&#9734; Published  
-&#9733;&#9733;&#9733;&#9733;&#9734; Continuously maintained and improved  
-&#9733;&#9733;&#9733;&#9733;&#9733; Applications demonstrated  
--->
+&nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
+&nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
+&nbsp;&nbsp; [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)  
+
+
+New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
 
 Project progress status:
 <table>
@@ -34,6 +31,12 @@ Project progress status:
 </td>
 </tr>
 </table>
+
+<br />
+
+### Disease maps for specific diseases
+
+The following information cards connect to the disease maps focused on disease mechanisms for specific diseases.
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
@@ -191,24 +194,53 @@ Project progress status:
         Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
         </p></td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../atopicdermatitis" target="_blank">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Psoriasis Map<br />
+        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
 </table>
 
-<!--
+<br />
+
+### Cross-disease projects
+
+This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
+
+<!--This section includes projects that focus on comparing and studying disiease mechanisms of two or more diseases, identifying common and distinct features in related pathologies.-->
+
+<table>
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../menieres" target="_blank">Meniere’s disease <br />&#9734;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Meniere’s Disease Map<br />
-        Contact: Jose Antonio Lopez-Escamez, University of Sydney, Australia<br />
+        Resource: SYSCID Map<br />
+        Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
+        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
+<td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acutekidneyinjury" target="_blank">Acute kidney injury <br />&#9734;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Regulatory Network of Systemic and Renal Hemodynamics<br />
-        Contact: Francisco J. López-Hernández, Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, Spain<br />
+        Resource: ImmUniverse Map<br />
+        Diseases: ulcerative colitis, atopic dermatitis<br />
+        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
--->
+</tr>
+</table>
 
 <br />
 
