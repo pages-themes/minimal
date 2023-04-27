@@ -222,6 +222,15 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <table>
 <tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
+        Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+35473910+36973809" target="_blank">PubMed</a>
+        </p></td>
+<td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
@@ -230,7 +239,13 @@ This section includes projects that focus on shared mechanisms of two or more di
         Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
+</tr>
+        <tr style="height: 20px;">
+<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
@@ -239,6 +254,8 @@ This section includes projects that focus on shared mechanisms of two or more di
         Diseases: ulcerative colitis, atopic dermatitis<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
 </tr>
 </table>
 
