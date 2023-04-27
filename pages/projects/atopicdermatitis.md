@@ -6,7 +6,7 @@ permalink: /atopicdermatitis/
 
 # Atopic dermatitis
 
-## Psoriasis Map
+## Atopic Dermatitis Map
 
 **Development status:** Active development  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
@@ -17,7 +17,7 @@ permalink: /atopicdermatitis/
 
 ### Description
 
-The Psoriasis Map is developed as part of IMI2 [BIOMAP](https://biomap-imi.eu/) project.
+The Atopic Dermatitis Map is developed as part of IMI2 [BIOMAP](https://biomap-imi.eu/) project.
 
 ### Funding
 
