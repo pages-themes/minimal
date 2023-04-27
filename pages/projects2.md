@@ -47,7 +47,7 @@ Project progress status:
 
 ### Disease maps for specific diseases
 
-<br />
+The following information cards connect to the disease maps focused on disease mechanisms for specific diseases.
 
 <a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
