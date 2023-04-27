@@ -109,20 +109,20 @@ The following information cards connect to the disease maps focused on disease m
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
-        Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+35473910+36973809" target="_blank">PubMed</a>
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:18px;">
         <strong><a href="../sarcopenia" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
         Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
+        Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
         </p></td>
 </tr>
         <tr style="height: 20px;">
@@ -133,29 +133,14 @@ The following information cards connect to the disease maps focused on disease m
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
-        Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
-        </p></td>   
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
-        <p style="margin:10px; font-size:18px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Atherosclerosis Map<br />
         Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
+        </p></td>   
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
@@ -163,7 +148,13 @@ The following information cards connect to the disease maps focused on disease m
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
         </p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
@@ -171,13 +162,7 @@ The following information cards connect to the disease maps focused on disease m
         Resource: CardioMap<br />
         Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br /><br />
         </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
@@ -185,14 +170,6 @@ The following information cards connect to the disease maps focused on disease m
         Resource: Sjogren Map<br />
         Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
         </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Diabetic Kidney Disease Map<br />
-        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
-        </p></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
@@ -202,13 +179,19 @@ The following information cards connect to the disease maps focused on disease m
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
+        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Diabetic Kidney Disease Map<br />
+        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
         <strong><a href="../atopicdermatitis" target="_blank">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Psoriasis Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
 </tr>
 </table>
 
