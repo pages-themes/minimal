@@ -13,7 +13,7 @@ permalink: /acuteinflammation/
 **Development status:** First version is complete and published, applications demonstrated  
 **Sustainable support:** [University of Rostock](https://www.sbi.uni-rostock.de/), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
-**Funding:** The initial version has receeived support from Heel, GmbH, Baden-Baden   
+**Funding:** The initial version has received support from Heel, GmbH, Baden-Baden   
 **How to cite:** Serhan, et al. Mol Aspects Med. 2020. [doi: 10.1016/j.mam.2020.100894](https://doi.org/10.1016/j.mam.2020.100894). [PMID: 32893032](https://www.ncbi.nlm.nih.gov/pubmed/32893032)  
 **Contact:** Matti Hoch, University of Rostock, Rostock, Germany, matti.hoch(at)uni-rostock.de   
 
