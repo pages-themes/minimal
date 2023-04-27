@@ -6,7 +6,14 @@ permalink: /projects2/
 
 # Projects
         
-The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
+The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. 
+
+- [Specific diseases](#specific-diseases)
+- [Cross-disease projects](#cross-disease-projects)
+- [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)
+
+New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
+
 
 <!--
 **Project progress status:**  
@@ -34,6 +41,8 @@ Project progress status:
 </td>
 </tr>
 </table>
+
+### Specific diseases
 
 <a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
