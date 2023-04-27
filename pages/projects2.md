@@ -51,7 +51,11 @@ Project progress status:
 </tr>
 </table>
 
+<br />
+
 ### Specific diseases
+
+<br />
 
 <a href="https://covid.pages.uni.lu/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
