@@ -13,9 +13,9 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 - [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)
 
 
-&ndash;&ndash; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)
-&ndash;&ndash; [Cross-disease projects](#cross-disease-projects)
-&ndash;&ndash; [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)
+&ndash;&ndash; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
+&ndash;&ndash; [Cross-disease projects](#cross-disease-projects)  
+&ndash;&ndash; [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)  
 
 &ndash; or &#8211;
 
