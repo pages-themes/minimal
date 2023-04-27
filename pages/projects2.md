@@ -12,6 +12,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 - [Cross-disease projects](#cross-disease-projects)
 - [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)
 
+The projects are organised into three categories:  
 
 &ndash;&ndash; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &ndash;&ndash; [Cross-disease projects](#cross-disease-projects)  
