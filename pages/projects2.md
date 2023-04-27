@@ -221,7 +221,7 @@ Project progress status:
 
 <br />
 
-### Disease maps for comparing disease mechanisms / Meta-projects
+### Meta-projects
 
 This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
 
