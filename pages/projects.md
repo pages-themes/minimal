@@ -12,7 +12,7 @@ The projects are organised into these categories:
 
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
-&nbsp;&nbsp; [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)  
+&nbsp;&nbsp; [Adverse outcome maps for immunotoxicology](#adverse-outcome-maps-for-immunotoxicology)  
 
 Project progress status:
 <table>
@@ -243,7 +243,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <br />
 
-### Disease maps for immunotoxicology
+### Adverse outcome maps for immunotoxicology
 
 This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
 
