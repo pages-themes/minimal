@@ -11,7 +11,7 @@ For suggesting collaboration, contribution to the existing projects or initiatio
 ### Disease Maps Project Leaders
 
 Alexander Mazein a.mazein(at)gmail.com  
-Marek Ostaszewski marek.ostaszewski@uni.lu  
+Marek Ostaszewski marek.ostaszewski(at)uni.lu  
 Inna Kuperstein inna.kuperstein(at)curie.fr  
 Anna Niarakis anna.niaraki(at)univ-evry.fr  
 
