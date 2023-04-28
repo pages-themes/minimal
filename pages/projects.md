@@ -11,7 +11,7 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 The projects are organised into these categories:  
 
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
-&nbsp;&nbsp; [Cross-disease maps](#cross-disease-maps)  
+&nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
 &nbsp;&nbsp; [Adverse outcome maps for immunotoxicology](#adverse-outcome-maps-for-immunotoxicology)  
 
 Project progress status:
@@ -211,7 +211,7 @@ The following information cards connect to the disease maps focused on disease m
 
 <br />
 
-### Cross-disease maps
+### Cross-disease projects
 
 This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
 
