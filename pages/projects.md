@@ -31,7 +31,6 @@ Project progress status:
 </tr>
 </table>
 
-<br />
 
 ### Disease maps for specific diseases
 
