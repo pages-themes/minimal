@@ -2,22 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the <strong>Disease Maps Project</strong>, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
-
-<!--
-<table>
-<tr>
-<td style="width: 105px; height: 105 px; valign=top;"><img src="../images/places/covid-19-dm-logo.png"/></td>
-<td valign="top">
-<font color="#ce4c47">OPEN PROJECT: The <strong><a href="https://covid.pages.uni.lu/map_curation" target="_blank"><font color="#DD493E">COVID-19 Disease Map</font></a></strong> is initiated as an open collaboration of many researchers and clinicians around the world. The goal is to develop as quickly as possible a description of host-pathogen interaction mechanisms specific to the SARS-CoV-2 virus to support the fast-track development of efficient treatments. Join the effort!</font>
-</td>
-</tr>
-</table> 
--->
-
-
-<!--UPCOMING EVENT: The **[Disease Maps Community Meeting 2021](../events)** (DMCM2021) is scheduled 27-29 October in Berlin and is organised by the team of Olaf Wolkenhauer, [University of Rostock](https://www.sbi.uni-rostock.de/team).-->
-
+<p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the Disease Maps Project, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
 
 <br />
         
@@ -31,4 +16,4 @@ layout: default
         
 ### The community     
 
-<p>The Disease Maps Project is designed as a large-scale community effort. It is a network of groups that work together in order to better understand disease mechanisms. We exchange best practices, share information, develop tools  to make it easier for all the involved groups to achieve their goals.</p>
+<p>The Disease Maps Project is designed as a large-scale community effort. It is a network of groups that work together in order to better understand disease mechanisms. We exchange best practices, share information, develop tools to make it easier for all the involved groups to achieve their goals.</p>
