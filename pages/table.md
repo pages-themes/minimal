@@ -29,3 +29,17 @@ Project progress status:
 
 ### Disease maps for specific diseases
 
+<table>
+<tr>
+        <td style="width: 100px;"><strong>Status</strong></td>
+        <td style="width: 100px;"><strong>Title</strong></td>
+        <td style="width: 100px;"><strong>Resource</strong></td>
+        <td style="width: 100px;"><strong>Diseases</strong></td>
+</tr>
+<tr>
+        <td style="width: 100px;"><strong>&#9733;&#9733;&#9733;&#9733;&#9733;</strong></td>
+        <td style="width: 100px;"><strong>COVID-19</strong></td>
+        <td style="width: 100px;"><strong>COVID-19 Disease Map</strong></td>
+        <td style="width: 100px;"><strong>COVID-19</strong></td>
+</tr>
+</table>
