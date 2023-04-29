@@ -42,10 +42,35 @@ Project progress status:
         <td>COVID-19 Disease Map</td>
         <td>COVID-19</td>
 </tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>Parkinson's disease</td>
+        <td>Parkinson's Disease Map</td>
+        <td>Parkinson's disease</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>Cancer</td>
+        <td>Atlas of Cancer Signaling Network</td>
+        <td>Cancer</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>Rheumatoid arthritis</td>
+        <td>Rheumatoid Arthritis Map</td>
+        <td>Rheumatoid arthritis</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+        <td>Asthma</td>
+        <td>AsthmaMap</td>
+        <td>Asthma</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+        <td>Sarcopenia</td>
+        <td>Sarcopenia Map</td>
+        <td>Sarcopenia</td>
+</tr>
 </table>
-
-
-| Status | Title | Resource | Diseases |
-|--------|-------|----------|----------|
-|&#9733;&#9733;&#9733;&#9733;&#9733;|[COVID-19](../covid-19)|COVID-19 Disease Map|COVID-19|
 
