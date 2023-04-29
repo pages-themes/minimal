@@ -76,6 +76,8 @@ The following table connects to the disease maps focused on disease mechanisms f
 </tr>
 </table>
 
+<br />
+
 ### Cross-disease projects
 
 This table includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
@@ -106,6 +108,8 @@ This table includes projects that focus on shared mechanisms of two or more dise
         <td>Cancer</td>
 </tr>
 </table>
+
+<br />
 
 ### Adverse outcome maps for immunotoxicology
 
