@@ -139,19 +139,19 @@ This table includes projects that focus on shared mechanisms of two or more dise
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>Acute inflammation</td>
+        <td><strong><a href="../acuteinflammation/" target="_blank">Acute inflammation</a></strong></td>
         <td>Atlas of Inflammation Resolution</td>
         <td>Multiple conditions</td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
-        <td>Chronic inflammation</td>
+        <td><strong><a href="../syscid/" target="_blank">Chronic inflammation</a></strong></td>
         <td>SYSCID Map</td>
         <td>Inflammatory bowel disease<br />Rheumatoid arthritis<br />Systemic lupus erythematosus</td>
 </tr>
 <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>Immune-mediated diseases</td>
+        <td><strong><a href="../immuniverse/" target="_blank">Immune-mediated diseases</a></strong></td>
         <td>ImmUniverse Map</td>
         <td>Ulcerative colitis<br />Atopic dermatitis</td>
 </tr>
@@ -172,13 +172,13 @@ This section includes maps that describe mechanisms of adverse effects of variou
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
-        <td>CAR T cell treatment</td>
+        <td><strong><a href="../cart/" target="_blank">CAR T cell treatment</a></strong></td>
         <td>CAR T cell AOP Map</td>
         <td>Cancer</td>
 </tr>
 <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>Recombinant IL-2 treatment</td>
+        <td><strong><a href="../il2/" target="_blank">Recombinant IL-2 treatment</a></strong></td>
         <td>IL-2 AOP Map</td>
         <td>Cancer</td>
 </tr>
