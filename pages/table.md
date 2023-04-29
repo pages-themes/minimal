@@ -46,79 +46,79 @@ The following table connects to the disease maps focused on specific diseases.
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>Parkinson's disease</td>
+        <td><strong><a href="../parkinsons/" target="_blank">Parkinson's disease</a></strong></td>
         <td>Parkinson's Disease Map</td>
         <td>Parkinson's disease</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>Cancer</td>
+        <td><strong><a href="../cancer/" target="_blank">Cancer</a></strong></td>
         <td>Atlas of Cancer Signaling Network</td>
         <td>Cancer</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>Rheumatoid arthritis</td>
+        <td><strong><a href="../rheumatoidarthritis/" target="_blank">Rheumatoid arthritis</a></strong></td>
         <td>Rheumatoid Arthritis Map</td>
         <td>Rheumatoid arthritis</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
-        <td>Asthma</td>
+        <td><strong><a href="../asthma/" target="_blank">Asthma</a></strong></td>
         <td>AsthmaMap</td>
         <td>Asthma</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
-        <td>Sarcopenia</td>
+        <td><strong><a href="../sarcopenia/" target="_blank">Sarcopenia</a></strong></td>
         <td>Sarcopenia Map</td>
         <td>Sarcopenia</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
-        <td>Cystic fibrosis</td>
+        <td><strong><a href="../cysticfibrosis/" target="_blank">Cystic fibrosis</a></strong></td>
         <td>CyFi-MAP</td>
         <td>Cystic fibrosis</td>
 </tr>
         <tr>
         <td>&#9733;&#9734;&#9733;&#9734;&#9733;</td>
-        <td>Atherosclerosis</td>
+        <td><strong><a href="../atherosclerosis/" target="_blank">Atherosclerosis</a></strong></td>
         <td>Atherosclerosis Map</td>
         <td>Atherosclerosis</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
-        <td>Osteoarthritis</td>
+        <td><strong><a href="../osteoarthritis/" target="_blank">Osteoarthritis</a></strong></td>
         <td>KneePainOAMap</td>
         <td>Osteoarthritis</td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
-        <td>Heart failure</td>
+        <td><strong><a href="../heartfailure/" target="_blank">Heart failure</a></strong></td>
         <td>CardioMap</td>
         <td>Heart failure</td>
 </tr>
         <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>Sjogren’s syndrome</td>
+        <td><strong><a href="../sjogrens/" target="_blank">Sjogren’s syndrome</a></strong></td>
         <td>Sjogren Map</td>
         <td>Sjogren’s syndrome</td>
 </tr>
         <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>Diabetic kidney disease</td>
+        <td><strong><a href="../diabetickidneydisease/" target="_blank">Diabetic kidney disease</a></strong></td>
         <td>Diabetic Kidney Disease Map</td>
         <td>Diabetic kidney disease</td>
 </tr>
         <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>Atopic dermatitis</td>
+        <td><strong><a href="../atopicdermatitis/" target="_blank">Atopic dermatitis</a></strong></td>
         <td>Atopic Dermatitis Map</td>
         <td>Atopic dermatitis</td>
 </tr>
         <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>Psoriasis</td>
+        <td><strong><a href="../psoriasis/" target="_blank">Psoriasis</a></strong></td>
         <td>Psoriasis Map</td>
         <td>Psoriasis</td>
 </tr>
