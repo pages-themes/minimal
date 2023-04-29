@@ -32,47 +32,95 @@ Project progress status:
 The following table connects to the disease maps focused on disease mechanisms for specific diseases.
 
 <table>
-<tr>
+        <tr>
         <td style="width: 80px;"><strong>Status</strong></td>
         <td style="width: 140px;"><strong>Title</strong></td>
         <td style="width: 200px;"><strong>Resource</strong></td>
         <td style="width: 220px;"><strong>Diseases</strong></td>
 </tr>
-<tr>
+        <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
         <td>COVID-19</td>
         <td>COVID-19 Disease Map</td>
         <td>COVID-19</td>
 </tr>
-<tr>
+        <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
         <td>Parkinson's disease</td>
         <td>Parkinson's Disease Map</td>
         <td>Parkinson's disease</td>
 </tr>
-<tr>
+        <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
         <td>Cancer</td>
         <td>Atlas of Cancer Signaling Network</td>
         <td>Cancer</td>
 </tr>
-<tr>
+        <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
         <td>Rheumatoid arthritis</td>
         <td>Rheumatoid Arthritis Map</td>
         <td>Rheumatoid arthritis</td>
 </tr>
-<tr>
+        <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
         <td>Asthma</td>
         <td>AsthmaMap</td>
         <td>Asthma</td>
 </tr>
-<tr>
+        <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
         <td>Sarcopenia</td>
         <td>Sarcopenia Map</td>
         <td>Sarcopenia</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+        <td>Cystic fibrosis</td>
+        <td>CyFi-MAP</td>
+        <td>Cystic fibrosis</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9734;&#9733;&#9734;&#9733;</td>
+        <td>Atherosclerosis</td>
+        <td>Atherosclerosis Map</td>
+        <td>Atherosclerosis</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+        <td>Osteoarthritis of the knee</td>
+        <td>KneePainOAMap</td>
+        <td>Osteoarthritis</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+        <td>Heart failure</td>
+        <td>CardioMap</td>
+        <td>Heart failure</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+        <td>Sjogren’s syndrome</td>
+        <td>Sjogren Map</td>
+        <td>Sjogren’s syndrome</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+        <td>Diabetic kidney disease</td>
+        <td>Diabetic Kidney Disease Map</td>
+        <td>Diabetic kidney disease</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+        <td>Atopic dermatitis</td>
+        <td>Atopic Dermatitis Map</td>
+        <td>Atopic dermatitis</td>
+</tr>
+        <tr>
+        <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+        <td>Psoriasis</td>
+        <td>Psoriasis Map</td>
+        <td>Psoriasis</td>
 </tr>
 </table>
 
