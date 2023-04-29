@@ -33,13 +33,19 @@ Project progress status:
 <tr>
         <td style="width: 100px;"><strong>Status</strong></td>
         <td style="width: 100px;"><strong>Title</strong></td>
-        <td style="width: 100px;"><strong>Resource</strong></td>
-        <td style="width: 100px;"><strong>Diseases</strong></td>
+        <td style="width: 200px;"><strong>Resource</strong></td>
+        <td style="width: 240px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
-        <td style="width: 100px;"><strong>&#9733;&#9733;&#9733;&#9733;&#9733;</strong></td>
-        <td style="width: 100px;"><strong>COVID-19</strong></td>
-        <td style="width: 100px;"><strong>COVID-19 Disease Map</strong></td>
-        <td style="width: 100px;"><strong>COVID-19</strong></td>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>COVID-19</td>
+        <td>COVID-19 Disease Map</td>
+        <td>COVID-19</td>
 </tr>
 </table>
+
+
+| Status | Title | Resource | Diseases |
+|--------|-------|----------|----------|
+|&#9733;&#9733;&#9733;&#9733;&#9733;|[COVID-19](../covid-19)|COVID-19 Disease Map|COVID-19|
+
