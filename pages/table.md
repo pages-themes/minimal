@@ -33,9 +33,9 @@ The following table connects to the disease maps focused on disease mechanisms f
 
 <table>
         <tr>
-        <td style="width: 80px;"><strong>Status</strong></td>
+        <td style="width: 70px;"><strong>Status</strong></td>
         <td style="width: 160px;"><strong>Title</strong></td>
-        <td style="width: 240px;"><strong>Resource</strong></td>
+        <td style="width: 250px;"><strong>Resource</strong></td>
         <td style="width: 160px;"><strong>Diseases</strong></td>
 </tr>
         <tr>
@@ -133,9 +133,9 @@ This table includes projects that focus on shared mechanisms of two or more dise
 <table>
 <tr>
         <td style="width: 80px;"><strong>Status</strong></td>
-        <td style="width: 170px;"><strong>Title</strong></td>
-        <td style="width: 220px;"><strong>Resource</strong></td>
-        <td style="width: 170px;"><strong>Diseases</strong></td>
+        <td style="width: 160px;"><strong>Title</strong></td>
+        <td style="width: 240px;"><strong>Resource</strong></td>
+        <td style="width: 160px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
@@ -166,9 +166,9 @@ This section includes maps that describe mechanisms of adverse effects of variou
 <table>
 <tr>
         <td style="width: 80px;"><strong>Status</strong></td>
-        <td style="width: 170px;"><strong>Title</strong></td>
-        <td style="width: 220px;"><strong>Resource</strong></td>
-        <td style="width: 170px;"><strong>Diseases</strong></td>
+        <td style="width: 160px;"><strong>Title</strong></td>
+        <td style="width: 240px;"><strong>Resource</strong></td>
+        <td style="width: 160px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
