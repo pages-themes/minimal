@@ -29,6 +29,8 @@ Project progress status:
 
 ### Disease maps for specific diseases
 
+The following table connects to the disease maps focused on disease mechanisms for specific diseases.
+
 <table>
 <tr>
         <td style="width: 100px;"><strong>Status</strong></td>
@@ -71,6 +73,62 @@ Project progress status:
         <td>Sarcopenia</td>
         <td>Sarcopenia Map</td>
         <td>Sarcopenia</td>
+</tr>
+</table>
+
+### Cross-disease projects
+
+This table includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
+
+<table>
+<tr>
+        <td style="width: 100px;"><strong>Status</strong></td>
+        <td style="width: 100px;"><strong>Title</strong></td>
+        <td style="width: 200px;"><strong>Resource</strong></td>
+        <td style="width: 240px;"><strong>Diseases</strong></td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>COVID-19</td>
+        <td>COVID-19 Disease Map</td>
+        <td>COVID-19</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>Parkinson's disease</td>
+        <td>Parkinson's Disease Map</td>
+        <td>Parkinson's disease</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>Cancer</td>
+        <td>Atlas of Cancer Signaling Network</td>
+        <td>Cancer</td>
+</tr>
+</table>
+
+### Adverse outcome maps for immunotoxicology
+
+This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
+
+<table>
+<tr>
+        <td style="width: 100px;"><strong>Status</strong></td>
+        <td style="width: 100px;"><strong>Title</strong></td>
+        <td style="width: 200px;"><strong>Resource</strong></td>
+        <td style="width: 240px;"><strong>Diseases</strong></td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+        <td>CAR T cell treatment</td>
+        <td>CAR T cell AOP Map</td>
+        <td>Cancer</td>
+</tr>
+<tr>
+        <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+        <td>rhIL-2 treatment</td>
+        <td>IL-2 AOP Map</td>
+        <td>Cancer</td>
 </tr>
 </table>
 
