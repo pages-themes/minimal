@@ -33,10 +33,10 @@ The following table connects to the disease maps focused on disease mechanisms f
 
 <table>
 <tr>
-        <td style="width: 80px;"><strong>Status</strong></td>
-        <td style="width: 120px;"><strong>Title</strong></td>
-        <td style="width: 120px;"><strong>Resource</strong></td>
-        <td style="width: 240px;"><strong>Diseases</strong></td>
+        <td style="width: 70px;"><strong>Status</strong></td>
+        <td style="width: 130px;"><strong>Title</strong></td>
+        <td style="width: 140px;"><strong>Resource</strong></td>
+        <td style="width: 140px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
