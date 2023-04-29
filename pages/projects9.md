@@ -35,7 +35,7 @@ Project progress status:
 
 The following information cards connect to the disease maps focused on specific diseases.
                                                                                                     
-<a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+<a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="230px"/></a>
 
 <table>
 <tr>
