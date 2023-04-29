@@ -29,7 +29,7 @@ Project progress status:
 
 ### Disease maps for specific diseases
 
-The following table connects to the disease maps focused on disease mechanisms for specific diseases.
+The following table connects to the disease maps focused on specific diseases.
 
 <table>
         <tr>
