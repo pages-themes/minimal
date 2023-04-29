@@ -132,28 +132,28 @@ This table includes projects that focus on shared mechanisms of two or more dise
 
 <table>
 <tr>
-        <td style="width: 100px;"><strong>Status</strong></td>
-        <td style="width: 100px;"><strong>Title</strong></td>
+        <td style="width: 80px;"><strong>Status</strong></td>
+        <td style="width: 140px;"><strong>Title</strong></td>
         <td style="width: 200px;"><strong>Resource</strong></td>
-        <td style="width: 240px;"><strong>Diseases</strong></td>
+        <td style="width: 220px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>COVID-19</td>
-        <td>COVID-19 Disease Map</td>
-        <td>COVID-19</td>
+        <td>Acute inflammation</td>
+        <td>Atlas of Inflammation Resolution</td>
+        <td>Multiple conditions</td>
+</tr>
+<tr>
+        <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
+        <td>Chronic inflammation</td>
+        <td>SYSCID Map</td>
+        <td>Inflammatory bowel disease<br />Rheumatoid arthritis<br />Systemic lupus erythematosus</td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>Parkinson's disease</td>
-        <td>Parkinson's Disease Map</td>
-        <td>Parkinson's disease</td>
-</tr>
-<tr>
-        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>Cancer</td>
-        <td>Atlas of Cancer Signaling Network</td>
-        <td>Cancer</td>
+        <td>Immune-mediated diseases</td>
+        <td>ImmUniverse Map</td>
+        <td>Ulcerative colitis<br />Atopic dermatitis</td>
 </tr>
 </table>
 
@@ -165,10 +165,10 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <table>
 <tr>
-        <td style="width: 100px;"><strong>Status</strong></td>
-        <td style="width: 100px;"><strong>Title</strong></td>
+        <td style="width: 80px;"><strong>Status</strong></td>
+        <td style="width: 140px;"><strong>Title</strong></td>
         <td style="width: 200px;"><strong>Resource</strong></td>
-        <td style="width: 240px;"><strong>Diseases</strong></td>
+        <td style="width: 220px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9734;&#9734;</td>
