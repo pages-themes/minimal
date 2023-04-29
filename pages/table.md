@@ -40,7 +40,7 @@ The following table connects to the disease maps focused on specific diseases.
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td><a href="../covid-19/" target="_blank">COVID-19</a></td>
+        <td><strong><a href="../covid-19/" target="_blank">COVID-19</a></strong></td>
         <td>COVID-19 Disease Map</td>
         <td>COVID-19</td>
 </tr>
