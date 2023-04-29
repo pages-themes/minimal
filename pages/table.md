@@ -34,9 +34,9 @@ The following table connects to the disease maps focused on disease mechanisms f
 <table>
         <tr>
         <td style="width: 80px;"><strong>Status</strong></td>
-        <td style="width: 170px;"><strong>Title</strong></td>
-        <td style="width: 220px;"><strong>Resource</strong></td>
-        <td style="width: 170px;"><strong>Diseases</strong></td>
+        <td style="width: 160px;"><strong>Title</strong></td>
+        <td style="width: 240px;"><strong>Resource</strong></td>
+        <td style="width: 160px;"><strong>Diseases</strong></td>
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
@@ -88,7 +88,7 @@ The following table connects to the disease maps focused on disease mechanisms f
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9734;&#9734;&#9734;</td>
-        <td>Osteoarthritis of the knee</td>
+        <td>Osteoarthritis</td>
         <td>KneePainOAMap</td>
         <td>Osteoarthritis</td>
 </tr>
