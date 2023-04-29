@@ -40,7 +40,7 @@ The following table connects to the disease maps focused on disease mechanisms f
 </tr>
         <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
-        <td>COVID-19</td>
+        <td><a href="../covid-19/" target="_blank">COVID-19</a></td>
         <td>COVID-19 Disease Map</td>
         <td>COVID-19</td>
 </tr>
