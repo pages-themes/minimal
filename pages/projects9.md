@@ -49,15 +49,15 @@ The following information cards connect to the disease maps focused on specific 
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <strong><a href="../cancer" target="_blank">Cancer<br />
         &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: Marek Ostaszewski, University of Luxembourg<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a></td>
+        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+        Contact: Inna Kuperstein, Institut Curie, France<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>></td>
 <td style="width: 0px;"> </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease<br />
         &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
         Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
-        Contact: Anna Niarakis, University of Paris-Saclay<br />
+        Contact: Anna Niarakis, University of Paris-Saclay, France<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a></td>
 </tr>
 <tr style="height: 20px;">
@@ -78,15 +78,15 @@ The following information cards connect to the disease maps focused on specific 
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <strong><a href="../cancer" target="_blank">Cancer<br />
         &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: Marek Ostaszewski, University of Luxembourg<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a></td>
+        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+        Contact: Inna Kuperstein, Institut Curie, France<br />
+        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a></td>
 <td style="width: 0px;"> </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease<br />
         &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
         Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
-        Contact: Anna Niarakis, University of Paris-Saclay<br />
+        Contact: Anna Niarakis, University of Paris-Saclay, France<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a></td>
 </tr>
 </table>
