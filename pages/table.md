@@ -132,10 +132,10 @@ This table includes projects that focus on shared mechanisms of two or more dise
 
 <table>
 <tr>
-        <td style="width: 80px;"><strong>Status</strong></td>
+        <td style="width: 70px;"><strong>Status</strong></td>
         <td style="width: 160px;"><strong>Title</strong></td>
-        <td style="width: 240px;"><strong>Resource</strong></td>
-        <td style="width: 160px;"><strong>Diseases</strong></td>
+        <td style="width: 200px;"><strong>Resource</strong></td>
+        <td style="width: 210px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
         <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
@@ -150,7 +150,7 @@ This table includes projects that focus on shared mechanisms of two or more dise
         <td>Inflammatory bowel disease<br />Rheumatoid arthritis<br />Systemic lupus erythematosus</td>
 </tr>
 <tr>
-        <td>&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
         <td>Immune-mediated diseases</td>
         <td>ImmUniverse Map</td>
         <td>Ulcerative colitis<br />Atopic dermatitis</td>
@@ -165,9 +165,9 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <table>
 <tr>
-        <td style="width: 80px;"><strong>Status</strong></td>
-        <td style="width: 160px;"><strong>Title</strong></td>
-        <td style="width: 240px;"><strong>Resource</strong></td>
+        <td style="width: 70px;"><strong>Status</strong></td>
+        <td style="width: 180px;"><strong>Title</strong></td>
+        <td style="width: 230px;"><strong>Resource</strong></td>
         <td style="width: 160px;"><strong>Diseases</strong></td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 </tr>
 <tr>
         <td>&#9733;&#9734;&#9734;&#9734;&#9734;</td>
-        <td>rhIL-2 treatment</td>
+        <td>Recombinant IL-2 treatment</td>
         <td>IL-2 AOP Map</td>
         <td>Cancer</td>
 </tr>
