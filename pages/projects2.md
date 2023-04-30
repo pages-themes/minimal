@@ -6,13 +6,11 @@ permalink: /projects2/
 
 # Projects
         
-The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. 
-
-The projects are organised into these categories:  
+The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. The projects are organised into three categories:  
 
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
-&nbsp;&nbsp; [Disease maps for immunotoxicology](#disease-maps-for-immunotoxicology)  
+&nbsp;&nbsp; [Adverse outcome maps for immunotoxicology](#adverse-outcome-maps-for-immunotoxicology)  
 
 Project progress status:
 <table>
@@ -35,7 +33,7 @@ Project progress status:
 
 ### Disease maps for specific diseases
 
-The following information cards connect to the disease maps focused on disease mechanisms for specific diseases.
+The following information cards show projects focused on specific diseases.
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
@@ -188,9 +186,25 @@ The following information cards connect to the disease maps focused on disease m
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../atopicdermatitis" target="_blank">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Atopic Dermatitis Map<br />
+        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../psoriasis" target="_blank">Psoriasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Psoriasis Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
 </tr>
 </table>
 
@@ -215,7 +229,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: SYSCID Map<br />
         Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
@@ -243,7 +257,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <br />
 
-### Disease maps for immunotoxicology
+### Adverse outcome maps for immunotoxicology
 
 This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
 
@@ -254,8 +268,8 @@ This section includes maps that describe mechanisms of adverse effects of variou
         <strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: CAR T cell AOP Map<br />
-        Publication: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a><br />
         Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
+        Publication: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a><br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
