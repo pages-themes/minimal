@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Renganathan Rajagopal </p>
+logo: assets/img/prof_visa.png
+
+description:
+  <p align="center">
+  <a href="Renganathan_Rajagopal_ML Engineer_6years.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/renganathan-rajagopal/">LinkedIn</a> |
+  <a href="https://github.com/renga9695">GitHub</a>
+  
+  <br>   
+  I'm working on Machine Learning Engineer @ Tiger Analytics Big Data, Spark, Machine learning & NLP related problems.
+  Having 6+ years of Industry Experience and a AWS Certified Cloud Practionioner,
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
