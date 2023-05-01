@@ -275,7 +275,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../melanoma" target="_blank">Melanoma vs. autoimmune diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../melanoma" target="_blank">Melanoma & autoimmune diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: ???<br />
         Diseases: melanoma, inflammatory bowel disease, rheumatoid arthritis<br />
