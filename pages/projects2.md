@@ -206,7 +206,7 @@ The following information cards show projects focused on specific diseases.
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../psoriasis" target="_blank">Gaucher disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../gaucher" target="_blank">Gaucher disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Gaucher Disease Map<br />
         Contact: Shailendra Gupta, University of Rostock, Rostock, Germany<br />
@@ -220,7 +220,7 @@ The following information cards show projects focused on specific diseases.
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../psoriasis" target="_blank">Niemann-Pick disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../niemann-pick" target="_blank">Niemann-Pick disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Niemann-Pick Disease Map<br />
         Contact: Shailendra Gupta, University of Rostock, Rostock, Germany<br />
@@ -258,7 +258,7 @@ This section includes projects that focus on shared mechanisms of two or more di
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 </tr>
-        <tr style="height: 20px;">
+<tr style="height: 20px;">
 <td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
@@ -273,7 +273,37 @@ This section includes projects that focus on shared mechanisms of two or more di
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../melanoma" target="_blank">Melanoma vs. autoimmune diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: ???<br />
+        Diseases: melanoma, inflammatory bowel disease, rheumatoid arthritis<br />
+        Contact: Shailendra Gupta, University of Rostock, Rostock, Germany<br />
+        </p></td>
+</tr>
+<tr style="height: 20px;">
 <td style="width: 320px;"> </td>
+<td style="width: 0px;"> </td>
+<td style="width: 320px;"> </td>
+</tr>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../placental" target="_blank">Placental disorders <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: ???<br />
+        Diseases: preeclampsia, intrauterine growth restriction<br />
+        Contact: Shailendra Gupta, University of Rostock, Rostock, Germany<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../lossofsmell" target="_blank">Loss of smell <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: ???<br />
+        Contact: Shailendra Gupta, University of Rostock, Rostock, Germany<br />
+        </p></td>
 </tr>
 </table>
 
