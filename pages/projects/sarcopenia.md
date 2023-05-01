@@ -10,6 +10,7 @@ permalink: /sarcopenia/
 **Homepage:** [https://www.sbi.uni-rostock.de/research/projects/detail/73](https://www.sbi.uni-rostock.de/research/projects/detail/73)  
 **Online access and exploration:** [https://www.sbi.uni-rostock.de/minerva/index.xhtml?id=SarcopeniaMap](https://www.sbi.uni-rostock.de/minerva/index.xhtml?id=SarcopeniaMap)  
 **Development status:** First version is complete and published  
+**Disease ID:** [ICD10CM:M62.84](https://www.icd10data.com/ICD10CM/Codes/M00-M99/M60-M63/M62-/M62.84)  
 **Sustainable support:** [University of Rostock](https://www.sbi.uni-rostock.de/), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **How to cite:** Hoch, et al. Front Nutr. 2022. [doi: 10.3389/fnut.2022.989453](https://doi.org/10.3389/fnut.2022.989453). [PMID: 36407505](https://www.ncbi.nlm.nih.gov/pubmed/36407505).  
