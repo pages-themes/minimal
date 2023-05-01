@@ -223,7 +223,7 @@ The following information cards show projects focused on specific diseases.
         <strong><a href="../psoriasis" target="_blank">Niemann-Pick disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Niemann-Pick Disease Map<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+        Contact: Shailendra Gupta, University of Rostock, Rostock, Germany<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
