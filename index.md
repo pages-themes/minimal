@@ -11,7 +11,7 @@ Gestures originate from any bodily motion or state but commonly originate from t
 At this time there is much active research in the field and little in the way of publicly available implementations. Several approaches have been developed for sensing gestures and controlling robots. Glove based technique is a well-known means of recognizing hand gestures. It utilizes a sensor attached to a glove that directly measures hand movements.
 Gestures are useful for computer interaction since they are the most primary and expressive forms of human communication. Gesture interfaces for gaming based on hand/body gesture technology must be designed to achieve social and commercial success. No single method for automatic hand gesture recognition is suitable for every application; each gesture-recognition algorithm depends on user cultural background, application domain, and environment.
 
-<center><img src="https://github.com/SheenaMathew19/minimal/blob/master/gesturerecg.jpg"/></center>
+<center><img src="assets/img/gesturerecg.jpg"/></center>
 #### Structure of Gesture Technology
 
 In computer interfaces, two types of gestures are distinguished:
