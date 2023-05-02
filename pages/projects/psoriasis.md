@@ -9,6 +9,7 @@ permalink: /psoriasis/
 ## Psoriasis Map
 
 **Development status:** Active development  
+**Disease IDs:** [DOID:8893](https://disease-ontology.org/?id=DOID:8893), [ICD10CM:L40](https://www.icd10data.com/ICD10CM/Codes/L00-L99/L40-L45/L40-/L40)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 BIOMAP No 821511](https://www.imi.europa.eu/projects-results/project-factsheets/biomap), [BIOMAP](https://biomap-imi.eu/)  
