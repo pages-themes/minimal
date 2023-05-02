@@ -8,6 +8,11 @@ permalink: /osteoarthritis/
 
 ## KneePainOAMap
 
+**Disease ID:** [DOID:8398](https://disease-ontology.org/?id=DOID:8398)  
+**Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
+**Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
+**Contact:** Bernd Seilheimer, Heel GmbH, Baden-Baden, Germany, bernd.seilheimer(at)heel.com  
+
 Osteoarthritis (OA) is the most common form of arthritis affecting middle age to elderly populations. OA is considered a complex disease of the entire joint, including the loss of cartilage, alterations in subchondral bone, deterioration of tendons and ligaments, and various degrees of inflammation of the synovium, eventually leading to joint failure.  
 
 One of the symptomatic hallmarks of OA is pain assessed mostly based on its intensity. Paradoxically, structural changes associated with knee OA often not correlate with experienced pain, e.g., high pain intensities are reported despite a low degree of radiological OA and vice versa. Multiple pain phenotypes have been described in the literature, indicating that knee pain is complex and may be influenced by factors that are not unique to the knee joint, including psychological factors and changes in central sensitization.  
