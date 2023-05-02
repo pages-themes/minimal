@@ -11,6 +11,7 @@ permalink: /asthma/
 **Online access and exploration:** [https://asthma.uni.lu](https://asthma.uni.lu/minerva/)  
 **Video tutorials:** [https://asthma-map.org/tutorials](https://asthma-map.org/tutorials/)  
 **Development status:** First version is complete and published  
+**Disease IDs:** [DOID:2841](https://disease-ontology.org/?id=DOID:2841), [ICD10CM:J45](https://www.icd10data.com/ICD10CM/Codes/J00-J99/J40-J47/J45-/J45)  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI U-BIOPRED n°115010](https://www.imi.europa.eu/projects-results/project-factsheets/u-biopred), [IMI eTRIKS n°115446](https://www.imi.europa.eu/projects-results/project-factsheets/etriks)  
