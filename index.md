@@ -1,7 +1,5 @@
 
 
-https://how2electronics.com/gesture-recognition-application-machine-learning/
-
 
 # Gesture Recognition 
 
