@@ -1,10 +1,15 @@
-title: <p align="center"> Sheena Mathew </p>
-logo: assets/img/aimlenthu.jpg
+title: <p align="center"> Sheena Mathew</p>
+logo: /assets/img/aimlenthu.jpg
 
 description:
   <p align="center">
-  <a href="https://github.com/SheenaMathew19">GitHub</a>
+  <a href="https://github.com/SheenaMathew19">GitHub</a> |
+  
   <br>   
-        Data science Entusiast
+   AI/ML enthusiast
   <br>
   </p>
+
+
+
+theme: jekyll-theme-minimal
