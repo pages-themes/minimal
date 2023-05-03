@@ -12,6 +12,7 @@ permalink: /cysticfibrosis/
 **Homepage:** [https://cysticfibrosismap.github.io](https://cysticfibrosismap.github.io)  
 **Online access and exploration:** [WT-CFTR](https://pathwaylab.elixir-luxembourg.org/minerva/index.xhtml?id=CFTR_cp17), [F508del-CFTR](https://pathwaylab.elixir-luxembourg.org/minerva/index.xhtml?id=F508del_cp21)  
 **Development status:** First version is complete and published  
+**Disease IDs:** [DOID:1485](https://disease-ontology.org/?id=DOID:1485), [ICD10CM:E84](https://www.icd10data.com/ICD10CM/Codes/E00-E89/E70-E88/E84-/E84), [MESH:D003550](https://www.ncbi.nlm.nih.gov/mesh/D003550), [MONDO:0009061](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0009061)  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [Fundação para a Ciência e a Tecnologia](https://www.fct.pt/)   
