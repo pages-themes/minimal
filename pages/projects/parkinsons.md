@@ -11,6 +11,7 @@ permalink: /parkinsons/
 **Homepage:** [https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map](https://wwwfr.uni.lu/lcsb/research/parkinson_s_disease_map)  
 **Online access and exploration:** [https://pdmap.uni.lu](https://pdmap.uni.lu/minerva/)  
 **Development status:** First version is complete and published  
+**Disease IDs:** [DOID:14330](https://disease-ontology.org/?id=DOID:14330), [ICD10CM:G20](https://www.icd10data.com/ICD10CM/Codes/G00-G99/G20-G26/G20-/G20), [MESH:D010300](https://www.ncbi.nlm.nih.gov/mesh/D010300), [MONDO:0005180](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005180)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [LCSB Institutional Funds](http://wwwen.uni.lu/lcsb), [L’Œuvre Nationale de Secours Grande-Duchesse Charlotte](http://www.oeuvre.lu/)    
