@@ -10,7 +10,6 @@ permalink: /cart/
 **Online access and exploration:** [https://imsavar.elixir-luxembourg.org](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=cart14)  
 **Development status:** First version is complete and published  
 **Disease treated:** Cancer  
-**Therapy ID:** [MESH:D016219](https://www.ncbi.nlm.nih.gov/mesh/D016219)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 imSAVAR No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar), [https://imsavar.eu](https://imsavar.eu/)  
