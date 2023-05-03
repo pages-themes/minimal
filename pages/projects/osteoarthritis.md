@@ -8,7 +8,7 @@ permalink: /osteoarthritis/
 
 ## KneePainOAMap
 
-**Disease IDs:** [DOID:8398](https://disease-ontology.org/?id=DOID:8398), [ICD10CM:M17](https://www.icd10data.com/ICD10CM/Codes/M00-M99/M15-M19/M17-/M17)  
+**Disease IDs:** [ICD10CM:M17](https://www.icd10data.com/ICD10CM/Codes/M00-M99/M15-M19/M17-/M17), [MONDO:0005416](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005416), [MESH:D020370](https://www.ncbi.nlm.nih.gov/mesh/68020370), [DOID:8398](https://disease-ontology.org/?id=DOID:8398)  
 **Synonyms:** osteoarthrosis, degenerative arthritis  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
