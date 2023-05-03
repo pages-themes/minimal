@@ -14,7 +14,7 @@ permalink: /heartfailure/
 
 The metabolic map is published in 
 
-Berndt N, Eckstein J, Wallach I, Nordmeyer S, Kelm M, Kirchner M, Goubergrits L, Schafstedde M, Hennemuth A, Kraus M, Grune T, Mertins P, Kuehne T, Holzhütter HG. "CARDIOKIN1: Computational Assessment of Myocardial Metabolic Capability in Healthy Controls and Patients With Valve Diseases", Circulation. 2021 Dec 14;144(24):1926-1939. [DOI](10.1161/CIRCULATIONAHA.121.055646)  
+Berndt N, Eckstein J, Wallach I, Nordmeyer S, Kelm M, Kirchner M, Goubergrits L, Schafstedde M, Hennemuth A, Kraus M, Grune T, Mertins P, Kuehne T, Holzhütter HG. "CARDIOKIN1: Computational Assessment of Myocardial Metabolic Capability in Healthy Controls and Patients With Valve Diseases", Circulation. 2021 Dec 14;144(24):1926-1939. DOI:[10.1161/CIRCULATIONAHA.121.055646](https://pubmed.ncbi.nlm.nih.gov/34762513/)  
 
 **Contact:** Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Berlin, Germany, nikolaus.berndt@charite.de
 
