@@ -10,6 +10,7 @@ permalink: /cancer/
 **Homepage:** [https://acsn.curie.fr](https://acsn.curie.fr)  
 **Online access and exploration:** [https://acsn.curie.fr/ACSN2/ACSN2.html](https://acsn.curie.fr/ACSN2/ACSN2.html)  
 **Development status:** ACSN 2.0 is complete and published, applications demonstrated  
+**Disease IDs:** [DOID:162](https://disease-ontology.org/?id=DOID:162), [MONDO:0005416](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005416)  
 **Sustainable support:** [Institut Curie](https://sysbio.curie.fr/), [NaviCell Web Platform](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-100)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Highlights:** ACSN 2.0 is now connected to the [RECON metabolic network](https://www.vmh.life/)  
