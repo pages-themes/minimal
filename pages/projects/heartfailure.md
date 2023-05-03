@@ -10,8 +10,11 @@ permalink: /heartfailure/
 **Online access and exploration:**  [https://cardiomap.elixir-luxembourg.org](https://cardiomap.elixir-luxembourg.org)  
 **Disease IDs:** [MONDO:0005252](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005252), [MESH:D006333](https://www.ncbi.nlm.nih.gov/mesh/D006333), [DOID:6000](https://disease-ontology.org/?id=DOID:6000)  
 **Funding:** ERA PerMed, FNR INTER, Reference Number ERAPERMED2019-237  
-**Publications:** Manuscript in preparation. The metabolic map is published in 
+**Publications:** Manuscript in preparation. 
+
+The metabolic map is published in 
 Berndt N, Eckstein J, Wallach I, Nordmeyer S, Kelm M, Kirchner M, Goubergrits L, Schafstedde M, Hennemuth A, Kraus M, Grune T, Mertins P, Kuehne T, Holzhütter HG. "CARDIOKIN1: Computational Assessment of Myocardial Metabolic Capability in Healthy Controls and Patients With Valve Diseases", Circulation. 2021 Dec 14;144(24):1926-1939. doi: 10.1161/CIRCULATIONAHA.121.055646  
+
 **Contact:** Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Berlin, Germany, nikolaus.berndt@charite.de
 Irina Balaur, University of Luxembourg, Belvaux, Luxembourg, irina.balaur@uni.lu  
 
