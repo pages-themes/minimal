@@ -8,12 +8,11 @@ permalink: /osteoarthritis/
 
 ## KneePainOAMap
 
-<!--
 **Disease IDs:** [DOID:8398](https://disease-ontology.org/?id=DOID:8398), [ICD10CM:M17](https://www.icd10data.com/ICD10CM/Codes/M00-M99/M15-M19/M17-/M17)  
+**Synonyms:** osteoarthrosis, degenerative arthritis  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tools:** [yEd Graph Editor](https://www.yworks.com/products/yed), [CellDesigner](https://www.celldesigner.org/)  
 **Contact:** Bernd Seilheimer, Heel GmbH, Baden-Baden, Germany, bernd.seilheimer(at)heel.com  
--->
 
 Osteoarthritis (OA) is the most common form of arthritis affecting middle age to elderly populations. OA is considered a complex disease of the entire joint, including the loss of cartilage, alterations in subchondral bone, deterioration of tendons and ligaments, and various degrees of inflammation of the synovium, eventually leading to joint failure.  
 
