@@ -11,6 +11,7 @@ permalink: /atherosclerosis/
 
 **Development status:** First version is complete and published  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
+**Disease IDs:** [DOID:1936](https://disease-ontology.org/?id=DOID:1936), [ICD10CM:I70](https://www.icd10data.com/ICD10CM/Codes/I00-I99/I70-I79/I70-/I70), [MESH:D050197](https://meshb.nlm.nih.gov/record/ui?ui=D050197)  
 **How to cite:** Parton, et al. Bioinformatics. 2018. [doi: 10.1093/bioinformatics/bty980](https://doi.org/10.1093/bioinformatics/bty980). [PMID: 30520978](https://www.ncbi.nlm.nih.gov/pubmed/30520978)  
 **Contact:** Steven Watterson, University of Ulster, UK, s.watterson(at)ulster.ac.uk  
 
