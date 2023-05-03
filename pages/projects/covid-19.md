@@ -11,6 +11,8 @@ permalink: /covid-19/
 **Map content:** [https://covid.pages.uni.lu/map_contents](https://covid.pages.uni.lu/map_contents)  
 **Online access and exploration:** [https://covid19map.elixir-luxembourg.org](https://covid19map.elixir-luxembourg.org/)  
 **Development status:** First version is complete and published  
+**Disease IDs:** [DOID:0080600](https://disease-ontology.org/?id=DOID:0080600), [ICD10CM:U07.1](https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49/U07-/U07.1)  
+**Synonyms:** SARS-CoV-2 infection  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Contributors:** [FAIRDOMHub | People](https://fairdomhub.org/projects/190#people)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
