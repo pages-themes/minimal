@@ -8,6 +8,7 @@ permalink: /sjogrens/
 ## Sjogren Map
 
 **Development status:** Active development within a PhD project  
+**Disease IDs:** [DOID:12894](https://disease-ontology.org/?id=DOID:12894), [ICD10CM:M35.0](https://www.icd10data.com/ICD10CM/Codes/M00-M99/M30-M36/M35-/M35.0), [MESH:D012859](https://www.ncbi.nlm.nih.gov/mesh/D012859), [MONDO:0010030](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0010030)  
 **Sustainable support:** [University of Evry](http://www.univ-evry.fr/en/), [MINERVA platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [Doctoral School "Structure and Dynamics of Living Systems"](https://theses.fr/188166580)  
