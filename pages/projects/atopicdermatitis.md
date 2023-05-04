@@ -9,7 +9,7 @@ permalink: /atopicdermatitis/
 ## Atopic Dermatitis Map
 
 **Development status:** Active development  
-**Disease IDs:** [DOID:3310](https://disease-ontology.org/?id=DOID:3310), [ICD10CM:L20](https://www.icd10data.com/ICD10CM/Codes/L00-L99/L20-L30/L20-/L20)  
+**Disease IDs:** [DOID:3310](https://disease-ontology.org/?id=DOID:3310), [MESH:D003876](https://meshb.nlm.nih.gov/record/ui?ui=D003876), [MONDO:0011292](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0011292), [ICD10CM:L20](https://www.icd10data.com/ICD10CM/Codes/L00-L99/L20-L30/L20-/L20)  
 **Sustainable support:** [LCSB](http://wwwen.uni.lu/lcsb), [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** [IMI2 BIOMAP No 821511](https://www.imi.europa.eu/projects-results/project-factsheets/biomap), [BIOMAP](https://biomap-imi.eu/)  
