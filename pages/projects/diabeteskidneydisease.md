@@ -1,7 +1,6 @@
 ---
 title: Diabetic Kidney Disease
 lyout: default
-redirect_from: "/projects/diabetickidneydisease/"
 permalink: /diabetickidneydisease
 ---
 
@@ -10,7 +9,7 @@ permalink: /diabetickidneydisease
 ## Diabetic Kidney Disease Map
 
 **Development status:** Active development  
-**Disease IDs:** [MONDO:0005016](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005016), [ICD9:250.4](https://www.aapc.com/codes/icd9-codes/250.4), [DOID:11503](https://disease-ontology.org/?id=DOID:11503)  
+**Disease IDs:** [MONDO:0005016](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005016), [MESH:D003928](https://meshb.nlm.nih.gov/record/ui?ui=D003928), [ICD9:250.4](https://www.aapc.com/codes/icd9-codes/250.4), [DOID:11503](https://disease-ontology.org/?id=DOID:11503)  
 **Synonyms:** Diabetic nephropathy, DKD  
 **Construction tools:** [CellDesigner](https://www.celldesigner.org/)  
 **Contact:** Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran, f.kiyanpour1990(at)gmail.com  
