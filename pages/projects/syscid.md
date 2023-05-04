@@ -7,8 +7,8 @@ permalink: /syscid/
 # Chronic inflammation
 ## SYSCID Map
 
-**Diseases:** Inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus  
 **Development status:** Active development  
+**Diseases:** Inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus  
 <!--**Online access and exploration:**  [https://syscid.elixir-luxembourg.org](https://syscid.elixir-luxembourg.org)  -->
 **Inflammatory bowel disease IDs:** [DOID:0050589](https://disease-ontology.org/?id=DOID:0050589), [MESH:D015212](https://www.ncbi.nlm.nih.gov/mesh/D015212), [MONDO:0005265](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005265)  
 **Rheumatoid arthritis IDs:** [DOID:7148](https://disease-ontology.org/?id=DOID:7148), [MESH:D008180](http://id.nlm.nih.gov/mesh/D008180), [MONDO:0008383](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0008383)  
