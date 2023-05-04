@@ -11,7 +11,11 @@ permalink: /covid-19/
 **Map content:** [https://covid.pages.uni.lu/map_contents](https://covid.pages.uni.lu/map_contents)  
 **Online access and exploration:** [https://covid19map.elixir-luxembourg.org](https://covid19map.elixir-luxembourg.org/)  
 **Development status:** First version is complete and published  
-**Disease IDs:** [DOID:0080600](https://disease-ontology.org/?id=DOID:0080600), [ICD10CM:U07.1](https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49/U07-/U07.1), [MESH:D000086382](https://meshb.nlm.nih.gov/record/ui?ui=D000086382)  
+**Disease IDs:** 
+[DOID:0080600](https://disease-ontology.org/?id=DOID:0080600), 
+[MESH:D000086382](https://meshb.nlm.nih.gov/record/ui?ui=D000086382), 
+[MONDO:0100096](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0100096), 
+[ICD10CM:U07.1](https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49/U07-/U07.1)  
 **Synonyms:** SARS-CoV-2 infection  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Contributors:** [FAIRDOMHub | People](https://fairdomhub.org/projects/190#people)  
