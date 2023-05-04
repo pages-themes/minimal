@@ -16,8 +16,6 @@ permalink: /placental/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Contact:**  Shailendra Gupta, University of Rostock, Rostock, Germany, shailendra.gupta(at)uni-rostock.de  
 
-DOID:10591; MONDO:0005030; ICD10CM:O36.5990; ICD10CM:Z36.4; ICD9CM:656.50 D005317
-
 ### Description
 
 Text
