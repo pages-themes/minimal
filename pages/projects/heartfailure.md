@@ -13,7 +13,7 @@ permalink: /heartfailure/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Funding:** ERA PerMed, FNR INTER, Reference Number ERAPERMED2019-237  
-**How to cite:** Berndt, et al. Circulation. 2021. [doi: 10.1161/CIRCULATIONAHA.121.055646](https://doi.org/10.1161/CIRCULATIONAHA.121.055646). [PMID: 34762513](https://pubmed.ncbi.nlm.nih.gov/34762513/).  
+**How to cite:** Berndt, et al. Circulation. 2021. [PMID: 34762513](https://pubmed.ncbi.nlm.nih.gov/34762513/).  
 **Contacts:** Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany, nikolaus.berndt(at)charite.de; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg, irina.balaur(at)uni.lu  
 
 ### Description
