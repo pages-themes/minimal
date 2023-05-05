@@ -157,7 +157,7 @@ The following information cards show projects focused on specific diseases.
         <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: CardioMap<br />
-        Contact: Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br /><br />
+        Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
