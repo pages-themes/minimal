@@ -138,12 +138,12 @@ The following information cards show projects focused on specific diseases.
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
         </p></td>   
 <td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: KneePainOAMap<br />
-        Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
+        Resource: CardioMap<br />
+        Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
@@ -152,12 +152,12 @@ The following information cards show projects focused on specific diseases.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: CardioMap<br />
-        Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
+        Resource: KneePainOAMap<br />
+        Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
