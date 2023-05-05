@@ -132,7 +132,7 @@ The following information cards show projects focused on specific diseases.
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: CardioMap<br />
+        Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
         Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
