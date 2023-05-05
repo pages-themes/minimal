@@ -9,7 +9,7 @@ permalink: /heartfailure/
 
 **Online access and exploration:**  [https://cardiomap.elixir-luxembourg.org](https://cardiomap.elixir-luxembourg.org)  
 **Disease IDs:** [MONDO:0005252](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005252), [MESH:D006333](https://www.ncbi.nlm.nih.gov/mesh/D006333), [DOID:6000](https://disease-ontology.org/?id=DOID:6000)  
-**Development status:** First version is complete  
+**Development status:** First version is complete and published  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
 **Funding:** ERA PerMed, FNR INTER, Reference Number ERAPERMED2019-237  
