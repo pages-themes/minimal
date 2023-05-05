@@ -128,6 +128,14 @@ The following information cards show projects focused on specific diseases.
 <td style="width: 320px;"> </td>
 </tr>
 <tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: CardioMap<br />
+        Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+<td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong></p>
@@ -136,14 +144,6 @@ The following information cards show projects focused on specific diseases.
         Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
         Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
         Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
-        </p></td>   
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: CardioMap<br />
-        Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 </tr>
 <tr style="height: 20px;">
