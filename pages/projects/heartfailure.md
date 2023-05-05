@@ -25,6 +25,12 @@ The cardiomap focuses on metabolic and signalling pathways important for underst
 metabolism, glycolysis, oxidative and non-pentose phosphate, triglyceride synthesis, synthesis and degradation of lipid droplets, citric acid cycle, respiratory chain and oxidative phosphorylation, β-oxidation of fatty acids, ketone body utilisation, glutamate metabolism, mitochondrial electrophysiology and utilisation of branched chain amino acids.
 - At signalling level, we focused on cardiac hypertrophy due to its crucial impact on heart failure development in two major directions: i) comparison between the mechanisms of physiological and pathological cardiac hypertrophy ii) exploration of the impact of metabolic deregulations into the pathological cardiac hypertrophy, by capturing signalling components regulating metabolic mechanisms including insulin resistance and mitochondrial dysfunction.
 
+### Funding
+
+This project was supported under the framework of ERA PerMed, FNR INTER, Reference Number ERAPERMED2019-237.  
+
+<!--This project was supported by the Deutsche Forschungsgemeinschaft (German Research Foundation; project 422215721) and by the Bundesministerium für Bildung und Forschung (German Federal Ministry of Education and Research) within the e:Med research program “SMART–Systems Medicine of Heart Failure” (grant 031A427A; URL: https://www.clinicaltrials.gov; Unique identifier: NCT03172338), as well as under the framework of ERA PerMed (HeartMed; grant 01KU2011A). This research was also funded by the European Research Area Network on Cardiovascular Diseases (SICVALVES). Drs Kelm and Schafstedde are participants in the BIH-Charité Digital Clinician Scientist Program funded by the Charité-Universitätsmedizin Berlin and the Berlin Institute of Health.-->
+
 ### References
 
 Berndt N, Eckstein J, Wallach I, Nordmeyer S, Kelm M, Kirchner M, Goubergrits L, Schafstedde M, Hennemuth A, Kraus M, Grune T, Mertins P, Kuehne T, Holzhütter HG. CARDIOKIN1: Computational Assessment of Myocardial Metabolic Capability in Healthy Controls and Patients With Valve Diseases. Circulation. 2021 Dec 14;144(24):1926-1939. [doi: 10.1161/CIRCULATIONAHA.121.055646](https://doi.org/10.1161/CIRCULATIONAHA.121.055646). Epub 2021 Nov 11. [PMID: 34762513](https://pubmed.ncbi.nlm.nih.gov/34762513/).
