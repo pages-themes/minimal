@@ -21,8 +21,10 @@ permalink: /heartfailure/
 The CardioMap project is developed within [HeartMed](https://www.fnr.lu/projects/heartmed-an-ict-platform-combining-preclinical-and-clinical-information-for-patient-specific-modelling-in-cardiovascular-medicine-to-improve-diagnosis-and-help-clinical-decision-making/), an ICT platform for combining preclinical and clinical information for enhancing translational medicine and patient-specific modelling in cardiovascular diseases
 
 The cardiomap focuses on metabolic and signalling pathways important for understanding different phenotypes of heart failure:
+
 - The metabolic part describes central energy delivering pathways. It comprises glycogen
-metabolism, glycolysis, oxidative and non-pentose phosphate, triglyceride synthesis, synthesis and degradation of lipid droplets, citric acid cycle, respiratory chain and oxidative phosphorylation, β-oxidation of fatty acids, ketone body utilisation, glutamate metabolism, mitochondrial electrophysiology and utilisation of branched chain amino acids.
+metabolism, glycolysis, oxidative and non-pentose phosphate, triglyceride synthesis, synthesis and degradation of lipid droplets, citric acid cycle, respiratory chain and oxidative phosphorylation, β-oxidation of fatty acids, ketone body utilisation, glutamate metabolism, mitochondrial electrophysiology and utilisation of branched chain amino acids.  
+
 - At signalling level, we focused on cardiac hypertrophy due to its crucial impact on heart failure development in two major directions: i) comparison between the mechanisms of physiological and pathological cardiac hypertrophy ii) exploration of the impact of metabolic deregulations into the pathological cardiac hypertrophy, by capturing signalling components regulating metabolic mechanisms including insulin resistance and mitochondrial dysfunction.
 
 ### Funding
