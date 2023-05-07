@@ -35,23 +35,25 @@ Project progress status:
 
 The following information cards show projects focused on specific diseases.
 
-#### [COVID-19](../covid-19/)
-#### [&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)
+**[COVID-19](../covid-19/)**  
+**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
 Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
 Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
 
-#### [COVID-19](../covid-19/)
-#### [&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)
+**[COVID-19](../covid-19/)**  
+**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
 Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
 Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
 
-<p style="margin:10px; font-size:18px;">
-<strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-<p style="line-height:160%; margin:10px; font-size:13px;">
-Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
+**[COVID-19](../covid-19/)**  
+**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
+Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
 
+**[COVID-19](../covid-19/)**  
+**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
+Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
