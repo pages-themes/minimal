@@ -7,26 +7,26 @@ bg -> background
 hvr -> hover
 */
 
-//colors
+// colors that do not change depending on dark/light theme (each color catogry goes from brighter to darker)
 :root {
-    //red
+    // red colors
     --code-d14:    #d14;
     --code-aa0000: #aa0000;
     --code-990000: #990000;
-    //cyan
+    // cyan colors
     --code-009999: #009999;
     --code-008080: #008080;
     --code-3c5d5d: #3c5d5d;
-    //green
+    // green colors
     --code-009926: #009926;
-    //pink
+    // pink colors
     --code-990073: #990073;
     --code-800080: #800080;
-    //purple
+    // purple colors
     --code-445588: #445588;
-    //blue
+    // blue colors
     --code-000080: #000080;
-    //grey
+    // grey colors
     --code-aaaaaa: #aaaaaa;
     --code-999999: #999999;
     --code-888888: #888888;
@@ -35,7 +35,7 @@ hvr -> hover
 
 @mixin colors {  
     // buttons
-    --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+    --L-a-text-hover-change: 0.8; // the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
     --clr-a-text: hsl(200, 100%, var(--L-a-text));
     --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
     --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));//the buttons in the main section at the top titled "download zip" "download tarbell" "veiw on github"
@@ -43,7 +43,7 @@ hvr -> hover
     --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
     --clr-buttons-main-text-hover: hsl(0, 6%, var(--L-buttons-main-text-hover));
     // headers + text
-    --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
+    --clr-h1: hsl(0, 0%, var(--L-h1-and-bold));
     --clr-h2: hsl(0, 0%, var(--L-h2));
     --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
     --clr-text: hsl(0, 0%, var(--L-text));
@@ -59,7 +59,7 @@ hvr -> hover
     --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
     // miselainies
     --clr-bg: hsl(0, 0%, var(--L-bg));//the bg of the page
-    --clr-splitter-blockquote-and-section: hsl(0, 0%, var(--L-splitter-blockquote-and-section));//a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
+    --clr-visual-separation: hsl(0, 0%, var(--L-splitter-blockquote-and-section));//a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
     --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));//the color for small elements in a's this color is used on the veiw on github button above the download buttons
     --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt)); //more info on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
   }
