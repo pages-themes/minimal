@@ -35,6 +35,19 @@ Project progress status:
 
 The following information cards show projects focused on specific diseases.
 
+<table>
+<tr>
+<td style="width:320px;">
+        <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />
+        &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
+        <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a>
+        </td>
+<td style="width:320px;">
+        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg
+        </td>
+</tr>
+</table>
+        
 **[COVID-19](../covid-19/)**  
 **[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
 Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
