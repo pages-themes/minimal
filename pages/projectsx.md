@@ -38,35 +38,27 @@ The following information cards show projects focused on specific diseases.
 <table>
 <tr>
 <td style="width:320px;">
+        <strong><a href="../covid-19" target="_blank">COVID-19 <br />
+        &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
+        <a href="https://covid.pages.uni.lu" target="_blank">COVID-19 Disease Map</a>
+</td>
+<td style="width:320px;">
+        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg
+</td>
+</tr>
+<tr>
+<td style="width:320px;">
         <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />
         &#9733;&#9733;&#9733;&#9733;&#9733;</a></strong><br />
         <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a>
-        </td>
+</td>
 <td style="width:320px;">
         Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg
-        </td>
+</td>
 </tr>
 </table>
         
-**[COVID-19](../covid-19/)**  
-**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
-Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
 
-**[COVID-19](../covid-19/)**  
-**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
-Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
-
-**[COVID-19](../covid-19/)**  
-**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
-Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
-
-**[COVID-19](../covid-19/)**  
-**[&#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19/)**  
-Resource: [https://covid.pages.uni.lu](https://covid.pages.uni.lu)  
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg  
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
