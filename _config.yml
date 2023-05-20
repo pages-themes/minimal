@@ -1,6 +1,21 @@
-title: Minimal theme
+title: Praveen Kumar Chalamcharla
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="docs/PraveenChalamcharla.docx">Resume</a> |
+  <a href="linkedin.com/in/praveen-kumar-chalamcharla-06454b1b">LinkedIn</a> |
+  <a href="https://github.com/praveen-2814">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  I have been working as a Platform Engineer for past 8+ years.
+  I have built Cloudera Hadoop clusters on on-premises as well as on cloud infrastructure, developed ansible playbooks for automating platform management, deployment, libraries provisioning.
+  I have development experience for 5+ years in Hadoop Map Reduce API, Hive before I started working as Platform Engineer.
+  Currently pursuing Masters in Machine Learning & Data Science.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
