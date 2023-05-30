@@ -18,7 +18,7 @@ Customer Count for Street
 
 Customer trend analysis
 
-### Header 3
+### Project 3
 
 ```js
 // Javascript code with syntax highlighting.
