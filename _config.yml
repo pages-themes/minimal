@@ -1,4 +1,22 @@
-title: Minimal theme
+title: <p align="center"> Rahul Kumar </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rahul-kumar-b38423154">LinkedIn</a> |
+  <a href="https://github.com/RahulB268">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing Customer Count, ARR, ARPU for US Street Reporting of Gen.
+  Worked with HSBC, CapGemini & Virtusa at Data Analytics team.
+  Working in Customer Subscription domian for 4 years.
+  <br>
+  </p>
+  
+  
+title: <p align="center"> Rahul Kumar </p>
 logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
