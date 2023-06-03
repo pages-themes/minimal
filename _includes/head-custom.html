@@ -2,6 +2,10 @@
 
 <!-- Setup Google Analytics -->
 {% include head-custom-google-analytics.html %}
+<!-- Collect All Tags -->
+{% if site.tags != "" %}
+  {% include collectAllTags.html %}
+{% endif %}
 
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
