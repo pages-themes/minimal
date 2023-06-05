@@ -4,7 +4,7 @@
 <ul>
 {% for post in site %}
   {% if post.category == page.category %}
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
   </li>
   {% endif %}
 {% endfor %}
