@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Debasish Deaty</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/debasish-deaty-74545b48/</a> |
+  <a href="https://github.com/ddeaty">GitHub</a>
+ 
+  <br>  
+   I'm working on developing network architectural and design solutions for LAN, WAN, SD_WAN, DC, Wireless, Automization, Data Science, Big Data, Machine learning & NLP related problems.
+   Working with Wipro at WHRS Alight Team.
+  
+<br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
