@@ -1,123 +1,55 @@
+# Network, Data Center, LAN, WAN, SD-WAN and Data Science Portfolio
 ---
-layout: default
+## Network, Data Center, LAN, WAN, SD-WAN Projects
+
+### Internet Gateway and DC Setup and Designing Project
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+<center><img src="assets/img/internet1.png"/></center>
+
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Data Center VSS and Nexus setup and Network designing
 
 
-### Definition lists can be used with HTML syntax.
+Developing the network and Data Center architectural solutions and Leading the Data Network Team including the bill of materials, statement of work, LLD, HLD, and configuration templates that adhere to industry best practices, assisting with both Pre and Post Sales initiatives, helping clients identify and strategically implement multi-vendor solutions.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Deploy the Total Site Migration from old Notel environment like Passport 8600 ERS to Cisco 6800 & 6500 VSS and Nexus Platform, including the WAN Migrations from P2P link to MPLS and save cost. Also, Migrate Cisco LAN and WAN environments to Juniper LAN and SD-WAN/ WAN environments.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<center><img src="assets/img/dc3.png"/></center>
 
-```
-The final element.
-```
+---
+### Manage the Data Network Team in HLD (High-Level designs) & LLD (Low-Level designs) Design and Planning/testing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
+
+-	Lead and manage the Data Network Team in HLD (High-Level designs) & LLD (Low-Level designs) Design and Planning/testing.
+-	Work with stakeholders to translate requirements and technical information into deliverable projects.
+-	Handle project initiation by defining and documenting project scope, timeline, and budget.
+-	Obtain project sponsors and identify stakeholders.
+-	Develop /assess and select proper project strategy.
+-	Take the lead in Design & planning: creating project schedules based on priorities, developers/QA, time/budget, project plans, and updating projects on a weekly development schedule.
+-	Handle project execution and control, including leading launch meetings, plan execution,
+-	controls, change management, managing expectations, and weekly performance reporting.
+-	Complete the project closure process by ensuring compliance controls are updated upon project completion/release.
+-	Work with operations team via resolving technology, systems, and information issues. Also, follow the different processes according to the ITIL standards.
+-	Also analyze their common faults and problems from time to time and then plan it to make a proper Network design where required.
+-	Design and implement change in VxLAN, vPC, FEX, VDC, etc on Nexus Platform (N7K, N5K, N2K) as per client requirements changes. Also, work on SD-WAN Design and deployment.
+-	Design and implement Wireless Network with AP, and WLC as per client requirements.
+-	Experienced with managing projects in diverse technology environments, with expertise in the design and enhancement of large-scale IP networks. Effective at translating business requirements into technical solutions, and developing strategies based on company objectives.
+-	Extensive hands-on technology experience spanning multidisciplinary domains including routing and switching, security, wireless, data center, service provider, and cloud technologies.
+
+
+<center><img src="assets/img/graph1.png"/></center>
+
+---
+# Machine learning
+
+
+### Fraud Detection
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ddeaty/fraud_detection#readme)
+
+Fraud detection protects customer and enterprise information, assets, accounts, and transactions through the real-time, near-real-time, or batch analysis of activities by users and other defined entities. Fraud Detection Using Machine Learning allows you to run automated transaction processing on an example dataset or your own dataset. The included ML model detects potentially fraudulent activity and flags that activity for review.
+
+<center><img src="assets/img/FRAUD_DETECTION.JPG"/></center>
