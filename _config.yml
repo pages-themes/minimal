@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Ashish L Parmar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ashish-l-parmar/">LinkedIn</a> |
+  <a href="https://github.com/ashish2872">GitHub</a>
+  
+  <br>   
+  I'm an aspiring Data Scientist. I have worked on Data analytics projects earlier.
+  I have worked in Springer Nature Technology and Publishing Solutions.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
