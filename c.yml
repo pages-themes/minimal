@@ -1,0 +1,313 @@
+# title:<p align="center">Salil Chandan</p>
+# logo: /assets/img/chat2.jpg
+# description:
+# <p align="center">
+# # <a href="assets/Salil_CV.pdf">Resume</a>
+# <a href="www.linkedin.com/in/salil-chandan">LinkedIn</a>
+# <a href="https://github.com/Salil-1012">GitHub</a>
+
+# <br>
+
+# I am working in Tata Consultancy Services as a Assitant System Engineer. I am working on Data Science , Machine Learning and Artifical Intelligence. I am National Level Hackathone Winner
+# created a ChatBot. I have 5-star in Hackerrank.
+# <br>
+# </p>
+
+# theme: jekyll-theme-minimal
+
+title: GitHub Pages
+tagline: Your sidekick in using GitHub Pages and blogs
+description: >-
+  Learn how to create a site or blog from your GitHub repositories with GitHub
+  Pages.
+tags:
+  - GitHub
+  - GitHub Pages
+template:
+  name: github-pages-with-jekyll
+  repo: github-pages-with-jekyll-template
+preferences:
+  - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+      - label: English
+        value: en
+      - label: Español
+        value: es
+before:
+  - type: createIssue
+    title: Welcome
+    body: 00_class-introduction-issue.md
+steps:
+  - title: Generate a GitHub Pages site
+    description: Generate a GitHub Pages site with the automatic page generator.
+    translations:
+      es:
+        title: Activa GitHub Pages
+        description: >-
+          Gnera un sitio web con el generador automático de páginas GitHub
+          Pages.
+    event: page_build
+    link: '{{ repoUrl }}/issues/1'
+    actions:
+      - type: octokit
+        method: repos.getPages
+        owner: '%payload.repository.owner.login%'
+        repo: '%payload.repository.name%'
+        action_id: pagesUrl
+      - type: respond
+        issue: 1
+        with: 01_update-index.md
+        data:
+          deploymentUrl: '%actions.pagesUrl.data.html_url%'
+      - type: updateBranchProtection
+  - title: Customize your homepage
+    description: Open a pull request with changes to the homepage.
+    translations:
+      es:
+        title: Personaliza tu página inicial
+        description: Abre un pull request con cambios en la página inicial.
+    event: pull_request.opened
+    link: '{{ repoUrl }}/issues'
+    actions:
+      - type: gate
+        left: '%payload.pull_request.body%'
+        required: false
+        else:
+          type: respond
+          with: 02_pull-request-blank.md
+      - type: getTree
+        action_id: tree
+        sha: '%payload.pull_request.head.sha%'
+      - type: createReview
+        body: 02_merge-pr.md
+        event: APPROVE
+        data:
+          branch: '%payload.pull_request.head.ref%'
+      - type: closeIssue
+        issue: Welcome
+  - title: Merge your pull request
+    description: Merge the pull request that customizes your homepage.
+    translations:
+      es:
+        title: Combina tu pull request
+        description: Combina el pull request que personaliza tu página inicial.
+    event: pull_request.closed
+    link: '{{ repoUrl }}/pulls'
+    actions:
+      - type: gate
+        left: '%payload.pull_request.merged%'
+      - type: gate
+        left: '%payload.pull_request.base.ref%'
+        operator: ===
+        right: main
+      - type: updateBranchProtection
+      - type: octokit
+        method: repos.getPages
+        owner: '%payload.repository.owner.login%'
+        repo: '%payload.repository.name%'
+        action_id: pagesUrl
+      - type: createIssue
+        action_id: issue
+        title: Getting ready to blog
+        body: 03_change-theme.md
+        data:
+          deploymentUrl: '%actions.pagesUrl.data.html_url%'
+      - type: respond
+        with: 03_merged-pr.md
+        data:
+          url: '%actions.issue.data.html_url%'
+  - title: Customize site details
+    description: Edit the configuration file to display your information.
+    translations:
+      es:
+        title: Personaliza los detalles del sitio
+        description: Edita el archivo de configuración para mostrar tu información.
+    event: pull_request
+    link: '{{ repoUrl }}/issues'
+    actions:
+      - type: gate
+        gates:
+          - left: '%payload.action%'
+            operator: ===
+            right: opened
+          - left: '%payload.action%'
+            operator: ===
+            right: synchronize
+      - type: gate
+        required: false
+        left: '%payload.action%'
+        operator: '!=='
+        right: opened
+        else:
+          type: closeIssue
+          issue: Getting ready to blog
+      - type: gate
+        required: false
+        left: '%payload.pull_request.body%'
+        else:
+          type: respond
+          with: 02_pull-request-blank.md
+      - type: getFileContents
+        filename: _config.yml
+        action_id: file
+      - type: gate
+        left: '/^theme:\s?minima$/m'
+        operator: test
+        right: '%actions.file%'
+        else:
+          type: createReview
+          event: REQUEST_CHANGES
+          body: 04_wrong-theme.md
+      - type: createReview
+        event: COMMENT
+        body: 04_create-blog-post.md
+        data:
+          branch: '%payload.pull_request.head.ref%'
+          date: '%payload.pull_request.created_at%'
+  - title: Create a blog post
+    description: Create a new file that will become your first blog post.
+    translations:
+      es:
+        title: Crea un post
+        description: Crea un nuevo archivo que se convertirá en el primer post de tu blog.
+    event: pull_request.synchronize
+    link: '{{ repoUrl }}/pulls'
+    actions:
+      - type: getTree
+        action_id: tree
+        recursive: true
+        sha: '%payload.pull_request.head.sha%'
+      - type: gate
+        action_id: directory
+        required: false
+        left: '%actions.tree.data.tree%'
+        operator: includes
+        right: 'path:/^_posts/'
+      - type: gate
+        action_id: filenumber
+        required: false
+        left: '%actions.tree.data.tree%'
+        operator: includes
+        right: 'path:/\d{4}-\d{2}-\d{2}/'
+      - type: gate
+        action_id: post
+        required: false
+        left: '%actions.tree.data.tree%'
+        operator: includes
+        right: 'path:/[a-zA-Z]\.md$/'
+      - type: gate
+        action_id: extension
+        required: false
+        left: '%actions.tree.data.tree%'
+        operator: includes
+        right: 'path:/\.md$/'
+      - type: gate
+        action_id: filename
+        required: false
+        left: '%actions.tree.data.tree%'
+        operator: includes
+        right: 'path:/(^|\/)\d{4}-\d{2}-\d{2}-.*\.md$/'
+      - type: gate
+        every: true
+        gates:
+          - left: '%actions.directory%'
+          - left: '%actions.filenumber%'
+          - left: '%actions.post%'
+          - left: '%actions.extension%'
+          - left: '%actions.filename%'
+        else:
+          - type: createReview
+            body: 05_incorrect-post.md
+            event: REQUEST_CHANGES
+            data:
+              directory: '%actions.directory%'
+              filenumber: '%actions.filenumber%'
+              post: '%actions.post%'
+              extension: '%actions.extension%'
+              filename: '%actions.filename%'
+      - type: createReview
+        body: 05_add-front-matter.md
+        event: COMMENT
+  - title: Add blog post metadata
+    description: Add YAML front matter to the blog post to display the title and date.
+    translations:
+      es:
+        title: Añade metadatos al post
+        description: Añade texto preliminar YAML al post para mostrar el título y la fecha.
+    event: pull_request.synchronize
+    link: '{{ repoUrl }}/pulls'
+    actions:
+      - type: getTree
+        action_id: tree
+        recursive: true
+        sha: '%payload.pull_request.head.sha%'
+      - type: findInTree
+        action_id: file
+        tree: '%actions.tree.data.tree%'
+        path: '/^_posts\/\d{4}-\d{2}-\d{2}-.*\.md$/'
+      - type: getFileContents
+        filename: '%actions.file.path%'
+        action_id: contents
+      - type: gate
+        required: false
+        action_id: dashes
+        left: '/^-{3}[\s\S]+-{3}/'
+        operator: test
+        right: '%actions.contents%'
+      - type: gate
+        required: false
+        action_id: title
+        left: '/^title:\s?["''].+["'']$/m'
+        operator: test
+        right: '%actions.contents%'
+      - type: gate
+        required: false
+        action_id: date
+        left: '/^date:\s?\d{4}-\d{2}-\d{2}/m'
+        operator: test
+        right: '%actions.contents%'
+      - type: gate
+        every: true
+        gates:
+          - left: '%actions.dashes%'
+          - left: '%actions.title%'
+          - left: '%actions.date%'
+        else:
+          - type: createReview
+            body: 06_incorrect-front-matter.md
+            event: REQUEST_CHANGES
+            data:
+              date: '%actions.date%'
+              title: '%actions.title%'
+              dashes: '%actions.dashes%'
+      - type: removeBranchProtection
+      - type: createReview
+        body: 06_merge-and-celebrate.md
+        event: APPROVE
+  - title: Merge your first post
+    description: >-
+      Merge the pull request so your blog post will appear on your GitHub Pages
+      site.
+    translations:
+      es:
+        title: Combina tu primer post
+        description: >-
+          Combina el pull request para que tu post aparezca en tu sitio de
+          GitHub Pages.
+    event: pull_request.closed
+    link: '{{ repoUrl }}/pulls'
+    actions:
+      - type: octokit
+        method: repos.getPages
+        owner: '%payload.repository.owner.login%'
+        repo: '%payload.repository.name%'
+        action_id: pagesUrl
+      - type: gate
+        left: '%payload.pull_request.merged%'
+      - type: respond
+        with: 07_next-steps.md
+        data:
+          deploymentUrl: '%actions.pagesUrl.data.html_url%'
