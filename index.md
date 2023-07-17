@@ -1,123 +1,44 @@
+#  Data Science Portfolio
 ---
-layout: default
+## Machine learning
+### ChatBot The Virtual Assistant
+ChatBot is a set of process which allow the user to speak any type of quries which they want to ask. ChatBot  collect user responses and user need to define what types of  messages will trigger the bot's response that follows. It also help the user to speak the query and the write the query, So that whatever the user want in their screen it will shown as per the keywords mention on query.If user say or write the "Open Google" it open the Google webpage in the screen and also it may  include Google,YouTube, Games etc.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Salil-1012/WaterBoat)
+[![YouTube](https://img.shields.io/badge/View_on_Youtube-red?logo=Youtube)](https://www.youtube.com/watch?v=EnOqZUrznVw)
+<center><img src="assets/img/chat2.jpg"/></center>
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Python
+### Railway Management System: 
+The software that handles distribution, pricing, scheduling, and other railway operations .Management and facilitates the passengers to enquire about the trains available on the basis of source and destination. In this project user can able to do the book the ticket and also can see the seat number , which train can be come in which time , how many ticket are available in the specific train . 
 
 
-### Definition lists can be used with HTML syntax.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Salil-1012/Railway-Reservation-System)
+<center><img src="assets/img/train.jpg"/></center>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Youtube Downloader  
+The software that handles to download all type of video from youtube with highest resolution and also tell about the description of the video , views of the video as well as the lenght of the video which make the user friendly software and also it is easy to use. It also shows prompt when  downloader  downloads the video.  
 
-```
-The final element.
-```
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Salil-1012/Youtube-Downloader)
+<center><img src="assets/img/youtubejpg.jpg"/></center>
+
+----
+## Data Analysis
+### Play-Store: Examin the application on google play store
+Analysis the google play store application which age group have highly uses which kind of application . So to  analysize the live data we got to know that teenager are highly used the application and give the feedback to the organization who made the specific application 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Salil-1012/Google-Pay-Store)
+<center><img src="assets/img/google.jpg"/></center>
+
+---
+## Android 
+### Food Ordering Application:
+The main purpose for developing this Food Ordering Android Application is to provide customer an android platform from where they will be able to order foods from their mobile devices. In this they can easily find out the best resturants near by them and choose their food as per their wish. The payment gateway is also their like GooglePay, PhonePay etc.
+It is offering online ordering, delivery and takeaway is a smart strategy to appeal to a vast audience of potential customers. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Salil-1012/BOOKH-THE-FOOD-APP)
+<center><img src="assets/img/food.png"/></center>
