@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title:<p align="center">Salil Chandan</p>
+<center><img src="assets/img/chat2.jpg"/></center>
+description:
+<p align="center">
+# <a href="assets/Salil_CV.pdf">Resume</a>
+<a href="www.linkedin.com/in/salil-chandan">LinkedIn</a>
+<a href="https://github.com/Salil-1012">GitHub</a>
+
+<br>
+
+I am working in Tata Consultancy Services as a Assitant System Engineer. I am working on Data Science , Machine Learning and Artifical Intelligence. I am National Level Hackathone Winner
+created a ChatBot. I have 5-star in Hackerrank.
+<br>
+</p>
+
 theme: jekyll-theme-minimal
