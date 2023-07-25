@@ -10,16 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Project 1
+### Telecom Customer Churn-Prediction Case Study
+Built a logistic regression model for the prediction of the probability of a customer churning to another telecom service provider using techniques like Recursive Feature Elimination, confusion matrix, sensitivity & specificity, and ROC curve.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
+## Project 2
+### Heart Disease-Prediction Case Study
+Built a decision tree regression model for prediction of the probability of heart disease in patients using techniques- Gini index-based CART algorithm, homogeneity threshold-based recursive binary splitting, truncating and pruning, entropy.
 ### Header 3
 
 ```js
