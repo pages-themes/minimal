@@ -1,9 +1,9 @@
 # 21 Days Refresher Course on Agroforestry
 
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+*The Indian Society of Agroforestry (ISAF) is organising a refresher course for academicians, government officials, Masters’ and Ph.D. students. The objective of the programme is to provide an overview of agroforestry as well as to provide insights on the recent research and development initiatives in the agroforestry. The program is being organized in association with ICAR-CAFRI, Jhansi and supported by the Ministry of Agriculture & Farmers' Welfare, Govt. of India.*
 
-![Thumbnail of Minimal](thumbnail.png)
+![Indian Society of Agroforestry in Collabration with ICAR-CAFRI](D:\Odrive\sureshramanans01 folder\cafri\Logo\Presentation1-removebg-preview.png)
 
 ## Usage
 
