@@ -8,7 +8,7 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 
 Lecture details
 
-•	Introduction to agroforestry: Perspectives and Priorities
+<b>•	Introduction to agroforestry: Perspectives and Priorities</b>
 •	Agroforestry Systems and its typologies
 •	Diagnosis and Design for agroforestry 
 •	Agroforestry systems for different agroclimatic & agroecological zones in India
