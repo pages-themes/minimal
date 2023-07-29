@@ -1,15 +1,7 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The Indian Society of Agroforestry (ISAF) is organising a refresher course for academicians, government officials, Masters’ and Ph.D. students. The objective of the programme is to provide an overview of agroforestry as well as to provide insights on the recent research and development initiatives in the agroforestry. The program is being organized in association with ICAR-CAFRI, Jhansi and supported by the Ministry of Agriculture & Farmers' Welfare, Govt. of India.
 
 [Link to another page](https://cafri.icar.gov.in/).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+ 
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
