@@ -45,7 +45,7 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 # Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
 
 <center>
-<a href="mailto:cafriprograms@gmail.com"><img src="icons/Gmail.png" width="25" title="Email me"/></a>
+<a href="mailto:cafriprograms@gmail.com"><img src="https://github.com/ICAR-CAFRI/refreshercourseagroforestry.github.io/blob/master/assets/img/Gmail.png" width="25" title="Email me"/></a>
 </center>
 
 
