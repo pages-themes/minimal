@@ -9,15 +9,11 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 * Agroforestry Systems and its typologies
 * Diagnosis and Design for agroforestry 
 * Agroforestry systems for different agroclimatic & agroecological zones in India
-* Developing a hypothetical model for agroforestry
 * Tree-crop interaction studies 
 * Nutrient Cycling in agroforestry
-* Discussions on the model developed by individual participants
 * Fundamental statistics and experimental design
 * Designing agroforestry experiments and the statistical implications
-* Assignment: Designing a hypothetical agroforestry experiment
-* Remote sensing and GIS tools for Natural Resource Management
-* Modern tools involved in Agroforestry Decision Making
+* Remote sensing and GIS tools for Natural Resource Management and Modern tools involved in Agroforestry Decision Making
 * Multifunctional Agroforestry
 * Watershed based Agroforestry Intervention
 * Tree germplasm registration and variety releases (FGR -Forest Genetic resources, germplasm collection and its conservation in genebank)
@@ -28,9 +24,7 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 * Introduction to Modelling and Yield forecast using simulation models
 * Bioenergy and Agroforestry
 * Agroforestry and Voluntary carbon market
-* Principles of Agroforestry Extension 
-* Agroforestry Extension Framework
-* Modern Tools and techniques for agroforestry extension
+* Principles of Agroforestry Extension and Agroforestry Extension Framework
 * Science Communication
 * Technical Writing
 * Quality Planting Material Production for Agroforestry
@@ -41,7 +35,7 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 * Business Opportunities and Business incubation in Agroforestry
 * Value Chain Development in Agroforestry
 
-**To Download the lecture notes**: Please click here
+**To Download the lecture notes**: Please click here (https://sites.google.com/view/21daysrefreshercourse/home)
 
 
 Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
