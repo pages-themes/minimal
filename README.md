@@ -5,5 +5,4 @@
 
 ![Indian Society of Agroforestry in Collabration with ICAR-CAFRI](D:\Odrive\sureshramanans01 folder\cafri\Logo\Presentation1-removebg-preview.png)
 
-# [Download] (https://sites.google.com/view/21daysrefreshercourse/home).
 
