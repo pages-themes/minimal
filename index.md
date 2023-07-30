@@ -4,9 +4,7 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 
 [Link to another page](https://cafri.icar.gov.in/).
  
-# Header 1
-
-Lecture details
+# Lecture details
 
 <b>•	Introduction to agroforestry: Perspectives and Priorities</b>
 •	Agroforestry Systems and its typologies
@@ -43,5 +41,14 @@ Lecture details
 •	Drone Application in Agroforestry
 •	Business Opportunities and Business incubation in Agroforestry
 •	Value Chain Development in Agroforestry
+
+
+# Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
+
+<center>
+<a href="mailto:cafriprograms@gmail.com"><img src="icons/Gmail.png" width="25" title="Email me"/></a>
+<a href="http://cafri.icar.gov.in/"><img src="https://github.com/ICAR-CAFRI/refreshercourseagroforestry.github.io/blob/master/assets/img/18_X_12-_JPEG-removebg-preview.png" height = 70 title="ICAR-CAFRI"/></a>
+</center>
+
 
 
