@@ -35,8 +35,8 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 * Business Opportunities and Business incubation in Agroforestry
 * Value Chain Development in Agroforestry
 
-**To Download the lecture notes**: [Please click here] (https://sites.google.com/view/21daysrefreshercourse/home)
-
+**To Download the lecture notes**
++ [Here] (https://sites.google.com/view/21daysrefreshercourse/home). 
 
 Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
 
