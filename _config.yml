@@ -4,3 +4,18 @@ description: ISAF in collabration with ICAR-CAFRI
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+navbar:
+  left:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Lectures"
+      menu:
+        - text: "Introduction"
+          href: slides/introduction.html
+    - text: "Datasets"
+      href: tutorials/dat.zip
+    - text: "Software installation"
+     
+output: distill::distill_article
