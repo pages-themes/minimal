@@ -42,7 +42,7 @@ The Indian Society of Agroforestry (ISAF) is organising a refresher course for a
 * Value Chain Development in Agroforestry
 
 
-# Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
+Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
 
 <center>
 <a href="mailto:cafriprograms@gmail.com"><img src="https://github.com/ICAR-CAFRI/refreshercourseagroforestry.github.io/blob/master/assets/img/Gmail.png" width="25" title="Email me"/></a>
