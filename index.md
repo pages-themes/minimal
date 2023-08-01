@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Predict under-utilized sites and lock it for recommended period of time – Worked as a Data Scientist
 
 
-<center><img src="images/Telecommunication.jpeg"/></center>
+<center><img src="img/Telecommunication.jpeg"/></center>
 
 ## Header 2
 
