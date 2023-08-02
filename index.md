@@ -10,15 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Object Detection 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Deep neural networks for object detection yield by far the quickest and most accurate results for single and multiple object detection since CNNs are capable of automated learning with less manual engineering involved.
 
-## Header 2
+## Using yolov8
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+>Technically speaking, YOLOv8 is a group of convolutional neural network models, created and trained using the PyTorch framework. In addition, the YOLOv8 package provides a single Python API to work with all of them using the same methods. That is why, to use it, you need an environment to run Python code
 
 ### Header 3
 
