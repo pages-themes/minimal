@@ -1,123 +1,46 @@
----
-layout: default
----
+# About the Course
+The Indian Society of Agroforestry (ISAF) is organising a refresher course for academicians, government officials, Masters’ and Ph.D. students. The objective of the programme is to provide an overview of agroforestry as well as to provide insights on the recent research and development initiatives in the agroforestry. The program is being organized in association with ICAR-CAFRI, Jhansi and supported by the Ministry of Agriculture & Farmers' Welfare, Govt. of India.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Link to another page](https://cafri.icar.gov.in/).
+ 
+# Lecture details
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Introduction to agroforestry: Perspectives and Priorities
+* Agroforestry Systems and its typologies
+* Diagnosis and Design for agroforestry 
+* Agroforestry systems for different agroclimatic & agroecological zones in India
+* Tree-crop interaction studies 
+* Nutrient Cycling in agroforestry
+* Fundamental statistics and experimental design
+* Designing agroforestry experiments and the statistical implications
+* Remote sensing and GIS tools for Natural Resource Management and Modern tools involved in Agroforestry Decision Making
+* Multifunctional Agroforestry
+* Watershed based Agroforestry Intervention
+* Tree germplasm registration and variety releases (FGR -Forest Genetic resources, germplasm collection and its conservation in genebank)
+* Genomics in Agroforestry
+* Biodiversity conservation and agroforestry
+* Carbon sequestration and Ecosystem services from agroforestry
+* Allometric equations for Carbon sequestration studies
+* Introduction to Modelling and Yield forecast using simulation models
+* Bioenergy and Agroforestry
+* Agroforestry and Voluntary carbon market
+* Principles of Agroforestry Extension and Agroforestry Extension Framework
+* Science Communication
+* Technical Writing
+* Quality Planting Material Production for Agroforestry
+* Nursery Accreditation and Seedling Certification 
+* Plant Disease Management in Agroforestry
+* Insect and Pest Management in Agroforestry
+* Drone Application in Agroforestry
+* Business Opportunities and Business incubation in Agroforestry
+* Value Chain Development in Agroforestry
 
 
-### Definition lists can be used with HTML syntax.
+Created by Suresh Ramanan S.; A. Arunachalam and A.K. Handa
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<center>
+<a href="mailto:cafriprograms@gmail.com"><img src="https://github.com/ICAR-CAFRI/refreshercourseagroforestry.github.io/blob/master/assets/img/Gmail.png" width="25" title="Email me"/></a>
+</center>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
