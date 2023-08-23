@@ -10,17 +10,22 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Technical Program Manager
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Agile Certified Practitioner (PMI-ACP) with over 16 years of experience in Program Management, Project Management, Web Application Development and Leadership, seeking challenging opportunities in a dynamic organization to utilize skills and contribute to the company's success. Focused on delivering excellence in project management, web application development & team leadership across various industries.
 
-## Header 2
+## Profile Summary
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Experience in Program Manager, leaded a team of 40 members, including technical leads, and ensuring successful project delivery through effective collaboration with business leaders and stakeholders
+> Proficient in Agile methodologies, requirements analysis, milestone planning, release cycle planning, and overall estimations, while coaching development teams on self-organization and continuous improvement
+> Achieved success in the leading, development and implementation of a self-trading platform at TradeSocio India Pvt. Ltd., empowering clients to have full control over their investments and trade with ease
+> Expertise in managing overall application development lifecycle involving requirement analysis, risk management, system study, designing, architecture, testing, programming, defect management & documentation
+> Tools & Technical Purview: Jira Confluence, Zoho, Microservices Architecture, Bitbucket, CI / CD Pipeline, TDD, Web application Security, SQL and NOSQL Database, WebSocket, REST API using NodeJS, PHP, Python, HTML, CSS3, JavaScript, JQuery, AngularJS
 
-### Header 3
+### Significant Accomplishments
+- Shouldered with the additional responsibility of a Director in TradeSocio India Pvt. Ltd.
+- Bagged the Employee Fortnight Award at Grey Matter India Technologies Pvt. Ltd.
+- Engaged in continuous Improvement by identifying process Improvement, & implementation of best practices
 
 ```js
 // Javascript code with syntax highlighting.
