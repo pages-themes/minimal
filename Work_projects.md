@@ -3,6 +3,8 @@ layout: default
 --- 
 
 # My professional Work
+### [Hiscox](https://www.hiscox.co.uk/) - June 2023 - March 2024 - FTC
+-Software Developer 
 
 
 ### [PenTest Partners](https://www.pentestpartners.com/) - October 2022 - Febuary 2023 
@@ -22,14 +24,14 @@ layout: default
  - Reverse engineering and fuzz testing.
 
 
-### [Klevoya](https://klevoya.com)- March to July 2021
+### [Klevoya](https://klevoya.com)- March to July 2021 - FTC
 -Security researcher. 
 #### Research Title:  Deep Learning for  Seed Generation Against EOSIO smart contracts.
 - Research into AI driven fuzzing.
 - Performed Fuzz testing blockchain applications
 - Report Writing and documentation.
 
-### [Royal Holloway University of London](https://s3lab.isg.rhul.ac.uk/) - May 2020 to January 2021 
+### [Royal Holloway University of London](https://s3lab.isg.rhul.ac.uk/) - May 2020 to January 2021 - FTC
 -Research Assistant. 
 #### Contributor for the [FutureTPM](https://futuretpm.eu/index.php/home/technical-approach) project. I was working under Royal Holloway's S3 Lab.
 - R&D into [Kyber, Dilithium, Sphincs+ , Rainbow and BIKE](https://csrc.nist.gov/Projects/post-quantum-cryptography/post-quantum-cryptography-standardization/round-3-submissions)      
