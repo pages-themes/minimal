@@ -1,7 +1,28 @@
+# Data Science Portfolio
+---
+## Machine learning
+---
+### Telecomm Churn Case Study
+The Telecomm industry is highly competitive and customers actively switch from one operator to another, the telecommunications industry experiences an average of 15-25% annual churn rate and it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+Therefore in this project...
+
+A) Need to analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn, and identify the main indicators of churn.
+
+B) Need to define high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
+
+C) Use the usage-based definition to define churn.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/Pieush_Telecomm_Churn_Case_Study)
+
+<center><img src="assets/img/Churn_2.png"/></center>
+
+
+<!-- 
 ---
 layout: default
 ---
-
+*/
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -121,3 +142,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
