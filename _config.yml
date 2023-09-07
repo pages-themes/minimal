@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center">Pieush Vyas</p>
+logo: /assets/img/Pieush_27_03.png
+
+description: 
+  <p align="center"> 
+  <a href="https://www.linkedin.com/in/vyas-pieush/">LinkedIn</a> | 
+  <a href="https://github.com/Pieush-DS">gitHub</a>
+
+  <br>
+  Experienced data analyst with 17+ years in renewable energy & academia. Proficient in Excel, SQL, Python, Power BI, and Tableau.
+  <br>
+  </p>
+  
+show_downloads: false
 theme: jekyll-theme-minimal
