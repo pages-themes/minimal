@@ -94,10 +94,83 @@ Need to build a model that can classify customer complaints based on the product
 
 <center><img src="assets/img/ticket_2.png"/></center>
 
+---
+### Bike Sharing Analysis for Zulip (US-based startup)
 
+Domain: Transportation | Tech Stack: SQL Lite, Tableau
 
+Analyse about company’s geographical presence, trips between various locations, and average duration of trips.  
+Zulip is running under a loss and has decided to shut operations for three of its stations. You have to use the data provided to help Zulip decide which three stations should be shut down.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/Zulip%20Bike_Sharing_Analysis)
 
+<center><img src="assets/img/th.png"/></center>
+
+---
+### Uber Car Rental Issue 
+Domain: Transportation | Tech Stack: Python (EDA)
+
+Issues regarding cancellation and non-availability of cabs for traveling to and from the airport during early morning cab bookings. This may impact the revenue generation of the company and issues faced by the customers.
+
+Business Goal:
+Identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation of the Demand-Supply gap. So, the company can improve its revenue generation.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/PVyas_Uber_Car_Rental_Analysis)
+
+<center><img src="assets/img/Uer_car_2.png"/></center>
+
+---
+### Click Through Rate Prediction (ML Model selection)
+Domain: Digital Marketing | Tech Stack: Python (ML model selection)
+
+The objective is to predict whether the audience will click on an ad or not and thus help the marketing team answer ad placement-related questions.
+In online advertising, CTR is a very important metric for evaluating ad performance. CTR prediction systems are thus essential and widely used for sponsored search and real-time bidding.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_PVyas_CTR)
+
+<center><img src="assets/img/CTR_1.png"/></center>
+
+---
+### Finance and Risk Analytics for Portfolio Management (Capstone)
+Domain: Finance | Tech Stack: Python, Streamlit
+
+The industry of wealth management has seen a lot of growth. Individuals and businesses actively seek maximum returns. However, in many cases, they lack either the skills to identify the right investment opportunities or the time to find such opportunities. This challenge gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission: portfolio managers. A portfolio manager makes investment decisions and carries out other related activities on behalf of vested investors.	Help to understand stock's closing price, normalize closing price, daily returns, compare with other stocks, their distributions, and a few more parameters per the requirement of Portfolio Management. Provide consultation to two different investors, Mr. Patrick Jyenger and Mr. Peter Jyenger based on their requirements and financial objectives.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_PVyas_CTR)
+
+<center><img src="assets/img/portfolio_2.png"/></center>
+
+---
+### Multiclass Classification model of Skin Cancer Detection using CNN in Tensorflow
+Domain: Health | Tech Stack: Python (CNN in Tensorflow)
+
+To build a CNN-based model that can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_CNN_Skin_Cancer)
+
+<center><img src="assets/img/skin_1.png"/></center>
+
+---
+### Identify Entities in Healthcare for ‘BeHealthy’ using NER (Named Entity Recognition) 
+Domain: Health | Tech Stack: Python (NER)
+
+Companies like ‘BeHealthy’ are providing medical services, prescriptions, and online consultations and generating huge data day by day. Therefore, to find out the disease and its probable treatment from the given dataset and store it in the form of a table or a dictionary is necessary to make it easier for non-medical background people. After analyzing the problem need to build a custom NER to get the list of diseases and their treatment from the data set.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_NER)
+
+<center><img src="assets/img/health_1.png"/></center>
+
+---
+### Spanish to English Neural Machine Translation (NMT) Model building  
+Domain: Insurance | Tech Stack: Python (ML-NMT)
+
+Build an attention-based sequence-to-sequence model that can effectively understand the context of Spanish sentences and translate them into clear and coherent English sentences. The company aims to use this model to ensure seamless communication and provide coverage to the Spanish-speaking community in Mexico.
+Objectives: To explore the challenges of working with low-resource languages. Implement an encoder-decoder NMT model with attention.
+Terminal Objective: To build and train an NMT model that can accurately translate Spanish sentences to English and vice versa.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_Span_to_English_NMT)
+
+<center><img src="assets/img/lang_2.png"/></center>
 
 
 
