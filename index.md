@@ -131,7 +131,7 @@ In online advertising, CTR is a very important metric for evaluating ad performa
 <center><img src="assets/img/CTR_1.png"/></center>
 
 ---
-### Finance and Risk Analytics for Portfolio Management (Capstone)
+### Finance and Risk Analytics for Portfolio Management
 Domain: Finance | Tech Stack: Python, Streamlit
 
 The industry of wealth management has seen a lot of growth. Individuals and businesses actively seek maximum returns. However, in many cases, they lack either the skills to identify the right investment opportunities or the time to find such opportunities. This challenge gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission: portfolio managers. A portfolio manager makes investment decisions and carries out other related activities on behalf of vested investors.	Help to understand stock's closing price, normalize closing price, daily returns, compare with other stocks, their distributions, and a few more parameters per the requirement of Portfolio Management. Provide consultation to two different investors, Mr. Patrick Jyenger and Mr. Peter Jyenger based on their requirements and financial objectives.
@@ -172,8 +172,38 @@ Terminal Objective: To build and train an NMT model that can accurately translat
 
 <center><img src="assets/img/lang_2.png"/></center>
 
+---
+### Structured Problem-Solving using Framework  
+Tech Stack: Critical Thinking and Problem-Solving Framework 
 
+Perform structured problem-solving on some business problems. Need to do some research on four different case studies and find out the suitable framework for each. A suitable framework for each case study could be anyone/two or a combination of the below-mentioned frameworks.
 
+5 Whys, 5Ws, SPIN Selling Framework, Issue Tree Framework, 7Ps Framework
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/P_Vyas_Structured_Problem_Solving_Framework)
+
+<center><img src="assets/img/prb_1.png"/></center>
+
+---
+### Data Science Adoption Strategy for OLIST (A Brazilian e-commerce)
+Domain: e-Commerce, Tech Stack: Data Strategy 
+
+All companies are trying to adopt DS solutions and techniques for their business problems. The adoption of DS offers certain unique capabilities and opportunities that impact both sides of the balance sheet, increase revenue, and reduce costs. For some businesses (fleet management and OTT platforms) it is easy and for some other businesses (manufacturing and healthcare) it is very difficult.
+In this project need to take a strategic decision to leverage the power of analytics to improve its process and improve its product offering of OLIST is very important. Therefore, with the company’s small DS team, need to choose the right roadmap for Data Science adoption based on the size, feasibility, complexity, and value of the use case. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_DS_Strategy_OLIST/Olist%20data)
+
+<center><img src="assets/img/datastr_1.png"/></center>
+
+---
+### Data Insights and Privacy Assurance for 'Everyday Deals': Uncovering Customer Purchase Patterns and Securing Sensitive Information" 
+Domain: e-Commerce, Tech Stack: Python (ML), Data Ethics 
+
+Generate better product recommendations for existing customers reduce churn rate and increase company sales, revenue, and profit, and ultimately cover more markets in the country. Understand the buying patterns and trends of the existing customers and find out which customers are likely to churn out and why. As well as explore the necessary changes that need to be implemented to comply with ethical standards and safeguard customer information. The focus will be on removing or securing sensitive information, masking attributes, identifying non-sensitive and non-personal attributes, and implementing data anonymization techniques.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_Data_Ethics_Eeryday_Deal)
+
+<center><img src="assets/img/dataeth_1.png"/></center>
 
 
 <!-- 
