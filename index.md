@@ -165,7 +165,7 @@ Companies like ‘BeHealthy’ are providing medical services, prescriptions, an
 Domain: Insurance | Tech Stack: Python (ML-NMT)
 
 Build an attention-based sequence-to-sequence model that can effectively understand the context of Spanish sentences and translate them into clear and coherent English sentences. The company aims to use this model to ensure seamless communication and provide coverage to the Spanish-speaking community in Mexico.
-Objectives: To explore the challenges of working with low-resource languages. Implement an encoder-decoder NMT model with attention.
+To explore the challenges of working with low-resource languages. Implement an encoder-decoder NMT model with attention.
 Terminal Objective: To build and train an NMT model that can accurately translate Spanish sentences to English and vice versa.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_Span_to_English_NMT)
@@ -189,9 +189,10 @@ Perform structured problem-solving on some business problems. Need to do some re
 Domain: e-Commerce, Tech Stack: Data Strategy 
 
 All companies are trying to adopt DS solutions and techniques for their business problems. The adoption of DS offers certain unique capabilities and opportunities that impact both sides of the balance sheet, increase revenue, and reduce costs. For some businesses (fleet management and OTT platforms) it is easy and for some other businesses (manufacturing and healthcare) it is very difficult.
+
 In this project need to take a strategic decision to leverage the power of analytics to improve its process and improve its product offering of OLIST is very important. Therefore, with the company’s small DS team, need to choose the right roadmap for Data Science adoption based on the size, feasibility, complexity, and value of the use case. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_DS_Strategy_OLIST/Olist%20data)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Pieush-DS/DS_Projects/tree/main/UOA_P_Vyas_DS_Strategy_OLIST)
 
 <center><img src="assets/img/datastr_1.png"/></center>
 
@@ -231,7 +232,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+``` js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
