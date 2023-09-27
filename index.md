@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Lending Club Case Study
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A consumer finance company which specialises in lending various types of loans to urban customers has the following business requirement. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 
 ## Header 2
 
