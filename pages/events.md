@@ -10,6 +10,17 @@ permalink: /events
 
 <table>
 <tr>
+<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval2.png" alt="Lyon"/></a></td>
+<td valign="top">
+<strong><a href="/DMCM2024">8th Disease Maps Community Meeting</a></strong><br />
+25-27 March 2024, Belval, Luxembourg<br />
+The 8th community meeting is hosted by the Luxembourg Centre for Systems Biomedicine and organised together with the ELIXIR Systems Biology Community.
+</td>
+</tr>
+</table> 
+
+<table>
+<tr>
 <td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2023"><img src="../images/places/Maastricht1.jpg"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2023">7th Disease Maps Community Meeting</a></strong><br />
