@@ -10,7 +10,7 @@ permalink: /events2
 
 <table>
 <tr>
-<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval01.png" alt="Lyon"/></a></td>
+<td style="width: 105px;" valign="top"><a href="/DMCM2017_2nd"><img src="../images/places/Belval05.png" alt="Lyon"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2024">8th Disease Maps Community Meeting</a></strong><br />
 25-27 March 2024, Belval, Luxembourg<br />
