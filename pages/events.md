@@ -21,7 +21,7 @@ The 8th community meeting is hosted by the Luxembourg Centre for Systems Biomedi
 
 <table>
 <tr>
-<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2023"><img src="../images/places/Maastricht1.jpg"/></a></td>
+<td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2023"><img src="../images/places/Maastricht1.png"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2023">7th Disease Maps Community Meeting</a></strong><br />
 3-5 April 2023<br />
