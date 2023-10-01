@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+title: <p align="center"> Athira S Menon </p>
+logo: /assets/img/photo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/athira-s-menon">LinkedIn</a> |
+  <a href="https://github.com/athirasmenon">GitHub</a>
+  
+  <br>   
+  I'm working on Data Scienc,  Machine learning & Computer vision related problems.
+  Working in AI/ML domain for 4 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
