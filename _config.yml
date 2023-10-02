@@ -1,6 +1,11 @@
-title: Minimal theme
+title: <p align="center"> Mitali Seth </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+<br>   
+  I'm a software dovepoer at Walmart Globel tech India.
+  I am in Walmart for past 1 year, I am a backend developer,
+  learned different backend tools like spring Boot, Azure cloud etc.
+<br>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
