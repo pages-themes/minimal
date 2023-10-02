@@ -29,7 +29,12 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
         
 ## Project Leaders
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines.
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. 
+
+lexander Mazein, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
+Marek Ostaszewski, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
+Inna Kuperstein, ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France  
+Anna Niarakis, Associate Professor, University of Evry, University of Paris-Saclay, Evry, France  
 
 <table>
 <tr>
@@ -55,6 +60,11 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </table>    
 
 ## Principal Investigators
+
+**Charles Auffray**, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France  
+**Emmanuel Barillot**, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France  
+**Reinhard Schneider**, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
+
 
 <table>
 <tr>
