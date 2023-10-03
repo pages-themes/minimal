@@ -12,14 +12,17 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 
 We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.
         
-## Project Leaders
+## Project Leaders/Coordinators
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. 
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines.  
+
+New coordinators are invited by the current coordinators. They can be leaders of specific disease map projects, active contributors to the community development and the Disease Maps approach development, and organisers of the community meetings.  
 
 **Alexander Mazein**, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
 **Marek Ostaszewski**, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
 **Inna Kuperstein**, ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France  
 **Anna Niarakis**, Associate Professor, University of Evry, University of Paris-Saclay, Evry, France  
+**Martina Summer-Kutmon**, Assistant Professor at the Maastricht Centre for Systems Biology, Maastricht University, Netherlands
 
 <table>
 <tr>
@@ -50,7 +53,6 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 **Emmanuel Barillot**, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France  
 **Reinhard Schneider**, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
 
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/CharlesAuffray.jpg" width="120"/></p></td>
@@ -63,17 +65,6 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
 </tr>
 </table>
-
-
-<!--### Project Coordinators
-[Alexander Mazein](mailto:a.mazein@gmail.com), 
-[Marek Ostaszewski](mailto:marek.ostaszewski@uni.lu), 
-[Inna Kuperstein](mailto:inna.kuperstein@curie.fr), 
-[Andrei Zinoviev](mailto:andrei.zinovyev@curie.fr), 
-[Reinhard Schneider](mailto:reinhard.schneider@uni.lu), 
-[Emmanuel Barillot](mailto:emmanuel.barillot@curie.fr), 
-[Rudi Balling](mailto:rudi.balling@uni.lu), 
-[Charles Auffray](mailto:cauffray@eisbm.org)-->
 
         
 <!--### Scientific Advisory Board
