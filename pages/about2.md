@@ -29,7 +29,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AnnaNiarakis.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MartinaSummerKutmon.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MartinaKutmon.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
