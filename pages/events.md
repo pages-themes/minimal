@@ -24,7 +24,7 @@ The 8th community meeting is hosted by the Luxembourg Centre for Systems Biomedi
 <td style="width: 105px; height: 105 px" valign="top"><a href="/DMCM2023"><img src="../images/places/Maastricht1.png"/></a></td>
 <td valign="top">
 <strong><a href="/DMCM2023">7th Disease Maps Community Meeting</a></strong><br />
-3-5 April 2023, Maastricht, Germany<br />
+3-5 April 2023, Maastricht, Netherlands<br />
 The 2023 community meeting is organsied as a face-to-face event at Maastricht University in the Netherlands. The theme is "The Disease Maps Alliance: Bringing Experts Together".
 </td>
 </tr>
