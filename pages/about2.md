@@ -12,9 +12,9 @@ The Disease Maps Project as a large-scale community effort was initiated by the 
 
 We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.
         
-## Project Leaders/Coordinators
+## Project Leaders
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. New coordinators are invited by the current coordinators. They can be leaders of specific disease map projects, active contributors to the community development and the Disease Maps approach development, and organisers of the community meetings.  
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. New members are invited by the current members. They can be leaders of specific disease map projects, active contributors to the community development and the Disease Maps approach development, and organisers of the community meetings.  
 
 <table>
 <tr>
