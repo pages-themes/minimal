@@ -14,14 +14,12 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
         
 ## Project Leaders/Coordinators
 
-The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines.  
-
-New coordinators are invited by the current coordinators. They can be leaders of specific disease map projects, active contributors to the community development and the Disease Maps approach development, and organisers of the community meetings.  
+The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. New coordinators are invited by the current coordinators. They can be leaders of specific disease map projects, active contributors to the community development and the Disease Maps approach development, and organisers of the community meetings.  
 
 **Alexander Mazein**, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
 **Marek Ostaszewski**, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
 **Inna Kuperstein**, ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France  
-**Anna Niarakis**, Associate Professor, University of Evry, University of Paris-Saclay, Evry, France  
+**Anna Niarakis**, Professor, University of Toulouse III - Paul Sabatier, Toulouse, France  
 **Martina Summer-Kutmon**, Assistant Professor at the Maastricht Centre for Systems Biology, Maastricht University, Netherlands
 
 <table>
@@ -37,12 +35,12 @@ New coordinators are invited by the current coordinators. They can be leaders of
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AnnaNiarakis.jpg" width="120"/></p></td>
-<td style="width: 200px;"> </td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MartinaKutmon.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Associate Professor, University of Evry, University of Paris-Saclay, Evry, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Summer-Kutmon, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Assistant Professor, Maastricht Centre for Systems Biology, Maastricht University, Netherlands</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>    
