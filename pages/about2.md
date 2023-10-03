@@ -16,12 +16,6 @@ We are actively expanding the list of diseases covered by the Disease Maps Proje
 
 The leaders of the Disease Maps Project develop and refine the concept of disease maps, coordinate the activities of the community effort, help to initiate new maps, advise on best practices and offer guidelines. New coordinators are invited by the current coordinators. They can be leaders of specific disease map projects, active contributors to the community development and the Disease Maps approach development, and organisers of the community meetings.  
 
-**Alexander Mazein**, PhD, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
-**Marek Ostaszewski**, PhD, Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
-**Inna Kuperstein**, PhD, ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France  
-**Anna Niarakis**, PhD, HDR, Professor, University of Toulouse III - Paul Sabatier, Toulouse, France  
-**Martina Summer-Kutmon**, PhD, Assistant Professor at the Maastricht Centre for Systems Biology, Maastricht University, Netherlands
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
@@ -46,12 +40,6 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </table>    
 
 ## Principal Investigators
-
-**Charles Auffray**, PhD, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France  
-**Emmanuel Barillot**, PhD, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France  
-**Reinhard Schneider**, PhD, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
-**Olaf Wolkenhauer**, PhD, Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany
-**Joaquin Dopazo**, PhD, Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain
 
 <table>
 <tr>
