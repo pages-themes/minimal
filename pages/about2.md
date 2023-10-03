@@ -52,6 +52,8 @@ New coordinators are invited by the current coordinators. They can be leaders of
 **Charles Auffray**, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France  
 **Emmanuel Barillot**, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France  
 **Reinhard Schneider**, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
+**Olaf Wolkenhauer**, Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany
+**Joaquin Dopazo**, Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain
 
 <table>
 <tr>
