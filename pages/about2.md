@@ -39,7 +39,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD, HDR</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Summer-Kutmon, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Assistant Professor, Maastricht Centre for Systems Biology, Maastricht University, Netherlands</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
@@ -63,6 +63,16 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Charles Auffray, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Research Director at CNRS, Founding Director of the European Institute for Systems Biology and Medicine, Lyon, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Reinhard Schneider, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Emmanuel Barillot, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France</p></td>
+</tr>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/OlafWolkenhauer.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/JoaquinDopazo.jpg" width="120"/></p></td>
+<td style="width: 200px;"> </td>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Joaquin Dopazo, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>
 
