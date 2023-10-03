@@ -24,7 +24,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 **Anna Niarakis, PhD, HDR**, Professor, University of Toulouse III - Paul Sabatier, Toulouse, France  
 
-**Martina Summer-Kutmon, PhD**, Assistant Professor at the Maastricht Centre for Systems Biology, Maastricht University, Netherlands
+**Martina Summer-Kutmon, PhD**, Assistant Professor, Maastricht Centre for Systems Biology, Maastricht University, Netherlands
 
 ## Principal Investigators
 
@@ -32,7 +32,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 **Emmanuel Barillot, PhD**, Director of the U900 Institut Curie/INSERM/Ecole des Mines ParisTech, Paris, France  
 
-**Reinhard Schneider, PhD**, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
+**Reinhard Schneider, PhD**, Head of the Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg  
 
 **Olaf Wolkenhauer, PhD**, Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany  
 
