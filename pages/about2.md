@@ -30,7 +30,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AnnaNiarakis.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MartinaKutmon.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MattiHoch.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MattiHoch2.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD, HDR</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
