@@ -43,7 +43,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marina Esteban</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Data Science Researcher, Fundación Pública Andaluza Progreso y Salud, Sevilla, Spain</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marina Esteban, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Data Science Researcher, Fundación Pública Andaluza Progreso y Salud, Sevilla, Spain</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Vice Provost for Graduate Education, Clinical Operations and Research, St. John's University, New York, USA</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
