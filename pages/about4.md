@@ -43,8 +43,8 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marina Esteban, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">???</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">???</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marina Esteban</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Data Science Researcher, Fundación Pública Andaluza Progreso y Salud, Sevilla, Spain</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Vice Provost for Graduate Education, Clinical Operations and Research, St. John's University, New York, USA</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>    
@@ -70,7 +70,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Joaquin Dopazo, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Chris Evelo, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">???</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Chris Evelo, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Bioinformatics - BiGCaT, Maastricht University, Netherlands</p></td>
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/HenningHermjakob.jpg" width="120"/></p></td>
