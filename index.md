@@ -6,7 +6,7 @@ Fraud Detection
 
 ## Project 2
 
-TimeSeries model
+Github portfoli creation
 
 
 ### Large image
