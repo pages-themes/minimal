@@ -1,6 +1,33 @@
-title: Minimal theme
+title: <p align="center"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+•	Over 12 years and 11 months of experience in Performance Testing and Engineering in Web-based, Client-Server and Middleware Applications.
+•	Expert in finding bottlenecks (Mid-tier and DB) and doing root cause analysis. Once done filing bug and giving performance improvement recommendations in the bug, Tuning, like java performance tuning and DB performance tuning etc.
+•	Well versed in software testing principles, methodologies, and processes.
+•	Co-ordinate efficiently within teams and with business/application stake holders for performance test requirements, performance monitoring and results discussions.
+•	Expertise in Requirement gathering, Test planning, load model preparation, Test Environment Setup, Test Data Setup, and Defect Management.
+•	Specialized in performance testing tools such as HP LoadRunner 12.00/11.5/11.00/9.5, Soap UI and HP ALM Performance Center 12.00/11.00.
+•	Worked on various Single and Multiple Loadrunner protocols like Java over http, EJB (Enterprise JavaBeans), JavaVusers, Oracle NCA, Oracle Web Application 11i, RTE, SAP WEB, SAP GUI, Citrix ICA, webservices and Web (HTTP/HTML).
+•	Excellent functional knowledge and experience in performance testing of complex Middleware, SAP GUI, SAP WEB, Oracle, web-services, IVR and Citrix applications.
+•	Experience in understanding application performance requirements, developing performance engineering strategies, wide-ranging exposure to complete performance testing using the protocols and usage of performance monitoring tools.
+•	Have excellent experience on client side monitoring and server side monitoring during test execution with monitoring tools like CA Wily Introscope, Perfmon, Jconsole, JvisualVM, TDA and Site scope.
+•	Knowledge on performance tuning activities.
+•	Knowledge of programming languages like Python, Java, PL/SQL and UNIX.
+•	Have fundamental knowledge of Jmeter, silkperformer and VSTS Performance testing tools. 
+•	Strong problem solving skills and very good time management skills.
+•	Expertise in Test Management and Bug Tracking tools like Quality Center.
+•	Ability to master new technologies quickly.
+
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
