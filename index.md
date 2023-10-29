@@ -24,4 +24,5 @@ Skills Summary
 # upgrade-Course
 
 This Upgrad AI ML course repository forked from their account to complete the assignment
+
 [![View on Github]](https://github.com/mohitdb7/upgrade-Course)
