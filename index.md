@@ -2,6 +2,7 @@
 layout: default
 ---
 *Profession Summary*
+
 Possess a versatile background encompassing roles in both Service and Product-focused organizations, fostering a keen awareness of the contrasts and complexities inherent in handling external products versus proprietary ones.
 - 13+ years of exemplary experience in leadership, delivery management, and software development. 
 - Led large-scale iOS app creation from inception to global success with high performance for millions of users. 
