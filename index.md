@@ -1,26 +1,46 @@
-# Data Science Portfolio
+# Cloud Solution Architect Portfolio
 ---
-## Machine learning
+### Rakesh Rangadal
+#### Contact No: +91-9949876330
+#### E-mail ID: rakesh.rangadal@hotmail.com
+#### Total Exp: 14 Yrs.
 
-### Fraud Detection
+### CAREER OBJECTIVE
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+For 15+ years I have worked on AZURE, AWS Cloud Infrastructure design, configuration, and support with deep and wide technical knowledge of industry-used cloud technology, OS, physical HW, storage, and cluster management application management. Dedicated to revolutionizing cloud operating models for innovation, agility, and market advantage. Aiming to modernize client operations holistically across process, governance, skills, culture, tooling, and technology. Leveraging existing ITSM investments, I thrive in collaborative innovation, bringing market insights to shape lasting transformations. Proficient in cloud excellence, DevSecOps, and integrating business models for sustainable growth. Experienced in lean processes, intelligent automation, and cloud strategy for impactful change.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
-
-<center><img src="images/fraud_detection.jpg"/></center>
+Experienced in end-to-end Cloud Target Operating Model projects, with a deep understanding and practical application. Led successful complex IT transformations aligned with strategic goals, driving positive outcomes and fostering further opportunities.
 
 ---
-### Financial-Models-Numerical-Methods
+### Certification 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
+· AWS Certified DevOps Engineer – Professional Validation Number - 362NJHFBJFV11NWV
 
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
+· AWS Certified Developer – Associate Validation Number - 0ZRP974DLMVQ1NS0
 
-<center><img src="images/financial_modeling.jpg"/></center>
+· AWS Certified Solutions Architect – Professional Validation Number - 23TCWDXKJF1QQPSM
+
+· AWS Certified Solutions Architect – Associate Validation Number - V13FFLXKDEVE10C2
+
+. AWS Certified Security - Specialty - 8ZT5J0LKRBFQ1QS8
+
+. AWS Certified SysOps Administrator - Associate - GWGFBWJC1N41QS55
+
+· Certified Kubernetes Administrator – Certification ID - LF-7r9ji9h6s1
+
+. Certified Kubernetes Application Developer - LF-m56tl2qjeo
+
+. Microsoft Certified Azure Solutions Architect Expert - H699-8884
+
+. Microsoft Certified Azure Security Engineer Associate - H539-7670
+
+. Project Management Professional (PMP) - 2937244
+
+. Association of Enterprise Architects : TOGAF Standard -  69814581 
+
+
 
 ---
 ### LSTM Neural Network for Time Series Prediction
