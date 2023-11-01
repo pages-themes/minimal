@@ -1,6 +1,12 @@
-title: Minimal theme
+title: <p align="center"> Vinod Kumar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vinod19/">LinkedIn</a> |
+  <a href="https://github.com/vvinod64">GitHub</a>
+  
+  <br>   
+ With 15 years of experience in Software Development and Design, I have had the opportunity to work with a diverse range of technologies, including Java, Scala, Akka, AWS, Web Services, Elastic Search, and Hybris. I'm well-versed in both Object-Oriented Programming and Functional Programming paradigms. Additionally, I have gained exposure to Big Data technologies, such as Apache Spark and Cassandra. I am passionate about creating robust, high-quality software systems and have a strong enthusiasm for continuous learning, keeping up with the latest in technology trends
+  <br>
+  </p>
 theme: jekyll-theme-minimal
