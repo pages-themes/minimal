@@ -17,7 +17,7 @@ permalink: /syscid/
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Funding:** European Union’s Horizon 2020 [SYSCID No 733100](https://cordis.europa.eu/project/id/733100), [SYSCID](https://syscid.eu/)  
-**How to cite:** Acencio, et al. Front. Immunol. 2023. [doi.org/10.3389/fimmu.2023.1257321].   
+**How to cite:** Acencio et al. Front. Immunol. 2023. [doi.org/10.3389/fimmu.2023.1257321](https://doi.org/10.3389/fimmu.2023.1257321).   
 **Contact:** Marcio Luis Acencio, University of Luxembourg, Luxembourg, marcio.acencio(at)uni.lu  
 
 ### Description
