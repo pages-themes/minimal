@@ -204,9 +204,6 @@ The following information cards show projects focused on specific diseases.
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
         <strong><a href="../steatosis" target="_blank">Liver Steatosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
