@@ -12,7 +12,7 @@ permalink: /cholestasis/
 [MESH:D002779](https://meshb.nlm.nih.gov/record/ui?ui=D002779), 
 [DOID:13580](https://disease-ontology.org/?id=DOID:13580), 
 [HP:0001396](http://purl.obolibrary.org/obo/HP_0001396)  
-**Synonyms:** Bile Duct Obstruction, Biliary Stasis  
+**Synonyms:** Bile duct obstruction, biliary stasis  
 **Sustainable support:**  [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/doc/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
