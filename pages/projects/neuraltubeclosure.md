@@ -8,7 +8,7 @@ permalink: /neuraltubeclosure/
 
 ## Neural Tube Closure Physiological Map
 
-**Development status:** Active development for the second version, the first version is complete and published \
+**Development status:** Active development, the first version is complete and published \
 **Umbrella project:** [ONTOX project](https://ontox-project.eu/) \
 **Online access and exploration:** <https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1> \
 **Disease IDs:** [D009436](https://id.nlm.nih.gov/mesh/D009436.html), [MONDO:0018075](https://id.nlm.nih.gov/mesh/D009436.html) \
