@@ -15,7 +15,7 @@ permalink: /cholestasis/
 **Synonyms:** Bile Duct Obstruction, Biliary Stasis  
 **Sustainable support:**  [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/doc/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
-**Construction tool:** CellDesigner  
+**Construction tool:** [CellDesigner](https://www.celldesigner.org/)  
 **Funding:** European Union’s Horizon 2020 [ONTOX No 963845](https://doi.org/10.3030/963845)  
 **Contact:** Luiz Ladeira, University of Liège, lcladeira(at)uliege.be  
 
