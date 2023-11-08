@@ -8,15 +8,15 @@ permalink: /steatosis/
 
 ## Liver Lipid Metabolism Physiological Map
 
-**Development status:** Active development**\
-Umbrella project:** <https://ontox-project.eu/>\
+**Development status:** Active development\
+**Umbrella project:** [ONTOX project](https://ontox-project.eu/) \
 **Disease IDs:** [D005234](https://meshb.nlm.nih.gov/record/ui?ui=D005234), [DOID:9452](https://disease-ontology.org/?id=DOID:12894), [HP:0001397](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FHP_0001397)\
 **Synonyms:** Fatty liver, liver steatosis, visceral steatosis\
-**Sustainable support:**  [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
+**Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
 **Publication:** Manuscript in preparation\
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)\
-**Funding:** EU Horizon 2020 [ONTOX project](https://ontox-project.eu/) (grant agreement No 963845).\
+**Funding:** EU Horizon 2020 [ONTOX project](https://ontox-project.eu/) (grant agreement No 963845)\
 **Contact:** Luiz Ladeira, University of Liège, lcladeira(at)uliege.be
 
 ### Description

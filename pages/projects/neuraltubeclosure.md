@@ -8,17 +8,17 @@ permalink: /neuraltubeclosure/
 
 ## Neural Tube Closure Physiological Map
 
-**Development status:** Active development for the second version, the first version is complete and published**\
-Umbrella project:** <https://ontox-project.eu/>\
-**Online access and exploration:** <https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1>\
-**Disease IDs:** [D009436](https://id.nlm.nih.gov/mesh/D009436.html), [MONDO:0018075\
-](https://id.nlm.nih.gov/mesh/D009436.html)**Synonyms:** Neural tube defects, spina bifida, anencephaly\
-**Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform\
-](https://minerva.pages.uni.lu/)**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License**\
-**](https://creativecommons.org/licenses/by/4.0/)**Publication:** Manuscript available for the first version, in preparation for the second version.**\
-Construction tool:** [CellDesigner\
-](https://www.celldesigner.org/)**How to cite:** Heusinkveld, et al. Reproductive Toxicology. 2021. <https://doi.org/10.1016/j.reprotox.2020.09.002>\
-**Funding:** EU Horizon 2020 [ONTOX project](https://ontox-project.eu/) (grant agreement No 963845).\
+**Development status:** Active development for the second version, the first version is complete and published \
+**Umbrella project:** [ONTOX project](https://ontox-project.eu/) \
+**Online access and exploration:** <https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1> \
+**Disease IDs:** [D009436](https://id.nlm.nih.gov/mesh/D009436.html), [MONDO:0018075](https://id.nlm.nih.gov/mesh/D009436.html) \
+**Synonyms:** Neural tube defects, spina bifida, anencephaly \
+**Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/) \
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/) \
+**Publication:** Manuscript available for the first version, in preparation for the second version.**\
+Construction tool:[CellDesigner](https://www.celldesigner.org/) \
+**How to cite:** Heusinkveld, et al. Reproductive Toxicology. 2021. <https://doi.org/10.1016/j.reprotox.2020.09.002>\
+**Funding:** EU Horizon 2020 [ONTOX project](https://ontox-project.eu/) (grant agreement No 963845)\
 **Contact:** Alessio Gamba, University of Liège, agamba(at)uliege.be
 
 ### Description
