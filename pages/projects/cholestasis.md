@@ -30,4 +30,4 @@ Vinken M, Benfenati E, Busquet F, Castell J, Clevert DA, de Kok TM, Dirven H, Fr
 
 ### Funding
 
-The [ONTOX](https://ontox-project.eu/) project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 963845.
+The [ONTOX](https://ontox-project.eu/) project is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement [No 963845](https://doi.org/10.3030/963845).
