@@ -7,14 +7,13 @@ permalink: /cholestasis/
 # Cholestasis
 ## Liver Bile Secretion Physiological Map
 
-**Homepage:** [https://ontox-project.eu](https://ontox-project.eu/)  
 **Development status:** Active development  
 **Disease IDs:** 
 [MESH:D002779](https://meshb.nlm.nih.gov/record/ui?ui=D002779), 
 [DOID:13580](https://disease-ontology.org/?id=DOID:13580), 
 [HP:0001396](http://purl.obolibrary.org/obo/HP_0001396)  
 **Synonyms:** Bile Duct Obstruction, Biliary Stasis  
-**Sustainable support:** Biomechanics Research Unit, MINERVA Platform  
+**Sustainable support:**  [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/doc/)  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)  
 **Construction tool:** CellDesigner  
 **Funding:** European Union’s Horizon 2020 [ONTOX No 963845](https://doi.org/10.3030/963845)  
