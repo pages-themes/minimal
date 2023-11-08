@@ -17,7 +17,7 @@ permalink: /neuraltubeclosure/
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/) \
 **Publication:** Manuscript available for the first version, in preparation for the second version. \
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/) \
-**How to cite:** Heusinkveld, et al. Reproductive Toxicology. 2021. <https://doi.org/10.1016/j.reprotox.2020.09.002> \
+**How to cite:** Heusinkveld, et al. Reprod. Toxicol. 2021. <https://doi.org/10.1016/j.reprotox.2020.09.002> \
 **Funding:** EU Horizon 2020 [ONTOX project](https://ontox-project.eu/) (grant agreement No 963845) \
 **Contact:** Alessio Gamba, University of Liège, agamba(at)uliege.be
 
