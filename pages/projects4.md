@@ -190,11 +190,6 @@ The following information cards show projects focused on specific diseases.
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
         </p></td>
 </tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
@@ -202,6 +197,23 @@ The following information cards show projects focused on specific diseases.
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Psoriasis Map<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../steatosis" target="_blank">Liver steatosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Liver Lipid Metabolism Physiological Map<br />
+        Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
+        </p></td>
+</tr>
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../cholestasis" target="_blank">Cholestasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Liver Bile Secretion Physiological Map<br />
+        Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
@@ -239,20 +251,36 @@ This section includes projects that focus on shared mechanisms of two or more di
         <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../nephron" target="_blank">Kidney crystallopathy and tubular necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: ImmUniverse Map<br />
-        Diseases: ulcerative colitis, atopic dermatitis<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+        Resource: Nephron Physiological Map<br />
+        Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
+        </p></td>
+<td style="width: 0px;"> </td>
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Neural Tube Closure Physiological Map<br />
+        Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
+        </p></td>
+</tr>
+        <tr style="height: 20px;">
+<tr style="height:160px;">
+<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
+        <p style="margin:10px; font-size:18px;">
+        <strong><a href="../braindevelopment" target="_blank">Cognitive Function Defects During Development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <p style="line-height:160%; margin:10px; font-size:13px;">
+        Resource: Brain Development Physiological Map<br />
+        Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
 </tr>
+        
 </table>
 
 <br />
