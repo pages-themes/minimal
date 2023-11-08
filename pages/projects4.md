@@ -306,10 +306,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <tr style="height: 20px;">
 <td style="width: 320px;"> </td>
 </tr>
-</table>
-        
-</table>
-
+</table> 
 <br />
 
 ### Adverse outcome maps for immunotoxicology
