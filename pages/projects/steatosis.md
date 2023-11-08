@@ -4,7 +4,7 @@ layout: default
 permalink: /steatosis/
 ---
 
-# Steatosis
+# Liver Steatosis
 
 ## Liver Lipid Metabolism Physiological Map
 
