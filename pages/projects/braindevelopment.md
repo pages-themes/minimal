@@ -1,18 +1,19 @@
 ---
-title: Steatosis
+title: Cognitive Function Defects During Development
 layout: default
-permalink: /steatosis/
+permalink: /braindevelopment/
 ---
 
-# Steatosis
+# Cognitive Function Defects During Development
 
-## Liver Lipid Metabolism Physiological Map
+## Brain Development Physiological Map
 
 **Development status:** Active development**\
-Umbrella project:** <https://ontox-project.eu/>\
-**Disease IDs:** [D005234](https://meshb.nlm.nih.gov/record/ui?ui=D005234), [DOID:9452](https://disease-ontology.org/?id=DOID:12894), [HP:0001397](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FHP_0001397)\
-**Synonyms:** Fatty liver, liver steatosis, visceral steatosis\
-**Sustainable support:**  [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
+Umbrella project:** [ONTOX project](https://ontox-project.eu/)\
+**Disease IDs:** [D060825](https://meshb.nlm.nih.gov/record/ui?ui=D060825), [MONDO:0002039](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMONDO_0002039)\
+**Disease name:** Cognitive function defects\
+**Synonyms:** Cognitive disorder, cognitive impairments\
+**Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
 **Publication:** Manuscript in preparation\
 **Construction tool:** [CellDesigner](https://www.celldesigner.org/)\
@@ -21,7 +22,7 @@ Umbrella project:** <https://ontox-project.eu/>\
 
 ### Description
 
-The Liver Lipid Metabolism Physiological Map is constructed through the curation of literature evidence and pathway resources. A Physiological Map is a type of Disease Map focused on the underlying undisturbed physiological processes. This work is performed in close collaboration with domain experts. This map is being developed to study chemical-induced steatosis in the [ONTOX](https://ontox-project.eu/) project.
+The Brain Development Physiological Map is constructed through the curation of literature evidence and pathway resources. A Physiological Map is a type of Disease Map focused on the underlying undisturbed physiological processes. This work is performed in close collaboration with domain experts. This map is being developed to study chemical-induced cognitive function defects during development in the [ONTOX](https://ontox-project.eu/) project.
 
 ### References
 
