@@ -22,7 +22,13 @@ permalink: /syscid/
 
 ### Description
 
-The SYSCID Map is developed within the IMI2 [SYSCID](https://syscid.eu/) project and focuses on inflammatory bowel disease (IBD), rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE).
+Chronic inflammatory diseases (CIDs), including inflammatory bowel disease (IBD), rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE) are a group of incurable immune system disorders of unclear aetiology characterised by a persistent inflammation that ultimately cause damage in target tissues and organs. Currently, there are no curative treatment options for CIDs and available targeted treatments are only beneficial in a subset of patients.
+
+CIDs, as well as other diseases, emerge from a complex network of causal interactions between proteins, small chemical compounds, environmental factors and different types of cells. So, the limited benefit of the targeted treatments as mentioned above could be a consequence of the lack of knowledge concerning how the CIDs complex network is structured. If such structure is at least partially known, then it would be possible to understand the molecular mechanisms of CIDs and maybe indicate new potential targets to achieve better clinical responses. 
+
+To uncover at least a biologically significant part of the structure of the CIDs complex network, we constructed the SYSCID map, a network of mechanistically resolved causal interactions related to IBD, RA and SLE. The SYSCID map was built via manual curation of domain experts-suggested scientifi articles and be used as an interactive, graphically guided review of IBD, RA and SLE molecular pathogenesis and a hypothesis-generating resource for new discoveries when integrated with omics data (please check the publication for more details). 
+
+The SYSCID Map was developed within the IMI2 [SYSCID](https://syscid.eu/) project and focuses on inflammatory bowel disease (IBD), rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE).
 
 ### Fundings
 
