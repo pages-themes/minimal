@@ -29,8 +29,6 @@ Project progress status:
 </tr>
 </table>
 
-<br />
-
 ### Disease maps for specific diseases
 
 The following information cards show projects focused on specific diseases.
