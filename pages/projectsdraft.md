@@ -64,20 +64,6 @@ Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK | Publ
 </td>
 </tr>
 </table>
-
-
-**[COVID-19](../covid-19)** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
-Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: PubMed
-
-**[COVID-19](../covid-19)** [&#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
-Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: PubMed
-
-**[COVID-19](../covid-19)** [&#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
-**Resource:** COVID-19 Disease Map **Contact:** Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg **Publications:** PubMed
-
-**Parkinson's disease** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
-Resource: [Parkinson's Disease Map](https://pdmap.uni.lu) Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714)
-
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
