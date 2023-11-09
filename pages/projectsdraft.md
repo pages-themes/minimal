@@ -65,9 +65,9 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 <td style="width: 0px;"> 
 </td>
 <td style="width: 440px; font-size:13px;"> 
-Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+Resource: Atherosclerosis Map <br />
+Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK <br />
+Publications: PubMed | Model: BioModels
 </td>
 </tr>
 </table>
