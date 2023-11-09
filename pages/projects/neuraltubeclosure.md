@@ -1,16 +1,16 @@
 ---
-title: Neural Tube Closure Defects
+title: Neural tube closure defects
 layout: default
 permalink: /neuraltubeclosure/
 ---
 
-# Neural Tube Closure Defects
+# Neural tube closure defects
 
 ## Neural Tube Closure Physiological Map
 
 **Development status:** Active development, the first version is complete and published \
 **Umbrella project:** [ONTOX project](https://ontox-project.eu/) \
-**Online access and exploration:** <https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1> \
+**Online access and exploration:** [https://ontox.elixir-luxembourg.org/minerva...](https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1) \
 **Disease IDs:** [D009436](https://id.nlm.nih.gov/mesh/D009436.html), [MONDO:0018075](https://id.nlm.nih.gov/mesh/D009436.html) \
 **Synonyms:** Neural tube defects, spina bifida, anencephaly \
 **Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/) \
