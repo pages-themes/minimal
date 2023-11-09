@@ -225,11 +225,8 @@ The following information cards show projects focused on specific diseases.
         Resource: Liver Bile Secretion Physiological Map<br />
         Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
         </p></td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
 </tr>
 </table>
-
 <br />
 
 ### Cross-disease projects
@@ -302,9 +299,6 @@ This section includes projects that focus on shared mechanisms of two or more di
         Resource: Brain Development Physiological Map<br />
         Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
         </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
 </tr>
 </table> 
 <br />
