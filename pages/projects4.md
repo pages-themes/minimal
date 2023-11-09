@@ -236,8 +236,6 @@ The following information cards show projects focused on specific diseases.
 
 This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
 
-<!--This section includes projects that focus on comparing and studying disiease mechanisms of two or more diseases, identifying common and distinct features in related pathologies.-->
-
 <table>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
@@ -256,9 +254,9 @@ This section includes projects that focus on shared mechanisms of two or more di
         Resource: SYSCID Map<br />
         Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
         Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication:  <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">Frontiers in Immunology</a>
+        Publication:  <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">Frontiers in Immunology</a></p></td>
 </tr>
-        <tr style="height: 20px;">
+<tr style="height: 20px;">
 <td style="width: 320px;"> </td>
 <td style="width: 0px;"> </td>
 <td style="width: 320px;"> </td>
