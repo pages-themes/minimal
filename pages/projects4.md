@@ -206,7 +206,7 @@ The following information cards show projects focused on specific diseases.
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../steatosis" target="_blank">Liver Steatosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../steatosis" target="_blank">Liver steatosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Liver Lipid Metabolism Physiological Map<br />
         Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
@@ -275,7 +275,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../neuraltubeclosure" target="_blank">Neural Tube Closure Defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong></p>
+        <strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Neural Tube Closure Physiological Map<br />
         Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
@@ -289,7 +289,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../nephron" target="_blank">Kidney Crystallopathy and Tubular Necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../nephron" target="_blank">Kidney crystallopathy and tubular necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Nephron Physiological Map<br />
         Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
@@ -297,7 +297,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 <td style="width: 0px;"> </td>
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
-        <strong><a href="../braindevelopment" target="_blank">Cognitive Function Defects During Development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
+        <strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Brain Development Physiological Map<br />
         Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
