@@ -277,6 +277,7 @@ This section includes projects that focus on shared mechanisms of two or more di
         <p style="line-height:160%; margin:10px; font-size:13px;">
         Resource: Neural Tube Closure Physiological Map<br />
         Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
+        Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank">PubMed</a>
         </p></td>
 </tr>
 <tr style="height: 20px;">
