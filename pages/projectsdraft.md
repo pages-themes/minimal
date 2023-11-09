@@ -35,7 +35,7 @@ The following information cards show projects focused on specific diseases.
 
 <table>
 <tr>
-<td style="width: 200px; font-size:16px;"> 
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="width: 0px;"> 
@@ -47,12 +47,12 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 </tr>
 <tr>
-<td style="width: 200px; font-size:16px;"> 
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="width: 0px;"> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="width: 440px; font-size:15px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
 Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
