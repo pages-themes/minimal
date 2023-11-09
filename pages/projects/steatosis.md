@@ -10,7 +10,7 @@ permalink: /steatosis/
 
 **Development status:** Active development\
 **Umbrella project:** [ONTOX project](https://ontox-project.eu/) \
-**Disease IDs:** [D005234](https://meshb.nlm.nih.gov/record/ui?ui=D005234), [DOID:9452](https://disease-ontology.org/?id=DOID:12894), [HP:0001397](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FHP_0001397)\
+**Disease IDs:** [D005234](https://meshb.nlm.nih.gov/record/ui?ui=D005234), [DOID:9452](https://disease-ontology.org/?id=DOID:9452), [HP:0001397](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FHP_0001397)\
 **Synonyms:** Fatty liver, liver steatosis, visceral steatosis\
 **Sustainable support:** [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/), [MINERVA Platform](https://minerva.pages.uni.lu/)\
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)\
