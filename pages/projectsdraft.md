@@ -66,8 +66,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: Atherosclerosis Map <br />
-Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK <br />
-Publications: PubMed | Model: BioModels
+Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK | Publications: PubMed | Model: BioModels
 </td>
 </tr>
 </table>
