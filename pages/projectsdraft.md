@@ -55,7 +55,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 </tr>
 <tr>
-<td style="width: 200px; font-size:16px;"> 
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="width: 440px; font-size:13px;"> 
