@@ -35,8 +35,16 @@ Project progress status:
 
 The following information cards show projects focused on specific diseases.
 
-#### COVID-19 &#9733;&#9733;&#9733;&#9733;&#9733;
+#### COVID-19 &#160; &#9733;&#9733;&#9733;&#9733;&#9733;
 Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg
+
+**COVID-19** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
+Resource: COVID-19 Disease Map | Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg | Publications: PubMed
+
+**Parkinson's disease** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
+Resource: [Parkinson's Disease Map](https://pdmap.uni.lu) | Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg | Publications: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714)
+
+
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
 
