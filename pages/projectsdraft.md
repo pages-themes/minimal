@@ -47,7 +47,7 @@ Resource: [Parkinson's Disease Map](https://pdmap.uni.lu) Contact: Marek Ostasze
 
 <table>
 <tr>
-<td style="width: 200px; font-size:18px;"> 
+<td style="width: 200px; font-size:16px;"> 
 <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="width: 0px;"> 
@@ -59,8 +59,8 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 </tr>
 <tr>
-<td style="width: 200px; font-size:18px;"> 
-<strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<td style="width: 200px; font-size:16px;"> 
+<strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="width: 0px;"> 
 </td>
