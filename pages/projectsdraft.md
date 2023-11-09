@@ -45,6 +45,22 @@ Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembo
 **Parkinson's disease** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
 Resource: [Parkinson's Disease Map](https://pdmap.uni.lu) Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714)
 
+<table>
+<tr style="height:160px;">
+<td>
+<strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong>
+</td>
+<td style="width: 0px;"> 
+</td>
+<p style="margin:10px; font-size:18px;">
+<strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
+<p style="line-height:160%; margin:10px; font-size:13px;">
+Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+</p></td>
+</tr>
+</table>
 
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
