@@ -38,7 +38,8 @@ The following information cards show projects focused on specific diseases.
 #### COVID-19 &#160; &#9733;&#9733;&#9733;&#9733;&#9733;
 Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg
 
-**COVID-19** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
+**[COVID-19](../covid-19)** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
+[**COVID-19** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
 Resource: COVID-19 Disease Map | Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg | Publications: PubMed
 
 **Parkinson's disease** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
