@@ -33,18 +33,6 @@ Project progress status:
 
 The following information cards show projects focused on specific diseases.
 
-**[COVID-19](../covid-19)** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
-Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: PubMed
-
-**[COVID-19](../covid-19)** [&#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
-Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: PubMed
-
-**[COVID-19](../covid-19)** [&#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
-**Resource:** COVID-19 Disease Map **Contact:** Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg **Publications:** PubMed
-
-**Parkinson's disease** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
-Resource: [Parkinson's Disease Map](https://pdmap.uni.lu) Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714)
-
 <table>
 <tr>
 <td style="width: 200px; font-size:16px;"> 
@@ -70,7 +58,32 @@ Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
 </td>
 </tr>
+<tr>
+<td style="width: 200px; font-size:16px;"> 
+<strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+</td>
+<td style="width: 0px;"> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
+Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+</td>
+</tr>
 </table>
+
+
+**[COVID-19](../covid-19)** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
+Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: PubMed
+
+**[COVID-19](../covid-19)** [&#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
+Resource: COVID-19 Disease Map Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: PubMed
+
+**[COVID-19](../covid-19)** [&#160; &#9733;&#9733;&#9733;&#9733;&#9733;](../covid-19)  
+**Resource:** COVID-19 Disease Map **Contact:** Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg **Publications:** PubMed
+
+**Parkinson's disease** &#160; &#9733;&#9733;&#9733;&#9733;&#9733;  
+Resource: [Parkinson's Disease Map](https://pdmap.uni.lu) Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg Publications: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714)
 
                                                                                                     
 <a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
