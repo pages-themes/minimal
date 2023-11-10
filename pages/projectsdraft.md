@@ -31,7 +31,7 @@ Project progress status:
 
 ### Disease maps for specific diseases
 
-This section lists projects focused on specific diseases. It is organised according to the projects' progress status.
+This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
 <table>
 <tr>
