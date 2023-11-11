@@ -40,7 +40,7 @@ This section lists projects focused on specific diseases. The list is organised 
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
 </td>
 </tr>
@@ -51,7 +51,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
-Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
 </td>
 </tr>
@@ -73,7 +73,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
-Contact: Anna Niarakis, Paul Sabatier University - Toulouse III, Toulouse, France<br />
+Contact: Anna Niarakis, Paul Sabatier University - Toulouse III, France<br />
 Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank">DOI</a>
 </td>
 </tr>
@@ -84,7 +84,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
-Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
+Contact: Alexander Mazein, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
 </td>
 </tr>
