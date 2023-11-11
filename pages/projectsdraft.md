@@ -113,17 +113,6 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../sarcopenia" target="_blank">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
-</td>
-<td style="font-size:13px;"> 
-Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
-Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
-Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
-</td>
-</tr>
-
-<tr>
-<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
@@ -131,7 +120,6 @@ Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">Car
 Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur, University of Luxembourg | Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/34762513/" target="_blank">PubMed</a>
 </td>
 </tr>
-
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
