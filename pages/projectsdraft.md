@@ -128,7 +128,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
-Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg <br /> | Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/34762513/" target="_blank">PubMed</a>
+Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur, University of Luxembourg | Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/34762513/" target="_blank">PubMed</a>
 </td>
 </tr>
 
