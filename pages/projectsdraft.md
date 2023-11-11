@@ -82,7 +82,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../asthma" target="_blank">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<strong><a href="../asthma" target="_blank" id="Asthma">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
