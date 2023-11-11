@@ -35,10 +35,10 @@ This section lists projects focused on specific diseases. The list is organised 
 
 <table>
 <tr>
-<td style="width: 200px; font-size:14px;"> 
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../covid-19" target="_blank">COVID-19 <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:12px;"> 
+<td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
 Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
@@ -46,10 +46,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:14px;"> 
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:12px;"> 
+<td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
 Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
@@ -57,10 +57,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:14px;"> 
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:12px;"> 
+<td style="width: 440px; font-size:13px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
 Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
