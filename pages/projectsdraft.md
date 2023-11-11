@@ -46,6 +46,32 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 </tr>
 <tr>
 <td style="width: 200px; font-size:15px;"> 
+<strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+</td>
+</tr>
+<tr>
+<td style="width: 200px; font-size:15px;"> 
+<strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+</td>
+</tr>
+
+
+
+
+
+        
+<tr>
+<td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="width: 440px; font-size:13px;"> 
@@ -66,25 +92,12 @@ Publications: PubMed | Model: BioModels
 </tr>
 </table>
                                                                                                     
-<a href="/covid-19/" target="_blank"><img src="/images/projects/covid-19-stars3.jpg" width="340px"/></a>
+
+
+
 
 <table>
-<!--<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#d64a42;">
-        <p style="margin:10px; font-size:16px;">
-        <strong><a href="../covid-19" target="_blank"><font color="white">COVID-19</font></a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        <font color="white">Resource:</font> <a href="https://covid.pages.uni.lu" target="_blank"><strong><font color="white">COVID-19 Disease Map</font></strong></a><br />
-        <font color="white">Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br /><br />OPEN PROJECT</font>
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px;"> </td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>-->
+
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
         <p style="margin:10px; font-size:18px;">
