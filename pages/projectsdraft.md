@@ -78,29 +78,41 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 </td>
 </tr>
 
-
-
-
-
-        
 <tr>
 <td style="width: 200px; font-size:15px;"> 
-<strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../asthma" target="_blank">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="width: 440px; font-size:13px;"> 
-Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
+Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
+Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
 </td>
 </tr>
+
 <tr>
 <td style="width: 200px; font-size:15px;"> 
-<strong><a href="../parkinsons" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../sarcopenia" target="_blank">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="width: 440px; font-size:13px;"> 
-Resource: Atherosclerosis Map <br />
-Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK <br />
-Publications: PubMed | Model: BioModels
+Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
+Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
+</td>
+</tr>
+
+
+
+
+
+<tr>
+<td style="width: 200px; font-size:15px;"> 
+<strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: Atherosclerosis Map<br />
+Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a> | 
+Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
 </td>
 </tr>
 </table>
@@ -111,55 +123,6 @@ Publications: PubMed | Model: BioModels
 
 <table>
 
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://pdmap.uni.lu" target="_blank">Parkinson's Disease Map</a><br />
-        Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=23832570+27441714" target="_blank">PubMed</a>
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#C7D6E6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
-        Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
-        <!--Contact: <a href="mailto:anna.niaraki@univ-evry.fr">Anna Niarakis</a>, University of Evry Val d’Essonne, Evry, France<br />-->
-        Contact: Anna Niarakis, University of Evry, University of Paris-Saclay, Evry, France<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29951575" target="_blank">PubMed</a><br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../asthma" target="_blank">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
-        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
         <p style="margin:10px; font-size:18px;">
