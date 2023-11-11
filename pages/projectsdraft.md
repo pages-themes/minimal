@@ -35,10 +35,10 @@ This section lists projects focused on specific diseases. The list is organised 
 
 <table>
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 200px; font-size:14px;"> 
 <strong><a href="../covid-19" target="_blank">COVID-19 <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="width: 440px; font-size:12px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
 Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
