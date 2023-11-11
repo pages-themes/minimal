@@ -100,13 +100,42 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 </td>
 </tr>
 
+<tr>
+<td style="width: 200px; font-size:15px;"> 
+<strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
+Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
+</td>
+</tr>
 
+<tr>
+<td style="width: 200px; font-size:15px;"> 
+<strong><a href="../sarcopenia" target="_blank">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
+Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
+</td>
+</tr>
 
+<tr>
+<td style="width: 200px; font-size:15px;"> 
+<strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
+Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg <br /> | Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/34762513/" target="_blank">PubMed</a>
+</td>
+</tr>
 
 
 <tr>
 <td style="width: 200px; font-size:15px;"> 
-<strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
 </td>
 <td style="width: 440px; font-size:13px;"> 
 Resource: Atherosclerosis Map<br />
@@ -123,54 +152,7 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 
 <table>
 
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../sarcopenia" target="_blank">Sarcopenia<br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
-        Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#D5E0EC;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
-        Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
-        </p></td>
-</tr>
-        <tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
-        Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin, Germany; Irina Balaur, University of Luxembourg, Belvaux, Luxembourg<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#E3EAF2;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Atherosclerosis Map<br />
-        Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a><br />
-        Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
+
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
         <p style="margin:10px; font-size:18px;">
