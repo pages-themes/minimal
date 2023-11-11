@@ -33,6 +33,8 @@ Project progress status:
 
 This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
+[Asthma](#Asthma), [Cancer](#Cancer), [COVID-19](#COVID-19), 
+
 <table>
 <tr>
 <td style="width: 160px; font-size:15px;"> 
