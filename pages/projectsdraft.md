@@ -35,10 +35,10 @@ This section lists projects focused on specific diseases. The list is organised 
 
 <table>
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../covid-19" target="_blank">COVID-19 <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
 Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
@@ -46,10 +46,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
 Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
@@ -57,10 +57,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
 Contact: Inna Kuperstein, Institut Curie, Paris, France<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+26192618+29688383+29726961+25295490+27559053+25688112" target="_blank">PubMed</a>
@@ -68,10 +68,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
 Contact: Anna Niarakis, Paul Sabatier University - Toulouse III, France<br />
 Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank">DOI</a>
@@ -79,10 +79,10 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../asthma" target="_blank">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
 Contact: Alexander Mazein, University of Luxembourg, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
@@ -90,10 +90,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_bl
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../sarcopenia" target="_blank">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
 Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
@@ -101,10 +101,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
 Contact: Catarina Pereira, University of Lisbon, Lisbon, Portugal<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_blank">PubMed</a>
@@ -112,10 +112,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_bl
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../sarcopenia" target="_blank">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
 Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_blank">PubMed</a>
@@ -123,10 +123,10 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 </tr>
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
 Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur, University of Luxembourg | Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/34762513/" target="_blank">PubMed</a>
 </td>
@@ -134,10 +134,10 @@ Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur
 
 
 <tr>
-<td style="width: 200px; font-size:15px;"> 
+<td style="width: 160px; font-size:15px;"> 
 <strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
 </td>
-<td style="width: 440px; font-size:13px;"> 
+<td style="font-size:13px;"> 
 Resource: Atherosclerosis Map<br />
 Contact: Steven Watterson, Ulster University, Derry, Northern Ireland, UK<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_blank">PubMed</a> | 
