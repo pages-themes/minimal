@@ -142,25 +142,25 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 <table>
 <tr style="height:160px;">
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:15px;">
+        <p style="margin:5px; font-size:15px;">
         <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:12px;">
+        <p style="line-height:160%; margin:5px; font-size:12px;">
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:15px;">
+        <p style="margin:5px; font-size:15px;">
         <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:12px;">
+        <p style="line-height:160%; margin:5px; font-size:12px;">
         Resource: Sjogren Map<br />
         Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:15px;">
+        <p style="margin:5px; font-size:15px;">
         <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:12px;">
+        <p style="line-height:160%; margin:5px; font-size:12px;">
         Resource: Sjogren Map<br />
         Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
         </p></td>
@@ -174,25 +174,25 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 </tr>
 <tr style="height:160px;">
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:15px;">
+        <p style="margin:5px; font-size:15px;">
         <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:12px;">
+        <p style="line-height:160%; margin:5px; font-size:12px;">
         Resource: KneePainOAMap<br />
         Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:15px;">
+        <p style="margin:5px; font-size:15px;">
         <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:12px;">
+        <p style="line-height:160%; margin:5px; font-size:12px;">
         Resource: Sjogren Map<br />
         Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
         </p></td>
 <td style="width: 0px;"> </td>
 <td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:15px;">
+        <p style="margin:5px; font-size:15px;">
         <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:12px;">
+        <p style="line-height:160%; margin:5px; font-size:12px;">
         Resource: Sjogren Map<br />
         Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
         </p></td>
