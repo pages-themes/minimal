@@ -44,6 +44,7 @@ Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
 </td>
 </tr>
+
 <tr>
 <td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
@@ -54,6 +55,7 @@ Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
 </td>
 </tr>
+
 <tr>
 <td style="width: 200px; font-size:15px;"> 
 <strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
@@ -62,6 +64,17 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
 Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+</td>
+</tr>
+
+<tr>
+<td style="width: 200px; font-size:15px;"> 
+<strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+</td>
+<td style="width: 440px; font-size:13px;"> 
+Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
+Contact: Anna Niarakis, HDR, Professor, Paul Sabatier University - Toulouse III, Toulouse, France<br />
+Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank">DOI</a>
 </td>
 </tr>
 
