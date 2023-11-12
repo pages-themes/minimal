@@ -279,7 +279,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
+<strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
