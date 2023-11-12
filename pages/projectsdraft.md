@@ -36,6 +36,7 @@ This section lists projects focused on specific diseases. The list is organised 
 [COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [cancer](#Cancer), [rheumatoid arthritis](#Rheumatoidarthritis), [asthma](#Asthma), [sarcopenia](#Sarcopenia), [cystic fibrosis](#Cysticfibrosis), [heart failure](#Heartfailure), [atherosclerosis](#Atherosclerosis), [osteoarthritis](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrenssyndrome), [diabetic kidney disease](#Diabetickidneydisease), [atopic dermatitis](#Atopicdermatitis), [psoriasis](#Psoriasis), [liver steatosis](#Liversteatosis), [cholestasis](#Cholestasis)
 
 <table>
+
 <tr>
 <td style="width: 160px; font-size:15px;"> 
 <strong><a href="../covid-19" target="_blank" id="COVID19">COVID-19 <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
@@ -134,70 +135,66 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30520978" target="_bl
 Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target="_blank">BioModels</a>
 </td>
 </tr>
-</table>
 
-
-
-<table>
-
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis of the knee <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: KneePainOAMap<br />
-        Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Sjogren Map<br />
-        Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../diabetickidneydisease" target="_blank">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Diabetic Kidney Disease Map<br />
-        Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br /><br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../atopicdermatitis" target="_blank">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Atopic Dermatitis Map<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../psoriasis" target="_blank">Psoriasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: Psoriasis Map<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
-</tr>
-</table>
-
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../osteoarthritis" target="_blank" id="Osteoarthritis">Osteoarthritis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: KneePainMap<br />
+Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 <br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../sjogrens" target="_blank" id="Sjogrenssyndrome">Sjogren’s syndrome <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Sjogren Map<br />
+Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease">Diabetic kidney disease <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Diabetic Kidney Disease Map<br />
+Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis">Atopic dermatitis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Atopic Dermatitis Map<br />
+Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../psoriasis" target="_blank" id="Psoriasis">Psoriasis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Psoriasis Map<br />
+Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+<br />
+</td>
+</tr>
+
+</table>
+
+
+
 
 ### Cross-disease projects
 
