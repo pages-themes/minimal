@@ -138,7 +138,7 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../osteoarthritis" target="_blank" id="Osteoarthritis">Osteoarthritis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../osteoarthritis" target="_blank" id="Osteoarthritis">Osteoarthritis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: KneePainMap<br />
@@ -149,7 +149,7 @@ Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../sjogrens" target="_blank" id="Sjogrenssyndrome">Sjogren’s syndrome <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../sjogrens" target="_blank" id="Sjogrenssyndrome">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Sjogren Map<br />
@@ -160,7 +160,7 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease">Diabetic kidney disease <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
@@ -171,7 +171,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Ir
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis">Atopic dermatitis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Atopic Dermatitis Map<br />
@@ -182,7 +182,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../psoriasis" target="_blank" id="Psoriasis">Psoriasis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../psoriasis" target="_blank" id="Psoriasis">Psoriasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Psoriasis Map<br />
@@ -193,7 +193,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../steatosis" target="_blank" id="Liversteatosis">Liver steatosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../steatosis" target="_blank" id="Liversteatosis">Liver steatosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Liver Lipid Metabolism Physiological Map<br />
@@ -204,7 +204,7 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cholestasis" target="_blank" id="Cholestasis">Cholestasis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../cholestasis" target="_blank" id="Cholestasis">Cholestasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Liver Bile Secretion Physiological Map<br />
