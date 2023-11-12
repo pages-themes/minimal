@@ -1,10 +1,10 @@
 ---
-title: Kidney Crystallopathy and Tubular Necrosis
+title: Kidney crystallopathy and tubular necrosis
 layout: default
 permalink: /nephron/
 ---
 
-# Kidney Crystallopathy and Tubular Necrosis
+# Kidney crystallopathy and tubular necrosis
 
 ## Nephron Physiological Map
 
