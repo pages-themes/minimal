@@ -1,10 +1,10 @@
 ---
-title: Cognitive Function Defects During Development
+title: Cognitive function defects during development
 layout: default
 permalink: /braindevelopment/
 ---
 
-# Cognitive Function Defects During Development
+# Cognitive function defects during development
 
 ## Brain Development Physiological Map
 
