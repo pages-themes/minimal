@@ -223,7 +223,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
@@ -234,7 +234,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong> 
+<strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
 Resource: Neural Tube Closure Physiological Map<br />
@@ -245,7 +245,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
 Resource: SYSCID Map<br />
@@ -257,7 +257,7 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
 Resource: ImmUniverse Map<br />
@@ -268,7 +268,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../nephron" target="_blank">Kidney crystallopathy and tubular necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<strong><a href="../nephron" target="_blank">Kidney crystallopathy and tubular necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -279,7 +279,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
