@@ -33,7 +33,7 @@ Project progress status:
 
 This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
-[COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [Cancer](#Cancer), [Rheumatoid arthritis](#Rheumatoidarthritis), [Asthma](#Asthma), [Sarcopenia](#Sarcopenia), [Cystic fibrosis](#Cysticfibrosis), [Heart failure](#Heartfailure), [Atherosclerosis](#Atherosclerosis), [Osteoarthritis of the knee](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrenssyndrome), [Diabetic kidney disease](#Diabetickidneydisease), [Atopic dermatitis](#Atopicdermatitis), [Psoriasis](#Psoriasis), [Liver steatosis](#Liversteatosis), [Cholestasis](#Cholestasis)
+[COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [cancer](#Cancer), [rheumatoid arthritis](#Rheumatoidarthritis), [asthma](#Asthma), [sarcopenia](#Sarcopenia), [cystic fibrosis](#Cysticfibrosis), [heart failure](#Heartfailure), [atherosclerosis](#Atherosclerosis), [osteoarthritis](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrenssyndrome), [diabetic kidney disease](#Diabetickidneydisease), [atopic dermatitis](#Atopicdermatitis), [psoriasis](#Psoriasis), [liver steatosis](#Liversteatosis), [cholestasis](#Cholestasis)
 
 <table>
 <tr>
