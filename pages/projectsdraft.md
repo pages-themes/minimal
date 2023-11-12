@@ -249,7 +249,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 </td>
 <td style="font-size:13px;"> 
 Resource: SYSCID Map<br />
-Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
+Diseases: IBD, rheumatoid arthritis and systemic lupus erythematosus<br />
 Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">Frontiers in Immunology</a>
 </td>
