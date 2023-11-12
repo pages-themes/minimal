@@ -164,7 +164,7 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
-Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Isfahan, Iran<br />
+Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 <br />
 </td>
 </tr>
