@@ -33,7 +33,7 @@ Project progress status:
 
 This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
-[COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [Cancer](#Cancer), [Rheumatoid arthritis](#Rheumatoidarthritis), [Asthma](#Asthma),  
+[COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [Cancer](#Cancer), [Rheumatoid arthritis](#Rheumatoidarthritis), [Asthma](#Asthma), [Sarcopenia](#Sarcopenia), [Cystic fibrosis](#Cysticfibrosis), [Heart failure](#Heartfailure), [Atherosclerosis](#Atherosclerosis), [Osteoarthritis of the knee](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrenssyndrome), [Diabetic kidney disease](#Diabetickidneydisease), [Atopic dermatitis](#Atopicdermatitis), [Psoriasis](#Psoriasis), [Liver steatosis](#Liversteatosis), [Cholestasis](#Cholestasis)
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ This section lists projects focused on specific diseases. The list is organised 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
-Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+32371892" target="_blank">PubMed</a>
 </td>
 </tr>
@@ -53,7 +53,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
-Contact: Marek Ostaszewski, University of Luxembourg, Luxembourg<br />
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
 </td>
 </tr>
@@ -75,7 +75,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
-Contact: Anna Niarakis, Paul Sabatier University - Toulouse III, France<br />
+Contact: Anna Niarakis, Paul Sabatier University - Toulouse III, Toulouse, France<br />
 Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank">DOI</a>
 </td>
 </tr>
@@ -86,14 +86,14 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
-Contact: Alexander Mazein, University of Luxembourg, Luxembourg<br />
+Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
 Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_blank">PubMed</a>
 </td>
 </tr>
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../sarcopenia" target="_blank">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<strong><a href="../sarcopenia" target="_blank" id="Sarcopenia">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
@@ -104,7 +104,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cysticfibrosis" target="_blank">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<strong><a href="../cysticfibrosis" target="_blank" id="Cysticfibrosis">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
@@ -115,7 +115,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../heartfailure" target="_blank">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<strong><a href="../heartfailure" target="_blank" id="Heartfailure">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
@@ -125,7 +125,7 @@ Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../atherosclerosis" target="_blank">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<strong><a href="../atherosclerosis" target="_blank" id="Atherosclerosis">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: Atherosclerosis Map<br />
