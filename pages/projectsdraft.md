@@ -33,12 +33,12 @@ Project progress status:
 
 This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
-[Asthma](#Asthma), [Cancer](#Cancer), [COVID-19](#COVID-19), 
+[COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [Cancer](#Cancer), [Rheumatoid arthritis](#Rheumatoidarthritis), [Asthma](#Asthma),  
 
 <table>
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../covid-19" target="_blank">COVID-19 <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../covid-19" target="_blank" id="COVID19">COVID-19 <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
@@ -49,7 +49,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../parkinsons" target="_blank">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../parkinsons" target="_blank" id="Parkinsonsdisease">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
@@ -60,7 +60,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cancer" target="_blank">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../cancer" target="_blank" id="Cancer">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
@@ -71,7 +71,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../rheumatoidarthritis" target="_blank">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<strong><a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
@@ -136,86 +136,9 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 </tr>
 </table>
 
-                                                                                                    
-                                                                                                    
-                                                                                                    
-<table>
-<tr style="height:160px;">
-<td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:5px; font-size:15px;">
-        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:5px; font-size:12px;">
-        Resource: KneePainOAMap<br />
-        Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:5px; font-size:15px;">
-        <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:5px; font-size:12px;">
-        Resource: Sjogren Map<br />
-        Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:5px; font-size:15px;">
-        <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:5px; font-size:12px;">
-        Resource: Sjogren Map<br />
-        Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 210px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 210px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 210px;"> </td>
-</tr>
-<tr style="height:160px;">
-<td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:5px; font-size:15px;">
-        <strong><a href="../osteoarthritis" target="_blank">Osteoarthritis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:5px; font-size:12px;">
-        Resource: KneePainOAMap<br />
-        Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:5px; font-size:15px;">
-        <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:5px; font-size:12px;">
-        Resource: Sjogren Map<br />
-        Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:210px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:5px; font-size:15px;">
-        <strong><a href="../sjogrens" target="_blank">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:5px; font-size:12px;">
-        Resource: Sjogren Map<br />
-        Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, France<br />
-        </p></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 210px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 210px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 210px;"> </td>
-</tr>
-</table>
-
-
-
-
-
-
-
 
 
 <table>
-
 
 <tr style="height:160px;">
 <td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
