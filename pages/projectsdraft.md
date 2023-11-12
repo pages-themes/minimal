@@ -237,7 +237,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 <strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
-Resource: Neural Tube Closure Physiological Map<br />
+Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1" target="_blank">Neural Tube Closure Physiological Map</a><br />
 Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
 Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank">PubMed</a>
 </td>
