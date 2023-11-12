@@ -191,10 +191,29 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 </td>
 </tr>
 
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../steatosis" target="_blank" id="Liversteatosis">Liver steatosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Liver Lipid Metabolism Physiological Map<br />
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
+<br />
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../cholestasis" target="_blank" id="Cholestasis">Cholestasis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Liver Bile Secretion Physiological Map<br />
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
+<br />
+</td>
+</tr>
+
 </table>
-
-
-
 
 ### Cross-disease projects
 
