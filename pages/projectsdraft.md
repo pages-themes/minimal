@@ -219,45 +219,74 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 
 This section includes projects that focus on shared mechanisms of two or more diseases, interactions between two or more diseases, or broader aspects applicable to many diseases.
 
-<!--This section includes projects that focus on comparing and studying disiease mechanisms of two or more diseases, identifying common and distinct features in related pathologies.-->
-
 <table>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
-        Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
-        Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+35473910+36973809" target="_blank">PubMed</a>
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: SYSCID Map<br />
-        Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-        </p></td>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
+Contact: Matti Hoch, University of Rostock, Rostock, Germany<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+35473910+36973809" target="_blank">PubMed</a>
+</td>
 </tr>
-        <tr style="height: 20px;">
-<td style="width: 320px;"> </td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Neural Tube Closure Physiological Map<br />
+Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank">PubMed</a>
+</td>
 </tr>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: ImmUniverse Map<br />
-        Diseases: ulcerative colitis, atopic dermatitis<br />
-        Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width: 320px;"> </td>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: SYSCID Map<br />
+Diseases: inflammatory bowel disease, rheumatoid arthritis and systemic lupus erythematosus<br />
+Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">Frontiers in Immunology</a>
+</td>
 </tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: ImmUniverse Map<br />
+Diseases: ulcerative colitis, atopic dermatitis<br />
+Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../nephron" target="_blank">Kidney crystallopathy and tubular necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Nephron Physiological Map<br />
+Diseases: kidney crystallopathy, tubular necrosis<br />
+Contact: Alessio Gamba, University of Liège, Liège, Belgium
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: Brain Development Physiological Map<br />
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
+</td>
+</tr>
+
 </table>
 
 <br />
@@ -267,23 +296,27 @@ This section includes projects that focus on shared mechanisms of two or more di
 This section includes maps that describe mechanisms of adverse effects of various treatments and are based on the adverse outcome pathway (AOP) concept in toxicology.  
 
 <table>
-<tr style="height:160px;">
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: CAR T cell AOP Map<br />
-        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
-        Publication: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a><br />
-        </p></td>
-<td style="width: 0px;"> </td>
-<td style="width:320px; text-align:left; vertical-align:top; background-color:#EAF0F6;">
-        <p style="margin:10px; font-size:18px;">
-        <strong><a href="../il2" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong></p>
-        <p style="line-height:160%; margin:10px; font-size:13px;">
-        Resource: IL-2 AOP Map<br />
-        Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br /><br />
-        </p></td>
-</tr>
-</table>
 
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: CAR T cell AOP Map<br />
+Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank">Preprint</a>
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;"> 
+<strong><a href="../il2" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+</td>
+<td style="font-size:13px;"> 
+Resource: IL-2 AOP Map<br />
+Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg
+<br />
+</td>
+</tr>
+
+</table>
