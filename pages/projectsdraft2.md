@@ -239,7 +239,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 <td style="font-size:13px;"> 
 Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1" target="_blank">Neural Tube Closure Physiological Map</a><br />
 Contact: Alessio Gamba, University of Liège, Liège, Belgium<br />
-Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank">PubMed</a><br />
+Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank">PubMed</a>
 </td>
 </tr>
 
@@ -262,7 +262,7 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 <td style="font-size:13px;"> 
 Resource: ImmUniverse Map<br />
 Diseases: ulcerative colitis, atopic dermatitis<br />
-Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
+Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
 </td>
 </tr>
 
@@ -273,7 +273,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
 Diseases: kidney crystallopathy, tubular necrosis<br />
-Contact: Alessio Gamba, University of Liège, Liège, Belgium<br /><br />
+Contact: Alessio Gamba, University of Liège, Liège, Belgium
 </td>
 </tr>
 
@@ -283,7 +283,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium<br /><br />
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
-Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
+Contact: Luiz Ladeira, University of Liège, Liège, Belgium
 </td>
 </tr>
 
