@@ -72,6 +72,28 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;">  
+<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-parkinsons.png" alt="Parkinson's disease"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;">  
+<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-rheumatoidarthritis.png" alt="Parkinson's disease"/></a>
+</td>
+<td style="font-size:13px;"> 
+Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
+Contact: Marek Ostaszewski, University of Luxembourg, Belvaux, Luxembourg<br />
+Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PubMed</a>
+</td>
+</tr>
+
+<tr>
+<td style="width: 160px; font-size:15px;">  
 <a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-rheumatoidarthritis.png" alt="Parkinson's disease"/></a>
 </td>
 <td style="font-size:13px;"> 
