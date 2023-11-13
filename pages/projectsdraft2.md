@@ -60,8 +60,8 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<strong><a href="../parkinsons" target="_blank" id="Parkinsonsdisease">Parkinson's disease <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<td style="width: 160px; font-size:15px;">  
+<a href="../parkinsons"><img src="../images/projects/button-parkinsons.png" alt="Parkinson's disease"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
