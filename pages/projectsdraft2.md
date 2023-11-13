@@ -39,7 +39,7 @@ This section lists projects focused on specific diseases. The list is organised 
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid.jpg" alt="COVID-19"/></a> 
+<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid2.jpg" alt="COVID-19"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
@@ -50,7 +50,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-parkinsons.png" alt="Parkinson's disease"/></a> 
+<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-parkinson2s.png" alt="Parkinson's disease"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
@@ -61,7 +61,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cancer" target="_blank" id="Cancer"><img src="../images/projects/button-cancer.png" alt="Cancer"/></a>
+<a href="../cancer" target="_blank" id="Cancer"><img src="../images/projects/button-cancer2.png" alt="Cancer"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
@@ -72,7 +72,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis"><img src="../images/projects/button-rheumatoidarthritis.png" alt="Rheumatoid arthritis"/></a>
+<a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis"><img src="../images/projects/button-rheumatoidarthritis2.png" alt="Rheumatoid arthritis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
@@ -83,7 +83,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../asthma" target="_blank" id="Asthma"><img src="../images/projects/button-asthma.png" alt="Asthma"/></a>
+<a href="../asthma" target="_blank" id="Asthma"><img src="../images/projects/button-asthma2.png" alt="Asthma"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
