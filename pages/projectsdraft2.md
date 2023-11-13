@@ -94,7 +94,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;">  
-<a href="../sarcopenia" target="_blank" id="Sarcopenia"><img src="../images/projects/button-sarcopenia.png" alt="Sarcopenia"/></a>
+<a href="../sarcopenia" target="_blank" id="Sarcopenia"><img src="../images/projects/button-sarcopenia2.png" alt="Sarcopenia"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
@@ -105,7 +105,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/36407505" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cysticfibrosis" target="_blank" id="Cysticfibrosis">Cystic fibrosis <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<a href="../cysticfibrosis" target="_blank" id="Cysticfibrosis"><img src="../images/projects/button-cysticfibrosis2.png" alt="Cystic fibrosis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://cysticfibrosismap.github.io/" target="_blank">CyFi-MAP</a><br />
@@ -116,7 +116,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34782688" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../heartfailure" target="_blank" id="Heartfailure">Heart failure <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<a href="../heartfailure" target="_blank" id="Heartfailure"><img src="../images/projects/button-heartfailure2.png" alt="Heart failure"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://cardiomap.elixir-luxembourg.org/" target="_blank">CardioMap</a><br />
@@ -126,7 +126,7 @@ Contact: Nikolaus Berndt, Charité – Universitätsmedizin Berlin; Irina Balaur
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../atherosclerosis" target="_blank" id="Atherosclerosis">Atherosclerosis <br />&#9733;&#9734;&#9733;&#9734;&#9733;</a></strong> 
+<a href="../atherosclerosis" target="_blank" id="Atherosclerosis"><img src="../images/projects/button-atherosclerosis2.png" alt="Atherosclerosis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atherosclerosis Map<br />
@@ -138,7 +138,7 @@ Model: <a href="https://www.ebi.ac.uk/biomodels/MODEL1812100001#Overview" target
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../osteoarthritis" target="_blank" id="Osteoarthritis">Osteoarthritis <br />&#9733;&#9733;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../osteoarthritis" target="_blank" id="Osteoarthritis"><img src="../images/projects/button-osteoarthritis2.png" alt="Osteoarthritis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: KneePainMap<br />
@@ -223,7 +223,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../acuteinflammation" target="_blank">Acute inflammation <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> <br />
+<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><img src="../images/projects/button-acuteinflammation2.png" alt="Acute inflammation"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
@@ -234,7 +234,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../neuraltubeclosure" target="_blank">Neural tube closure defects <br />&#9733;&#9733;&#9733;&#9733;&#9734;</a></strong> <br />
+<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><img src="../images/projects/button-neuraltubeclosure2.png" alt="Neural tube closure"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1" target="_blank">Neural Tube Closure Physiological Map</a><br />
@@ -245,7 +245,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> <br />
+<a href="../syscid" target="_blank" id="syscid"><img src="../images/projects/button-syscid2.png" alt="syscid"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: SYSCID Map<br />
@@ -257,7 +257,7 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../immuniverse" target="_blank">Immune-mediated diseases <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
+<a href="../immuniverse" target="_blank" id="immuniverse"><img src="../images/projects/button-immuniverse2.png" alt="immuniverse"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: ImmUniverse Map<br />
@@ -268,7 +268,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../nephron" target="_blank">Kidney crystallopathy and tubular necrosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
+<a href="../nephron" target="_blank" id="nephron"><img src="../images/projects/button-nephron2.png" alt="nephron"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -279,7 +279,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium<br /><br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../braindevelopment" target="_blank">Cognitive function defects during development <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> <br />
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment2.png" alt="braindevelopment"/>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -297,7 +297,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cart" target="_blank">CAR T cell treatment <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<a href="../cart" target="_blank" id="cart"><img src="../images/projects/button-cart2.png" alt="cart"/>
 </td>
 <td style="font-size:13px;"> 
 Resource: CAR T cell AOP Map<br />
@@ -308,7 +308,7 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../il2" target="_blank">Recombinant IL-2 treatment <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il2.png" alt="il2"/>
 </td>
 <td style="font-size:13px;"> 
 Resource: IL-2 AOP Map<br />
