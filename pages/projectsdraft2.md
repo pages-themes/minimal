@@ -39,7 +39,7 @@ This section lists projects focused on specific diseases. The list is organised 
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid2.jpg" alt="COVID-19"/></a> 
+<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid2.png" alt="COVID-19"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
@@ -50,7 +50,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-parkinson2s.png" alt="Parkinson's disease"/></a> 
+<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-parkinsons2.png" alt="Parkinson's disease"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
