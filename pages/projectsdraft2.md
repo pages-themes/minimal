@@ -279,7 +279,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium<br /><br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment2.png" alt="braindevelopment"/>
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment2.png" alt="braindevelopment"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -297,7 +297,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cart" target="_blank" id="cart"><img src="../images/projects/button-cart2.png" alt="cart"/>
+<a href="../cart" target="_blank" id="cart"><img src="../images/projects/button-cart2.png" alt="cart"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: CAR T cell AOP Map<br />
@@ -308,12 +308,11 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il2.png" alt="il2"/>
+<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il2.png" alt="il2"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: IL-2 AOP Map<br />
 Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg
-<br />
 </td>
 </tr>
 
