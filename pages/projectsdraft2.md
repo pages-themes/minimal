@@ -93,8 +93,8 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30133857" target="_bl
 </tr>
 
 <tr>
-<td style="width: 160px; font-size:15px;"> 
-<strong><a href="../sarcopenia" target="_blank" id="Sarcopenia">Sarcopenia <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<td style="width: 160px; font-size:15px;">  
+<a href="../sarcopenia" target="_blank" id="Sarcopenia"><img src="../images/projects/button-sarcopenia.png" alt="Sarcopenia"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://www.sbi.uni-rostock.de/research/projects/detail/73" target="_blank">Sarcopenia Map</a><br />
