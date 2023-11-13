@@ -61,7 +61,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_bl
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cancer" target="_blank" id="Cancer">Cancer <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<a href="../cancer" target="_blank" id="Cancer"><img src="../images/projects/button-cancer.png" alt="Cancer"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://acsn.curie.fr/ACSN2/ACSN2.html" target="_blank">Atlas of Cancer Signalling Network</a><br />
@@ -72,7 +72,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis">Rheumatoid arthritis <br />&#9733;&#9733;&#9733;&#9733;&#9733;</a></strong> 
+<a href="../rheumatoidarthritis" target="_blank" id="Rheumatoidarthritis"><img src="../images/projects/button-rheumatoidarthritis.png" alt="Rheumatoid arthritis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
@@ -83,7 +83,7 @@ Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../asthma" target="_blank" id="Asthma">Asthma <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> 
+<a href="../asthma" target="_blank" id="Asthma"><img src="../images/projects/button-asthma.png" alt="Asthma"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="http://asthma-map.org/" target="_blank">AsthmaMap</a><br />
