@@ -39,7 +39,7 @@ This section lists projects focused on specific diseases. The list is organised 
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid.png" alt="COVID-19"/></a> 
+<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid.jpg" alt="COVID-19"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
