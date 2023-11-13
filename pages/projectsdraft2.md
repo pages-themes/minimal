@@ -33,7 +33,7 @@ Project progress status:
 
 This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
-[COVID-19](#COVID19), [Parkinson's disease](#Parkinsonsdisease), [cancer](#Cancer), [rheumatoid arthritis](#Rheumatoidarthritis), [asthma](#Asthma), [sarcopenia](#Sarcopenia), [cystic fibrosis](#Cysticfibrosis), [heart failure](#Heartfailure), [atherosclerosis](#Atherosclerosis), [osteoarthritis](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrenssyndrome), [diabetic kidney disease](#Diabetickidneydisease), [atopic dermatitis](#Atopicdermatitis), [psoriasis](#Psoriasis), [liver steatosis](#Liversteatosis), [cholestasis](#Cholestasis)
+[COVID-19](#COVID19), [Parkinson's disease](#Parkinsons), [cancer](#Cancer), [rheumatoid arthritis](#Rheumatoidarthritis), [asthma](#Asthma), [sarcopenia](#Sarcopenia), [cystic fibrosis](#Cysticfibrosis), [heart failure](#Heartfailure), [atherosclerosis](#Atherosclerosis), [osteoarthritis](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrens), [diabetic kidney disease](#Diabetickidneydisease), [atopic dermatitis](#Atopicdermatitis), [psoriasis](#Psoriasis), [liver steatosis](#Steatosis), [cholestasis](#Cholestasis)
 
 <table>
 
@@ -50,7 +50,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34664389+323718
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../parkinsons" target="_blank" id="Parkinsonsdisease"><img src="../images/projects/button-parkinsons2.png" alt="Parkinson's disease"/></a> 
+<a href="../parkinsons" target="_blank" id="Parkinsons"><img src="../images/projects/button-parkinsons2.png" alt="Parkinson's disease"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://pdmap.uni.lu/" target="_blank">Parkinson's Disease Map</a><br />
@@ -149,7 +149,7 @@ Contact: Bernd Seilheimer, Heel GmbH, Germany<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../sjogrens" target="_blank" id="Sjogrenssyndrome">Sjogren’s syndrome <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../sjogrens" target="_blank" id="Sjogrens"><img src="../images/projects/button-sjogrens2.png" alt="sjogrens"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Sjogren Map<br />
@@ -160,7 +160,7 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease">Diabetic kidney disease <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><img src="../images/projects/button-diabetickidneydisease2.png" alt="diabetickidneydisease"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
@@ -171,7 +171,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis">Atopic dermatitis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis"><img src="../images/projects/button-atopicdermatitis2.png" alt="atopicdermatitis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atopic Dermatitis Map<br />
@@ -182,7 +182,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../psoriasis" target="_blank" id="Psoriasis">Psoriasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../psoriasis" target="_blank" id="Psoriasis"><img src="../images/projects/button-psoriasis2.png" alt="psoriasis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Psoriasis Map<br />
@@ -193,7 +193,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../steatosis" target="_blank" id="Liversteatosis">Liver steatosis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../steatosis" target="_blank" id="Steatosis"><img src="../images/projects/button-steatosis2.png" alt="steatosis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Liver Lipid Metabolism Physiological Map<br />
@@ -204,7 +204,7 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<strong><a href="../cholestasis" target="_blank" id="Cholestasis">Cholestasis <br />&#9733;&#9734;&#9734;&#9734;&#9734;</a></strong> 
+<a href="../cholestasis" target="_blank" id="Cholestasis"><img src="../images/projects/button-cholestasis2.png" alt="cholestasis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Liver Bile Secretion Physiological Map<br />
