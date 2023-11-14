@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projectsdraft2/
+permalink: /projectsdraft3/
 ---
 
 # Projects
