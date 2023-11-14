@@ -6,13 +6,12 @@ permalink: /projects/
 
 # Projects
         
-The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. The projects are organised into three categories:  
-
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
 &nbsp;&nbsp; [Adverse outcome maps for immunotoxicology](#adverse-outcome-maps-for-immunotoxicology)  
 
-Project progress status:
+The Disease Maps Community consolidates efforts focused on describing disease mechanisms. We aim to progress together through advancing technological solutions, sharing resources and best practices. New contributors are very welcome: please propose a new disease map or join one of the existing projects. Project progress status:
+
 <table>
 <tr style="height: 20px;">
 <td style="width: 320px;">
