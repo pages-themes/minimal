@@ -76,7 +76,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32316560+261926
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ramap.uni.lu/minerva/" target="_blank">Rheumatoid Arthritis Map</a><br />
-Contact: Anna Niarakis, Paul Sabatier University - Toulouse III, Toulouse, France<br />
+Contact: Anna Niarakis, Paul Sabatier University, Toulouse, France<br />
 Publications: <a href="https://doi.org/10.3389/fsysb.2022.925791" target="_blank">DOI</a>
 </td>
 </tr>
