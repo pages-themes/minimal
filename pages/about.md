@@ -48,7 +48,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Associate Professor, University of Evry, University of Paris-Saclay, Evry, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, HDR, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, Paul Sabatier University - Toulouse III, Toulouse, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
