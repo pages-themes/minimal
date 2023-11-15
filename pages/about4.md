@@ -40,12 +40,12 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MarinaEsteban.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MarcGillespie.jpg" width="120"/></p></td>
-<td style="width: 200px;"> </td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/LuizLadeira.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marina Esteban, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Data Science Researcher, Fundación Pública Andaluza Progreso y Salud, Sevilla, Spain</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marc Gillespie, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Vice Provost for Graduate Education, Clinical Operations and Research, St. John's University, New York, USA</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Postdoctoral Researcher at the GIGA In Silico Medicine, University of Liège, Liège, Belgium</p></td>
 </tr>
 </table>    
 
@@ -74,12 +74,12 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/HenningHermjakob.jpg" width="120"/></p></td>
-<td style="width: 200px;"> </td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/LiesbetGeris.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Henning Hermjakob, MSc</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Team Leader, Molecular Networks, European Bioinformatics Institute (EMBL-EBI), Hinxton, Cambridge, UK</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"> </td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unity, University of Liège, Liège, Belgium and KU Leuven, Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute (VPHi)</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>
