@@ -29,13 +29,13 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AnnaNiarakis.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MartinaKutmon.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MattiHoch2.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/LuizLadeira.jpg" width="120"/></p></td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD, HDR</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Martina Summer-Kutmon, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Assistant Professor, Maastricht Centre for Systems Biology, Maastricht University, Netherlands</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch, MSc</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Germany</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Postdoctoral Researcher at the GIGA In Silico Medicine, University of Liège, Liège, Belgium</p></td>
 </tr>
 </table>    
 
@@ -54,12 +54,12 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </tr>
 <tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/OlafWolkenhauer.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/JoaquinDopazo.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/LiesbetGeris.jpg" width="120"/></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Joaquin Dopazo, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Clinical Bioinformatics Area, FPS, Hospital Virgen del Rocio, Sevilla, Spain</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unity, University of Liège, Liège, Belgium and KU Leuven, Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute (VPHi)</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>
