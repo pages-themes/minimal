@@ -1,7 +1,7 @@
 ---
 title: Team
 layout: default
-permalink: /teamoutdated
+permalink: /teamoutdated2
 ---
 
 # Team
