@@ -59,7 +59,7 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 </tr>
 <tr>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Olaf Wolkenhauer, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Department of Systems Biology & Bioinformatics, Faculty of Computer Science and Electrical Engineering, University of Rostock, Germany</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unity, University of Liège, Liège, Belgium and KU Leuven, Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute (VPHi)</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Liesbet Geris, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Head of the Biomechanics Research Unit, University of Liège, Liège, Belgium and KU Leuven, Leuven, Belgium. Executive Director of the Virtual Physiological Human Institute (VPHi)</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"> </td>
 </tr>
 </table>
