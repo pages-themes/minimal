@@ -5,8 +5,6 @@ permalink: /projects/
 ---
 
 # Projects
-
-Test
         
 &nbsp;&nbsp; [Disease maps for specific diseases](#disease-maps-for-specific-diseases)  
 &nbsp;&nbsp; [Cross-disease projects](#cross-disease-projects)  
