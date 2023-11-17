@@ -37,11 +37,13 @@ The following projects are strategically important for the future advances of th
 
 *Description:* The Physiome Project is developing a multi-scale modelling framework for understanding physiological function that allows models to be combined and linked in a hierarchical fashion. \
 *Contact:* Peter Hunter, University of Auckland, Auckland, New Zealand \
-*Homepage:* [http://physiomeproject.org](http://physiomeproject.org/) 
+*Homepage:* [http://physiomeproject.org](http://physiomeproject.org/)
 
-### [Garuda](../garuda)
 
+
+<!--### [Garuda](../garuda)
 *Description:* Garuda is a connectivity platform for discovering and navigating through interoperable 
   gadgets with applications in biology and medicine. \
 *Contact:* Samik Ghosh, The Systems Biology Institute, Tokyo, Japan \
-*Homepage:* [http://www.garuda-alliance.org](http://www.garuda-alliance.org/) 
+*Homepage:* [http://www.garuda-alliance.org](http://www.garuda-alliance.org/)
+-->
