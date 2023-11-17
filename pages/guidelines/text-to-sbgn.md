@@ -1,7 +1,7 @@
 ---
 title: Text to SBGN
 layout: default
-permalink: /text-to-sbgn
+permalink: /text-to-sbgn/
 ---
 
 # Text to SBGN
