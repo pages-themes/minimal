@@ -32,13 +32,13 @@ The Disease Maps Community consolidates efforts focused on describing disease me
 
 This section lists projects focused on specific diseases. The list is organised according to the progress status of the projects.
 
-[COVID-19](#COVID19), [Parkinson's disease](#Parkinsons), [cancer](#Cancer), [rheumatoid arthritis](#Rheumatoidarthritis), [asthma](#Asthma), [sarcopenia](#Sarcopenia), [cystic fibrosis](#Cysticfibrosis), [heart failure](#Heartfailure), [atherosclerosis](#Atherosclerosis), [osteoarthritis](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrens), [diabetic kidney disease](#Diabetickidneydisease), [atopic dermatitis](#Atopicdermatitis), [psoriasis](#Psoriasis), [liver steatosis](#Steatosis), [cholestasis](#Cholestasis)
+[COVID-19](#COVID-19), [Parkinson's disease](#Parkinsons), [cancer](#Cancer), [rheumatoid arthritis](#Rheumatoidarthritis), [asthma](#Asthma), [sarcopenia](#Sarcopenia), [cystic fibrosis](#Cysticfibrosis), [heart failure](#Heartfailure), [atherosclerosis](#Atherosclerosis), [osteoarthritis](#Osteoarthritis), [Sjogren’s syndrome](#Sjogrens), [diabetic kidney disease](#Diabetickidneydisease), [atopic dermatitis](#Atopicdermatitis), [psoriasis](#Psoriasis), [liver steatosis](#Steatosis), [cholestasis](#Cholestasis)
 
 <table>
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../covid19" target="_blank" id="COVID19"><img src="../images/projects/button-covid2.png" alt="COVID-19"/></a> 
+<a href="../covid-19" target="_blank" id="COVID-19"><img src="../images/projects/button-covid2.png" alt="COVID-19"/></a> 
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://covid19map.elixir-luxembourg.org/" target="_blank">COVID-19 Disease Map</a><br />
