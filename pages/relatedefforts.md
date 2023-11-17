@@ -1,8 +1,7 @@
 ---
 title: Related efforts
 layout: default
-redirect_from: "/partners/"
-permalink: /relatedefforts
+permalink: /relatedefforts/
 ---
 
 
