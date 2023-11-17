@@ -1,7 +1,7 @@
 ---
 title: Planning template
 layout: default
-permalink: /template
+permalink: /template/
 ---
 
 # Planning template
