@@ -1,7 +1,7 @@
 --- 
 title: Ulcerative colitis 
 layout: default 
-permalink: /ulcerativecolitis
+permalink: /ulcerativecolitis/
 --- 
 
 # Ulcerative colitis
