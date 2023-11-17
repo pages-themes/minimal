@@ -20,9 +20,18 @@ permalink: /wikipathways/
 
 <table>
 <tr>
+<td style="width: 100px;"><img src="../images/team/MartinaKutmon.jpg" alt="Martina Summer-Kutmon" /></td>
+<td><strong>Martina Summer-Kutmon, PhD</strong><br />
+Assistant Professor, Maastricht Centre for Systems Biology, Maastricht University, Netherlands; WikiPathways architect, reviewer, community editor</td>
+</tr>
+<tr>
+<td style="width: 100px;"><img src="../images/team/ChrisEvelo.jpg" alt="Chris Evelo" /></td>
+<td><strong>Chris Evelo, PhD</strong><br />
+Head of the Department of Bioinformatics - BiGCaT, Maastricht University, Netherlands; WikiPathways co-founder</td>
+</tr>
+<tr>
 <td style="width: 100px;"><img src="../images/team/AlexanderPico.jpg" alt="Alexander Pico" /></td>
 <td><strong>Alexander Pico, PhD</strong><br />
-<strong>Gladstone Institutes, University of California, San Francisco, United States</strong><br />
-Executive Director, National Resource for Network Biology (NRNB); Associate Director, Leader of the Systems Biology Group for Gladstone Bioinformatics; Cofounder of WikiPathways</td>
+Gladstone Institutes, University of California, San Francisco, United States; Executive Director, National Resource for Network Biology (NRNB); Associate Director, Leader of the Systems Biology Group for Gladstone Bioinformatics; WikiPathways co-founder</td>
 </tr>
 </table>
