@@ -1,8 +1,7 @@
 ---
 title: VMH
 layout: default
-redirect_from: "/partners/vmh/"
-permalink: /vmh
+permalink: /vmh/
 ---
 
 # Virtual Metabolic Human
