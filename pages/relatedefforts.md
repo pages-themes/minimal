@@ -15,17 +15,17 @@ The following projects are strategically important for the future advances of th
 *Contact:* Henning Hermjakob, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK \
 *Homepage:* [https://reactome.org](https://reactome.org) 
 
-### [Pathway Commons](../pathwaycommons)
-
-*Description:* Pathway Commons aims to collect and disseminate biological pathway and interaction data. Data is collected from partner databases and is represented in the <a href="http://biopax.org/" target="_blank">BioPAX</a> standard. \
-*Contact:* Gary Bader, University of Toronto, Toronto, Canada \
-*Homepage:* [http://www.pathwaycommons.org](http://www.pathwaycommons.org) 
-
 ### [WikiPathways](../wikipathways)
 
 *Description:* WikiPathways is a database of biological pathways maintained by and for the scientific community. \
 *Contact:* Martina Summer-Kutmon, Maastricht Centre for Systems Biology, Maastricht University, Netherlands \
 *Homepage:* [http://www.wikipathways.org](http://www.wikipathways.org/) 
+
+### [Pathway Commons](../pathwaycommons)
+
+*Description:* Pathway Commons aims to collect and disseminate biological pathway and interaction data. Data is collected from partner databases and is represented in the <a href="http://biopax.org/" target="_blank">BioPAX</a> standard. \
+*Contact:* Gary Bader, University of Toronto, Toronto, Canada \
+*Homepage:* [http://www.pathwaycommons.org](http://www.pathwaycommons.org) 
 
 ### [Virtual Metabolic Human](../vmh)
 
