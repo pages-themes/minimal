@@ -1,7 +1,7 @@
 ---
 title: SBGN in CellDesigner
 layout: default
-permalink: /sbgnincd
+permalink: /sbgnincd/
 ---
 
 # Drawing SBGN PD diagrams in CellDesigner
