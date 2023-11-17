@@ -1,8 +1,7 @@
 ---
 title: Anaphylaxis
 lyout: default
-redirect_from: "/projects/anaphylaxis/"
-permalink: /anaphylaxis
+permalink: /anaphylaxis/
 ---
 
 # Anaphylaxis
