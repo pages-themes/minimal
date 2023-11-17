@@ -1,7 +1,7 @@
 ---
 title: Tools
 layout: default
-permalink: /tools
+permalink: /tools/
 ---
 
 # Tools
