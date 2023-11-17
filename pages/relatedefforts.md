@@ -23,6 +23,10 @@ The following projects are strategically important for the future advances of th
 
 ### [WikiPathways](../wikipathways)
 
+*Description:* Reactome is a free, open-source, open data, curated and peer-reviewed pathway database. \
+*Contact:* Henning Hermjakob, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK \
+*Homepage:* [https://reactome.org](https://reactome.org) 
+
 <p>
 <i>Description: </i>WikiPathways is a database of biological pathways maintained by and for the scientific community.<br />
 <i>Contact: </i>Alexander Pico, Gladstone Institutes, University of California, San Francisco, United States<br />
@@ -31,27 +35,19 @@ The following projects are strategically important for the future advances of th
 
 ### [Virtual Metabolic Human](../vmh)
 
-<p>
-<i>Description: </i>The Virtual Metabolic Human links human metabolism, gut microbiome metabolism, nutrition, and disease.<br />
-<i>Contact: </i>Ines Thiele, National University of Ireland, Galway, Ireland; Ronan M.T. Fleming, Leiden University, Leiden, Netherlands<br />
-<i>Homepage: </i><a href="https://www.vmh.life" target="_blank">https://www.vmh.life</a>
-</p>
+*Description:* The Virtual Metabolic Human links human metabolism, gut microbiome metabolism, nutrition, and disease. \
+*Contact:* Ines Thiele, National University of Ireland, Galway, Ireland; Ronan M.T. Fleming, Leiden University, Leiden, Netherlands \
+*Homepage:* [https://www.vmh.life](https://www.vmh.life) 
 
 ### [Physiome Project](../physiome)
 
-<p>
-<i>Description: </i>The Physiome Project is developing a multi-scale modelling framework for understanding physiological function that allows models to be combined and linked in a hierarchical fashion.<br />
-<i>Contact: </i>Peter Hunter, University of Auckland, Auckland, New Zealand<br />
-<i>Homepage: </i><a href="http://physiomeproject.org/" target="_blank">http://physiomeproject.org</a>
-</p>
+*Description:* The Physiome Project is developing a multi-scale modelling framework for understanding physiological function that allows models to be combined and linked in a hierarchical fashion. \
+*Contact:* Peter Hunter, University of Auckland, Auckland, New Zealand \
+*Homepage:* [http://physiomeproject.org](http://physiomeproject.org/) 
 
 ### [Garuda](../garuda)
 
-<p>
-<i>Description: </i>Garuda is a connectivity platform for discovering and navigating through interoperable 
-  gadgets with applications in biology and medicine.<br />
-<i>Contact: </i>Samik Ghosh, The Systems Biology Institute, Tokyo, Japan<br />
-<i>Homepage: </i><a href="http://www.garuda-alliance.org/" target="_blank">http://www.garuda-alliance.org</a>
-</p>
-
-
+*Description:* Garuda is a connectivity platform for discovering and navigating through interoperable 
+  gadgets with applications in biology and medicine. \
+*Contact:* Samik Ghosh, The Systems Biology Institute, Tokyo, Japan \
+*Homepage:* [http://www.garuda-alliance.org](http://www.garuda-alliance.org/) 
