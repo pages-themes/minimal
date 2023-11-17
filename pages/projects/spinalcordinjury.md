@@ -1,7 +1,7 @@
 ---
 title: Spinal cord injury
 layout: default
-permalink: /spinalcordinjury
+permalink: /spinalcordinjury/
 ---
 
 # Spinal cord injury
