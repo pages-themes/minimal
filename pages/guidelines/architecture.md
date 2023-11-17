@@ -1,7 +1,7 @@
 ---
 title: Architecture
 layout: default
-permalink: /architecture
+permalink: /architecture/
 ---
 
 # Designing map architecture
