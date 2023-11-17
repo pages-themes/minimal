@@ -1,7 +1,7 @@
 ---
 title: Glossary
 layout: default
-permalink: /glossary
+permalink: /glossary/
 ---
 
 # Glossary
