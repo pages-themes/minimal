@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projects/
+permalink: /projectsbackup2023-11-13/
 ---
 
 # Projects
