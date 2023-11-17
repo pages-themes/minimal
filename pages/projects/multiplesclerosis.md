@@ -1,8 +1,7 @@
 ---
 title: Multiple sclerosis
 layout: default
-redirect_from: "/projects/multiplesclerosis/"
-permalink: /multiplesclerosis
+permalink: /multiplesclerosis/
 ---
 
 <h1 id="projects">Multiple sclerosis</h1>
