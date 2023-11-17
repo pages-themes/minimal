@@ -6,7 +6,7 @@ permalink: /guidelines/
 
 # Guidelines
 
-The guidelines are introduced in our 2023 paper ([PMID: 37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/)) and are based on our collective experience of building representations of disease mechanisms, descriptions of [published disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps). In each case, a disease map is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.    
+The guidelines are introduced in 2023 ([PMID: 37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/)) and are based on our collective experience of building representations of disease mechanisms, as well as on the descriptions of earlier published [disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps). In each case, a disease map is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.    
 
 There are training materials, definitions, templates and examples for different stages of the disease map development:  
 
