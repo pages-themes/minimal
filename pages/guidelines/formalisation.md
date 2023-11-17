@@ -1,7 +1,7 @@
 ---
 title: Knowledge formalisation
 layout: default
-permalink: /formalisation
+permalink: /formalisation/
 ---
 
 # Knowledge formalisation
