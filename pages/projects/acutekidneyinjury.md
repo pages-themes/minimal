@@ -1,8 +1,7 @@
 --- 
 title: Acute kidney injury 
 layout: default 
-redirect_from: "/projects/acutekidneyinjury/"
-permalink: /acutekidneyinjury 
+permalink: /acutekidneyinjury/
 --- 
 
 # Acute kidney injury
