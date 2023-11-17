@@ -1,8 +1,7 @@
 ---
 title: Pathway Commons
 layout: default
-redirect_from: "/partners/pathwaycommons/"
-permalink: /pathwaycommons
+permalink: /pathwaycommons/
 ---
 
 <h1>Pathway Commons</h1>
