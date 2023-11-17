@@ -23,15 +23,9 @@ The following projects are strategically important for the future advances of th
 
 ### [WikiPathways](../wikipathways)
 
-*Description:* Reactome is a free, open-source, open data, curated and peer-reviewed pathway database. \
-*Contact:* Henning Hermjakob, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK \
-*Homepage:* [https://reactome.org](https://reactome.org) 
-
-<p>
-<i>Description: </i>WikiPathways is a database of biological pathways maintained by and for the scientific community.<br />
-<i>Contact: </i>Alexander Pico, Gladstone Institutes, University of California, San Francisco, United States<br />
-<i>Homepage: </i><a href="http://www.wikipathways.org/" target="_blank">http://www.wikipathways.org</a>
-</p>
+*Description:* WikiPathways is a database of biological pathways maintained by and for the scientific community. \
+*Contact:* Martina Summer-Kutmon, Maastricht Centre for Systems Biology, Maastricht University, Netherlands \
+*Homepage:* [http://www.wikipathways.org](http://www.wikipathways.org/) 
 
 ### [Virtual Metabolic Human](../vmh)
 
