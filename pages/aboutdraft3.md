@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-permalink: /aboutdraft3
+permalink: /aboutdraft3/
 ---
        
 # About
