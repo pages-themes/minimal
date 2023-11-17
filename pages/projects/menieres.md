@@ -1,7 +1,7 @@
 ---
 title: Meniere’s disease
 layout: default
-permalink: /menieres
+permalink: /menieres/
 ---
 
 # Meniere’s disease
