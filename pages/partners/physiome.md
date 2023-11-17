@@ -1,8 +1,7 @@
 ---
 title: Physiome Project
 layout: default
-redirect_from: "/partners/physiome/"
-permalink: /physiome
+permalink: /physiome/
 ---
 
 # Physiome Project
