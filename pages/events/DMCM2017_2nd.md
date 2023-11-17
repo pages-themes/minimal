@@ -1,8 +1,7 @@
 ---
 title: DMCM2017 2nd
 layout: default
-redirect_from: "/events/2ndCommunityMeeting/"
-permalink: /DMCM2017_2nd
+permalink: /DMCM2017_2nd/
 ---
 
 <img src="../images/places/belval-banner.jpg"/>
