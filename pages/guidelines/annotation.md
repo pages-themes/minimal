@@ -1,7 +1,7 @@
 ---
 title: Annotation
 layout: default
-permalink: /annotation
+permalink: /annotation/
 ---
 
 # Annotation
