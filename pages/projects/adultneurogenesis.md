@@ -1,8 +1,7 @@
 ---
 title: Adult neurogenesis
 layout: default
-redirect_from: "/projects/adultneurogenesis/"
-permalink: /adultneurogenesis
+permalink: /adultneurogenesis/
 ---
 
 # Adult neurogenesis
