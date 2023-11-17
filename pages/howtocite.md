@@ -1,7 +1,7 @@
 ---
 title: How to cite
 layout: default
-permalink: /howtocite
+permalink: /howtocite/
 ---
 
 # How to cite the Disease Maps Project
