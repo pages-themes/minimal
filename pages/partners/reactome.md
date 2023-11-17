@@ -1,7 +1,7 @@
 ---
 title: Reactome
 layout: default
-permalink: /reactome
+permalink: /reactome/
 ---
 
 # Reactome
