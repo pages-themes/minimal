@@ -1,7 +1,7 @@
 ---
 title: Published maps
 layout: default
-permalink: /published
+permalink: /published/
 ---
 
 # Published disease maps
