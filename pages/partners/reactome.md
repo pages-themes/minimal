@@ -16,7 +16,12 @@ Within the partnership of the Reactome and the Disease Maps, the shared areas of
 <tr>
 <td style="width: 100px;"><img src="../images/team/HenningHermjakob.jpg" alt="Henning Hermjakob" /></td>
 <td><strong>Henning Hermjakob</strong><br />
-<strong>European Bioinformatics Institute (EMBL-EBI), Cambridge, UK</strong><br />
-Team Leader, Molecular Networks; leads the Molecular Systems services at EMBL-EBI, which provide worldwide reference data resources in interactomics (IntAct), pathways (Reactome), and systems biology models (BioModels).</td>
+European Bioinformatics Institute (EMBL-EBI), Cambridge, UK; Team Leader, Molecular Networks; leads the Molecular Systems services at EMBL-EBI which provide worldwide reference data resources in interactomics (IntAct), pathways (Reactome) and systems biology models (BioModels)</td>
 </tr>
+<tr>
+<td style="width: 100px;"><img src="../images/team/MarcGillespie.jpg" alt="Marc Gillespie" /></td>
+<td><strong>Marc Gillespie</strong><br />
+Vice Provost for Graduate Education, Clinical Operations and Research, St. John's University, New York, USA</td>
+</tr>
+</table>
 
