@@ -222,7 +222,7 @@ This section includes projects that focus on shared mechanisms of two or more di
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><img src="../images/projects/button-acuteinflammation2.png" alt="Acute inflammation"/></a>
+<a href="../acuteinflammation" target="_blank" id="Acuteinflammation"><img src="../images/projects/button-acuteinflammation5.png" alt="Acute inflammation"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://air.bio.informatik.uni-rostock.de/" target="_blank">Atlas of Inflammation Resolution</a><br />
@@ -233,7 +233,7 @@ Publications: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32893032+354739
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><img src="../images/projects/button-neuraltubeclosure2.png" alt="Neural tube closure"/></a>
+<a href="../neuraltubeclosure" target="_blank" id="Neuraltubeclosure"><img src="../images/projects/button-neuraltubeclosure5.png" alt="Neural tube closure"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: <a href="https://ontox.elixir-luxembourg.org/minerva/index.xhtml?id=Neural_Tube_Closure_PM_v1" target="_blank">Neural Tube Closure Physiological Map</a><br />
@@ -244,7 +244,7 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../syscid" target="_blank" id="syscid"><img src="../images/projects/button-syscid2.png" alt="syscid"/></a>
+<a href="../syscid" target="_blank" id="syscid"><img src="../images/projects/button-syscid5.png" alt="syscid"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: SYSCID Map<br />
@@ -256,7 +256,7 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../immuniverse" target="_blank" id="immuniverse"><img src="../images/projects/button-immuniverse2.png" alt="immuniverse"/></a>
+<a href="../immuniverse" target="_blank" id="immuniverse"><img src="../images/projects/button-immuniverse5.png" alt="immuniverse"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: ImmUniverse Map<br />
@@ -267,7 +267,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../nephron" target="_blank" id="nephron"><img src="../images/projects/button-nephron2.png" alt="nephron"/></a>
+<a href="../nephron" target="_blank" id="nephron"><img src="../images/projects/button-nephron5.png" alt="nephron"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -278,7 +278,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment2.png" alt="braindevelopment"/></a>
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment5.png" alt="braindevelopment"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -296,7 +296,7 @@ This section includes maps that describe mechanisms of adverse effects of variou
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cart" target="_blank" id="cart"><img src="../images/projects/button-cart2.png" alt="cart"/></a>
+<a href="../cart" target="_blank" id="cart"><img src="../images/projects/button-cart5.png" alt="cart"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: CAR T cell AOP Map<br />
@@ -307,7 +307,7 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il2.png" alt="il2"/></a>
+<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il25.png" alt="il2"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: IL-2 AOP Map<br />
