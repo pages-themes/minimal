@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projects/
+permalink: /projectsbakcup2023-11-18/
 ---
 
 # Projects
