@@ -159,7 +159,7 @@ Contact: Sacha E Silva-Saffar, University of Evry, University of Paris-Saclay, F
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><img src="../images/projects/button-diabetickidneydisease2.png" alt="diabetickidneydisease"/></a>
+<a href="../diabetickidneydisease" target="_blank" id="Diabetickidneydisease"><img src="../images/projects/button-diabetickidneydisease3.png" alt="diabetickidneydisease"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Diabetic Kidney Disease Map<br />
@@ -170,7 +170,7 @@ Contact: Farnoush Kiyanpour, Isfahan University of Medical Sciences, Iran<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis"><img src="../images/projects/button-atopicdermatitis2.png" alt="atopicdermatitis"/></a>
+<a href="../atopicdermatitis" target="_blank" id="Atopicdermatitis"><img src="../images/projects/button-atopicdermatitis3.png" alt="atopicdermatitis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Atopic Dermatitis Map<br />
@@ -181,7 +181,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../psoriasis" target="_blank" id="Psoriasis"><img src="../images/projects/button-psoriasis2.png" alt="psoriasis"/></a>
+<a href="../psoriasis" target="_blank" id="Psoriasis"><img src="../images/projects/button-psoriasis3.png" alt="psoriasis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Psoriasis Map<br />
@@ -192,7 +192,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br /
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../steatosis" target="_blank" id="Steatosis"><img src="../images/projects/button-steatosis2.png" alt="steatosis"/></a>
+<a href="../steatosis" target="_blank" id="Steatosis"><img src="../images/projects/button-steatosis3.png" alt="steatosis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Liver Lipid Metabolism Physiological Map<br />
@@ -203,7 +203,7 @@ Contact: Luiz Ladeira, University of Liège, Liège, Belgium<br />
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../cholestasis" target="_blank" id="Cholestasis"><img src="../images/projects/button-cholestasis2.png" alt="cholestasis"/></a>
+<a href="../cholestasis" target="_blank" id="Cholestasis"><img src="../images/projects/button-cholestasis3.png" alt="cholestasis"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Liver Bile Secretion Physiological Map<br />
@@ -256,7 +256,7 @@ Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blan
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../immuniverse" target="_blank" id="immuniverse"><img src="../images/projects/button-immuniverse5.png" alt="immuniverse"/></a>
+<a href="../immuniverse" target="_blank" id="immuniverse"><img src="../images/projects/button-immuniverse3.png" alt="immuniverse"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: ImmUniverse Map<br />
@@ -267,7 +267,7 @@ Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../nephron" target="_blank" id="nephron"><img src="../images/projects/button-nephron5.png" alt="nephron"/></a>
+<a href="../nephron" target="_blank" id="nephron"><img src="../images/projects/button-nephron3.png" alt="nephron"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Nephron Physiological Map<br />
@@ -278,7 +278,7 @@ Contact: Alessio Gamba, University of Liège, Liège, Belgium
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment5.png" alt="braindevelopment"/></a>
+<a href="../braindevelopment" target="_blank" id="braindevelopment"><img src="../images/projects/button-braindevelopment3.png" alt="braindevelopment"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Brain Development Physiological Map<br />
@@ -307,7 +307,7 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il25.png" alt="il2"/></a>
+<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il23.png" alt="il2"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: IL-2 AOP Map<br />
