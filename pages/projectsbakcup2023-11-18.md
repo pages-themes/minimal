@@ -247,10 +247,10 @@ Publications: <a href="https://pubmed.ncbi.nlm.nih.gov/32926990/" target="_blank
 <strong><a href="../syscid" target="_blank">Chronic inflammation <br />&#9733;&#9733;&#9733;&#9734;&#9734;</a></strong> <br />
 </td>
 <td style="font-size:13px;"> 
-Resource: SYSCID Map<br />
+Resource: <a href="https://syscid.elixir-luxembourg.org/minerva/" target="_blank">SYSCID Map</a><br />
 Diseases: IBD, rheumatoid arthritis and systemic lupus erythematosus<br />
 Contact: Marcio Luis Acencio, University of Luxembourg, Belvaux, Luxembourg<br />
-Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">Frontiers in Immunology</a>
+Publications: <a href="https://doi.org/10.3389/fimmu.2023.1257321" target="_blank">DOI</a>
 </td>
 </tr>
 
