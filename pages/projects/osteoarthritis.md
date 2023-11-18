@@ -6,7 +6,7 @@ permalink: /osteoarthritis/
 
 # Osteoarthritis of the knee
 
-## KneePainOAMap
+## KneePainMap
 
 **Disease IDs:** [ICD10CM:M17](https://www.icd10data.com/ICD10CM/Codes/M00-M99/M15-M19/M17-/M17), [MONDO:0005416](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?short_form=MONDO_0005416), [MESH:D020370](https://www.ncbi.nlm.nih.gov/mesh/68020370), [DOID:8398](https://disease-ontology.org/?id=DOID:8398)  
 **Sustainable support:** [MINERVA Platform](https://minerva.pages.uni.lu/)  
@@ -47,7 +47,7 @@ Professor in Molecular and Genetic Epidemiology, Medicine and Health Sciences;<b
 </tr>
 </table>
 
-### KneePainOAMap Development Team
+### KneePainMap Development Team
 
 <table>
 <tr>
@@ -59,6 +59,16 @@ Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 <td style="width: 105px;"><img src="../images/team/OxanaLopata.jpg" alt="Oxana Lopata" /></td>
 <td><strong>Oxana Lopata, MSc</strong><br /><strong>Information Technology for Translational Medicine (ITTM) S.A., Luxembourg</strong><br />
 Researcher<br /></td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/MarekOstaszewski.jpg" alt="Marek Ostaszewski" /></td>
+<td><strong>Marek Ostaszewski, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
+Research Scientist at the Luxembourg Centre for Systems Biomedicine</td>
+</tr>
+<tr>
+<td style="width: 105px;"><img src="../images/team/AhmedHemedan.jpg" alt="Ahmed Hemedan" /></td>
+<td><strong>Ahmed Hemedan, PhD</strong><br /><strong>University of Luxembourg, Luxembourg</strong><br />
+Researcher at the Luxembourg Centre for Systems Biomedicine</td>
 </tr>
 <tr>
 <td><img src="../images/team/AndreasKremer.jpg" alt="Andreas Kremer" /></td>
