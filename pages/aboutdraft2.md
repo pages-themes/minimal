@@ -18,22 +18,22 @@ The leaders of the Disease Maps Project develop and refine the concept of diseas
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MarekOstaszewski1.jpg" width="120"/></p></td>
-<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
-</tr>
-<tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
-</tr>
-<tr>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AnnaNiarakis.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/AlexanderMazein.jpg" width="120"/></p></td>
+</tr>
+<tr>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Marek Ostaszewski, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD, HDR</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Alexander Mazein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Researcher, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg</p></td>
+</tr>
+<tr>
+<td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/InnaKuperstein.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/MattiHoch2.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:2px; text-align:left;"><img src="../images/teamhq/LuizLadeira.jpg" width="120"/></p></td>
 </tr>
 <tr>
-<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Anna Niarakis, PhD, HDR</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Professor, University of Toulouse III - Paul Sabatier, Toulouse, France</p></td>
+<td style="width: 200px; text-align:left; vertical-align:top;"><strong>Inna Kuperstein, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">ACSN Project Coordinator, Computational Systems Biology of Cancer group, Institut Curie, Paris, France</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Matti Hoch, MSc</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">PhD Student at the Department of Systems Biology and Bioinformatics, University of Rostock, Germany</p></td>
 <td style="width: 200px; text-align:left; vertical-align:top;"><strong>Luiz Ladeira, PhD</strong><p style="line-height:140%; margin-top:6px; font-size:13px;">Postdoctoral Researcher at the GIGA In Silico Medicine, University of Liège, Liège, Belgium</p></td>
 </tr>
