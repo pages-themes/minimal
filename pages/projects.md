@@ -307,7 +307,7 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../crs" target="_blank" id="crs"><img src="../images/projects/button-crs.png" alt="CRS"/></a>
+<a href="../crs" target="_blank" id="crs"><img src="../images/projects/button-crs3.png" alt="CRS"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Cytokine Release Syndrome Map<br />
