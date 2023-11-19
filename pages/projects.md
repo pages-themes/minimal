@@ -307,24 +307,12 @@ Publications: <a href="https://doi.org/10.1101/2023.03.21.533620" target="_blank
 
 <tr>
 <td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="crs"><img src="../images/projects/button-crs.png" alt="CRS"/></a>
+<a href="../crs" target="_blank" id="crs"><img src="../images/projects/button-crs.png" alt="CRS"/></a>
 </td>
 <td style="font-size:13px;"> 
 Resource: Cytokine Release Syndrome Map<br />
 Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg
 </td>
 </tr>
-
-<!--
-<tr>
-<td style="width: 160px; font-size:15px;"> 
-<a href="../il2" target="_blank" id="il2"><img src="../images/projects/button-il23.png" alt="il2"/></a>
-</td>
-<td style="font-size:13px;"> 
-Resource: IL-2 AOP Map<br />
-Contact: Alexander Mazein, University of Luxembourg, Belvaux, Luxembourg
-</td>
-</tr>
--->
 
 </table>
