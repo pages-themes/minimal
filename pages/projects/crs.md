@@ -1,11 +1,11 @@
 ---
-title: Recombinant IL-2 treatment
+title: Cytokine release syndrome
 layout: default
-permalink: /il2/
+permalink: /crs/
 ---
 
-# Recombinant IL-2 treatment
-## IL-2 AOP Map
+# Cytokine release syndrome
+## Cytokine Release Syndrome Map
 
 **Development status:** Active development  
 **Diseases treated:** Cancer, autoimmune diseases  
@@ -16,18 +16,12 @@ permalink: /il2/
 **Publication:** Manuscript in preparation   
 **Contact:** Alexander Mazein, University of Luxembourg, alexander.mazein(at)uni.lu  
 
-<!--
-[Skin rash map](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2skinrash), [Vascular leakage map](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2vascularleakage), [Hepatotoxicity map](https://imsavar.elixir-luxembourg.org/minerva/index.xhtml?id=IL2hepatotoxicity)  
--->
-
 ### Description
 
-Recombinant interleukin-2 (IL-2) is a therapeutic used to treat cancer and autoimmunity. Higher dosages can lead to systemic toxicities that are manifested by skin rash, hepatotoxicity and vascular leakage. These three adverse outcomes (AOs) are described by three adverse outcome pathways (AOPs).
+Cytokine release syndrome (CRS) is an acute systemic inflammatory syndrome, an adverse outcome (AO) associated with therapies that use chimeric antigen receptor (CAR) T cells, checkpoint inhibitors, T cell engagers and monoclonal antibodies. The Cytokine Release Syndrome Map (CRS Map) describes mechanisms of how the effects of different types of treatment converge to the same adverse outcome - the cytokine release syndrome (CRS). As the methodology we combine the concept of adverse outcome pathways (AOPs) as a higher-level description of events, and a concept of Disease Maps as a detailed description of relevant mechanisms.
 
-An adverse outcome pathway (AOP), or an immune-related adverse outcome pathway (irAOP), is a concept that is used to visualise and study adverse effects of treatments. An irAOP includes a molecular initiating event (MIE), key events (KEs), key event relationships (KERs) and an adverse outcome (AO). KEs are defined by connecting physiological events to test systems and measurable clinical parameters.
-
-In this project, we use irAOPs developed by the [imSAVAR](https://imsavar.eu/) experts for skin rash, hepatotoxicity and vascular leakage induced by recombinant IL-2. On the basis of these irAOPs we build detailed descriptions of adverse outcome mechanisms. For that we combine the AOP approach with the disease map approach and focusing on relevant cytokines, receptors and cell types, as well as on connections between them.
+An adverse outcome pathway (AOP), or an immune-related adverse outcome pathway (irAOP), is a concept that is used to visualise and study adverse effects of treatments. An irAOP includes a molecular initiating event (MIE), key events (KEs), key event relationships (KERs) and an adverse outcome (AO). KEs are defined by connecting physiological events to test systems and measurable clinical parameters. In this project, we use irAOPs developed by the [imSAVAR](https://imsavar.eu/) experts for various treatments. On the basis of these irAOPs we build detailed descriptions of adverse outcome mechanisms using the Disease Maps approach and focusing on relevant cytokines, receptors and cell types, as well as on connections between them.
 
 ### Funding
 
-This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 853988.
+This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement [No 853988](https://www.imi.europa.eu/projects-results/project-factsheets/imsavar).
