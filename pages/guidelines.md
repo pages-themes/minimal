@@ -6,7 +6,7 @@ permalink: /guidelines/
 
 # Guidelines
 
-The guidelines are introduced in 2023 ([PMID: 37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/)) and are based on our collective experience of building representations of disease mechanisms, as well as on the descriptions of the earlier published [disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps). In each case, a disease map is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.    
+These guidelines are introduced in 2023 ([PMID: 37426048](https://pubmed.ncbi.nlm.nih.gov/37426048/)) and are based on our collective experience of building representations of disease mechanisms, as well as on the descriptions of the earlier published [disease maps](https://disease-maps.org/publications#disease-maps) and [comprehensive pathway maps](/publications#comprehensive-pathway-maps). In each case, a disease map is designed while taking into account the goals and objectives of a particular project, specifics of disease conditions and disease subtypes.    
 
 There are training materials, definitions, templates and examples for different stages of the disease map development:  
 
@@ -20,7 +20,7 @@ There are training materials, definitions, templates and examples for different 
 
 ### Disease map development workflow
 
-The development workflow consists of nine steps in four phases: planning, curation, publishing and application.
+The development workflow can be subdivided into nine steps within four phases: planning, curation, publishing and application.
 
 ![](../images/guidelines/timeline.jpg)
 **Figure 1.** The map development workflow.  
