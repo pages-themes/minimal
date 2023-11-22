@@ -10,4 +10,4 @@ layout: default
          <img src="/assets/img/suzukii_global_distribution.gif" width="500">
 </p>
 
-<p> I used this data to visualize the progression of <i>D. suzukii</i>. Each dot is a recorded <i>D. suzukii</i> observation. I then added labels for the date and abundance. </p>
+<p> I used this data to visualize the progression of <i>D. suzukii</i>. Each dot is a recorded <i>D. suzukii</i> observation. Country names can be viewed when hovering. Labels for <i>D. suzukii's</i> obersvation date and abundance can be viewed when clicking on an individual dot. </p>
