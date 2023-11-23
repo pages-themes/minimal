@@ -20,3 +20,5 @@ layout: default
 <p>Interestingly, in Europe, <i>D. suzukii</i> progressed from the south to the north. This could indicate that <i>D. suzukii</i> invaded through southern ports and moved north on land.</p>
 
 
+<h3 align="center"> One year of Covid-19 in New York City</h3>
+
