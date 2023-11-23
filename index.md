@@ -32,4 +32,10 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
  </p>
 
 
+<p align="center">
+        <img src="/assets/img/covid_19_hospitalization_cases.gif"> 
+ </p>
 
+ <p align="center">
+        <img src="/assets/img/covid_19_neighborhood_cases.gif"> 
+ </p>
