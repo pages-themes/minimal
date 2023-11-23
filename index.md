@@ -24,11 +24,12 @@ layout: default
 In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from https://github.com/nychealth/coronavirus-data and creating the following figures. 
 
 
- <p> float="left">
-        <img src="assets/img/covid_19_reported_cases.gif" width="300" />
-        <img src="/assets/img/covid_19_death_cases.gif" width="300" /> 
- 
+<p align="center">
+         <img src="assets/img/covid_19_reported_cases.gif">
 </p>
+<p align="center">
+        <img src="/assets/img/covid_19_death_cases.gif"> 
+ </p>
 
 
 
