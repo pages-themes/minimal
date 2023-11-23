@@ -25,8 +25,8 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
 
 <p align="Left">
          <p float="left">
-        <img src="assets/img/covid_19_reported_cases.gif" width="240" />
-        <img src="/assets/img/covid_19_death_cases.gif" width="240" /> 
+        <img src="assets/img/covid_19_reported_cases.gif" width="200" />
+        <img src="/assets/img/covid_19_death_cases.gif" width="200" /> 
  
 </p>
 
