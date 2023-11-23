@@ -11,3 +11,10 @@ layout: default
 </p>
 
 <p> I used this data to visualize the progression of <i>D. suzukii</i>. Each dot is a recorded <i>D. suzukii</i> observation. Country names can be viewed when hovering. Labels for <i>D. suzukii's</i> obersvation date and abundance can be viewed when clicking on an individual dot. </p>
+
+
+<p align="center">
+         <img src="assets/img/suzukii_europe_distribution.gif">
+</p>
+
+<p>Interestingly, when zooming into Europe we can see that <i>D. suzukii</i> progressed from the south to the north. This may be because the south has more agriculuture or because <i>D. suzukii</i> invaded through southern ports and moved north on land./p>
