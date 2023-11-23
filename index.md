@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Reporting Portfolio - Alice Gadau
+## Reporting Portfolio 
 
 <h3 align="center"> <i>Drosophila suzukii</i> Global Distribution</h3>
 <p> <i>D. suzukii</i> is an invasive fruit fly from Southeast Asia that lays it's eggs in ripe fruit, causing extensive crop damage. In 2018, scientists made a comprehensive overview of <i>D. suzukii's</i> global distribution [doi](https://doi.org/10.1111/1365-2664.13285). The compiled data is from over 500 documents and includes information on D. suzukii's ubiquity. </p>
@@ -20,5 +20,15 @@ layout: default
 <p>Interestingly, in Europe, <i>D. suzukii</i> progressed from the south to the north. This could indicate that <i>D. suzukii</i> invaded through southern ports and moved north on land.</p>
 
 
-<h3 align="center"> One year of Covid-19 in New York City</h3>
+<h3 align="center"> Three years of COVID-19 in New York City</h3>
+In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from https://github.com/nychealth/coronavirus-data and creating the following figures. 
+
+<p align="Left">
+         <p float="left">
+        <img src="assets/img/covid_19_reported_cases.gif" width="100" />
+        <img src="/assets/img/covid_19_death_cases.gif" width="100" /> 
+ 
+</p>
+
+
 
