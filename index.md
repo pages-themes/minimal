@@ -20,11 +20,11 @@ layout: default
 <p>Interestingly, in Europe, <i>D. suzukii</i> progressed from the south to the north. This could indicate that <i>D. suzukii</i> invaded through southern ports and moved north on land.</p>
 
 
-<h3 align="center"> Three years of COVID-19 in New York City</h3>
+<h3 align="center"> Three Years of COVID-19 in New York City</h3>
 In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from https://github.com/nychealth/coronavirus-data and creating the following figures. 
 
-<p align="Left">
-         <p float="left">
+
+ <p> float="left">
         <img src="assets/img/covid_19_reported_cases.gif" width="300" />
         <img src="/assets/img/covid_19_death_cases.gif" width="300" /> 
  
