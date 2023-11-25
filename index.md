@@ -47,11 +47,11 @@ I plotted the transcript per millions (TPM) of 15 genes of interest that were si
         <img src="assets/img/figure_1.jpeg"> 
  </p>
 
-I also 
+Fly icons I made for my thesis project. 
 <p align="center">
         <img src="assets/img/male_and_female_fly.png"> 
  </p>
-
+I plotted the spike rate of one neuron that I recorded using single sensillum electrophysiology over time. Neurons spike when they receive an external signal, and the spike rate can be recorded using electrophysiology. Each trace shows one fly neuron spiking, and the bold colored line is the average of all traces. 
  <p align="center">
         <img src="assets/img/Spike_rate_over_time.png"> 
  </p>
