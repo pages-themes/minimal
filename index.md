@@ -13,6 +13,7 @@ layout: default
 <p> I used this data to visualize the progression of <i>D. suzukii</i>. Each dot is a recorded <i>D. suzukii</i> observation. Country names can be viewed when hovering. Labels for <i>D. suzukii's</i> obersvation date and abundance can be viewed when clicking on an individual dot. </p>
 
 
+
 <p align="center">
          <img src="assets/img/suzukii_europe_distribution.gif">
 </p>
@@ -31,10 +32,6 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
         <img src="/assets/img/covid_19_death_cases.gif"> 
  </p>
 
-[Code example](/assets/img/R_code_for_suzukii_distribution.html)
-
-
-
 <p align="center">
         <img src="/assets/img/covid_19_hospitalization_cases.gif"> 
  </p>
@@ -42,3 +39,6 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
  <p align="center">
         <img src="/assets/img/covid_19_neighborhood_cases.gif"> 
  </p>
+
+##Code examples 
+[D. suzukii distribution code](/assets/img/R_code_for_suzukii_distribution.html) 
