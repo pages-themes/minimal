@@ -41,7 +41,7 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
  </p>
 ---
 
-## Graphics made for PH.D. thesis project
+## Selected graphics made for PH.D. thesis project
 <p align="center">
         <img src="assets/img/figure_1.jpeg"> 
  </p>
