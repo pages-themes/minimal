@@ -42,5 +42,5 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
 
 ---
 ## Code examples 
--[D. suzukii distribution code](/assets/img/R_code_for_suzukii_distribution.html) 
--[covid-19 NYC code](assets/img/R_code_for_covid_nyc.html)
+- [D. suzukii distribution code](/assets/img/R_code_for_suzukii_distribution.html) 
+- [covid-19 NYC code](assets/img/R_code_for_covid_nyc.html)
