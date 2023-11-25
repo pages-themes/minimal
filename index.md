@@ -39,6 +39,20 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
  <p align="center">
         <img src="/assets/img/covid_19_neighborhood_cases.gif"> 
  </p>
+---
+
+## Graphics made for PH.D. thesis project
+<p align="center">
+        <img src="assets/img/figure_1.jpeg"> 
+ </p>
+
+<p align="center">
+        <img src="assets/img/male_and_female_fly.png"> 
+ </p>
+
+ <p align="center">
+        <img src="assets/img/Spike_rate_over_time.png"> 
+ </p>
 
 ---
 ## Code examples 
