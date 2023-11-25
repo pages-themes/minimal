@@ -42,7 +42,7 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
 ---
 
 ## Selected graphics made for PH.D. thesis project
-I plotted the transcript per millions (TPM) of 15 genes of interest that were significantly differentially expressed in my RNA-sequencing analysis. For the analysis, I compared the expression rate (how often a gene is transcribed) of different genes between four fly species. 
+For the below graphic, I plotted the transcript per millions (TPM) of 15 genes of interest that were significantly differentially expressed in my RNA-sequencing analysis. For the analysis, I compared the expression rate (how often a gene is transcribed) of different genes between four fly species. 
 <p align="center">
         <img src="assets/img/figure_1.jpeg"> 
  </p>
@@ -51,7 +51,7 @@ Fly icons I made for my thesis project.
 <p align="center">
         <img src="assets/img/male_and_female_fly.png"> 
  </p>
-I plotted the spike rate of one neuron that I recorded using single sensillum electrophysiology over time. Neurons spike when they receive an external signal, and the spike rate can be recorded using electrophysiology. Each trace shows one fly neuron spiking, and the bold colored line is the average of all traces. 
+Below, I plotted the spike rate of one neuron that I recorded using single sensillum electrophysiology over time. Neurons spike when they receive an external signal, and the spike rate can be recorded using electrophysiology. Each trace shows one fly neuron spiking, and the bold colored line is the average of all traces. 
  <p align="center">
         <img src="assets/img/Spike_rate_over_time.png"> 
  </p>
