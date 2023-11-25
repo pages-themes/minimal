@@ -41,7 +41,7 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
  </p>
 ---
 
-## Selected graphics made for PH.D. thesis project
+## Selected graphics from PH.D. thesis project
 For the below graphic, I plotted the transcript per millions (TPM) of 15 genes of interest that were significantly differentially expressed in my RNA-sequencing analysis. For the analysis, I compared the expression rate (how often a gene is transcribed) of different genes between four fly species. 
 <p align="center">
         <img src="assets/img/figure_1.jpeg"> 
