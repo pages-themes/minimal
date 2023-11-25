@@ -40,5 +40,6 @@ In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a gl
         <img src="/assets/img/covid_19_neighborhood_cases.gif"> 
  </p>
 
-##Code examples 
-[D. suzukii distribution code](/assets/img/R_code_for_suzukii_distribution.html) 
+---
+## Code examples 
+-[D. suzukii distribution code](/assets/img/R_code_for_suzukii_distribution.html) 
