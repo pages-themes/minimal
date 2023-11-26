@@ -22,9 +22,7 @@ layout: default
 
 
 <h3 align="center"> Three Years of COVID-19 in New York City</h3>
-In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from 
-
-[github](https://github.com/nychealth/coronavirus-data) and creating the following figures. 
+In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from [github](https://github.com/nychealth/coronavirus-data) and creating the following figures. 
 
 
 <p align="center">
