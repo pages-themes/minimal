@@ -8,7 +8,7 @@ permalink: /contact/
 
 For suggesting collaboration, contribution to the existing projects or initiation of new disease maps, please use this email address:  
 disease-maps-contact@googlegroups.com  
-<img src="/images/disease-maps-contact.jpg" width="320px">
+<img src="/images/disease-maps-contact.jpg" width="300px">
 
 <!--
 ### Disease Maps Project Leaders
