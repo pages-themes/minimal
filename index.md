@@ -4,10 +4,9 @@ layout: default
 ## Reporting Portfolio 
 
 <h3 align="center"> <i>Drosophila suzukii</i> Global Distribution</h3>
-<p> <i>D. suzukii</i> is an invasive fruit fly from Southeast Asia that lays it's eggs in ripe fruit, causing extensive crop damage. In 2018, scientists made a comprehensive overview of <i>D. suzukii's</i> global distribution </p>
+<i>D. suzukii</i> is an invasive fruit fly from Southeast Asia that lays it's eggs in ripe fruit, causing extensive crop damage. In 2018, scientists made a comprehensive overview of <i>D. suzukii's</i> global distribution. 
 
-[Ørsted and  Ørsted, 2018](assets/img/%20Ørsted_and_%20Ørsted_2018.pdf)
-<p>. The compiled data is from over 500 documents and includes informatgition on D. suzukii's ubiquity. </p>
+[Ørsted and  Ørsted, 2018](assets/img/%20Ørsted_and_%20Ørsted_2018.pdf) The compiled data is from over 500 documents and includes information on <i>D. suzukii's</i> ubiquity.
 
 <p align="center">
          <img src="/assets/img/suzukii_global_distribution.gif" width="500">
@@ -25,7 +24,9 @@ layout: default
 
 
 <h3 align="center"> Three Years of COVID-19 in New York City</h3>
-In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from https://github.com/nychealth/coronavirus-data and creating the following figures. 
+In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (nyc). To make informed public health decisions, New York City tracked the case and death rate and publicized their data. I downloaded all the data from 
+
+[github](https://github.com/nychealth/coronavirus-data) and creating the following figures. 
 
 
 <p align="center">
