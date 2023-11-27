@@ -51,10 +51,10 @@ Fly icons and blueprints for a behavior chamber I designed for my thesis project
 
 
 <p align="center">
-  <img src="assets/img/male_and_female_fly.png" >
+  <img src="assets/img/male_and_female_fly.png" width = "350">
   </p>
-<p
-  <img src="assets/img/behavior_chamber.png" > 
+<p align="center">
+  <img src="assets/img/behavior_chamber.png" width = "350"> 
 </p>
 
 Below, I plotted the spike rate of one neuron that I recorded using single sensillum electrophysiology over time. Neurons spike when they receive an external signal, and the spike rate can be recorded using electrophysiology. Each trace shows one fly neuron spiking, and the bold colored line is the average of all traces. 
