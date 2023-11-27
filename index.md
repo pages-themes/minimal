@@ -10,7 +10,7 @@ layout: default
          <img src="/assets/img/suzukii_global_distribution.gif" width="500">
 </p>
 
-<p> I used this data to visualize the progression of <i>D. suzukii</i>. Each dot is a recorded <i>D. suzukii</i> observation. Country names can be viewed when hovering. Labels for <i>D. suzukii's</i> obersvation date and abundance can be viewed when clicking on an individual dot. </p>
+<p> I used this data to visualize the progression of <i>D. suzukii</i>. Each dot is a recorded <i>D. suzukii</i> observation. Country names can be viewed when hovering. Labels for <i>D. suzukii's</i> observation date and abundance can be viewed when clicking on an individual dot. </p>
 
 
 
@@ -22,7 +22,7 @@ layout: default
 
 
 <h3 align="center"> Three Years of COVID-19 in New York City</h3>
-In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (NYC). To make informed public health decisions, NYC tracked the case and death rate and publicized their data. I downloaded all the data from [github](https://github.com/nychealth/coronavirus-data) and created the following figures. 
+In the beginning of 2020, a new virus (SARS-CoV-2) spread worldwide causing a global pandemic. COVID-19, the disease caused by SARS-CoV-2, quickly dispersed through New York City (NYC). To make informed public health decisions, NYC tracked the case and death rate and publicized their data. I downloaded all the data from [NYC - github](https://github.com/nychealth/coronavirus-data) and created the following figures. 
 
 
 <p align="center">
@@ -47,7 +47,7 @@ For the below graphic, I plotted the expression (TPM) of 15 genes of interest th
         <img src="assets/img/figure_1.jpeg"> 
  </p>
 
-Fly icons I made for my thesis project. 
+Fly icons made for my thesis project. 
 <p align="center">
         <img src="assets/img/male_and_female_fly.png"> 
  </p>
