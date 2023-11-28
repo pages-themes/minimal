@@ -66,3 +66,4 @@ Below, I plotted the spike rate of a neuron recorded with single sensillum elect
 ## Example code with Interactive Output
 - [D. suzukii distribution R code](/assets/img/R_code_for_suzukii_distribution.html) 
 - [COVID-19 NYC R code](assets/img/R_code_for_covid_nyc.html)
+- [Neuron spike rate with statistic analysis](assets/img/Rcode_PSTH.html)
