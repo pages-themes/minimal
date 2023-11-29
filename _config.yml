@@ -1,6 +1,11 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Alice Gadau
+logo: "assets/img/image_personal.png"
+description: >
+  <br>
+  PhD student at The Rockefeller University. For my evolutionary genetics Phd, I studied how invasive species adapt to new environments. I'm excited to apply my skills as a data journalist.
+  <br><br>
+  Expertise: Evolution / Genomics / Neurobiology / Data Visualization
+  <br><br>
+  <a href="https://www.linkedin.com/in/alice-gadau-0365ba152/">LinkedIn</a>
+
 theme: jekyll-theme-minimal
