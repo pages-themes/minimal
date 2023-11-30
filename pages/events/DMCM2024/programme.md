@@ -10,6 +10,9 @@ permalink: /DMCM2024/programme/
 
 <img src="Belval08.jpg"/>
 
+<img src="/Belval08.jpg"/>
+
+
 ## Programme
 
 The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00.
