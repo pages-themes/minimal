@@ -23,7 +23,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 14:30-16:00 Poster lightning talks \
 16:00-18:00 Poster session with drinks \
 
-###26 March 2024 - Day 2
+### 26 March 2024 - Day 2
 
 **Session 3** \
 09:00-10:00 Keynote speaker 3 \
@@ -43,15 +43,15 @@ Session 5 \
 
 18:30	Conference dinner
 
-###27 March 2024 - Day 3
+### 27 March 2024 - Day 3
 
-Session 10 
-09:00-09:10 Introduction to the interactive session
-09:10-10:30 Interactive session in breakout rooms
+**Session 10** \
+09:00-09:10 Introduction to the interactive session \
+09:10-10:30 Interactive session in breakout rooms \
 
 10:30-11:00 Coffee break
 
-Session 11
-11:00-12:00 Interactive session in breakout rooms (preparing summary)
-12:00-12:30 Summary
+**Session 11** \
+11:00-12:00 Interactive session in breakout rooms (preparing summary) \
+12:00-12:30 Summary \
 
