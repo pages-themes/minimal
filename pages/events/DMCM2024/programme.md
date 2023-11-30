@@ -4,7 +4,7 @@ layout: default
 permalink: /DMCM2024/programme/
 ---
 
-<img src="../images/places/Belval08.jpg"/>
+<img src="/images/places/Belval08.jpg"/>
 
 ## Programme
 
