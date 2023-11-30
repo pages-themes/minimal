@@ -34,6 +34,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 |               | 16:00-18:00    | **Poster session with drinks** |      
 
 
+|---------------|----------------|-------------------------------------------------------------|
 | **Session 1** | 09:00-09:05    | **Welcome**<br>Marek Ostaszewski, Luxembourg Centre for Systems Biomedicine, University of Luxembourg |
 |               | 09:05-10:o0    | **Keynote speaker 1** |         
 |               | 10:00-12:00    | **Presentations** |
