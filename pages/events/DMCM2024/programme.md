@@ -6,7 +6,7 @@ permalink: /DMCM2024/programme/
 
 <img src="/images/places/Belval08.jpg"/>
 
-<img src="/Belval08.jpg"/>
+<img src="../Belval08.jpg"/>
 
 ## Programme
 
