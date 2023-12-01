@@ -24,15 +24,15 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 16:00-18:00 Poster session with drinks
 
 
-| **Session**   | **Time**       | **Activity**                                                |
-|---------------|----------------|-------------------------------------------------------------|
-| **Session 1** | 09:00-09:05    | **Welcome** |
-|               | 09:05-10:05    | **Keynote speaker 1** |         
-|               | 10:05-12:00    | **Presentations** |
-|               | 12:00-13:30    | Lunch |
-| **Session 2** | 13:30-14:30    | **Keynote speaker 2** |
-|               | 14:30-16:00    | **Poster lightning talks** |
-|               | 16:00-18:00    | **Poster session with drinks** |  
+| **Session**   | **Time**     | **Activity**                                                |
+|---------------|--------------|-------------------------------------------------------------|
+| **Session 1** | 09:00-09:05  | **Welcome** |
+|               | 09:05-10:05  | **Keynote speaker 1** |         
+|               | 10:05-12:00  | **Presentations** |
+|               | 12:00-13:30  | Lunch |
+| **Session 2** | 13:30-14:30  | **Keynote speaker 2** |
+|               | 14:30-16:00  | **Poster lightning talks** |
+|               | 16:00-18:00  | **Poster session with drinks** |  
 
 
 <table>
