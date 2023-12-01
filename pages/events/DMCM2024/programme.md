@@ -65,7 +65,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 10:05-12:00
 </td>
 <td style="width: 400px;">
-Lunch
+<strong>Keynote speaker 1</strong>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ Lunch
 12:00-13:30
 </td>
 <td style="width: 400px;">
-<strong>Presentations</strong>
+Lunch
 </td>
 </tr>
 </table>
