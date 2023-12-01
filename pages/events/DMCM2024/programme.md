@@ -13,7 +13,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 ### Day 1 - Monday, 25 March 2024
 
 **Session 1** \
-09:00-10:00 Keynote speaker 1
+09:00-10:00 Keynote speaker 1 \
 10:00-12:00 Presentations
 
 12:00-13:30 Lunch
