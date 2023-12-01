@@ -23,7 +23,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 14:30-16:00 Poster lightning talks \
 16:00-18:00 Poster session with drinks
 
-<!--
+
 | **Session**   | **Time**       | **Activity**                                                |
 |---------------|----------------|-------------------------------------------------------------|
 | **Session 1** | 09:00-09:05    | **Welcome** |
@@ -33,7 +33,6 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 | **Session 2** | 13:30-14:30    | **Keynote speaker 2** |
 |               | 14:30-16:00    | **Poster lightning talks** |
 |               | 16:00-18:00    | **Poster session with drinks** |  
--->
 
 
 <table>
