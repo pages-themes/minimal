@@ -35,6 +35,52 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 |               | 16:00-18:00    | **Poster session with drinks** |  
 -->
 
+
+<table>
+<tr>
+<td style="width: 100px;">
+<strong>Session 1</strong>
+</td>
+<td style="width: 100px;">
+09:00-09:05
+</td>
+<td style="width: 400px;">
+<strong>Welcome</strong>
+</td>
+</tr>
+<tr>
+<td style="width: 100px;"> 
+</td>
+<td style="width: 100px;">
+09:05-10:05
+</td>
+<td style="width: 400px;">
+<strong>Keynote speaker 1</strong>
+</td>
+</tr>
+<tr>
+<td style="width: 100px;"> 
+</td>
+<td style="width: 100px;">
+10:05-12:00
+</td>
+<td style="width: 400px;">
+Lunch
+</td>
+</tr>
+<tr>
+<td style="width: 100px;"> 
+</td>
+<td style="width: 100px;">
+12:00-13:30
+</td>
+<td style="width: 400px;">
+<strong>Presentations</strong>
+</td>
+</tr>
+</table>
+
+
 ### Day 2 - Tuesday, 26 March 2024
 
 **Session 3** \
