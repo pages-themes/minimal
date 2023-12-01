@@ -48,7 +48,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 09:00-09:15 Introduction to the interactive session \
 09:15-11:00 Interactive session in breakout rooms
 
-11:00-11:30 Coffee break/Summary preparation
+11:00-11:30 Coffee break / Summary preparation
 
 11:30-12:30 Summary session
 
