@@ -14,7 +14,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 
 **Session 1** \
 09:00-10:00 &nbsp; Keynote speaker 1 \
-10:00-12:00 &mbsp; Presentations
+10:00-12:00 &nbsp; Presentations
 
 12:00-13:30 &nbsp; Lunch
 
