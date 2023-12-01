@@ -40,7 +40,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 **Session 5** \
 17:00-18:30 &nbsp; Panel discussion with the keynote speakers
 
-19:00	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conference dinner
+19:00	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conference dinner
 
 ### Day 3 - Wednesday, 27 March 2024
 
