@@ -1,6 +1,18 @@
 title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: /assets/img/Image20231122005459.png
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rai-shubham/">LinkedIn</a> |
+  <a href="https://github.com/rai-shubh">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
