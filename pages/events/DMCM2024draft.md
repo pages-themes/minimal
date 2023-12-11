@@ -46,7 +46,7 @@ We are excited to announce our keynote speakers:
     <td> 
       <b>Liesbet Geris</b> <br />
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a> <br />
-      Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège, Belgium; KU Leuven, Belgium <br />
+      Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium <br />
       <b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b>
     </td>
   </tr> 
