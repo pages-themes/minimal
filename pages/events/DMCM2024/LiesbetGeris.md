@@ -4,6 +4,8 @@ layout: default
 permalink: /DMCM2024/LiesbetGeris/
 ---
 
+<img src="/images/places/Belval08.jpg"/>
+
 <img src="/images/teamhq/LiesbetGeris.jpg" width="150"/>
 
 <b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b>
