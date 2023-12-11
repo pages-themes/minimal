@@ -35,8 +35,8 @@ We are excited to announce our keynote speakers:
     <td style="width: 140px;">
       <img src="../images/teamhq/JamesGlazier.jpg" width="135"/></td>
     <td> 
-      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US<br />
-      <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b>
+      <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b> <br />
+      <p style="margin-top:6px;"><a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US</p>
     </td>
   </tr> 
   <tr>
