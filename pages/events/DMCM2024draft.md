@@ -28,14 +28,14 @@ Registration is free but mandatory for all attendees. [Please register by 25th F
 
 ## Keynote speakers
 
-We are excited to announce the following keynote speakers for our upcoming event.
+We are excited to announce our keynote speakers:
 
 <table>
   <tr>
     <td style="width: 130px;">
       <img src="../images/teamhq/JamesGlazier.jpg" width="120"/></td>
     <td> 
-      <b>James Glazier</b> <br />
+      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a> <br />
       Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US<br />
       Talk title: From disease networks to multiscale virtual tissue models of health and disease: building tools and community
     </td>
@@ -45,6 +45,7 @@ We are excited to announce the following keynote speakers for our upcoming event
       <img src="../images/teamhq/LiesbetGeris.jpg" width="120"/></td>
     <td> 
       <b>Liesbet Geris</b> <br />
+      <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a> <br />
       Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège, Belgium; KU Leuven, Belgium <br />
       Talk title: Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin
     </td>
