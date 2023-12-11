@@ -32,8 +32,8 @@ We are excited to announce our keynote speakers:
 
 <table>
   <tr>
-    <td style="width: 130px;">
-      <img src="../images/teamhq/JamesGlazier.jpg" width="120"/></td>
+    <td style="width: 140px;">
+      <img src="../images/teamhq/JamesGlazier.jpg" width="135"/></td>
     <td> 
       <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a> <br />
       Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US<br />
@@ -41,8 +41,8 @@ We are excited to announce our keynote speakers:
     </td>
   </tr> 
   <tr>
-    <td style="width: 130px;">
-      <img src="../images/teamhq/LiesbetGeris.jpg" width="120"/></td>
+    <td style="width: 140px;">
+      <img src="../images/teamhq/LiesbetGeris.jpg" width="135"/></td>
     <td> 
       <b>Liesbet Geris</b> <br />
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a> <br />
