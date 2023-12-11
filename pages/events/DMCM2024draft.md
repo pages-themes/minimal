@@ -28,6 +28,8 @@ Registration is free but mandatory for all attendees. [Please register by 25th F
 
 ## Keynote speakers
 
+We are excited to announce the following keynote speakers for our upcoming event.
+
 
 
 ## Programme
