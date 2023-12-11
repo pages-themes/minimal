@@ -16,6 +16,6 @@ permalink: /DMCM2024/JamesGlazier/
   </tr> 
 </table>
 
-<b>Title</b>
+### Title
 
 Abstract
