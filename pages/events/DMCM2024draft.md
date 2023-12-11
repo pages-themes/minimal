@@ -37,6 +37,7 @@ We are excited to announce our keynote speakers:
     <td> 
       <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA <br />
       <p style="margin-top:8px;"> <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b> </p>
+      <a href="../DMCM2024/James_Glazier" target="_blank">Abstract</a>
     </td>
   </tr> 
   <tr>
