@@ -35,17 +35,18 @@ We are excited to announce our keynote speakers:
     <td style="width: 140px;">
       <img src="../images/teamhq/JamesGlazier.jpg" width="135"/></td>
     <td> 
-      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA <br />
-      <p style="margin-top:8px;"> <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b> </p>
-      <a href="../DMCM2024/James_Glazier" target="_blank">Abstract</a>
+      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA
+      <p style="margin-top:8px;"><b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b></p>
+      <p style="margin-top:8px;"><a href="../DMCM2024/JamesGlazier" target="_blank">Abstract</a></p>
     </td>
   </tr> 
   <tr>
     <td style="width: 140px;">
       <img src="../images/teamhq/LiesbetGeris.jpg" width="135"/></td>
     <td> 
-      <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium <br />
+      <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium
       <p style="margin-top:8px;"><b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b></p>
+      <p style="margin-top:8px;"><a href="../DMCM2024/JamesGlazier" target="_blank">Abstract</a></p>
     </td>
   </tr> 
 </table>
