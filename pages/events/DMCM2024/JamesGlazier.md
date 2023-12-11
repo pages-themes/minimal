@@ -16,7 +16,7 @@ permalink: /DMCM2024/JamesGlazier/
   </tr> 
 </table>
 
-<b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b>
+### From disease networks to multiscale virtual tissue models of health and disease: building tools and community
 
 The relationship between health, disease, and therapy is fundamentally connected to how molecular states translate into physiological outcomes at tissue and organ levels. Predicting these larger-scale outcomes from molecular data is complex due to feedback mechanisms across cellular, multicellular, organ, and organismal scales. Virtual Tissue simulations, utilizing an Agent-Based, middle-out approach, start by modeling cell behaviors and interactions and then scale up and down to different biological levels. These simulations have been instrumental in advancing our understanding of development, homeostasis, disease mechanisms, drug discovery, and toxicology.
 
