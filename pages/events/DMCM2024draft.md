@@ -49,6 +49,15 @@ We are excited to announce our keynote speakers:
       <p style="margin-top:8px;"><a href="../DMCM2024/LiesbetGeris" target="_blank">Abstract</a></p>
     </td>
   </tr> 
+  <tr>
+    <td style="width: 140px;">
+      <img src="../images/teamhq/HenningHermjakob.jpg" width="135"/></td>
+    <td> 
+      <a href="https://www.ebi.ac.uk/people/person/henning-hermjakob/" target="_blank"><b>Henning Hermjakob</b></a>, Head of Molecular Systems, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
+      <p style="margin-top:8px;"><b> </b></p>
+      <p style="margin-top:8px;"><a href="../DMCM2024/HenningHermjakob" target="_blank"> </a></p>
+    </td>
+  </tr> 
 </table>
 
 ## Programme
