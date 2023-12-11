@@ -35,8 +35,7 @@ We are excited to announce our keynote speakers:
     <td style="width: 140px;">
       <img src="../images/teamhq/JamesGlazier.jpg" width="135"/></td>
     <td> 
-      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a> <br />
-      Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US<br />
+      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US<br />
       <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b>
     </td>
   </tr> 
@@ -44,8 +43,7 @@ We are excited to announce our keynote speakers:
     <td style="width: 140px;">
       <img src="../images/teamhq/LiesbetGeris.jpg" width="135"/></td>
     <td> 
-      <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a> <br />
-      Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium <br />
+      <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium <br />
       <b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b>
     </td>
   </tr> 
