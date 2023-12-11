@@ -45,8 +45,8 @@ We are excited to announce our keynote speakers:
       <img src="../images/teamhq/LiesbetGeris.jpg" width="135"/></td>
     <td> 
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium
-      <p style="margin-top:8px;"><b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b></p>
-      <p style="margin-top:8px;"><a href="../DMCM2024/LiesbetGeris" target="_blank">Abstract</a></p>
+      <p style="margin-top:6px;"><b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b></p>
+      <p style="margin-top:6px;"><a href="../DMCM2024/LiesbetGeris" target="_blank">Abstract</a></p>
     </td>
   </tr> 
   <tr>
@@ -54,8 +54,8 @@ We are excited to announce our keynote speakers:
       <img src="../images/teamhq/HenningHermjakob.jpg" width="135"/></td>
     <td> 
       <a href="https://www.ebi.ac.uk/people/person/henning-hermjakob/" target="_blank"><b>Henning Hermjakob</b></a>, Team Leader, Molecular Networks, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
-      <p style="margin-top:8px;"><b> </b></p>
-      <p style="margin-top:8px;"><a href="../DMCM2024/HenningHermjakob" target="_blank"> </a></p>
+      <p style="margin-top:6px;"><b> </b></p>
+      <p style="margin-top:6px;"><a href="../DMCM2024/HenningHermjakob" target="_blank"> </a></p>
     </td>
   </tr> 
 </table>
