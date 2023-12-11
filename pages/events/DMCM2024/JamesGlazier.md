@@ -6,11 +6,17 @@ permalink: /DMCM2024/JamesGlazier/
 
 <img src="/images/places/Belval08.jpg"/>
 
-<img src="/images/teamhq/JamesGlazier.jpg" width="150"/>
+<table>
+  <tr>
+    <td style="width: 140px;">
+      <img src="../images/teamhq/JamesGlazier.jpg" width="135"/></td>
+    <td> 
+      <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA
+    </td>
+  </tr> 
+</table>
 
 <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b>
-
-James Glazier, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA
 
 The relationship between health, disease, and therapy is fundamentally connected to how molecular states translate into physiological outcomes at tissue and organ levels. Predicting these larger-scale outcomes from molecular data is complex due to feedback mechanisms across cellular, multicellular, organ, and organismal scales. Virtual Tissue simulations, utilizing an Agent-Based, middle-out approach, start by modeling cell behaviors and interactions and then scale up and down to different biological levels. These simulations have been instrumental in advancing our understanding of development, homeostasis, disease mechanisms, drug discovery, and toxicology.
 
