@@ -44,7 +44,7 @@ We are excited to announce our keynote speakers:
       <img src="../images/teamhq/LiesbetGeris.jpg" width="135"/></td>
     <td> 
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium <br />
-      <b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b>
+      <p style="margin-top:6px;"><b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b></p>
     </td>
   </tr> 
 </table>
