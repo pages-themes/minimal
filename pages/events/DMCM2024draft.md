@@ -37,7 +37,7 @@ We are excited to announce our keynote speakers:
     <td> 
       <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a> <br />
       Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, US<br />
-      Talk title: From disease networks to multiscale virtual tissue models of health and disease: building tools and community
+      <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b>
     </td>
   </tr> 
   <tr>
@@ -47,7 +47,7 @@ We are excited to announce our keynote speakers:
       <b>Liesbet Geris</b> <br />
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a> <br />
       Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège, Belgium; KU Leuven, Belgium <br />
-      Talk title: Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin
+      <b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b>
     </td>
   </tr> 
 </table>
