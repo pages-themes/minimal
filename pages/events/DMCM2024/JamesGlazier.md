@@ -4,7 +4,7 @@ layout: default
 permalink: /DMCM2024/JamesGlazier/
 ---
 
-<img src="../images/teamhq/JamesGlazier.jpg" width="150"/>
+<img src="/images/teamhq/JamesGlazier.jpg" width="150"/>
 
 <b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b>
 
