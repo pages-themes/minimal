@@ -9,7 +9,7 @@ permalink: /DMCM2024draft/
 ## 25-27 March 2024, Belval, Luxembourg
 -->
 
-<img src="../images/places/Belval08.jpg"/>
+<img src="/images/places/Belval08.jpg"/>
 
 The 2024 community meeting is hosted by the [Luxembourg Centre for Systems Biomedicine](https://www.uni.lu/lcsb-en/), University of Luxembourg. This is a joint event of the [Disease Maps Community](https://disease-maps.org/) and the [ELIXIR Systems Biology Community](https://elixir-europe.org/communities/systems-biology).
 
@@ -33,27 +33,27 @@ We are excited to announce our keynote speakers:
 <table>
   <tr>
     <td style="width: 140px;">
-      <img src="../images/teamhq/JamesGlazier.jpg" width="135"/></td>
+      <img src="/images/teamhq/JamesGlazier.jpg" width="135"/></td>
     <td> 
       <a href="https://luddy.indiana.edu/contact/profile/?James_Glazier" target="_blank"><b>James Glazier</b></a>, Professor of Intelligent Systems Engineering, Professor & Director of Biocomplexity Institute Biophysics, Indiana University, Bloomington, USA
-      <p style="margin-top:6px; margin-bottom:6px;"><b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b> | <a href="../DMCM2024/JamesGlazier" target="_blank">Abstract</a></p>
+      <p style="margin-top:6px; margin-bottom:6px;"><b>From disease networks to multiscale virtual tissue models of health and disease: building tools and community</b> | <a href="/DMCM2024/JamesGlazier" target="_blank">Abstract</a></p>
     </td>
   </tr> 
   <tr>
     <td style="width: 140px;">
-      <img src="../images/teamhq/LiesbetGeris.jpg" width="135"/></td>
+      <img src="/images/teamhq/LiesbetGeris.jpg" width="135"/></td>
     <td> 
       <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Liesbet Geris</b></a>, Collen-Francqui Research Professor in Biomechanics and Computational Tissue Engineering, University of Liège and KU Leuven, Belgium
-      <p style="margin-top:6px;"><b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b> | <a href="../DMCM2024/LiesbetGeris" target="_blank">Abstract</a></p>
+      <p style="margin-top:6px;"><b>Intracellular signaling: from toxicology over osteoarthritis to the virtual human twin</b> | <a href="/DMCM2024/LiesbetGeris" target="_blank">Abstract</a></p>
     </td>
   </tr> 
   <tr>
     <td style="width: 140px;">
-      <img src="../images/teamhq/HenningHermjakob.jpg" width="135"/></td>
+      <img src="/images/teamhq/HenningHermjakob.jpg" width="135"/></td>
     <td> 
       <a href="https://www.ebi.ac.uk/people/person/henning-hermjakob/" target="_blank"><b>Henning Hermjakob</b></a>, Team Leader, Molecular Networks, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
       <p style="margin-top:6px;"><b> </b></p>
-      <p style="margin-top:6px;"><a href="../DMCM2024/HenningHermjakob" target="_blank"> </a></p>
+      <p style="margin-top:6px;"><a href="/DMCM2024/HenningHermjakob" target="_blank"> </a></p>
     </td>
   </tr> 
 </table>
