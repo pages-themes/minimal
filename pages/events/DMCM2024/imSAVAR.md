@@ -1,5 +1,5 @@
 ---
-title: imSAVAR
+title: DMCM2024 Programme | imSAVAR
 layout: default
 permalink: /DMCM2024/imSAVAR/
 ---
