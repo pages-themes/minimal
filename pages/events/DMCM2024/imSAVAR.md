@@ -6,15 +6,7 @@ permalink: /DMCM2024/imSAVAR/
 
 <img src="/images/places/Belval08.jpg"/>
 
-<table>
-  <tr>
-    <td style="width: 140px;">
-      <img src="/images/logos/imsavar.jpg" width="135"/></td>
-    <td> 
-      <a href="https://www.ebi.ac.uk/people/person/henning-hermjakob/" target="_blank"><b>Henning Hermjakob</b></a>, Team Leader, Molecular Networks, European Bioinformatics Institute (EMBL-EBI), Cambridge, UK
-    </td>
-  </tr> 
-</table>
+## imSAVAR Symposium: Mapping the immune system effects of immunomodulatory therapies
 
 ### Disease Maps as computational knowledge repository of immune system effects of immunomodulatory therapies
 
