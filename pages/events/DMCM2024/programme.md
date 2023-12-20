@@ -44,13 +44,17 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 
 ### Day 3 - Wednesday, 27 March 2024
 
-**Session 6** \
-09:00-09:15 &nbsp; Introduction to the interactive session \
-09:15-11:00 &nbsp; Interactive session in breakout rooms
+08:45-09:00 &nbsp; Introduction to the community breakout talks interactive session
 
-11:00-11:30 &nbsp; Coffee break / Summary preparation
+**Session 6** (in parallel) \
+09:00-11:00 &nbsp; imSAVAR symposium: mapping the immune system effects of immunomodulatory therapies | [Abstract](DMCM/imSAVAR) \
+09:00-11:00 &nbsp; Interactive session in breakout rooms (topics to be defined)
+
+11:00-11:30 &nbsp; Coffee break/Summary preparation
 
 11:30-12:30 &nbsp; Summary session
+
+
 
 <!--
 | **Session**   | **Time**     | **Activity**                                                |
