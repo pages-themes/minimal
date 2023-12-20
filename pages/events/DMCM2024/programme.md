@@ -13,26 +13,29 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 ### Day 1 - Monday, 25 March 2024
 
 **Session 1** \
-09:00-10:00 &nbsp; Keynote speaker 1 \
+09:00-10:00 &nbsp; **Keynote 1: James Glazier**, Indiana University \
+From disease networks to multiscale virtual tissue models of health and disease: building tools and community \
 10:00-12:00 &nbsp; Presentations
 
 12:00-13:30 &nbsp; Lunch
 
 **Session 2** \
-13:30-14:30 &nbsp; Keynote speaker 2 \
+13:30-14:30 &nbsp; **Keynote 2: To be confirmed** \
 14:30-16:00 &nbsp; Poster lightning talks \
 16:00-18:00 &nbsp; Poster session with drinks
 
 ### Day 2 - Tuesday, 26 March 2024
 
 **Session 3** \
-09:00-10:00 &nbsp; Keynote speaker 3 \
+09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI \
+The title is being confirmed \
 10:00-12:00 &nbsp; Presentations
 
 12:00-13:30 &nbsp; Lunch
 
 **Session 4** \
-13:30-14:30 &nbsp; Keynote speaker 4 \
+13:30-14:30 &nbsp; **Keynote 4: Liesbet Geris**, University of Liège \
+Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin \
 14:30-16:00 &nbsp; Presentations
 
 16:30-17:00 &nbsp; Coffee break
@@ -50,7 +53,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 09:00-11:00 &nbsp; imSAVAR symposium: mapping the immune system effects of immunomodulatory therapies | [Abstract](DMCM/imSAVAR) \
 09:00-11:00 &nbsp; Interactive session in breakout rooms (topics to be defined)
 
-11:00-11:30 &nbsp; Coffee break/Summary preparation
+11:00-11:30 &nbsp; Coffee break / Summary preparation
 
 11:30-12:30 &nbsp; Summary session
 
