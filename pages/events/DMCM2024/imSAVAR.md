@@ -6,7 +6,7 @@ permalink: /DMCM2024/imSAVAR/
 
 <img src="/images/places/Belval08.jpg"/>
 
-## imSAVAR Symposium: Mapping the immune system effects of immunomodulatory therapies
+## imSAVAR symposium: mapping the immune system effects of immunomodulatory therapies
 
 ### Disease Maps as computational knowledge repository of immune system effects of immunomodulatory therapies
 
