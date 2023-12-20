@@ -14,7 +14,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 
 **Session 1** \
 09:00-10:00 &nbsp; **Keynote 1: James Glazier**, Indiana University \
-From disease networks to multiscale virtual tissue models of health and disease: building tools and community | [Abstract](/DMCM2024/JamesGlazier) \
+[From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) \
 10:00-12:00 &nbsp; Presentations
 
 12:00-13:30 &nbsp; Lunch
@@ -35,7 +35,7 @@ The title is being confirmed \
 
 **Session 4** \
 13:30-14:30 &nbsp; **Keynote 4: Liesbet Geris**, University of Liège \
-Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin | [Abstract](/DMCM2024/LiesbetGeris) \
+[Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin](/DMCM2024/LiesbetGeris) \
 14:30-16:00 &nbsp; Presentations
 
 16:30-17:00 &nbsp; Coffee break
@@ -50,7 +50,7 @@ Intracellular signalling: from toxicology over osteoarthritis to the virtual hum
 08:45-09:00 &nbsp; Introduction to the community breakout talks interactive session
 
 **Session 6** (in parallel) \
-09:00-11:00 &nbsp; imSAVAR symposium: mapping the immune system effects of immunomodulatory therapies | [Abstract](DMCM/imSAVAR) \
+09:00-11:00 &nbsp; [imSAVAR symposium: mapping the immune system effects of immunomodulatory therapies](DMCM/imSAVAR) \
 09:00-11:00 &nbsp; Interactive session in breakout rooms (topics to be defined)
 
 11:00-11:30 &nbsp; Coffee break / Summary preparation
