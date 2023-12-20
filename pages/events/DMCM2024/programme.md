@@ -14,7 +14,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 
 **Session 1** \
 09:00-10:00 &nbsp; **Keynote 1: James Glazier**, Indiana University \
-From disease networks to multiscale virtual tissue models of health and disease: building tools and community \
+From disease networks to multiscale virtual tissue models of health and disease: building tools and community | [Abstract](/DMCM2024/JamesGlazier) \
 10:00-12:00 &nbsp; Presentations
 
 12:00-13:30 &nbsp; Lunch
@@ -35,7 +35,7 @@ The title is being confirmed \
 
 **Session 4** \
 13:30-14:30 &nbsp; **Keynote 4: Liesbet Geris**, University of Liège \
-Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin \
+Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin | [Abstract](/DMCM2024/LiesbetGeris) \
 14:30-16:00 &nbsp; Presentations
 
 16:30-17:00 &nbsp; Coffee break
