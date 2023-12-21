@@ -19,7 +19,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 12:00-13:30 &nbsp; Lunch
 
 **Session 2** \
-13:30-14:30 &nbsp; **Keynote 2: To be confirmed** \
+13:30-14:30 &nbsp; **Keynote 2: Reinhard Schneider**, University of Luxembourg \
 14:30-16:00 &nbsp; Poster lightning talks \
 16:00-18:00 &nbsp; Poster session with drinks
 
