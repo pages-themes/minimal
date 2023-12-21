@@ -11,7 +11,7 @@ permalink: /DMCM2024/ReinhardSchneider/
     <td style="width: 140px;">
       <img src="/images/teamhq/ReinhardSchneider.jpg" width="135"/></td>
     <td> 
-      <a href="http://www.biomech.ulg.ac.be/team/liesbet-geris/" target="_blank"><b>Reinhard Schneider</b></a>, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg
+      <a href="https://www.uni.lu/en/person/NTAwMDMwMzNfX1JlaW5oYXJkIFNDSE5FSURFUg==/" target="_blank"><b>Reinhard Schneider</b></a>, Head of Bioinformatics Core, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg
     </td>
   </tr> 
 </table>
