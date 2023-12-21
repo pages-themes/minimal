@@ -8,7 +8,9 @@ permalink: /DMCM2024/imSAVAR/
 
 <img src="/images/logos/imsavar.jpg" width="200"/>
 
-### Disease Maps as computational knowledge repository of immune system effects of immunomodulatory therapies
+<!--### Disease Maps as computational knowledge repository of immune system effects of immunomodulatory therapies-->
+
+### Disease maps and irAOPs in the immune system effects of immunomodulatory therapies
 
 Kristin Reiche, Fraunhofer Institute for Cell Therapy and Immunology IZI, Department of Diagnostics, Germany
 
