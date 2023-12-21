@@ -48,7 +48,7 @@ The title is being confirmed \
 08:45-09:00 &nbsp; Introduction to the community breakout talks interactive session
 
 **Session 6** (in parallel) \
-09:00-11:00 &nbsp; **imSAVAR Symposium**: Disease maps and AOPs in the immune system effects of immunomodulatory therapies | [Abstract](/DMCM2024/imSAVAR) \
+09:00-11:00 &nbsp; **imSAVAR Symposium**: Disease maps and irAOPs in the immune system effects of immunomodulatory therapies | [Abstract](/DMCM2024/imSAVAR) \
 09:00-11:00 &nbsp; Interactive session in breakout rooms (topics to be defined)
 
 11:00-11:30 &nbsp; Coffee break / Summary preparation
