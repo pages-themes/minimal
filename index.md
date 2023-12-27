@@ -9,12 +9,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Data Science Portfolio
 
-# Lending Club Case Study
+## Machne Learning
+
+### Lending Club Case Study
 
 A consumer finance company which specialises in lending various types of loans to urban customers has the following business requirement. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
-
-## Header 2
+[Link to another page](./[another-page](https://github.com/Gaurav3714/LendingClubCaseStudy)).
+### Bike Sharing Case Study
 
 > This is a blockquote following a header.
 >
