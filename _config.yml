@@ -1,6 +1,21 @@
-title: Minimal theme
+title: <p align="center"> Senthil Kumar M</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  
+  <a href="https://www.linkedin.com/in/senthil-kumar-sr-java-developer-it/">LinkedIn</a> |
+  <a href="https://github.com/senthil7213">GitHub</a>
+  
+  <br>   
+  A Machine Learning Engineer is responsible for designing and developing machine learning systems, 
+  implementing appropriate ML algorithms, and conducting experiments. They possess strong programming skills, 
+  knowledge of data science, and expertise in statistics.
+  
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
