@@ -16,6 +16,6 @@ permalink: /DMCM2024/JamesGlazier/
   </tr> 
 </table>
 
-### Title
+### Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data
 
 Abstract
