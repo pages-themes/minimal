@@ -1,7 +1,7 @@
 ---
 title: DMCM2024 Programme
 layout: default
-permalink: /DMCM2024/JamesGlazier/
+permalink: /DMCM2024//HenningHermjakob/
 ---
 
 <img src="/images/places/Belval08.jpg"/>
