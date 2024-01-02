@@ -1,7 +1,7 @@
 
 # Data Science Portfolio
 
-## Machne Learning
+## Machine Learning
 
 ### Lending Club Case Study
 
