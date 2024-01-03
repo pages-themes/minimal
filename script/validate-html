@@ -20,7 +20,7 @@ def validate(file)
 
   return puts "Valid!" if results.errors.empty?
 
-  results.errors.each { |err| puts err.to_s }
+  results.errors.each { |err| puts err }
   exit 1
 end
 
