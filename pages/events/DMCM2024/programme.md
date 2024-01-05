@@ -26,7 +26,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 ### Day 2 - Tuesday, 26 March 2024
 
 **Session 3** \
-09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI \
+09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI | Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data \
 The title is being confirmed \
 10:00-12:00 &nbsp; Presentations
 
