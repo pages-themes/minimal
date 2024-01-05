@@ -77,6 +77,9 @@ At a high level, [the process for proposing changes](https://guides.github.com/i
 
 `script/cibuild`
 
+## Publishing Gem
+In order to publish the Gem bump the version in *this file*, commit, create a tag with the new version number, and finally push the commit and tag to the repo.
+
 ## Code of conduct
 
 This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
