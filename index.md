@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Theme can be **dark** or **light** the color is dependent on your system theme so go ahead turn it dark.
+Text can be **bold**, _italic_, or ~~strikethrough~~ or <kbd>keyboard shortcuts</kbd>.
 
 [Link to another page](./another-page.html).
 

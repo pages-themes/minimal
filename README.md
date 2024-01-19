@@ -2,7 +2,7 @@
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+*Minimal is a Jekyll theme for GitHub Pages that supports dark mode based on device color scheme. You can [preview the theme to see what it looks like](https://godalming123.github.io/minimal/), or even [use it today](#usage).*
 
 ![Thumbnail of Minimal](thumbnail.png)
 
@@ -13,7 +13,7 @@ To use the Minimal theme:
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
+    remote_theme: "godalming123/minimal"
     plugins:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
     ```
@@ -40,6 +40,7 @@ Additionally, you may choose to set the following optional variables:
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
+color-scheme: ["dark", "light", "auto" or "auto-default-dark" auto is the default setting and changes theme based on device theme, auto-default-dark is the same except if you device does not support changing theme based on device theme it will default to dark and the others are fairly self explanetory.]
 ```
 
 ### Stylesheet

@@ -1,0 +1,124 @@
+/*
+H -> hue
+L -> luminosity
+S -> saturation
+clr -> color
+bg -> background
+hvr -> hover
+*/
+
+// colors that do not change depending on dark/light theme (each color catogry goes from brighter to darker)
+:root {
+    // red colors
+    --code-d14:    #d14;
+    --code-aa0000: #aa0000;
+    --code-990000: #990000;
+    // cyan colors
+    --code-009999: #009999;
+    --code-008080: #008080;
+    --code-3c5d5d: #3c5d5d;
+    // green colors
+    --code-009926: #009926;
+    // pink colors
+    --code-990073: #990073;
+    --code-800080: #800080;
+    // purple colors
+    --code-445588: #445588;
+    // blue colors
+    --code-000080: #000080;
+    // grey colors
+    --code-aaaaaa: #aaaaaa;
+    --code-999999: #999999;
+    --code-888888: #888888;
+    --code-555555: #555555;
+}
+
+@mixin colors {  
+    // buttons
+    --L-a-text-hover-change: 0.8; // the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
+    --clr-a-text: hsl(200, 100%, var(--L-a-text));
+    --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
+    --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));//the buttons in the main section at the top titled "download zip" "download tarbell" "veiw on github"
+    --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
+    --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
+    --clr-buttons-main-text-hover: hsl(0, 6%, var(--L-buttons-main-text-hover));
+    // headers + text
+    --clr-h1: hsl(0, 0%, var(--L-h1-and-bold));
+    --clr-h2: hsl(0, 0%, var(--L-h2));
+    --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
+    --clr-text: hsl(0, 0%, var(--L-text));
+    // code blocks
+    --clr-code-text: hsl(0, 0%, var(--L-code-text));
+    --clr-code-bg: hsl(0, 0%, var(--L-code-bg));
+    --clr-code-border: hsl(0, 0%, var(--L-code-border));
+    --clr-code-bold-text: hsl(0, 0%, var(--L-code-bold-text));
+    //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
+    --clr-kbd-bg: hsl(210, 25%, var(--L-kbd-bg));
+    --clr-kbd-border: hsl(212.7, 10.7%, var(--L-kbd-border));
+    --clr-kbd-border-bottom-and-shadow: hsl(210, 8.2%, var(--L-kbd-border-bottom-and-shadow));// akbd elemnts border bottom and its shadow color
+    --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
+    // miselainies
+    --clr-bg: hsl(0, 0%, var(--L-bg));//the bg of the page
+    --clr-visual-separation: hsl(0, 0%, var(--L-splitter-blockquote-and-section));//a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
+    --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));//the color for small elements in a's this color is used on the veiw on github button above the download buttons
+    --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt)); //more info on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
+  }
+  
+  @mixin light-colors {
+    // buttons
+    --L-a-text: 35%;
+    --L-buttons-main-bg: 96%;
+    --L-buttons-main-border: 88%;
+    --L-buttons-main-text: 40%;
+    --L-buttons-main-text-hover: 38%;
+    // headers + text
+    --L-h1-and-bold: 13%;
+    --L-h2: 22%;
+    --L-h-3-6: 29%;
+    --L-text-bold: 36%;
+    --L-text: 45%;
+    // code blocks
+    --L-code-text: 20%;
+    --L-code-bg: 97%;
+    --L-code-border: 90%;
+    --L-code-bold-text: 0%;
+    //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
+    --L-kbd-bg: 98%;
+    --L-kbd-border: 80%;
+    --L-kbd-border-bottom-and-shadow: 62%;
+    --L-kbd-text: 30%;
+    // misilainius
+    --L-bg: 100%;
+    --L-splitter-blockquote-and-section: 90%;//for elements like hr + blockquote
+    --L-small-in-a: 47%;
+    --L-table-header-and-dt: 27%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
+  }
+
+@mixin dark-colors {
+  // buttons
+  --L-a-text: 60%;
+  --L-buttons-main-bg: 17%;
+  --L-buttons-main-border: 26%;
+  --L-buttons-main-text: 76%;
+  --L-buttons-main-text-hover: 80%;
+  // headers + text
+  --L-h1-and-bold: 90%;
+  --L-h2: 83%;
+  --L-h-3-6: 76%;
+  --L-text: 70%;
+  // code blocks  
+  --L-code-text: 80%;
+  --L-code-bg: 3%;
+  --L-code-border: 5%;
+  --L-code-bold-text: 100%;
+  //kbd these are keyboard shortcuts eg <kbd>CMD+R</kbd>
+  --L-kbd-bg: 30%;
+  --L-kbd-border: 45%;
+  --L-kbd-border-bottom-and-shadow: 55%;
+  --L-kbd-text: 100%;
+  // misilainius
+  --L-splitter-blockquote-and-section: 15%;// for elements like hr and blockquote
+  --L-bg: 10%;
+  --L-small-in-a: 60%;
+  --L-table-header-and-dt: 90%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
+}
