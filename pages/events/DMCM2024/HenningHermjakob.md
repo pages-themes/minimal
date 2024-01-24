@@ -25,6 +25,6 @@ In order to support quantitative pathway analyses, we developed the ReactomeGSA 
 
 ReactomeGSA now includes a search function that enables users to directly search for public datasets in Expression Atlas and GREIN from within ReactomeGSA, that can then be loaded into a ReactomeGSA analysis. These new features are available through a completely re-developed web interface as well as the ReactomeGSA Bioconductor R package. This major update therefore greatly simplifies the reuse and integration of public datasets in the quantitative, comparative pathway analyses provided by ReactomeGSA.
 
-<img src="/DMCM2024/fig1.jpg" width="600"/>
+<img src="/fig1.jpg" width="600"/>
 
 
