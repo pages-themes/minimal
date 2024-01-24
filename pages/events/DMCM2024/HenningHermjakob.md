@@ -1,7 +1,7 @@
 ---
 title: DMCM2024 Programme
 layout: default
-permalink: /DMCM2024//HenningHermjakob/
+permalink: /DMCM2024/HenningHermjakob/
 ---
 
 <img src="/images/places/Belval08.jpg"/>
@@ -24,5 +24,7 @@ Building on our successful collaboration with the DiseaseMaps community (Ostasze
 In order to support quantitative pathway analyses, we developed the ReactomeGSA analysis platform (Griss et al., 2020). As a key feature, ReactomeGSA can analyze multiple datasets simultaneously, which enables users to quickly compare datasets on the pathway level. The continuously increasing amount of publicly available data makes it common practice for researchers to directly compare their datasets with published ones. In order to simplify this process, several resources exist that use consistent bioinformatics pipelines to re-process these datasets. Two leading resources for these datasets are the EMBL-EBI Expression Atlas (Moreno et al., 2022) and the GEO RNA-seq Experiments Interactive Navigator (GREIN) (Mahi et al., 2019), providing access to thousands of manually curated microarray, transcriptomics, and proteomics datasets. 
 
 ReactomeGSA now includes a search function that enables users to directly search for public datasets in Expression Atlas and GREIN from within ReactomeGSA, that can then be loaded into a ReactomeGSA analysis. These new features are available through a completely re-developed web interface as well as the ReactomeGSA Bioconductor R package. This major update therefore greatly simplifies the reuse and integration of public datasets in the quantitative, comparative pathway analyses provided by ReactomeGSA.
+
+<img src="/DMCM2024/fig1.jpg" width="600"/>
 
 
