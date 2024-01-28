@@ -10,9 +10,24 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Summary
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Working as a solution architect for Dynamics 365 CE in a program
+management discipline for multiple industries, including banking, insurance,
+healthcare, retail, government, manufacturing, travel, education, food,
+supply chain, and services.
+Collaborate with engineering team and stakeholders to ensure seamless
+implementation.
+Strong knowledge and demonstrated technical proficiency in adjacent
+technologies including online and on-premise versions of Microsoft
+Dynamics CRM (Dynamics 365 - 4.0).
+Led the system design, development, and implementation with a strong
+technical background and grasp of the product's features.
+Design and develop high-quality code to improve platform reliability,
+availability, and scalability.
+Excellent product feature understanding along with technical expertise.
+Outstanding ability to communicate with customers at all organizational
+levels.
 
 ## Header 2
 
