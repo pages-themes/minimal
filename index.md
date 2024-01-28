@@ -10,12 +10,34 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Summary 
+Working as a solution architect for Dynamics 365 CE in a program
+management discipline for multiple industries, including banking, insurance,
+healthcare, retail, government, manufacturing, travel, education, food,
+supply chain, and services.
+Collaborate with engineering team and stakeholders to ensure seamless
+implementation.
+Strong knowledge and demonstrated technical proficiency in adjacent
+technologies including online and on-premise versions of Microsoft
+Dynamics CRM (Dynamics 365 - 4.0).
+Led the system design, development, and implementation with a strong
+technical background and grasp of the product's features.
+Design and develop high-quality code to improve platform reliability,
+availability, and scalability.
+Excellent product feature understanding along with technical expertise.
+Outstanding ability to communicate with customers at all organizational
+levels.
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+### Fraud Detection
 
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+
+<center><img src="images/fraud_detection.jpg"/></center>
+ 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
