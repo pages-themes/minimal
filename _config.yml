@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Nitesh Jha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/nitesh-jha-6a232319/">LinkedIn</a> |
+  <a href="https://github.com/jhanitesh78">GitHub</a>
+  
+  <br>   
+  AI,ML and Data Science Enthusiast
+  CONTACT CENTER EXPERT
+  Genesys Certified Engineer
+  Also handing the Big Data from real-time Ad call data.
+  Working with AMEX
+  <br>
+  </p>
+
