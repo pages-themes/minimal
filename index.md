@@ -48,5 +48,4 @@ layout: default
         <li><a href="section3.html">部分三</a></li>
     </ul>
 </body>
-</html>
 
