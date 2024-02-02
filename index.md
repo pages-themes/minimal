@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
 <html lang="zh-CN">
 
 <head>
