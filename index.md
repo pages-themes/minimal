@@ -45,6 +45,7 @@ layout: default
         <li><a href="samate.xyz">浔兴辅料网站</a></li>
         <li><a href="section2.html">部分二</a></li>
         <li><a href="section3.html">部分三</a></li>
+        <li><a href="[samate.xyz](https://www.samate.xyz/)">部分四</a></li>
     </ul>
 </body>
 
