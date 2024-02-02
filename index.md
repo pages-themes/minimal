@@ -36,7 +36,7 @@ layout: default
     <h1>外部链接目录</h1>
 
     <ul>
-        <li><a href="https://www.example1.com" target="_blank">外部链接1</a></li>
+        <li><a href="https://www.samate.xyz" target="_blank">外部1</a></li>
         <li><a href="https://www.example2.com" target="_blank">外部链接2</a></li>
         <li><a href="https://www.example3.com" target="_blank">外部链接3</a></li>
     </ul>
