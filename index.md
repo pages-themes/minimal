@@ -23,5 +23,37 @@ layout: default
     <p><strong>tel：</strong> 15396377670</p>
 </body>
 
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>目录示例</title>
+</head>
+
+<body>
+    <h1>网页目录</h1>
+
+    <ul>
+        <li><a href="#section1">部分一</a></li>
+        <li><a href="#section2">部分二</a></li>
+        <li><a href="#section3">部分三</a></li>
+    </ul>
+
+    <section id="section1">
+        <h2>部分一</h2>
+        <p>这是第一部分的内容。</p>
+    </section>
+
+    <section id="section2">
+        <h2>部分二</h2>
+        <p>这是第二部分的内容。</p>
+    </section>
+
+    <section id="section3">
+        <h2>部分三</h2>
+        <p>这是第三部分的内容。</p>
+    </section>
+
 </html>
 
