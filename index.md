@@ -42,7 +42,7 @@ layout: default
     <h1>网页目录</h1>
 
     <ul>
-        <li><a href="section1.html">部分一</a></li>
+        <li><a href="samate.xyz">浔兴辅料网站</a></li>
         <li><a href="section2.html">部分二</a></li>
         <li><a href="section3.html">部分三</a></li>
     </ul>
