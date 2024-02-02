@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 
@@ -12,15 +13,15 @@ layout: default
 </head>
 
 <body>
-    <h1 style="color: blue;">你好，我是 <span style="color: green;">[方便面zzz]</span>，一个对技术和创新充满热情的销售业务。</h1>
+    <h1 style="color: blue;">你好，我是 [方便面zzz]</h1>
 
-    <p>在这个博客中，我分享关于 <span style="color: purple;">[户外摄影植物插画]</span>、个人见解以及在职业生涯中的一些经验。希望通过这个平台，与大家共同学习、交流。</p>
-
+    <p> 一个对技术和创新充满热情的销售业务。</p>
+    <p> 在这个博客中，我分享关于 [户外摄影植物插画]、个人见解以及在职业生涯中的一些经验。希望通过这个平台，与大家共同学习、交流。</p>
     <p>如果有问题或建议，欢迎在评论区留言。感谢访问！</p>
 
-    <p><strong>vx：</strong> <span style="color: red;">fangbianmian888</span></p>
-
-    <p><strong>tel：</strong> <span style="color: orange;">15396377670</span></p>
+    <p><strong>vx：</strong> fangbianmian888</p>
+    <p><strong>tel：</strong> 15396377670</p>
 </body>
 
 </html>
+
