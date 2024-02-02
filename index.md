@@ -37,7 +37,7 @@ layout: default
 
     <ul>
         <li><a href="https://www.samate.xyz" target="_blank">外部1</a></li>
-        <li><a href="https://fangbianmianzzz.github.io/another-page" target="_blank">外部链接2</a></li>
+        <li><a href="https://fangbianmianzzz.github.io/another-page.html" target="_blank">外部链接2</a></li>
         <li><a href="https://www.example3.com" target="_blank">外部链接3</a></li>
     </ul>
 </body>
