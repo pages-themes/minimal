@@ -2,24 +2,55 @@
 layout: default
 ---
 
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人博客 - 自我介绍</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #141414;
+            color: #fff;
+            text-align: center;
+            padding: 40px 0;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            color: #333;
+            font-size: 1.2em;
+            line-height: 1.4;
+        }
+    </style>
+</head>
 <body>
     <header>
-        <h1>个人自我介绍</h1>
+        <h1>个人博客</h1>
     </header>
     <section>
-        <p>个人自我介绍
-大家好，我是[方便面zzz]，一位热爱[户外摄影网站博客]的[你的职业/专业]。
-
-我在[你的教育背景]毕业，并在之后的岁月里，致力于深入学习和实践[你的专业领域]的知识。
-
-我的兴趣广泛，涵盖了[列举一些兴趣爱好，如阅读、写作、编程等]，这些爱好不仅丰富了我的生活，也让我在工作中更加全面地思考问题。
-
-在过去的[具体年限]里，我在[你曾经工作过的公司/项目]中取得了一些成就，包括[具体项目或成就]。这些经历不仅锻炼了我的专业能力，也培养了我团队协作和解决问题的能力。
-
-我注重学习和成长，积极尝试新的技术和方法，保持对行业发展的敏感性。同时，我也喜欢与他人分享我的经验和见解，因此我创建了这个博客，希望能够与大家共同学习、交流。
-
-感谢您来访我的博客，如果您对我的经历或观点有任何问题或意见，欢迎在评论区留言或通过邮件联系我。</p>
+        <p>你好，欢迎来到我的个人博客。我是 [你的名字]，一个对技术和创新充满热情的[你的职业/专业]。</p>
+        <p>在这个博客中，我将分享关于 [你的领域/兴趣爱好]、个人见解以及在职业生涯中的一些经验。希望通过这个平台，与大家共同学习、交流。</p>
+        <p>如果你有任何问题或建议，欢迎在评论区留言。谢谢你的访问！</p>
     </section>
 </body>
 </html>
+
 
