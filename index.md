@@ -22,30 +22,27 @@ layout: default
     <p><strong>tel：</strong> 15396377670</p>
 </body>
 
+<!DOCTYPE html>
+<html lang="zh-CN">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>目录示例</title>
+    <title>外部链接目录</title>
 </head>
 
 <body>
- <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>网页目录</title>
-</head>
-
-<body>
-    <h1>网页目录</h1>
+    <h1>外部链接目录</h1>
 
     <ul>
-        <li><a href="samate.xyz">浔兴辅料网站</a></li>
-        <li><a href="section2.html">部分二</a></li>
-        <li><a href="section3.html">部分三</a></li>
-        <li><a href="[samate.xyz](https://www.samate.xyz/)">部分四</a></li>
+        <li><a href="https://www.example1.com" target="_blank">外部链接1</a></li>
+        <li><a href="https://www.example2.com" target="_blank">外部链接2</a></li>
+        <li><a href="https://www.example3.com" target="_blank">外部链接3</a></li>
     </ul>
+</body>
+
+</html>
+
 </body>
 
