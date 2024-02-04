@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Fraud Detection
 
-## Header 2
+## Project 2
 
 Lending Club case study
 
