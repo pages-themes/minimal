@@ -40,7 +40,3 @@ layout: default
         <li><a href="https://www.example3.com" target="_blank">外部链接3</a></li>
     </ul>
 </body>
-
-
-</body>
-
