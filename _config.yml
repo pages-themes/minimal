@@ -1,6 +1,6 @@
 title: 方便面zzz'blog
 logo: /assets/img/logo.png
 description: 分享生活摄影分享日常工作
-show_downloads: true
+show_downloads: falase
 google_analytics:
 theme: jekyll-theme-minimal
