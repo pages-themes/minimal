@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## life photo 0203
 
-_yay_
+![聚龙山小年许愿](assets/img/0203.jpg)
 
-[back](./)
+
