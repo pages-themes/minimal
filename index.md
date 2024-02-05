@@ -22,7 +22,6 @@ layout: default
     <p><strong>tel：</strong> 15396377670</p>
 </body>
 
-<!DOCTYPE html>
 <html lang="zh-CN">
 
 <head>
@@ -42,7 +41,6 @@ layout: default
     </ul>
 </body>
 
-</html>
 
 </body>
 
