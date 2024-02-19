@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<html lang="zh-CN">
 
-[Link to another page](./another-page.html).
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title style="color: blue;">个人博客 - 方便面zzz</title>
+</head>
 
-There should be whitespace between paragraphs.
+<body>
+    <h1 style="color: blue;">你好，我是 [方便面zzz]</h1>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+    <p> 一个对技术和创新充满热情的销售业务。</p>
+    <p> 在这个博客中，我分享关于 [户外摄影植物插画]、个人见解以及在职业生涯中的一些经验。希望通过这个平台，与大家共同学习、交流。</p>
+    <p>如果有摄影、服装辅料需求，欢迎添加好友进行交流。感谢访问！</p>
 
-# Header 1
+    <p><strong>vx：</strong> fangbianmian888</p>
+    <p><strong>tel：</strong> 15396377670</p>
+</body>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<html lang="zh-CN">
 
-## Header 2
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>外部链接目录</title>
+</head>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<body>
+    <h1>外部链接目录</h1>
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+    <ul>
+        <li><a href="https://www.samate.xyz" target="_blank">外部1</a></li>
+        <li><a href="https://fangbianmianzzz.github.io/another-page.html" target="_blank">外部链2</a></li>
+        <li><a href="https://www.example3.com" target="_blank">外部链接3</a></li>
+    </ul>
+</body>
