@@ -25,7 +25,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 **12:00-13:30** Lunch
 
-| <div style="width:290px"><b>Time</b></div>| **Activity**                                                |
+| **Planned&nbsp;time**    | **Activity**                                                |
 |-----------------|-------------------------------------------------------------|
 | 09:00-09:30     | **Opening** |
 | 09:30-10:30     | **Keynote 1: James Glazier**, Indiana University |  
