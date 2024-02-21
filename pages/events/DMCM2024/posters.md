@@ -1,6 +1,10 @@
-[[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
+---
+title: DMCM2024 Programme
+layout: default
+permalink: /DMCM2024/programme/
+---
 
-# Posters for the DMCM'24
+[[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
 
 - "Cohort-specific Boolean models highlight different regulatory modules during Parkinson’s disease progression"
 - "Computational modelling of High Grade Serous Ovarian Cancer"
