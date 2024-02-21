@@ -1,8 +1,10 @@
 ---
-title: DMCM2024 Programme
+title: DMCM2024 Posters
 layout: default
-permalink: /DMCM2024/programme/
+permalink: /DMCM2024/posters/
 ---
+
+# Posters
 
 [[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
 
