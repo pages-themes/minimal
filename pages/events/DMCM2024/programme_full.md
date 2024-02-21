@@ -14,97 +14,111 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 **Session 1**
 
-09:00-09:30 &nbsp; **Opening talk**
+**09:00-09:30** **Opening talk**
 
-09:30-10:30 &nbsp; **Keynote 1: James Glazier**, Indiana University | From disease networks to multiscale virtual tissue models of health and disease: building tools and community | [Abstract](/DMCM2024/JamesGlazier)
+**09:30-10:30** **Keynote 1: James Glazier**, Indiana University
 
-10:30 - 10:40 Coffee break
+*"From disease networks to multiscale virtual tissue models of health and disease: building tools and community"*
 
-10:40 - 12:00 &nbsp; Presentations (15,27,28)
+[Abstract](/DMCM2024/JamesGlazier)
 
-*"From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine"*
+**10:30 - 10:40** Coffee break
 
-*"Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework"*
+**10:40 - 12:00** Presentations (15,27,28)
 
-*"Diseases in plants - From knowledge graph to dynamic Boolean modelling"*
+  *"From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine"*
 
-12:00-13:30 &nbsp; Lunch
+  *"Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework"*
+
+  *"Diseases in plants - From knowledge graph to dynamic Boolean modelling"*
+
+**12:00-13:30** Lunch
 
 **Session 2**
 
-13:30-14:30 &nbsp; **Keynote 2: Reinhard Schneider**, University of Luxembourg | The title is being confirmed
+**13:30-14:30** **Keynote 2: Reinhard Schneider**, University of Luxembourg
 
-14:30 - 14:50 &nbsp; *"User-driven evolution of the MINERVA Platform"*
+The title is being confirmed
 
-14:50 - 15:00 Coffee break
+**14:30 - 14:50** *"User-driven evolution of the MINERVA Platform"*
 
-15:00 - 16:00 &nbsp; Poster lightning talks (15 posters)
+**14:50 - 15:00** Coffee break
 
-16:00 - 18:00 &nbsp; Poster session with drinks
+**15:00 - 16:00** Poster lightning talks (15 posters)
+
+**16:00 - 18:00** Poster session with drinks
 
 ### Day 2 - Tuesday, 26 March 2024
 
 **Session 3**
 
-09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI | Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data
+**09:00-10:00** **Keynote 3: Henning Hermjakob**, EMBL-EBI
 
-10:00 - 10:50 &nbsp; Presentations (4,10)
+*"eactome: from hierarchical pathway diagrams to multi-omics analysis of public data"*
 
-*"Mapping Human Immune System Development"*
+[Abstract](/DMCM2024/HenningHermjakob)
 
-*"Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology"*
+**10:00 - 10:50** Presentations (4,10)
 
-10:50 - 11:00 Coffee break
+  *"Mapping Human Immune System Development"*
 
-11:00 - 12:00 &nbsp; Presentations (16,25)
+  *"Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology"*
 
-*"A Multi-Compartment Disease Map Approach to MASLD"*
+**10:50 - 11:00** Coffee break
 
-*"Network footprint analysis: an efficient tool to facilitate precision medicine"*
+**11:00 - 12:00** Presentations (16,25)
 
-12:00-13:30 &nbsp; Lunch
+  *"A Multi-Compartment Disease Map Approach to MASLD"*
+
+  *"Network footprint analysis: an efficient tool to facilitate precision medicine"*
+
+**12:00-13:30** Lunch
 
 **Session 4**
 
-13:30-14:30 &nbsp; **Keynote 4: Liesbet Geris**, University of Liège | Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin | [Abstract](/DMCM2024/LiesbetGeris)
+**13:30-14:30** **Keynote 4: Liesbet Geris**, University of Liège
 
-14:30 - 15:20 Presentations (11, 23)
+*"Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin"*
 
-*"Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments"*
+[Abstract](/DMCM2024/LiesbetGeris)
 
-*"FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology"*
+**14:30 - 15:20** Presentations (11, 23)
 
-15:20 - 15:30 Coffee break
+  *"Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments"*
 
-15:30 - 16:45 &nbsp; Presentations (6, 13, 8)
+  *"FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology"*
 
-*"Building a Digital Twin for Rheumatoid Arthritis one cell at a time"*
+**15:20 - 15:30** Coffee break
 
-*"Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches"*
+**15:30 - 16:45** Presentations (6, 13, 8)
 
-*"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"*
+  *"Building a Digital Twin for Rheumatoid Arthritis one cell at a time"*
 
-16:45 - 17:00 &nbsp; Coffee break
+  *"Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches"*
+
+  *"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"*
+
+**16:45 - 17:00** Coffee break
 
 **Session 5**
 
-17:00-18:30 &nbsp; Panel discussion with the keynote speakers
+**17:00-18:30** Panel discussion with the keynote speakers
 
-19:00	&nbsp; Conference dinner
+**19:00** Conference dinner
 
 ### Day 3 - Wednesday, 27 March 2024
 
-08:45-09:00 &nbsp; Introduction to the community breakout talks interactive session
+**08:45-09:00** Introduction to the community breakout talks interactive session
 
 **Session 6** (in parallel)
 
-09:00-11:00 &nbsp; **imSAVAR Symposium**: Disease maps and irAOPs in the immune system effects of immunomodulatory therapies | [Abstract](/DMCM2024/imSAVAR)
+**09:00-11:00** **imSAVAR Symposium**: Disease maps and irAOPs in the immune system effects of immunomodulatory therapies | [Abstract](/DMCM2024/imSAVAR)
 
-09:00-11:00 &nbsp; Interactive session in breakout rooms (topics to be defined)
+**09:00-11:00** Interactive session in breakout rooms (topics to be defined)
 
-11:00-11:30 &nbsp; Coffee break / Summary preparation
+**11:00-11:30** Coffee break / Summary preparation
 
-11:30-12:30 &nbsp; Summary session
+**11:30-12:30** Summary session
 
 
 
