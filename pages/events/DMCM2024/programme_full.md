@@ -12,11 +12,11 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
-**Session 1** \
+**Session 1**
 
 09:00-09:30 &nbsp; **Opening talk**
 
-09:30-10:30 &nbsp; **Keynote 1: James Glazier**, Indiana University | From disease networks to multiscale virtual tissue models of health and disease: building tools and community | [Abstract](/DMCM2024/JamesGlazier) \
+09:30-10:30 &nbsp; **Keynote 1: James Glazier**, Indiana University | From disease networks to multiscale virtual tissue models of health and disease: building tools and community | [Abstract](/DMCM2024/JamesGlazier)
 
 10:30 - 10:40 Coffee break
 
@@ -30,7 +30,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 12:00-13:30 &nbsp; Lunch
 
-**Session 2** \
+**Session 2**
+
 13:30-14:30 &nbsp; **Keynote 2: Reinhard Schneider**, University of Luxembourg | The title is being confirmed
 
 14:30 - 14:50 &nbsp; *"User-driven evolution of the MINERVA Platform"*
@@ -43,8 +44,9 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 2 - Tuesday, 26 March 2024
 
-**Session 3** \
-09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI | Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data \
+**Session 3**
+
+09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI | Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data
 
 10:00 - 10:50 &nbsp; Presentations (4,10)
 
@@ -62,8 +64,10 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 12:00-13:30 &nbsp; Lunch
 
-**Session 4** \
-13:30-14:30 &nbsp; **Keynote 4: Liesbet Geris**, University of Liège | Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin | [Abstract](/DMCM2024/LiesbetGeris) \
+**Session 4**
+
+13:30-14:30 &nbsp; **Keynote 4: Liesbet Geris**, University of Liège | Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin | [Abstract](/DMCM2024/LiesbetGeris)
+
 14:30 - 15:20 Presentations (11, 23)
 
 *"Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments"*
@@ -82,7 +86,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 16:45 - 17:00 &nbsp; Coffee break
 
-**Session 5** \
+**Session 5**
+
 17:00-18:30 &nbsp; Panel discussion with the keynote speakers
 
 19:00	&nbsp; Conference dinner
@@ -91,8 +96,10 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 08:45-09:00 &nbsp; Introduction to the community breakout talks interactive session
 
-**Session 6** (in parallel) \
-09:00-11:00 &nbsp; **imSAVAR Symposium**: Disease maps and irAOPs in the immune system effects of immunomodulatory therapies | [Abstract](/DMCM2024/imSAVAR) \
+**Session 6** (in parallel)
+
+09:00-11:00 &nbsp; **imSAVAR Symposium**: Disease maps and irAOPs in the immune system effects of immunomodulatory therapies | [Abstract](/DMCM2024/imSAVAR)
+
 09:00-11:00 &nbsp; Interactive session in breakout rooms (topics to be defined)
 
 11:00-11:30 &nbsp; Coffee break / Summary preparation
