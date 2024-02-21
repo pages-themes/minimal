@@ -16,29 +16,20 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 **09:00-09:30** **Opening talk**
 
-**09:30-10:30** **Keynote 1: James Glazier**, Indiana University
-
-*"From disease networks to multiscale virtual tissue models of health and disease: building tools and community"*
-
-[Abstract](/DMCM2024/JamesGlazier)
+**09:30-10:30** **Keynote 1: James Glazier**, Indiana University | *"From disease networks to multiscale virtual tissue models of health and disease: building tools and community"* | [Abstract](/DMCM2024/JamesGlazier)
 
 **10:30 - 10:40** Coffee break
 
-**10:40 - 12:00** Presentations (15,27,28)
-
-  *"From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine"*
-
-  *"Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework"*
-
-  *"Diseases in plants - From knowledge graph to dynamic Boolean modelling"*
+**10:40 - 12:00** Presentations (15,27,28) \
+&nbsp;&nbsp;&nbsp;*"From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine"* \
+&nbsp;&nbsp;&nbsp;*"Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework"* \
+&nbsp;&nbsp;&nbsp;*"Diseases in plants - From knowledge graph to dynamic Boolean modelling"* \
 
 **12:00-13:30** Lunch
 
 **Session 2**
 
-**13:30-14:30** **Keynote 2: Reinhard Schneider**, University of Luxembourg
-
-The title is being confirmed
+**13:30-14:30** **Keynote 2: Reinhard Schneider**, University of Luxembourg | The title is being confirmed
 
 **14:30 - 14:50** *"User-driven evolution of the MINERVA Platform"*
 
@@ -52,51 +43,34 @@ The title is being confirmed
 
 **Session 3**
 
-**09:00-10:00** **Keynote 3: Henning Hermjakob**, EMBL-EBI
+**09:00-10:00** **Keynote 3: Henning Hermjakob**, EMBL-EBI | *"Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data"* | [Abstract](/DMCM2024/HenningHermjakob)
 
-*"eactome: from hierarchical pathway diagrams to multi-omics analysis of public data"*
-
-[Abstract](/DMCM2024/HenningHermjakob)
-
-**10:00 - 10:50** Presentations (4,10)
-
-  *"Mapping Human Immune System Development"*
-
-  *"Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology"*
+**10:00 - 10:50** Presentations (4,10) \
+&nbsp;&nbsp;&nbsp;*"Mapping Human Immune System Development"* \
+&nbsp;&nbsp;&nbsp;*"Mapping the Brain Physiological Maze: an innovative approach for advancing developmental neurotoxicology"* \
 
 **10:50 - 11:00** Coffee break
 
-**11:00 - 12:00** Presentations (16,25)
-
-  *"A Multi-Compartment Disease Map Approach to MASLD"*
-
-  *"Network footprint analysis: an efficient tool to facilitate precision medicine"*
+**11:00 - 12:00** Presentations (16,25) \
+&nbsp;&nbsp;&nbsp;*"A Multi-Compartment Disease Map Approach to MASLD"* \
+&nbsp;&nbsp;&nbsp;*"Network footprint analysis: an efficient tool to facilitate precision medicine"* \
 
 **12:00-13:30** Lunch
 
 **Session 4**
 
-**13:30-14:30** **Keynote 4: Liesbet Geris**, University of Liège
+**13:30-14:30** **Keynote 4: Liesbet Geris**, University of Liège | *"Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin"* | [Abstract](/DMCM2024/LiesbetGeris)
 
-*"Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin"*
-
-[Abstract](/DMCM2024/LiesbetGeris)
-
-**14:30 - 15:20** Presentations (11, 23)
-
-  *"Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments"*
-
-  *"FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology"*
+**14:30 - 15:20** Presentations \
+&nbsp;&nbsp;&nbsp;*"Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments"* \
+&nbsp;&nbsp;&nbsp;*"FAIR-compliant Physiological Mapping as a basis for Building Disease Ontology Maps: Case Studies in Toxicology"* \
 
 **15:20 - 15:30** Coffee break
 
-**15:30 - 16:45** Presentations (6, 13, 8)
-
-  *"Building a Digital Twin for Rheumatoid Arthritis one cell at a time"*
-
-  *"Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches"*
-
-  *"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"*
+**15:30 - 16:45** Presentations (6, 13, 8) \
+&nbsp;&nbsp;&nbsp;*"Building a Digital Twin for Rheumatoid Arthritis one cell at a time"* \
+&nbsp;&nbsp;&nbsp;*"Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches"* \
+&nbsp;&nbsp;&nbsp;*"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"* \
 
 **16:45 - 17:00** Coffee break
 
