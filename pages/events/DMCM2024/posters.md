@@ -8,15 +8,33 @@ permalink: /DMCM2024/posters/
 
 [[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
 
-- "Cohort-specific Boolean models highlight different regulatory modules during Parkinson’s disease progression"
-- "Computational modelling of High Grade Serous Ovarian Cancer"
-- "Computational Systems Biology Approach to Unveil Molecular Interactions in Sjögren's disease Pathogenesis"
-- "Integrated network resources to map cell-cell and cell-microbe interactions in inflammation, infection and cancer"
-- "Integrated model of host-pathogen interaction in severe infections: the case of severe systemic infection due to P. aeruginosa"
-- "Integrating genetic variation with protein function and human disease information through protein curation in UniProtKB"
-- "Hipathia and Metabolizer: Unveiling Disease Mechanisms and Enabling Personalized Medicine"
-- "Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"
-- "Physiological Map and Disease Ontology in the ONTOX Project: Application to the Neural Tube Closure"
+- *"Cohort-specific Boolean models highlight different regulatory modules during Parkinson’s disease progression"*  
+by Ahmed Hemedan, Reinhard Schneider and Marek Ostaszewski
+
+- *"Computational modelling of High Grade Serous Ovarian Cancer"*  
+by Marco Fariñas
+ 
+- *"Computational Systems Biology Approach to Unveil Molecular Interactions in Sjögren's disease Pathogenesis"*
+by Sacha E Silva-Saffar, Jacques Eric Gottenberg, Michele Bombardieri, Divi Cornec, Jacques Olivier Pers, Marta Alarcon-Riquelme, Philippe Moingeon, Michael Barnes, Sandra Ng, Fai Ng, Xavier Mariette, Gaetane Nocturne and Anna Niarakis
+
+- *"Integrated network resources to map cell-cell and cell-microbe interactions in inflammation, infection and cancer"*  
+by Tamas Korcsmaros
+  
+- *"Integrated model of host-pathogen interaction in severe infections: the case of severe systemic infection due to P. aeruginosa"*  
+by Francesco Messina, Claudia Rotondo, Valentina Dimartino, Michele Properzi and Carla Fontana
+  
+- *"Integrating genetic variation with protein function and human disease information through protein curation in UniProtKB"*
+by Yvonne C. Lussi, Elena Speretta, Kate Warner, Michele Magrane, Sandra Orchard and Uniprot Consortium
+  
+- *"Hipathia and Metabolizer: Unveiling Disease Mechanisms and Enabling Personalized Medicine"*
+by Kinza Rian, Marta R. Hidalgo, Cankut Çubuk, Carlos Loucera, Maria Peña-Chilet and Joaquin Dopazo
+  
+- *"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"*  
+by Reagon Karki, Yojana Gadiya, Andrea Zaliani and Philip Gribbon
+
+- *"Physiological Map and Disease Ontology in the ONTOX Project: Application to the Neural Tube Closure"*
+by Alessio Gamba, Job Berkhout, Luiz Ladeira, Harm Heusinkveld, Aldert Piersma, Marc Teunis, Thomas Luechtefeld, Thomas Hartung, Liesbet Geris and Bernard Staumont
+
 - "Protein Structures and their cross-referencing in UniProt"
 - "Seven quick tips on curation for building disease maps"
 - "Semi-automated workflow to accelerate AOP network construction using SBGN elements: a pilot study"
