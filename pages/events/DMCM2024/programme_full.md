@@ -25,17 +25,17 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 **12:00-13:30** Lunch
 
-| **Time**     | **Activity**                                                |
-|--------------|-------------------------------------------------------------|
-| 09:00-09:30  | **Opening talk** |
-| 09:30-10:30  | **Keynote 1: James Glazier**, Indiana University |  
-|              | [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
-| 10:30-10:40  | Coffee break |
-| 10:30-10:40  | Presentations |
-|              | From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine |
-|              | Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework |
-|              | Diseases in plants - From knowledge graph to dynamic Boolean modelling |
-| 12:00-13:30  | Lunch |
+| **Time**        | **Activity**                                                |
+|-----------------|-------------------------------------------------------------|
+| 09:00-09:30     | **Opening** |
+| 09:30-10:30     | **Keynote 1: James Glazier**, Indiana University |  
+|                 | [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
+| 10:30-10:40     | Coffee break |
+| 10:30-10:40     | Presentations |
+|                 | From data integration to actionable insights: Optimization of model-guided drug synergy predictions in systems medicine |
+|                 | Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework |
+|                 | Diseases in plants - From knowledge graph to dynamic Boolean modelling |
+| 12:00-13:30     | Lunch |
 
 
 **Session 2**
