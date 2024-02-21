@@ -8,7 +8,7 @@ permalink: /DMCM2024/programme/
 
 ## Programme
 
-The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00.
+The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
