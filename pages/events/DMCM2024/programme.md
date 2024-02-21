@@ -20,6 +20,7 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 
 **Session 2** \
 13:30-14:30 &nbsp; **Keynote 2: Reinhard Schneider**, University of Luxembourg \
+The title is being confirmed \
 14:30-16:00 &nbsp; Poster lightning talks \
 16:00-18:00 &nbsp; Poster session with drinks
 
@@ -27,7 +28,6 @@ The time is shown for Luxembourgh: Central European Time (CET) – UTC/GMT+01:00
 
 **Session 3** \
 09:00-10:00 &nbsp; **Keynote 3: Henning Hermjakob**, EMBL-EBI | Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data \
-The title is being confirmed \
 10:00-12:00 &nbsp; Presentations
 
 12:00-13:30 &nbsp; Lunch
