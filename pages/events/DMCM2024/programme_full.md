@@ -33,7 +33,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 **Session 2** \
 13:30-14:30 &nbsp; **Keynote 2: Reinhard Schneider**, University of Luxembourg | The title is being confirmed
 
-14:30 - 14:50 &nbsp; User-driven evolution of the MINERVA Platform
+14:30 - 14:50 &nbsp; *"User-driven evolution of the MINERVA Platform"*
 
 14:50 - 15:00 Coffee break
 
