@@ -23,29 +23,29 @@ by Tamas Korcsmaros
 - *"Integrated model of host-pathogen interaction in severe infections: the case of severe systemic infection due to P. aeruginosa"*  
 by Francesco Messina, Claudia Rotondo, Valentina Dimartino, Michele Properzi and Carla Fontana
   
-- *"Integrating genetic variation with protein function and human disease information through protein curation in UniProtKB"*
+- *"Integrating genetic variation with protein function and human disease information through protein curation in UniProtKB"*  
 by Yvonne C. Lussi, Elena Speretta, Kate Warner, Michele Magrane, Sandra Orchard and Uniprot Consortium
   
-- *"Hipathia and Metabolizer: Unveiling Disease Mechanisms and Enabling Personalized Medicine"*
+- *"Hipathia and Metabolizer: Unveiling Disease Mechanisms and Enabling Personalized Medicine"*  
 by Kinza Rian, Marta R. Hidalgo, Cankut Çubuk, Carlos Loucera, Maria Peña-Chilet and Joaquin Dopazo
   
 - *"Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs"*  
 by Reagon Karki, Yojana Gadiya, Andrea Zaliani and Philip Gribbon
 
-- *"Physiological Map and Disease Ontology in the ONTOX Project: Application to the Neural Tube Closure"*
+- *"Physiological Map and Disease Ontology in the ONTOX Project: Application to the Neural Tube Closure"*  
 by Alessio Gamba, Job Berkhout, Luiz Ladeira, Harm Heusinkveld, Aldert Piersma, Marc Teunis, Thomas Luechtefeld, Thomas Hartung, Liesbet Geris and Bernard Staumont
 
-- *"Protein Structures and their cross-referencing in UniProt"*
+- *"Protein Structures and their cross-referencing in UniProt"*  
 by Nidhi Tyagi and Uniprot Consortium
   
-- *"Seven quick tips on curation for building disease maps"*
+- *"Seven quick tips on curation for building disease maps"*  
 by Marcio Acencio, Alexander Mazein, Oxana Lopata, Reinhard Schneider, Marek Ostaszewski and Venkata Satagopam
   
-- *"Semi-automated workflow to accelerate AOP network construction using SBGN elements: a pilot study"*
+- *"Semi-automated workflow to accelerate AOP network construction using SBGN elements: a pilot study"*  
 by Luiz Ladeira, Alexander Mazein, Marek Ostaszewski, Anouk Verhoeven, Julen Sanz Serrano, Annika Drees, Tamara Vanhaecke, Mathieu Vinken, Liesbet Geris and Bernard Staumont
   
 - *"Side-by-side comparison of mechanisms of psoriasis and atopic dermatitis: an interactive explorable model"*  
 by Oxana Lopata, Marcio Luis Acencio, Reinhard Schneider, Venkata Satagopam and Marek Ostaszewski
   
-- *"The Constrained-Disorder-Principle (CDP) - based artificial intelligence platform improves therapeutic interventions using regulated biological variability"*
+- *"The Constrained-Disorder-Principle (CDP) - based artificial intelligence platform improves therapeutic interventions using regulated biological variability"*  
 by Yaron Ilan
