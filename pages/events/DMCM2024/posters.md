@@ -35,8 +35,17 @@ by Reagon Karki, Yojana Gadiya, Andrea Zaliani and Philip Gribbon
 - *"Physiological Map and Disease Ontology in the ONTOX Project: Application to the Neural Tube Closure"*
 by Alessio Gamba, Job Berkhout, Luiz Ladeira, Harm Heusinkveld, Aldert Piersma, Marc Teunis, Thomas Luechtefeld, Thomas Hartung, Liesbet Geris and Bernard Staumont
 
-- "Protein Structures and their cross-referencing in UniProt"
-- "Seven quick tips on curation for building disease maps"
-- "Semi-automated workflow to accelerate AOP network construction using SBGN elements: a pilot study"
-- "Side-by-side comparison of mechanisms of psoriasis and atopic dermatitis: an interactive explorable model"
-- "The Constrained-Disorder-Principle (CDP) - based artificial intelligence platform improves therapeutic interventions using regulated biological variability"
+- *"Protein Structures and their cross-referencing in UniProt"*
+by Nidhi Tyagi and Uniprot Consortium
+  
+- *"Seven quick tips on curation for building disease maps"*
+by Marcio Acencio, Alexander Mazein, Oxana Lopata, Reinhard Schneider, Marek Ostaszewski and Venkata Satagopam
+  
+- *"Semi-automated workflow to accelerate AOP network construction using SBGN elements: a pilot study"*
+by Luiz Ladeira, Alexander Mazein, Marek Ostaszewski, Anouk Verhoeven, Julen Sanz Serrano, Annika Drees, Tamara Vanhaecke, Mathieu Vinken, Liesbet Geris and Bernard Staumont
+  
+- *"Side-by-side comparison of mechanisms of psoriasis and atopic dermatitis: an interactive explorable model"*  
+by Oxana Lopata, Marcio Luis Acencio, Reinhard Schneider, Venkata Satagopam and Marek Ostaszewski
+  
+- *"The Constrained-Disorder-Principle (CDP) - based artificial intelligence platform improves therapeutic interventions using regulated biological variability"*
+by Yaron Ilan
