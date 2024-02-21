@@ -14,7 +14,7 @@ by Ahmed Hemedan, Reinhard Schneider and Marek Ostaszewski
 - *"Computational modelling of High Grade Serous Ovarian Cancer"*  
 by Marco Fariñas
  
-- *"Computational Systems Biology Approach to Unveil Molecular Interactions in Sjögren's disease Pathogenesis"*
+- *"Computational Systems Biology Approach to Unveil Molecular Interactions in Sjögren's disease Pathogenesis"*  
 by Sacha E Silva-Saffar, Jacques Eric Gottenberg, Michele Bombardieri, Divi Cornec, Jacques Olivier Pers, Marta Alarcon-Riquelme, Philippe Moingeon, Michael Barnes, Sandra Ng, Fai Ng, Xavier Mariette, Gaetane Nocturne and Anna Niarakis
 
 - *"Integrated network resources to map cell-cell and cell-microbe interactions in inflammation, infection and cancer"*  
