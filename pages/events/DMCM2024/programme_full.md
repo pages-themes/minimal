@@ -12,7 +12,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
-|  **Session 1**   |    |
+|  <h3>Session&nbsp;&nbsp;&nbsp;1</h3>   |    |
 |--------------------------|---|
 |       **Time**        | **Activity** |
 |       09:00-09:30        | **Opening** |
@@ -23,12 +23,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework |
 |                          | Diseases in plants - From knowledge graph to dynamic Boolean modelling |
 |       12:00-13:30        | Lunch |
-
-
-**Session 2**
-
-| **Planned&nbsp;time**    | **Activity**                                                |
-|--------------------------|-------------------------------------------------------------|
+|  <h3>Session&nbsp;&nbsp;&nbsp;2</h3>   |    |
 |       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> The title is being confirmed |  
 |       14:30-14:50        | Presentation: User-driven evolution of the MINERVA Platform |
 |       14:50-15:00        | Coffee break |
