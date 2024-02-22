@@ -12,9 +12,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
-|  **Session&nbsp;&nbsp;&nbsp;1**   |    |
+|  **Session&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1**   |    |
 |--------------------------|---|
-|       **Time**        | **Activity** |
 |       09:00-09:30        | **Opening** |
 |       09:30-10:30        | **Keynote 1: James Glazier**, Indiana University <br> [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
 |       10:30-10:40        | Coffee break |
@@ -23,7 +22,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework |
 |                          | Diseases in plants - From knowledge graph to dynamic Boolean modelling |
 |       12:00-13:30        | Lunch |
-|  **Session&nbsp;&nbsp;&nbsp;2**   |    |
+|  **Session&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2**   |    |
 |       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> The title is being confirmed |  
 |       14:30-14:50        | Presentation: User-driven evolution of the MINERVA Platform |
 |       14:50-15:00        | Coffee break |
