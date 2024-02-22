@@ -6,6 +6,8 @@ permalink: /DMCM2024/JamesGlazier/
 
 <img src="/images/places/Belval08.jpg"/>
 
+[[back to the DMCM'24 Programme]](https://disease-maps.org/DMCM2024/programme/)
+
 <table>
   <tr>
     <td style="width: 140px;">
