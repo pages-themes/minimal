@@ -12,8 +12,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
-|  **Session&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1**   |    |
-|--------------------------|---|
+|  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|---|---|
 |       09:00-09:30        | **Opening** |
 |       09:30-10:30        | **Keynote 1: James Glazier**, Indiana University <br> [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
 |       10:30-10:40        | Coffee break |
@@ -22,7 +22,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework |
 |                          | Diseases in plants - From knowledge graph to dynamic Boolean modelling |
 |       12:00-13:30        | Lunch |
-|  **Session&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2**   |    |
+|  ****Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;****   |    |
 |       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> The title is being confirmed |  
 |       14:30-14:50        | Presentation: User-driven evolution of the MINERVA Platform |
 |       14:50-15:00        | Coffee break |
@@ -32,10 +32,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 2 - Tuesday, 26 March 2024
 
-**Session 3**
-
-| **Planned&nbsp;time**    | **Activity**                                                |
-|--------------------------|-------------------------------------------------------------|
+|  **Session&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|---|---|
 |       09:00-10:00        | **Keynote 3: Henning Hermjakob**, EMBL-EBI <br> [Reactome: from hierarchical pathway diagrams to multi-omics analysis of public data](/DMCM2024/HenningHermjakob) |
 |       10:00-10:50        | **Presentations** |  
 |                          | Mapping Human Immune System Development |
@@ -45,11 +43,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | A Multi-Compartment Disease Map Approach to MASLD |
 |                          | Network footprint analysis: an efficient tool to facilitate precision medicine |
 |       12:00-13:30        | Lunch |
-
-**Session 4**
-
-| **Planned&nbsp;time**    | **Activity**                                                |
-|--------------------------|-------------------------------------------------------------|
+|  **Session&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
 |       13:30-14:30        | **Keynote 4: Liesbet Geris**, University of Liège <br> [Intracellular signalling: from toxicology over osteoarthritis to the virtual human twin](/DMCM2024/LiesbetGeris) |
 |       14:30-15:20        | **Presentations** |  
 |                          | Molecular Adverse Outcome Pathways: towards the implementation of transcriptomic data in risk assessments |
@@ -65,10 +59,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 3 - Wednesday, 27 March 2024
 
-**Session 5**
-
-| **Planned&nbsp;time**    | **Activity**                                                |
-|--------------------------|-------------------------------------------------------------|
+|  **Session&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
+|---|---|
 |       08:45-09:00        | Introduction to the community breakout talks interactive session |  
 |       09:00-11:00        | [in parallel] **imSAVAR Symposium** <br> [Disease maps and irAOPs in the immune system effects of immunomodulatory therapies](/DMCM2024/imSAVAR) |
 |       09:00-11:00        | [in parallel] **Interactive session in breakout rooms** (topics to be defined) |  
