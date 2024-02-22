@@ -47,5 +47,4 @@ by Luiz Ladeira, Alexander Mazein, Marek Ostaszewski, Anouk Verhoeven, Julen San
 - P13: *"Side-by-side comparison of mechanisms of psoriasis and atopic dermatitis: an interactive explorable model"*  
 by Oxana Lopata, Marcio Luis Acencio, Reinhard Schneider, Venkata Satagopam and Marek Ostaszewski
   
-- P14: *"The Constrained-Disorder-Principle (CDP) - based artificial intelligence platform improves therapeutic interventions using regulated biological variability"*  
-by Yaron Ilan
+- P14: To be confirmed
