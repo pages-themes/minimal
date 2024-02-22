@@ -1,7 +1,7 @@
 ---
 title: DMCM2024 Programme
 layout: default
-permalink: /DMCM2024/programme_full/
+permalink: /DMCM2024/programme/
 ---
 
 <img src="/images/places/Belval08.jpg"/>
