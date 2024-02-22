@@ -22,7 +22,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |                          | Analysis of Partially-Specified Boolean Models with BioDivine AEON Framework |
 |                          | Diseases in plants - From knowledge graph to dynamic Boolean modelling |
 |       12:00-13:30        | Lunch |
-|  ****Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;****   |    |
+|  **Session&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
 |       13:30-14:30        | **Keynote 2: Reinhard Schneider**, University of Luxembourg <br> The title is being confirmed |  
 |       14:30-14:50        | Presentation: User-driven evolution of the MINERVA Platform |
 |       14:50-15:00        | Coffee break |
