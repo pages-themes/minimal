@@ -52,7 +52,7 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |       15:30-16:45        | **Presentations** |
 |                          | Building a Digital Twin for Rheumatoid Arthritis one cell at a time |
 |                          | Studying Cell Type-Specific T cell Metabolism Using Pathway- and Network-Based Approaches |
-|                          | Knowledge Graph Generator (KGG): An automated workflow to create disease-specific Knowledge Graphs |
+|                          | Systems biological insight into insulin resistance-associated metabolic alterations |
 |       16:45-17:00        | Coffee break |
 |       17:00-18:30        | Panel discussion with the keynote speakers |
 |       19:00-             | Conference dinner |  
