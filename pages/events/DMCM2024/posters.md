@@ -47,5 +47,5 @@ by Luiz Ladeira, Alexander Mazein, Marek Ostaszewski, Anouk Verhoeven, Julen San
 - P13: *"Side-by-side comparison of mechanisms of psoriasis and atopic dermatitis: an interactive explorable model"*  
 by Oxana Lopata, Marcio Luis Acencio, Reinhard Schneider, Venkata Satagopam and Marek Ostaszewski
   
-- P14: *"Allele-specific expression based clustering to investigate distinct gene regulatory patterns in Huntington’s disease patients"*
+- P14: *"Allele-specific expression based clustering to investigate distinct gene regulatory patterns in Huntington’s disease patients"*  
 by Aishwarya Iyer
