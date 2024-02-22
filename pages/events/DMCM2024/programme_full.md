@@ -17,6 +17,8 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 |  **Session&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**   |    |
 |---|---|
 |       09:00-09:30        | **Opening** |
+|                          | Welcome words |
+|                          | John Hacock: Beginnings of a Systems Biology Community in ELIXIR |
 |       09:30-10:30        | **Keynote 1: James Glazier**, Indiana University <br> [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
 |       10:30-10:40        | Coffee break |
 |       10:30-10:40        | **Presentations** |
