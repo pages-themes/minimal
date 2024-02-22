@@ -12,10 +12,9 @@ The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
 
 ### Day 1 - Monday, 25 March 2024
 
-**Session 1**
-
-| **Planned&nbsp;time**    | **Activity**                                                |
-|--------------------------|-------------------------------------------------------------|
+|  **Session 1**   |    |
+|--------------------------|---|
+|       **Time**        | **Activity** |
 |       09:00-09:30        | **Opening** |
 |       09:30-10:30        | **Keynote 1: James Glazier**, Indiana University <br> [From disease networks to multiscale virtual tissue models of health and disease: building tools and community](/DMCM2024/JamesGlazier) |  
 |       10:30-10:40        | Coffee break |
