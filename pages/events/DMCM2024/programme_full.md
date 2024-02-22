@@ -6,6 +6,8 @@ permalink: /DMCM2024/programme_full/
 
 <img src="/images/places/Belval08.jpg"/>
 
+[[back to the DMCM'24 maoin page]](https://disease-maps.org/DMCM2024/)
+
 ## Programme
 
 The time is shown for Luxembourg: Central European Time (CET) – UTC/GMT+01:00.
