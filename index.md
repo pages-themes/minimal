@@ -1,123 +1,43 @@
 ---
 layout: default
----
+logo:/assets/logo.png
+title:<p>Chanchal Narang</p>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Executive PG program  in MLand AI:
+Lending club case-study
+learnt python and associated libraries use for data analysis
+such as numpy and pandas
 
-[Link to another page](./another-page.html).
+## Skills
+> Python,html,css,javascript
+> worked on angular framework
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Projects :
+> Lending club Case Study
 
 
-### Definition lists can be used with HTML syntax.
+
+#### Experience:
+
+*   I have total 8+years expierence in frontEnd developement,
+    Learning ML and AI to be Future ready
+*   HTML,CSS,JAVASCRIPT,PYTHON,BOOTSTRAP
+*   ml/ai projects and Case-studies:
+    1.currently working on lending club case-study
+    2.worked with weather and sales data_set perform data-analysis steps
+      1.Data Understanding
+      2. loading Data
+      3.converting Dataset to numpy Array or Dataframe to DataFrames in Pandas
+    4.Performed various operations of Numpy and Panda on above Dataset
+
+About Me:
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Chanchal Narang</dd>
 <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Date of birth:27/11/1990</dd>
+<dt>Birthplace:Delhi</dt>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
