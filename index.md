@@ -1,6 +1,5 @@
----
-layout: default
-logo:/assets/logo.png
+
+logo:<img src='/assets/logo.png'> 
 title:<p>Chanchal Narang</p>
 
 # Executive PG program  in MLand AI:
