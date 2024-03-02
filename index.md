@@ -1,5 +1,3 @@
-
-
 # Executive PG program  in MLand AI:
 Lending club case-study
 learnt python and associated libraries use for data analysis
