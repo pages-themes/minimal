@@ -1,6 +1,6 @@
 
-logo:<img src='assets/img/new_dp.jpg' width=320px height=320px> <br>
-title:<p>Chanchal Narang</p>
+<img src='assets/img/new_dp.jpg' width=320px height=320px> <br>
+<p>Chanchal Narang</p>
 
 # Executive PG program  in MLand AI:
 Lending club case-study
