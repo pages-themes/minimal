@@ -1,5 +1,5 @@
 title: Chanchal Narang
-logo: /assets/img/new-dp.jpg
+<img src="assets/img/new-dp.jpg" width=320px height=320px>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
