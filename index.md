@@ -1,5 +1,5 @@
 
-logo:<img src='portfolio2024/tree/master/assets/img/new_dp.jpg'> 
+logo:<img src='assets/img/new_dp.jpg' width=320px height=320px> <br>
 title:<p>Chanchal Narang</p>
 
 # Executive PG program  in MLand AI:
