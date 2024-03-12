@@ -1,11 +1,14 @@
 
-## Summary
+## About
 * * *
-As a Test Specialist at IBM, I design, develop, and implement test plans, test cases, and test processes for various projects, ensuring high-quality and swift corrective actions. I have worked on an internal project that enhanced my knowledge and skills as a software tester, and enabled me to collaborate with different teams and stakeholders. 
+I wear two hats: software tester and aspiring data scientist.  On the software side, I bring years of experience ensuring software quality through meticulous manual and automated testing. I design test cases, identify bugs, and champion data security - all crucial for delivering reliable software. 
 
-I am also pursuing a Master of Science in Data Science using Machine Learning and AI at Liverpool John Moores University, where I am learning how to apply advanced analytical techniques and algorithms to solve real-world problems. I have a Master of Computer Applications in Computer Science from Silicon Institute of Technology, where I gained a strong foundation in programming, data structures, and algorithms. 
+But my passion extends beyond testing.  I'm currently pursuing a Master's in Data Science from Liverpool John Moores University, specializing in Machine Learning (ML) and Artificial Intelligence (AI). This deep dive into data analysis complements my testing background perfectly. The analytical skills and attention to detail honed through testing are invaluable assets in building and evaluating complex ML models.
 
-I am passionate about computer vision and cloud engineering, and I am always eager to learn new technologies and tools. I enjoy playing video games with challenges and storylines in my free time, as they stimulate my creativity and problem-solving skills. My goal is to leverage my testing and data science skills to create innovative and impactful solutions for the industry.
+Here's where it gets exciting.  My data science education opens doors to automate testing processes – a natural progression that leverages both skillsets.  Furthermore, the field of AI testing is rapidly evolving, and my combined experience positions me for a potential future transition into a role like AI Test Engineer. 
+
+In essence, I'm building a unique bridge between software development and data-driven insights.  This dual expertise positions me as a valuable asset in a world increasingly reliant on both software quality and data-driven decision making.  With my testing experience providing a solid foundation, I'm eager to leverage the power of data science to create innovative solutions for the future.
+
 
 **LinkedIN**: [Link to another page](./another-page.html).
 
@@ -118,6 +121,10 @@ The Compensation Planner System will be a centralized platform for all aspects o
 | December 2020 — June 2022   | Masters in computer applications, Silicon institute of technology, Bhubaneshwar | Post Graduate  | Master Of Computer Application  |
 | January 2017 — January 2020 | Bachelor of Science in Chemistry, Rayagada Autonomous College, Rayagada  | Graduate   | Applied Chemistry   |
 
-
-
+## Hobbies and Interests
+* * *
+* **Music Production**
+* **Guitar Player**
+* **Video Games**
+* **Super Bikes**
 ```
