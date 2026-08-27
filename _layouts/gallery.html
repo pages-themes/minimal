@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <div class="archive">
+
+    <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+
+    <div class="photo-diary-grid">
+
+      {% assign entries = site.photo_diary | sort: "date" | reverse %}
+
+      {% for post in entries %}
+
+        <article class="photo-diary-card">
+
+          <a href="{{ post.url | relative_url }}">
+
+            <div class="photo-diary-card__image">
+
+              <img
+                src="{{ site.baseurl }}{{ post.thumbnail }}"
+                alt="{{ post.title }}"
+              >
+
+            </div>
+
+            <div class="photo-diary-card__text">
+
+              <h2>{{ post.title }}</h2>
+
+              {% if post.location %}
+                <p class="photo-diary-card__location">
+                  {{ post.location }}
+                </p>
+              {% endif %}
+
+              {% if post.date %}
+                <p class="photo-diary-card__date">
+                  {{ post.date | date: "%B %Y" }}
+                </p>
+              {% endif %}
+
+            </div>
+
+          </a>
+
+        </article>
+
+      {% endfor %}
+
+    </div>
+
+  </div>
+</div>

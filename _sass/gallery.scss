@@ -1,0 +1,56 @@
+.photo-diary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.photo-diary-card {
+  overflow: hidden;
+  background: #fff;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.photo-diary-card:hover {
+  transform: translateY(-4px);
+}
+
+.photo-diary-card__image {
+  width: 100%;
+  overflow: hidden;
+}
+
+.photo-diary-card__image img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+}
+
+.photo-diary-card__text {
+  padding: 0.8rem 0.5rem 1rem;
+}
+
+.photo-diary-card__text h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.photo-diary-card__location,
+.photo-diary-card__date {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+}
+
+@media screen and (max-width: 900px) {
+  .photo-diary-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .photo-diary-grid {
+    grid-template-columns: 1fr;
+  }
+}

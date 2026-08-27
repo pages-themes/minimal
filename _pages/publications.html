@@ -1,0 +1,38 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.inspire-hep}}">my iNSPIRE-HEP profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% comment %}
+  Sort publications by date (oldest to newest) and then reverse (newest to oldest)
+{% endcomment %}
+{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in sorted_publications %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in sorted_publications %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

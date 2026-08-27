@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Souradeep Das",
+    "email": "das.536@osu.edu",
+    "phone": "",
+    "website": "https://soura-phy.github.io",
+    "summary": "Graduate Teaching Assistant at The Ohio State University, Department of Physics.",
+    "location": {
+      "address": "Physics Research Building, 191 W Woodruff Ave",
+      "postalCode": "43210",
+      "city": "Columbus",
+      "countryCode": "US",
+      "region": "OH"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=en&user=tiRjT-wAAAAJ&view_op=list_works"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0009-0006-3276-551X"
+      },
+      {
+        "network": "GitHub",
+        "username": "soura-phy",
+        "url": "https://github.com/soura-phy"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "The Ohio State University",
+      "area": "Ph.D in Physics",
+      "studyType": "",
+      "startDate": "2025",
+      "endDate": "present",
+      "gpa": 4.0,
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Science",
+      "area": "M.S. in Physics",
+      "studyType": "",
+      "startDate": "2024",
+      "endDate": "2025",
+      "gpa": 9.8,
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Science",
+      "area": "B.S. in Physics",
+      "studyType": "",
+      "startDate": "2020",
+      "endDate": "2024",
+      "gpa": 9.7,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    }
+  ],
+  "presentations": [],
+  "teaching": [
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
+  ]
+}
