@@ -1,14 +1,6 @@
-title: <p align="center"> Venkatesh Beeraka </p>
-logo: /assets/img/venbee.jpeg
-
-description:
-  <p align="center">
-  <a href="https://www.linkedin.com/in/venkatesh-beeraka">LinkedIn</a> |
-  <a href="https://github.com/venbee">GitHub</a>
-  
-  <br>   
-  I am working as an Azure DevOps engineer in an MNC with 2+ ears Experience.
-  I have good knowledge in DevOps concepts such as CI/CD Pipelines, containerization, version control etc.
-  <br>
-  </p>
+# Legacy Jekyll configuration retained for compatibility.
+# The updated homepage is a static index.html; .nojekyll skips Jekyll on Pages.
+title: Venkatesh Beeraka
+description: Senior MLOps & DevOps Engineer at Deloitte, Hyderabad, India.
+logo: /portfolio/assets/img/profile.jpg
 theme: jekyll-theme-minimal
