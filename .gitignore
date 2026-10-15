@@ -1,5 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+/.agents
+
+# left over from the old Jekyll setup
 _site
 .sass-cache
-Gemfile.lock
-*.gem
 .jekyll-cache
